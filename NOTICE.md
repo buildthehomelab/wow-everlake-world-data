@@ -13,17 +13,19 @@ dates) of every source it was made from.
 - **EG Link** by Efficient Games: Data from Efficient Games (https://efficient.games), licensed under CC BY 4.0
   (https://creativecommons.org/licenses/by/4.0/). Changed: voted against the other sources and written as TrinityCore
   rows. Used for: quest progress and completion texts, quest records, objectives; loot drops and their chances
-  (slice 2: drops per loot window); trainer spells and vendor stock (slice 3: trainer and vendor windows).
+  (slice 2: drops per loot window); trainer spells and vendor stock (slice 3: trainer and vendor windows);
+  live sightings that confirm spawn points (slice 4).
 - **forever-db** from Polestar (https://github.com/fitzforge/polestar): GPL-3.0 for its tables. Used for: quest givers
   and enders, objectives (checked against); the client item list loot items are checked against; its drop rows
   (`item_source`, which Polestar builds from pfQuest/VMaNGOS and CMaNGOS Classic data) as Classic drop chances, each
-  such row marked `classic` in its note.
+  such row marked `classic` in its note; spawn points (slice 4: QuestieDB's points, CMaNGOS heights).
 - **QuestieDB** (https://github.com/Questie/QuestieDB), including player-recorded QuestieTrace corrections: GPL-3.0.
   Changed: voted against the other sources and written as TrinityCore rows. Used for: quest givers and enders; loot
   drops players recorded (QuestieTrace item traces).
 - **ForeverDB.net** (https://foreverdb.net): Data from ForeverDB.net, GPL-3.0. Used in the vote on quest givers and enders.
 - **TrinityCore `forever` branch** (https://github.com/advocaite/TrinityCore/tree/forever), GPL-2.0: the world
   the files are written against; its Forever beta sniffs vote too.
+- Heights of spawn points that have none (slice 4) are read from Everlake's own maps, extracted from the game client.
 - Wowhead's public tooltips and the item history of ericbtaylorjr/forever-db were used as references only; nothing is
   copied from them (slice 3 checks against the item history that a trainer's spells exist in the client).
 

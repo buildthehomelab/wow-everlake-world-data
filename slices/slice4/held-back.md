@@ -1,0 +1,2064 @@
+# Slice 4: held back
+
+Spawns that need something we don't have, and why. Nothing here was guessed.
+
+## no live Forever sighting within 40 yards of its points (Classic data only) (1626)
+
+- npc 100 Gruff Swiftbite (extra_spots, 5 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 270 Councilman Millstipe (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 305 Riding Horse (White Stallion) (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 306 Riding Horse (Palomino) (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 359 Riding Wolf (Winter) (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 375 Priestess Anetta (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 436 Blackrock Shadowcaster (extra_spots, 24 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 437 Blackrock Renegade (extra_spots, 24 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 450 Defias Renegade Mage (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 472 Fedfennel (extra_spots, 4 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 485 Blackrock Outrunner (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 503 Lord Malathrom (extra_spots, 7 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 507 Fenros (extra_spots, 8 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 521 Lupos (extra_spots, 16 point(s)): forever-db lists 12 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 545 Murloc Tidecaller (extra_spots, 24 point(s)): forever-db lists 10 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 548 Murloc Minor Tidecaller (extra_spots, 24 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 573 Foe Reaper 4000 (extra_spots, 24 point(s)): forever-db lists 21 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 578 Murloc Scout (extra_spots, 24 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 599 Marisa du'Paige (extra_spots, 3 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 616 Chatter (extra_spots, 14 point(s)): forever-db lists 7 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 682 Stranglethorn Tiger (extra_spots, 24 point(s)): forever-db lists 7 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 711 Ardo Dirtpaw (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 723 Mosh'Ogg Butcher (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 728 Bhag'thera (extra_spots, 16 point(s)): forever-db lists 10 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 729 Sin'Dall (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 730 Tethis (extra_spots, 3 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 738 Private Thorsen (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 768 Shadow Panther (extra_spots, 24 point(s)): forever-db lists 17 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 798 Solomon (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 799 Kevin (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 800 Kyle (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 801 Eric (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 802 Jay (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 822 Young Forest Bear (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 828 Watcher Petras (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 840 Watcher Backus (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 869 Protector Dorana (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 871 Saltscale Warrior (extra_spots, 21 point(s)): forever-db lists 9 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 874 Protector Korelor (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 877 Saltscale Forager (extra_spots, 24 point(s)): forever-db lists 19 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 879 Saltscale Hunter (extra_spots, 18 point(s)): forever-db lists 11 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 947 Rohh the Silent (extra_spots, 13 point(s)): forever-db lists 12 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 950 Swamp Talker (extra_spots, 25 point(s)): forever-db lists 10 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1001 Watcher Hutchins (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1037 Dragonmaw Battlemaster (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1088 Monstrous Crawler (extra_spots, 24 point(s)): forever-db lists 12 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1106 Lost One Cook (extra_spots, 6 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1109 Fleshripper (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1120 Frostmane Troll (extra_spots, 9 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1121 Frostmane Snowstrider (extra_spots, 17 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1124 Frostmane Shadowcaster (extra_spots, 10 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1130 Bjarn (extra_spots, 4 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1134 Young Wendigo (extra_spots, 10 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1137 Edan the Howler (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1165 Stonesplinter Geomancer (extra_spots, 10 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1179 Mo'grosh Enforcer (extra_spots, 19 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1181 Mo'grosh Shaman (extra_spots, 14 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1184 Cliff Lurker (extra_spots, 17 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1225 Ol' Sooty (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1259 Gobbler (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1260 Great Father Arctikus (extra_spots, 6 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1283 Mountaineer Kalmir (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1340 Mountaineer Kadrell (extra_spots, 2 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1364 Balgaras the Foul (extra_spots, 6 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1365 Goli Krumn (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1368 Justin (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1370 Brandon (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1371 Roman (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1507 Scarlet Initiate (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1552 Scale Belly (extra_spots, 4 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1557 Elder Mistvale Gorilla (extra_spots, 24 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1571 Shellei Brondir (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1586 Warlock 30 (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1593 Shaman 30 (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1594 Shaman 40 (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1599 Rogue 20 (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1617 Druid 30 (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1618 Hunter 1 (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1619 Druid 40 (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1620 Hunter 5 (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1621 Hunter 10 (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1622 Priest 1 (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1624 Priest 5 (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1627 Priest 15 (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1721 Nikova Raskol (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1722 Andr'e (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1726 Defias Magician (extra_spots, 6 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- object 1730 Tainted Keg Smoke (objects_not_spawned, 1 point(s))
+- npc 1731 Goblin Craftsman (extra_spots, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1732 Defias Squallshaper (extra_spots, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1733 Zggi (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1736 Deathguard Randolph (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1738 Deathguard Terrence (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1754 Lord Gregor Lescovar (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1763 Gilnid (extra_spots, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1805 Flesh Golem (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1831 Scarlet Hunter (extra_spots, 10 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1835 Scarlet Invoker (extra_spots, 8 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1839 Scarlet High Clerist (extra_spots, 3 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1892 Moonrage Watcher (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1893 Moonrage Sentry (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1896 Moonrage Elder (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1933 Sheep (extra_spots, 29 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1936 Farmer Solliden (extra_spots, 4 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1976 Stormwind City Patroller (extra_spots, 9 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 1981 Dark Iron Ambusher (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2008 Gnarlpine Warrior (extra_spots, 24 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2045 Gunther's Minion (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2110 Black Rat (extra_spots, 41 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2151 Moon Priestess Amara (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2182 Stormscale Sorceress (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2186 Carnivous the Breaker (extra_spots, 4 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2234 Young Reef Crawler (extra_spots, 24 point(s)): forever-db lists 7 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2258 Stone Fury (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2330 Karlee Chaddis (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2331 Paige Chaddis (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2334 Event Generator 001 (extra_spots, 3 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2347 Wild Gryphon (extra_spots, 3 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2450 Miner Hackett (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2476 Large Loch Crocolisk (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2529 Son of Arugal (extra_spots, 3 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2533 William (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2561 Highland Fleshstalker (extra_spots, 19 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2578 Young Mesa Buzzard (extra_spots, 18 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2579 Mesa Buzzard (extra_spots, 14 point(s)): forever-db lists 7 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2580 Elder Mesa Buzzard (extra_spots, 8 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2601 Foulbelly (extra_spots, 4 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2603 Kovork (extra_spots, 3 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2605 Zalas Witherbark (extra_spots, 10 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2606 Nimar the Slayer (extra_spots, 15 point(s)): forever-db lists 7 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2657 Trained Razorbeak (extra_spots, 24 point(s)): forever-db lists 16 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2659 Razorbeak Skylord (extra_spots, 24 point(s)): forever-db lists 20 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2707 Shadra (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2714 Forsaken Courier (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2721 Forsaken Bodyguard (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2749 Siege Golem (extra_spots, 14 point(s)): forever-db lists 13 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2751 War Golem (extra_spots, 3 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2752 Rumbler (extra_spots, 4 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2753 Barnabus (extra_spots, 3 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2754 Anathemus (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2764 Sleeby (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2765 Znort (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2831 Giant Buzzard (extra_spots, 17 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2843 Jutak (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2849 Qixdi Goodstitch (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2907 Dustbelcher Mystic (extra_spots, 4 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2908 Grawl (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2910 Prospector Ryedol (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2912 Chief Archaeologist Greywhisker (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2929 Savage Owlbeast (extra_spots, 24 point(s)): forever-db lists 10 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2931 Zaricotl (extra_spots, 3 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2957 Elder Plainstrider (extra_spots, 32 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2967 Galak Centaur (extra_spots, 5 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2968 Galak Outrunner (extra_spots, 5 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2972 Kodo Calf (extra_spots, 17 point(s)): forever-db lists 17 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2973 Kodo Bull (extra_spots, 17 point(s)): forever-db lists 17 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2974 Kodo Matriarch (extra_spots, 17 point(s)): forever-db lists 17 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 2988 Morin Cloudstalker (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3056 Ghost Howl (extra_spots, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3099 Dire Mottled Boar (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3114 Razormane Battleguard (extra_spots, 25 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3140 Lar Prowltusk (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3189 Kor'ghan (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3190 Rhinag (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3192 Lieutenant Benedict (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3236 Barrens Kodo (extra_spots, 3 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3237 Wooly Kodo (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3238 Stormhide (extra_spots, 24 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3239 Thunderhead (extra_spots, 26 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3240 Stormsnout (extra_spots, 26 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3253 Silithid Harvester (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3275 Kolkar Marauder (extra_spots, 12 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3290 Deek Fizzlebizz (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3291 Greishan Ironstove (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3367 Felika (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3505 Pat (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3507 Andi (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3508 Mikey (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3509 Geoff (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3510 Twain (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3511 Steven (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3512 Jimmy (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3513 Miss Danna (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3529 Moonrage Armorer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3531 Moonrage Tailor (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3533 Moonrage Leatherworker (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3535 Blackmoss the Fetid (extra_spots, 4 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3537 Zixil (extra_spots, 2 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3538 Overwatch Mark I (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3547 Hamlin Atkins (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3562 Alaindia (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3630 Deviate Coiler (extra_spots, 7 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3642 Deviate Horror (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3658 Lizzarik (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3659 Jorb (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3660 Athrikus Narassin (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3661 Balthule Shadowstrike (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3662 Delmanis the Hated (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3685 Harb Clawhoof (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3691 Raene Wolfrunner (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3694 Sentinel Selarin (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3695 Grimclaw (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3705 Gahroot (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3707 Ken'jai (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3722 Mystlash Flayer (extra_spots, 10 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3725 Dark Strand Cultist (extra_spots, 7 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3727 Dark Strand Enforcer (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3730 Dark Strand Excavator (extra_spots, 4 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3737 Saltspittle Puddlejumper (extra_spots, 7 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3743 Foulweald Warrior (extra_spots, 15 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3763 Felmusk Shadowstalker (extra_spots, 7 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3767 Bleakheart Trickster (extra_spots, 7 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3815 Blink Dragon (extra_spots, 3 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3825 Ghostpaw Alpha (extra_spots, 25 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3834 Crazed Ancient (extra_spots, 7 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3919 Withered Ancient (extra_spots, 11 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3937 Kira Songshine (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 3972 Agro 7 (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4015 Pridewing Patriarch (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4063 Feeboz (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4072 Prisoner of Jin'Zil (extra_spots, 2 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4073 XT:4 (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4074 XT:9 (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4075 Rat (extra_spots, 115 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4113 Gravelsnout Digger (extra_spots, 3 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4114 Gravelsnout Forager (extra_spots, 6 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4132 Silithid Ravager (extra_spots, 3 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4133 Silithid Hive Drone (extra_spots, 26 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4154 Salt Flats Scavenger (extra_spots, 6 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4158 Salt Flats Vulture (extra_spots, 6 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4250 Galak Packhound (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4260 Venture Co. Shredder (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4270 Riding Wolf (Red) (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4316 Kolkar Packhound (extra_spots, 13 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4323 Searing Hatchling (extra_spots, 25 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4324 Searing Whelp (extra_spots, 25 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4329 Firemane Scout (extra_spots, 26 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4331 Firemane Ash Tail (extra_spots, 27 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4345 Drywallow Daggermaw (extra_spots, 25 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4346 Noxious Flayer (extra_spots, 23 point(s)): forever-db lists 14 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4360 Mirefin Warrior (extra_spots, 29 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4377 Darkmist Lurker (extra_spots, 11 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4382 Withervine Creeper (extra_spots, 25 point(s)): forever-db lists 13 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4385 Withervine Rager (extra_spots, 10 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4386 Withervine Bark Ripper (extra_spots, 24 point(s)): forever-db lists 21 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4387 Withervine Mire Beast (extra_spots, 10 point(s)): forever-db lists 10 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4388 Young Murk Thresher (extra_spots, 24 point(s)): forever-db lists 24 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4389 Murk Thresher (extra_spots, 14 point(s)): forever-db lists 14 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4390 Elder Murk Thresher (extra_spots, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4392 Corrosive Swamp Ooze (extra_spots, 10 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4398 Mudrock Burrower (extra_spots, 24 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4399 Mudrock Borer (extra_spots, 24 point(s)): forever-db lists 9 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4400 Mudrock Snapjaw (extra_spots, 24 point(s)): forever-db lists 9 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4401 Muckshell Clacker (extra_spots, 20 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4402 Muckshell Snapclaw (extra_spots, 21 point(s)): forever-db lists 21 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4403 Muckshell Pincer (extra_spots, 24 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4404 Muckshell Scrabbler (extra_spots, 24 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4412 Darkfang Creeper (extra_spots, 26 point(s)): forever-db lists 10 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4414 Darkfang Venomspitter (extra_spots, 24 point(s)): forever-db lists 12 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4490 Grenka Bloodscreech (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4499 Rok'Alim the Pounder (extra_spots, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4504 Frostmaw (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4660 Maraudine Bonepaw (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4661 Gelkis Rumbler (npcs_not_spawned, 24 point(s)): forever-db lists 24 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4662 Magram Bonepaw (extra_spots, 3 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4688 Bonepaw Hyena (extra_spots, 5 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4689 Starving Bonepaw (extra_spots, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4690 Rabid Bonepaw (extra_spots, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4700 Aged Kodo (extra_spots, 18 point(s)): forever-db lists 10 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4701 Dying Kodo (extra_spots, 15 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4778 Riding Ram (Blue) (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4780 Riding Ram (Black) (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4841 Deadmire (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4844 Shadowforge Surveyor (extra_spots, 36 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4845 Shadowforge Ruffian (extra_spots, 24 point(s)): forever-db lists 21 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4846 Shadowforge Digger (extra_spots, 33 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4969 Old Town Thug (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 4979 Theramore Guard (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5057 Theramore Deserter (extra_spots, 29 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5185 Hammerhead Shark (extra_spots, 11 point(s)): forever-db lists 10 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5308 Rogue Vale Screecher (extra_spots, 20 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5317 Jademir Oracle (extra_spots, 20 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5319 Jademir Tree Warder (extra_spots, 20 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5346 Bloodroar the Stalker (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5354 Gnarl Leafbrother (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5356 Snarler (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5428 Roc (extra_spots, 16 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5429 Fire Roc (extra_spots, 24 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5430 Searing Roc (extra_spots, 18 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5432 Giant Surf Glider (npcs_not_spawned, 17 point(s)): forever-db lists 17 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5434 Coral Shark (extra_spots, 12 point(s)): forever-db lists 9 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5595 Ironforge Guard (extra_spots, 37 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5600 Khan Dez'hepah (extra_spots, 7 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5725 Deathguard Lundmark (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5731 Apothecary Vallia (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5732 Apothecary Katrina (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5739 Caged Squirrel (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5786 Snagglespear (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5808 Warlord Kolkanis (extra_spots, 3 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5824 Captain Flat Tusk (extra_spots, 3 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5830 Sister Rathtalon (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5831 Swiftmane (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5841 Rocklance (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5865 Dishu (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5881 Cursed Sycamore (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5893 Minor Manifestation of Fire (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5916 Sentinel Amarassan (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5932 Taskmaster Whipfang (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5933 Achellios the Banished (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5935 Ironeye the Invincible (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5937 Vile Sting (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5955 Tooga (extra_spots, 4 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5979 Wretched Lost One (extra_spots, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5981 Portal Seeker (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5982 Black Slayer (extra_spots, 24 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5983 Bonepicker (npcs_not_spawned, 5 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5991 Redstone Crystalhide (extra_spots, 11 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 5998 Nethergarde Foreman (extra_spots, 16 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 6072 Diathorus the Seeker (extra_spots, 5 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 6109 Azuregos (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 6139 Highperch Soarer (extra_spots, 3 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 6141 Pridewing Soarer (extra_spots, 3 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 6148 Cliff Walker (extra_spots, 24 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 6238 Big Will (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 6491 Spirit Healer (extra_spots, 84 point(s)): forever-db lists 7 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 6497 Astor Hadren (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 6516 Un'Goro Thunderer (extra_spots, 24 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 6553 Gorishi Reaver (extra_spots, 24 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 6646 Monnos the Elder (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 6652 Master Feardred (extra_spots, 3 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 6906 Baelog (extra_spots, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 6907 Eric "The Swift" (extra_spots, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 6908 Olaf (extra_spots, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 7015 Flagglemurk the Cruel (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 7016 Lady Vespira (extra_spots, 8 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 7017 Lord Sinslayer (extra_spots, 4 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 7044 Black Drake (extra_spots, 3 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 7045 Scalding Drake (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 7073 Arados the Damned (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 7074 Judge Thelgram (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 7104 Dessecus (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 7107 Jadefire Trickster (extra_spots, 19 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 7111 Jadefire Hellcaller (extra_spots, 15 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 7319 Lady Sathrah (extra_spots, 9 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 7322 Riding Tiger (Black) (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 7332 Withered Spearhide (extra_spots, 5 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- object 7510 Sprouted Frond (objects_not_spawned, 1 point(s))
+- npc 7584 Wandering Forest Walker (extra_spots, 5 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 7704 Riding Raptor (Crimson) (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 7706 Riding Raptor (Ivory) (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 7846 Teremus the Devourer (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8116 Ziggle Sparks (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8117 Wizbang Booms (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8118 Lillian Singh (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8121 Jaxxil Sparks (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8122 Kizzak Sparks (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8196 Occulus (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8197 Chronalis (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8201 Omgorn the Lost (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8205 Haarka the Ravenous (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8207 Greater Firebird (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8208 Murderous Blisterpaw (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8276 Soaring Razorbeak (extra_spots, 3 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8277 Rekk'tilac (extra_spots, 5 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8279 Faulty War Golem (extra_spots, 5 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8281 Scald (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8282 Highlord Mastrogonde (extra_spots, 4 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8283 Slave Master Blackheart (extra_spots, 5 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8296 Mojo the Twisted (extra_spots, 4 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8297 Magronos the Unyielding (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8298 Akubar the Seer (extra_spots, 8 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8299 Spiteflayer (extra_spots, 15 point(s)): forever-db lists 12 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8300 Ravage (extra_spots, 14 point(s)): forever-db lists 9 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8301 Clack the Reaver (extra_spots, 17 point(s)): forever-db lists 17 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8302 Deatheye (extra_spots, 13 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8303 Grunter (extra_spots, 18 point(s)): forever-db lists 11 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8392 Pilot Xiggs Fuselighter (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8446 Xiggs Fuselighter's Flyingmachine (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8503 Gibblewilt (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8504 Dark Iron Sentry (extra_spots, 6 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8532 Diseased Flayer (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8538 Unseen Servant (extra_spots, 5 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8539 Eyeless Watcher (extra_spots, 22 point(s)): forever-db lists 13 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8551 Dark Summoner (extra_spots, 8 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8555 Crypt Fiend (extra_spots, 19 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8667 Gusting Vortex (extra_spots, 5 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8976 Hematos (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8978 Thauris Balgarr (extra_spots, 9 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8979 Gruklash (extra_spots, 7 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 8981 Malfunctioning Reaver (extra_spots, 5 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 9026 Overmaster Pyron (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 9167 Frenzied Pterrordax (extra_spots, 26 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 9396 Ground Pounder (extra_spots, 5 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 9397 Living Storm (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 9460 Gadgetzan Bruiser (extra_spots, 24 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 9550 Furmund (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 9602 Hahk'Zor (extra_spots, 4 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 9604 Gorgon'och (extra_spots, 5 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 9621 Gargantuan Ooze (npcs_not_spawned, 5 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 9683 Lar'korwi Mate (extra_spots, 12 point(s)): forever-db lists 9 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 9916 Jarquia (extra_spots, 16 point(s)): forever-db lists 10 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10041 Gorishi Hive Queen (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10077 Deathmaw (extra_spots, 4 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10078 Terrorspark (extra_spots, 8 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10179 Riding MechaStrider (Black) (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10182 Rexxar (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10196 General Colbatann (extra_spots, 3 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10204 Misha (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10322 Riding Tiger (White) (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10356 Bayne (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10559 Lady Vespia (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10605 Scarlet Medic (extra_spots, 7 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10641 Branch Snapper (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10644 Mist Howler (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10647 Prince Raze (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10665 Junior Apothecary Holland (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10666 Gordo (extra_spots, 1 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10801 Jabbering Ghoul (extra_spots, 8 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10806 Ursius (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10817 Duggan Wildhammer (extra_spots, 7 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10821 Hed'mush the Rotting (extra_spots, 4 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10822 Warlord Thresh'jin (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10825 Gish the Unmoving (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10880 Warcaller Gorlach (extra_spots, 2 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10916 Winterfall Runner (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 10928 Succubus Minion (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11018 Arko'narin (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11099 Argent Guard (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11102 Argent Rider (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11150 Riding MechaStrider (Icy Blue) (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11281 Caer Darrow Horseman (extra_spots, 4 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11352 Gurubashi Berserker (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11383 High Priestess Hai'watna (extra_spots, 4 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11552 Timbermaw Mystic (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11553 Timbermaw Woodbender (extra_spots, 4 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11564 Gizelton Caravan Kodo (extra_spots, 4 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11623 Scourge Summoning Crystal (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11625 Cork Gizelton (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11626 Rigger Gizelton (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11684 Warsong Shredder (extra_spots, 6 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11699 Varian Wrynn (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11782 Ambershard Destroyer (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11830 Hakkari Priest (extra_spots, 10 point(s)): forever-db lists 10 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11880 Twilight Avenger (extra_spots, 24 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11887 Crypt Robber (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11920 Goggeroc (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11921 Besseleth (extra_spots, 10 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11997 Stormpike Herald (extra_spots, 3 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 11998 Frostwolf Herald (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12050 Stormpike Defender (extra_spots, 14 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12053 Frostwolf Guardian (extra_spots, 22 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12123 Reef Shark (extra_spots, 16 point(s)): forever-db lists 15 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12124 Great Shark (extra_spots, 22 point(s)): forever-db lists 21 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12125 Mammoth Shark (extra_spots, 13 point(s)): forever-db lists 12 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12148 Riding Kodo (Teal) (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12151 Riding Kodo (Green) (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12199 Shade of Ambermoon (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12297 Cured Gazelle (npcs_not_spawned, 24 point(s)): forever-db lists 24 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12299 Cured Deer (npcs_not_spawned, 24 point(s)): forever-db lists 24 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12320 Burning Blade Crusher (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12364 Icy Blue Mechanostrider Mod A (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12378 Damned Soul (extra_spots, 13 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12418 Gordok Hyena (extra_spots, 13 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12580 Reginald Windsor (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12759 Tideress (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12836 Wandering Protector (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12864 Warsong Outrider (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12865 Ambassador Malcin (extra_spots, 5 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 12996 Mounted Ironforge Mountaineer (extra_spots, 5 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13096 Coldmine Explorer (extra_spots, 26 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13140 Commander Dardosh (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13145 Lieutenant Grummus (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13146 Lieutenant Murp (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13152 Commander Malgor (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13155 Deathstalker Agent (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13179 Wing Commander Guse (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13180 Wing Commander Jeztor (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13181 Wing Commander Mulverick (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13279 Discordant Surge (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13296 Lieutenant Largent (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13299 Lieutenant Lonadin (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13324 Seasoned Guardsman (extra_spots, 9 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13327 Seasoned Sentinel (extra_spots, 9 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13329 Seasoned Legionnaire (extra_spots, 9 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13330 Seasoned Warrior (extra_spots, 9 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13333 Veteran Guardsman (extra_spots, 9 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13334 Veteran Legionnaire (extra_spots, 9 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13335 Veteran Mountaineer (extra_spots, 9 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13336 Veteran Sentinel (extra_spots, 9 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13337 Veteran Warrior (extra_spots, 9 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13418 Kaymard Copperpinch (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13420 Penney Copperpinch (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13424 Champion Guardsman (extra_spots, 10 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13427 Champion Sentinel (extra_spots, 10 point(s)): forever-db lists 9 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13429 Nardstrum Copperpinch (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13430 Jaycrue Copperpinch (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13431 Whulwert Copperpinch (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13432 Seersa Copperpinch (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13433 Wulmort Jinglepocket (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13434 Macey Jinglepocket (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13435 Khole Jinglepocket (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13436 Guchie Jinglepocket (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13437 Wing Commander Ichman (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13438 Wing Commander Slidore (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13439 Wing Commander Vipore (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13440 Frostwolf Wolf Rider (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13445 Great-father Winter (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13446 Field Marshal Teravaine (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13524 Stormpike Commando (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13525 Seasoned Commando (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13526 Veteran Commando (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13527 Champion Commando (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13546 Seasoned Coldmine Explorer (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13576 Stormpike Ram Rider (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13636 Strange Snowman (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13740 Magra (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13741 Gelk (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13742 Kolk (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13756 PvP Graveyard Credit Marker (npcs_not_spawned, 6 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13796 PvP Mine Credit Marker (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 13936 Ravenholdt (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14224 7:XT (extra_spots, 7 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14231 Drogoth the Roamer (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14232 Dart (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14233 Ripscale (extra_spots, 5 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14236 Lord Angler (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14237 Oozeworm (extra_spots, 3 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14267 Emogg the Crusher (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14268 Lord Condar (extra_spots, 4 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14269 Seeker Aqualon (extra_spots, 3 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14270 Squiddic (extra_spots, 24 point(s)): forever-db lists 19 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14271 Ribchaser (extra_spots, 15 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14272 Snarlflare (extra_spots, 12 point(s)): forever-db lists 7 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14277 Lady Zephris (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14282 Frostwolf Bloodhound (extra_spots, 8 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14339 Death Howl (extra_spots, 4 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14340 Alshirr Banebreath (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14344 Mongress (extra_spots, 4 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14367 Thief Catcher Thunderbrew (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14377 Scout Tharr (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14378 Huntress Skymane (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14379 Huntress Ravenoak (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14380 Huntress Leafrunner (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14388 Rogue Black Drake (extra_spots, 4 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14390 Expeditionary Mountaineer (extra_spots, 3 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14424 Mirelow (extra_spots, 21 point(s)): forever-db lists 21 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14425 Gnawbone (extra_spots, 6 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14426 Harb Foulmountain (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14429 Grimmaw (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14438 Officer Pomeroy (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14448 Molt Thorn (extra_spots, 19 point(s)): forever-db lists 18 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14454 The Windreaver (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14457 Princess Tempestria (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14460 Blazing Invader (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14461 Baron Charr (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14462 Thundering Invader (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14464 Avalanchion (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14473 Lapress (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14474 Zora (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14478 Huricanian (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14479 Twilight Lord Everun (extra_spots, 3 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14480 Alowicious Czervik (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14481 Emmithue Smails (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14487 Gluggle (extra_spots, 4 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14490 Rippa (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14492 Verifonix (extra_spots, 6 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14524 Vartrus the Ancient (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14525 Stoma the Ancient (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14526 Hastat the Ancient (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14527 Simone the Inconspicuous (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14528 Precious (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14603 Zapped Shore Strider (npcs_not_spawned, 9 point(s)): forever-db lists 9 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14604 Zapped Land Walker (npcs_not_spawned, 8 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14638 Zapped Wave Strider (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14639 Zapped Deep Strider (npcs_not_spawned, 7 point(s)): forever-db lists 7 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14640 Zapped Cliff Giant (npcs_not_spawned, 10 point(s)): forever-db lists 10 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14661 Stinglasher (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14827 Burth (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14828 Gelvas Grimegate (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14829 Yebb Neblegear (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14832 Kerri Hicks (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14833 Chronos (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14841 Rinling (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14842 Melnan Darkstone (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14843 Kruban Darkblade (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14844 Sylannia (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14845 Stamp Thunderhorn (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14846 Lhara (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14847 Professor Thaddeus Paleo (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14849 Darkmoon Faire Carnie (npcs_not_spawned, 17 point(s)): forever-db lists 17 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14860 Flik (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14864 Khaz Modan Ram (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14865 Felinni (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14866 Flik's Frog (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14867 Jubjub (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14868 Hornsley (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14869 Pygmy Cockatrice (npcs_not_spawned, 6 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14871 Morja (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14873 Okla (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 14991 League of Arathor Emissary (npcs_not_spawned, 34 point(s)): forever-db lists 34 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15011 Wagner Hammerstrike (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15012 Javnir Nashak (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15077 Riggle Bassbait (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15078 Jang (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15079 Fishbot 5000 (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15088 Booty Bay Elite (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15102 Silverwing Emissary (npcs_not_spawned, 35 point(s)): forever-db lists 35 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15103 Stormpike Emissary (npcs_not_spawned, 33 point(s)): forever-db lists 33 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15106 Frostwolf Emissary (extra_spots, 25 point(s)): forever-db lists 17 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15113 Honored Hero (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15115 Honored Ancestor (npcs_not_spawned, 8 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15119 Barrus (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15185 Brood of Nozdormu (extra_spots, 5 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15195 Wickerman Guardian (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15197 Darkcaller Yanka (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15199 Sergeant Hartman (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15218 Faire Cannon Trigger (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15303 Maxima Blastenheimer (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15308 Twilight Prophet (extra_spots, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15309 Spoops (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15310 Jesper (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15341 General Rajaxx (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15350 Horde Warbringer (extra_spots, 9 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15353 Katrina Shimmerstar (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15354 Rachelle Gothena (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15383 Sergeant Stonebrow (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15384 World Trigger (extra_spots, 14 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15421 Qiraji Drone (npcs_not_spawned, 16 point(s)): forever-db lists 16 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15431 Corporal Carnes (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15432 Dame Twinbraid (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15434 Private Draxlegauge (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15437 Master Nightsong (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15445 Sergeant Major Germaine (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15446 Bonnie Stoneflayer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15448 Private Porter (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15449 Hive'Zora Abomination (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15450 Marta Finespindle (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15451 Sentinel Silversky (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15452 Nurse Stonefield (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15453 Keeper Moonshade (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15455 Slicky Gastronome (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15456 Sarah Sadwhistle (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15457 Huntress Swiftriver (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15458 Commander Stronghammer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15459 Miner Cromwell (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15460 Grunt Maug (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15469 Senior Sergeant T'kelah (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15477 Herbalist Proudfeather (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15481 Spirit of Azuregos (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15508 Batrider Pele'keiki (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15512 Apothecary Jezel (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15515 Skinner Jamani (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15522 Sergeant Umala (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15525 Doctor Serratus (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15528 Healer Longrunner (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15529 Lady Callow (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15532 Stoneguard Clayhoof (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15533 Bloodguard Rawtar (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15534 Fisherman Lin'do (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15535 Chief Sharpclaw (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15539 General Zog (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15557 Elder Rumblerock (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15558 Elder Silvervein (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15559 Elder Highpeak (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15561 Elder Obsidian (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15562 Elder Hammershout (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15563 Elder Bellowrage (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15564 Elder Darkcore (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15565 Elder Stormbrow (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15566 Elder Snowcrown (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15567 Elder Ironband (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15568 Elder Graveborn (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15569 Elder Goldwell (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15570 Elder Primestone (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15571 Maws (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15572 Elder Runetotem (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15573 Elder Ragetotem (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15574 Elder Stonespire (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15575 Elder Bloodhoof (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15576 Elder Winterhoof (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15577 Elder Skychaser (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15579 Elder Darkhorn (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15580 Elder Proudhorn (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15581 Elder Grimtotem (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15582 Elder Windtotem (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15583 Elder Thunderhorn (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15584 Elder Skyseer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15585 Elder Dawnstrider (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15586 Elder Dreamseer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15587 Elder Mistwalker (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15588 Elder High Mountain (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15592 Elder Windrun (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15594 Elder Moonstrike (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15595 Elder Bladeleaf (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15596 Elder Starglade (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15597 Elder Moonwarden (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15598 Elder Bladeswift (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15599 Elder Bladesing (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15600 Elder Skygleam (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15601 Elder Starweave (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15602 Elder Meadowrun (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15603 Elder Nightwind (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15604 Elder Morningdew (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15605 Elder Riversong (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15606 Elder Brightspear (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15634 Priestess of the Moon (npcs_not_spawned, 6 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15663 War Effort Volunteer (npcs_not_spawned, 5 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15685 Southsea Kidnapper (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15693 Jonathan the Revelator (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15696 War Effort Recruit (npcs_not_spawned, 5 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15700 Warlord Gorchuk (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15701 Field Marshal Snowfall (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15702 Senior Sergeant Taiga (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15703 Senior Sergeant Grimsford (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15704 Senior Sergeant Kai'jin (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15707 Master Sergeant Fizzlebolt (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15708 Master Sergeant Maclure (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15709 Master Sergeant Moonshadow (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15723 Booty Bay Reveler (npcs_not_spawned, 8 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15730 Pat's Snowcloud Guy (npcs_not_spawned, 7 point(s)): forever-db lists 7 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15731 Darnassus Commendation Officer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15732 Wonderform Operator (npcs_not_spawned, 7 point(s)): forever-db lists 7 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15733 Gnomeregan Commendation Officer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15734 Ironforge Commendation Officer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15735 Stormwind Commendation Officer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15736 Orgrimmar Commendation Officer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15737 Darkspear Commendation Officer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15738 Undercity Commendation Officer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15739 Thunder Bluff Commendation Officer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15740 Colossus of Zora (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15741 Colossus of Regal (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15742 Colossus of Ashi (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15743 Colossal Anubisath Warbringer (npcs_not_spawned, 24 point(s)): forever-db lists 24 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15744 Imperial Qiraji Destroyer (npcs_not_spawned, 9 point(s)): forever-db lists 9 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15745 Greatfather Winter's Helper (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15747 Qiraji Captain (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15748 Lesser Anubisath Warbringer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15749 Lesser Silithid Flayer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15750 Qiraji Major (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15751 Anubisath Warbringer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15752 Silithid Flayer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15753 Qiraji Brigadier General (npcs_not_spawned, 6 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15754 Greater Anubisath Warbringer (npcs_not_spawned, 6 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15756 Greater Silithid Flayer (npcs_not_spawned, 6 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15757 Qiraji Lieutenant General (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15758 Supreme Anubisath Warbringer (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15759 Supreme Silithid Flayer (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15769 Resonating Crystal (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15770 Greater Resonating Crystal (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15771 Major Resonating Crystal (npcs_not_spawned, 9 point(s)): forever-db lists 9 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15797 Colossus Researcher Sophia (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15798 Colossus Researcher Nestor (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15799 Colossus Researcher Eazel (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15804 Lesser Resonating Crystal (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15805 Minor Resonating Crystal (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15806 Qiraji Lieutenant (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15807 Minor Anubisath Warbringer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15808 Minor Silithid Flayer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15810 Eroded Anubisath Warbringer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15811 Faltering Silithid Flayer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15812 Qiraji Officer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15813 Qiraji Officer Zod (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15814 Qiraji Lieutenant Jo-rel (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15815 Qiraji Captain Ka'ark (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15816 Qiraji Major He'al-ie (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15817 Qiraji Brigadier General Pax-lish (npcs_not_spawned, 6 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15818 Lieutenant General Nokhor (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15853 Orgrimmar Elite Infantryman (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15854 Orgrimmar Elite Cavalryman (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15855 Tauren Rifleman (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15857 Stormwind Cavalryman (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15858 Stormwind Infantryman (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15859 Stormwind Archmage (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15860 Kaldorei Marksman (npcs_not_spawned, 8 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15861 Ironforge Infantryman (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15862 Ironforge Cavalryman (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15864 Valadar Starsong (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15866 High Commander Lynore Windstryke (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15868 Highlord Leoric Von Zeldig (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15869 Malagav the Tactician (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15870 Duke August Foehammer (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15871 Elder Bronzebeard (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15878 Warcaller Finster (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15891 Lunar Festival Herald (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15892 Lunar Festival Emissary (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15893 Lunar Firework Credit Marker (npcs_not_spawned, 6 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15894 Lunar Cluster Credit Marker (npcs_not_spawned, 6 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15897 Large Spotlight (npcs_not_spawned, 14 point(s)): forever-db lists 14 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15898 Lunar Festival Vendor (npcs_not_spawned, 9 point(s)): forever-db lists 9 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15909 Fariel Starsong (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 15917 Lunar Festival Reveler (npcs_not_spawned, 15 point(s)): forever-db lists 15 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16001 Aldris Fourclouds (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16002 Colara Dean (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16003 Deathguard Tor (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16004 Elenia Haydon (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16005 Lieutenant Jocryn Heldric (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16007 Orok Deathbane (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16008 Temma of the Wells (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16009 Tormek Stoneriver (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16030 Maggot (extra_spots, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16075 Kwee Q. Peddlefeet (npcs_not_spawned, 11 point(s)): forever-db lists 11 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16105 Aristan Mottar (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16106 Evert Sorisam (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16107 Apothecary Staffron Lerent (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16108 Fenstad Argyle (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16109 Mara Rennick (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16241 Argent Recruiter (npcs_not_spawned, 6 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16254 Field Marshal Chambers (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16255 Argent Scout (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16281 Keeper of the Rolls (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16285 Argent Emissary (npcs_not_spawned, 6 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16359 Argent Messenger (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16361 Commander Thomas Helleran (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16384 Argent Dawn Initiate (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16386 Necropolis Relay (npcs_not_spawned, 44 point(s)): forever-db lists 44 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16395 Argent Dawn Paladin (npcs_not_spawned, 5 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16398 Necropolis Proxy (npcs_not_spawned, 43 point(s)): forever-db lists 43 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16422 Skeletal Soldier (npcs_not_spawned, 34 point(s)): forever-db lists 34 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16423 Spectral Apparition (npcs_not_spawned, 37 point(s)): forever-db lists 37 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16433 Argent Dawn Crusader (npcs_not_spawned, 5 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16434 Argent Dawn Champion (npcs_not_spawned, 5 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16435 Argent Dawn Cleric (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16436 Argent Dawn Priest (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16437 Spectral Spirit (npcs_not_spawned, 60 point(s)): forever-db lists 60 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16438 Skeletal Trooper (npcs_not_spawned, 53 point(s)): forever-db lists 53 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16478 Lieutenant Orrin (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16484 Lieutenant Nevell (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16490 Lieutenant Lisande (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16493 Lieutenant Dagel (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16494 Lieutenant Rukag (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16495 Lieutenant Beitha (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16786 Argent Quartermaster (npcs_not_spawned, 10 point(s)): forever-db lists 10 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16787 Argent Outfitter (npcs_not_spawned, 8 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16788 Festival Flamekeeper (npcs_not_spawned, 8 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 16995 Mouth of Kel'Thuzad (npcs_not_spawned, 8 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 17038 Stormwind Firebreather (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 17041 Orgrimmar Fireeater (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 17048 Ironforge Firebreather (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 17049 Darnassus Firebreather (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 17050 Thunder Bluff Fireeater (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 17051 Undercity Fireeater (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 17249 Landro Longshot (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 17795 Horde Tower Buffer (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 18199 Silithus Dust Turnin Quest Doodad Horde (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 19017 Borto (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 19021 Nancila (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 19542 Field Commander Mahfuun (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 20735 Archmage Lan'dalock (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 21010 AQ War Cenarion Hold Wave Trigger (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- object 21145 Feast Boar (objects_not_spawned, 3 point(s))
+- object 21146 Feast Fish (objects_not_spawned, 4 point(s))
+- object 21147 Feast Fruit (objects_not_spawned, 3 point(s))
+- object 21148 Feast Goblet (objects_not_spawned, 8 point(s))
+- npc 22251 Dragonmaw Archer (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22530 Champion Coldmine Guard (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22531 Champion Coldmine Invader (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22533 Champion Guardsman (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22534 Champion Irondeep Explorer (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22719 Veteran Guardsman (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22727 Alterac Ram (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22732 Coldmine Miner (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22733 Coldmine Peon (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22734 Coldmine Surveyor (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22735 Corporal Noreg Stormpike (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22736 Corporal Teeka Bloodsnarl (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22737 Frostwolf (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22738 Frostwolf Bloodhound (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22739 Frostwolf Bowman (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22741 Irondeep Explorer (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22743 Irondeep Guard (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22744 Irondeep Miner (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22745 Irondeep Peon (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22746 Irondeep Raider (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22747 Irondeep Shaman (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22748 Irondeep Skullthumper (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22749 Irondeep Surveyor (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22750 Irondeep Trogg (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22751 Seasoned Coldmine Explorer (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22752 Seasoned Coldmine Guard (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22753 Seasoned Coldmine Invader (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22754 Seasoned Coldmine Surveyor (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 22755 Seasoned Irondeep Explorer (1) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 24776 Red-Breath Cannon (PH) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 24777 Sunblade Sentinel (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 28686 Caliel Brightwillow (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 28687 Amisi Azuregaze (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 28694 Alard Schmied (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 28774 Andrew Matthews (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 28990 Anthony Durain (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 29049 Arille Azuregaze (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 29537 Darahir (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 29568 "Techs" Rickard Rustbolt (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 29660 Sai (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 30104 Adamman the Trader (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 30726 Archivist Betha (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 30885 Blazik Fireclaw (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 31439 Archmage Timear (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 32330 Minzi the Minx (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 32333 "Dapper" Danik Blackshaft (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 32334 Nixi Fireclaw (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 32337 Christi Stockton (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 32411 Afsaneh Asrar (npcs_not_spawned, 2 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 32413 Isirami Fairwind (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 32451 Dalaran Citizen (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 32453 Dalaran Citizen (extra_spots, 4 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 32454 Dalaran Citizen (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 32604 Seiren (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 32748 Bimble Sparkfingers (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 37098 Val'kyr Herald (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 41861 Fayran Elthas (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 43408 Aili Greenwillow (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 43411 Lenedil Moonwing (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 49808 Grenhild Darktalon (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61055 Suna Silentstrike (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61058 Totem of Harmony (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61061 Tiger Temple General Purpose Bunny (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61062 Totem of Harmony (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61063 Snowball (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61068 Crane Style Monk (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61077 Wayward Lamb (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61078 Snow Boulder Bounce Bunny (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61079 Player Clone (TEMP) (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61080 Rabbit (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61081 Squirrel (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61082 Gao-Ran Blackguard (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61083 Gao-Ran Blackguard (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61084 Snow Boulder Generator (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61085 Beaver Yearling (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61086 Porcupette (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61088 Eternal Strider (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61089 Otter Pup (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61095 Trainer Zi (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61097 Lucky Bluestring (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61934 Healing Saurok (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61935 Hacky Saurok (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 61936 Common Lizard (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 68865 Wild Treant (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 102985 Kill Credit: Hrydshal - Sour (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 103574 Gold Pile (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 106318 Lady Calindris (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 106319 Ember Totem (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 106638 Leafbeard the Storied (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 106641 Felflame Anchor (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 111095 Vile Creeper (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112012 Sir Jonathan Trueheart (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112043 Felsmith Haldoor (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112045 Rothbarg the Night Flyer (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112048 Zarathiss the Plunderer (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112050 Graddoc (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112051 Peggy Burridge (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112052 Vilepetal Rooter (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112053 Boss Cosmetic (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112054 Sanctus the Unforgiving (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112055 Margaux (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112058 Palu (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112059 Sasunne Dameuse (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112060 Matthew Veiss (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112061 Ima Vendah (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112062 Arcanist Regalia Set (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112065 Web (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112066 Mindforged Sabercat (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112070 Shieldbreaker Murdonn (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112071 Fangs (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112072 Ulduar's Oath Credit (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112079 Crimson Pilgrim (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 112888 Band of Zealots (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- object 113768 Brightly Colored Egg (objects_not_spawned, 128 point(s))
+- object 113769 Brightly Colored Egg (objects_not_spawned, 127 point(s))
+- object 113770 Brightly Colored Egg (objects_not_spawned, 126 point(s))
+- object 113771 Brightly Colored Egg (objects_not_spawned, 126 point(s))
+- object 113772 Brightly Colored Egg (objects_not_spawned, 25 point(s))
+- npc 122088 Slitherblade Skulker (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- object 137167 Nether Rift (objects_not_spawned, 1 point(s))
+- object 141980 Spectral Lockbox (objects_not_spawned, 1 point(s))
+- object 141981 Spectral Lockbox Particles (objects_not_spawned, 1 point(s))
+- npc 143981 Darnassus Sentinel (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 143984 Chronicler T'omkus (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 143985 Absorb-o-Tron (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 143990 Stalker (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 144125 Shadowforge Citizen (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 147557 Lil' Stompy (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 148736 7th Legion Marine (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 148739 Magister Crystalynn (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 148761 Storm Fury (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 148771 Princess Talanji (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 148772 Player Proxy (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 148781 Darkshore Sentinel (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 148782 Emisa Flametwist (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 148790 Frightened Kodo (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 148796 Storm's Wake Tidesage (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 148801 Blow up Ships Target Bunny B (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 148811 (Bunny) Barrier 1 (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 148812 Storm's Feather (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 148813 Thomas Vandergrief (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 148814 Townsperson (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 148817 Captain Dawnsail (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 148818 Patch (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- object 148842 Roland's Mana Gem (objects_not_spawned, 1 point(s))
+- npc 149049 Master Mathias Shaw (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 152608 Quest Bunny - 1 Rare Metal (Spare Parts)-Tracked (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 152618 Bombardment Stalker (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 153472 Void-Touched Captive (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 153473 Abducted Motospider (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 153578 Haalie Millionia (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 161752 Dreamshrine (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 164662 Angier (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 164690 Anima Creeper (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 164765 Bonefused Rampager (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 164766 Kill Credit (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 165189 Generic Hunter Pet (npcs_not_spawned, 651 point(s)): forever-db lists 651 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170002 Consuming Rancor (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170037 Hopeful Aspirant (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170038 Marylis (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170039 Steward Nestling (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170040 Popo (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170041 Nandor (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170042 Stoneborn Recruit (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170043 Kashaa (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170044 Venthyr Apprentice (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170045 Dripping Dredger (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170046 Drippy (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170055 Coldheart Interstitia (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170056 Mort'regar (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170057 The Upper Reaches (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170061 Pelagos (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170062 Animite Invader (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170063 Pelagos Shadeweaver (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170064 Pelagos' Doubt (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 170065 Soulfilled Construct (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 171938 Cudgelface's Carriage (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- object 174793 Gorishi Hive Hatchery (objects_not_spawned, 1 point(s))
+- object 174794 Mirror Lake Waterwall (objects_not_spawned, 1 point(s))
+- object 174795 Auberdine Moonwell (objects_not_spawned, 1 point(s))
+- object 174796 Sandsorrow Watch Water Hole (objects_not_spawned, 1 point(s))
+- npc 174848 Tariesh (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 175265 Grimsoul (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 175566 Needler Swarm (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 175708 Mawsworn Valuator (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 175725 Eye of the Jailer (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 175726 Skyja (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 175729 Remnant of Ner'zhul (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 175731 Guardian of the First Ones (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 175734 Stygic Ember (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 175736 Delivery Portal (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 175786 Glurp (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- object 176146 Gate of Ahn'Qiraj (objects_not_spawned, 1 point(s))
+- object 176147 Ahn'Qiraj Gate Roots (objects_not_spawned, 1 point(s))
+- object 176148 Ahn'Qiraj Gate Runes (objects_not_spawned, 1 point(s))
+- npc 176313 Scavenged Soul (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 177207 Sinfall Striker (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 177209 Tal-Galan (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- object 177223 Ahn'Qiraj Gong (objects_not_spawned, 1 point(s))
+- object 177414 Gem of Elune (objects_not_spawned, 1 point(s))
+- object 177415 Light of Elune (objects_not_spawned, 2 point(s))
+- object 177416 Aura of Elune (SMALL) (objects_not_spawned, 1 point(s))
+- npc 177785 Aranakk Assassin (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 177794 Flytrap (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 177844 Kill Credit: Artifacts (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 177904 Lichsworn Guardian (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 177929 Mawsworn Myrmidon (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 178087 Bunny - Helya for Conversation in Skyhold (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 178090 Keeneyed Guardian (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 178104 Andorhal Citizen (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 178105 Nadjia the Mistblade (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 178106 Dreadlord Infiltrator (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 178144 Coldheart Binder (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 178184 Stormwind Guard (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 178185 Stormwind Guard (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 178186 Captain Taylor (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- object 178425 Christmas Tree (Large) (objects_not_spawned, 2 point(s))
+- object 178426 XMasTreeLargeHorde01 (objects_not_spawned, 7 point(s))
+- object 178428 XMasGift01 (objects_not_spawned, 40 point(s))
+- object 178429 XMasGift02 (objects_not_spawned, 37 point(s))
+- object 178430 XMasGift03 (objects_not_spawned, 40 point(s))
+- object 178431 XMasGift04 (objects_not_spawned, 40 point(s))
+- object 178432 XMasGift05 (objects_not_spawned, 40 point(s))
+- object 178433 XMasGift06 (objects_not_spawned, 40 point(s))
+- object 178434 XMasStocking01 (objects_not_spawned, 25 point(s))
+- object 178435 XMasStocking02 (objects_not_spawned, 23 point(s))
+- object 178436 XMasStocking03 (objects_not_spawned, 13 point(s))
+- object 178437 Wreath (objects_not_spawned, 25 point(s))
+- object 178438 Lights (objects_not_spawned, 116 point(s))
+- object 178551 Lights, Broken (objects_not_spawned, 64 point(s))
+- object 178554 Mistletoe (objects_not_spawned, 12 point(s))
+- object 178556 Wreath scale 1.20 (objects_not_spawned, 5 point(s))
+- object 178557 Christmas Tree (Medium) (objects_not_spawned, 3 point(s))
+- object 178558 Christmas Tree (Large Snowy) (objects_not_spawned, 1 point(s))
+- object 178609 Holiday Snow (objects_not_spawned, 19 point(s))
+- object 178645 Lights x3 (objects_not_spawned, 75 point(s))
+- object 178647 Christmas Tree (objects_not_spawned, 2 point(s))
+- object 178649 Wreath scale 0.75 (objects_not_spawned, 4 point(s))
+- object 178666 Gypsy Wagon (objects_not_spawned, 3 point(s))
+- object 178667 Christmas Tree (Medium) (objects_not_spawned, 9 point(s))
+- object 178668 Christmas Tree (Medium) (objects_not_spawned, 1 point(s))
+- object 178669 Lights x3 (objects_not_spawned, 1 point(s))
+- object 178671 Greatfather Winter's Chair (objects_not_spawned, 1 point(s))
+- object 178745 Lights x3, Broken (objects_not_spawned, 23 point(s))
+- object 178746 Smokywood Pastures (objects_not_spawned, 13 point(s))
+- object 178764 Rope Line (objects_not_spawned, 16 point(s))
+- object 178765 Rope Line Pole (objects_not_spawned, 2 point(s))
+- object 178805 Christmas Tree (Medium) (objects_not_spawned, 1 point(s))
+- npc 178845 Xy'lonu (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 178864 Credit - Reached Platform (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- object 178924 Lights (objects_not_spawned, 1 point(s))
+- object 179004 Drek'Thar's Scrolls (objects_not_spawned, 5 point(s))
+- npc 179488 Cromas the Mystic (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- object 179664 Earth Elemental Rift (objects_not_spawned, 5 point(s))
+- object 179665 Water Elemental Rift (objects_not_spawned, 5 point(s))
+- object 179666 Fire Elemental Rift (objects_not_spawned, 6 point(s))
+- object 179667 Air Elemental Rift (objects_not_spawned, 6 point(s))
+- object 179964 DARKMOON FAIRE - Coming Soon! (objects_not_spawned, 4 point(s))
+- object 179965 Darkmoon Faire Banner (objects_not_spawned, 37 point(s))
+- object 179967 Barrel 01 (objects_not_spawned, 11 point(s))
+- object 179968 Haystack 01 (objects_not_spawned, 9 point(s))
+- object 179969 Replace Crate 01 (objects_not_spawned, 7 point(s))
+- object 179970 Replace Crate 02 (objects_not_spawned, 6 point(s))
+- object 179972 Stormwind Crate 01 (objects_not_spawned, 7 point(s))
+- object 179973 Inn Barrel (objects_not_spawned, 6 point(s))
+- object 179975 Water Trough Small (objects_not_spawned, 6 point(s))
+- object 179976 Beer Keg 01 (objects_not_spawned, 2 point(s))
+- object 179977 General Lantern 01 (objects_not_spawned, 6 point(s))
+- object 180005 Darkmoon Faire Wagon Loaded (objects_not_spawned, 8 point(s))
+- object 180006 Outhouse (objects_not_spawned, 4 point(s))
+- object 180007 Excavation Stake (objects_not_spawned, 9 point(s))
+- object 180026 Darkmoon Faire Signpost (objects_not_spawned, 4 point(s))
+- object 180029 DARKMOON FAIRE (objects_not_spawned, 2 point(s))
+- object 180030 Fortune Teller's Tent (objects_not_spawned, 2 point(s))
+- object 180031 Food Tent (objects_not_spawned, 2 point(s))
+- object 180032 Souvenir Tent (objects_not_spawned, 2 point(s))
+- object 180034 Ticket Master Tent (objects_not_spawned, 2 point(s))
+- object 180035 Fence (objects_not_spawned, 40 point(s))
+- object 180036 Darkmoon Faire Wagon Unloaded (objects_not_spawned, 10 point(s))
+- object 180037 Haybail 01 (objects_not_spawned, 4 point(s))
+- object 180038 Haybail 02 (objects_not_spawned, 5 point(s))
+- object 180039 Animal Trainer Tent (objects_not_spawned, 2 point(s))
+- object 180040 G_Cage 02 (objects_not_spawned, 5 point(s))
+- object 180041 G_Cage 03 (objects_not_spawned, 2 point(s))
+- object 180042 Target Practice Tent (objects_not_spawned, 2 point(s))
+- object 180043 Free Standing Torch 01 (objects_not_spawned, 29 point(s))
+- object 180044 Shoutbox (objects_not_spawned, 2 point(s))
+- object 180045 Stormwind Gypsy Wagon (objects_not_spawned, 7 point(s))
+- object 180046 Chair (objects_not_spawned, 5 point(s))
+- object 180047 Westfall Chair (objects_not_spawned, 5 point(s))
+- object 180048 Mug Foam 01 (objects_not_spawned, 3 point(s))
+- object 180049 Mug 01 (objects_not_spawned, 3 point(s))
+- object 180050 Bread French Half (objects_not_spawned, 2 point(s))
+- object 180051 Bread French 01 (objects_not_spawned, 2 point(s))
+- object 180052 Deadmine Cargo Boxes (objects_not_spawned, 2 point(s))
+- object 180053 Brazier (objects_not_spawned, 2 point(s))
+- object 180248 School of Tastyfish (objects_not_spawned, 24 point(s))
+- object 180324 Dwarven Table Ornate 01 (objects_not_spawned, 2 point(s))
+- object 180325 Chair (objects_not_spawned, 2 point(s))
+- object 180326 OrcBench01 (objects_not_spawned, 3 point(s))
+- object 180328 General Candelabra 01 (objects_not_spawned, 2 point(s))
+- object 180329 Jar 01 (objects_not_spawned, 1 point(s))
+- object 180330 Jar 02 (objects_not_spawned, 1 point(s))
+- object 180331 Jar 03 (objects_not_spawned, 2 point(s))
+- object 180332 Jug 01 (objects_not_spawned, 2 point(s))
+- object 180333 Jug 02 (objects_not_spawned, 1 point(s))
+- object 180334 Stormwind Rug 02 (objects_not_spawned, 2 point(s))
+- object 180337 Orc Table Cooker Fire 01 (objects_not_spawned, 1 point(s))
+- object 180338 Candle 01 (objects_not_spawned, 3 point(s))
+- object 180339 Candle 02 (objects_not_spawned, 3 point(s))
+- object 180340 Candle 03 (objects_not_spawned, 3 point(s))
+- object 180341 Jar Orc 01 (objects_not_spawned, 2 point(s))
+- object 180342 Jar Orc 02 (objects_not_spawned, 1 point(s))
+- object 180345 Jar Orc 03 (objects_not_spawned, 2 point(s))
+- object 180347 Jar Orc 04 (objects_not_spawned, 3 point(s))
+- object 180348 Jar Orc 05 (objects_not_spawned, 3 point(s))
+- object 180349 Jar Orc 06 (objects_not_spawned, 2 point(s))
+- object 180350 Orc Jug 01 (objects_not_spawned, 2 point(s))
+- object 180351 Orc Jug 02 (objects_not_spawned, 1 point(s))
+- object 180352 General Torch 01 (objects_not_spawned, 3 point(s))
+- object 180353 Freestanding Torch 01 (objects_not_spawned, 2 point(s))
+- object 180370 Harvest Fruit (objects_not_spawned, 7 point(s))
+- object 180371 Harvest Fish (objects_not_spawned, 7 point(s))
+- object 180372 Harvest Boar (objects_not_spawned, 7 point(s))
+- object 180373 Harvest Nectar (objects_not_spawned, 2 point(s))
+- object 180374 Harvest Nectar (objects_not_spawned, 4 point(s))
+- object 180394 PVP HOLIDAY HORDE CTF (objects_not_spawned, 19 point(s))
+- object 180395 PVP HOLIDAY HORDE AV (objects_not_spawned, 18 point(s))
+- object 180396 PVP HOLIDAY HORDE ARATHI (objects_not_spawned, 20 point(s))
+- object 180398 PVP HOLIDAY ALLIANCE ARATHI (objects_not_spawned, 17 point(s))
+- object 180399 PVP HOLIDAY ALLIANCE AV (objects_not_spawned, 18 point(s))
+- object 180400 PVP HOLIDAY ALLIANCE CTF (objects_not_spawned, 19 point(s))
+- object 180403 Soapbox (objects_not_spawned, 1 point(s))
+- object 180405 G_Pumpkin_01 (objects_not_spawned, 209 point(s))
+- object 180406 G_Pumpkin_02 (objects_not_spawned, 201 point(s))
+- object 180407 G_Pumpkin_03 (objects_not_spawned, 190 point(s))
+- object 180408 G_WitchHat_01 (objects_not_spawned, 1 point(s))
+- object 180409 G_WitchBroom_01 (objects_not_spawned, 1 point(s))
+- object 180410 G_HangingSkeleton_01 (objects_not_spawned, 52 point(s))
+- object 180411 G_Ghost_01 (objects_not_spawned, 89 point(s))
+- object 180412 G_CandyBucket_01 (objects_not_spawned, 37 point(s))
+- object 180415 CandleBlack01 (objects_not_spawned, 40 point(s))
+- object 180425 SkullCandle01 (objects_not_spawned, 79 point(s))
+- object 180426 Bat01 (objects_not_spawned, 50 point(s))
+- object 180427 Bat02 (objects_not_spawned, 42 point(s))
+- object 180428 G_WitchBroom_01 scale 0.5 (objects_not_spawned, 4 point(s))
+- object 180429 G_WitchHat_01 scale 0.5 (objects_not_spawned, 4 point(s))
+- object 180431 G_Pumpkin_01 scale 4.0 (objects_not_spawned, 1 point(s))
+- object 180432 Forsaken Banner (objects_not_spawned, 4 point(s))
+- object 180433 The Wickerman (objects_not_spawned, 2 point(s))
+- object 180434 Bonfire (objects_not_spawned, 8 point(s))
+- object 180452 Blastenheimer 5000 Ultra Cannon (objects_not_spawned, 2 point(s))
+- object 180471 HangingSkullLight01 (objects_not_spawned, 217 point(s))
+- object 180472 HangingSkullLight02 (objects_not_spawned, 208 point(s))
+- object 180514 Glyphed Crystal Prism (objects_not_spawned, 3 point(s))
+- object 180515 Blastenheimer 5000 Ultra Cannon (objects_not_spawned, 1 point(s))
+- npc 180523 Nadjia the Mistblade (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- object 180524 Tonk Control Console (objects_not_spawned, 31 point(s))
+- object 180525 Tonk Control Console Trap (objects_not_spawned, 31 point(s))
+- object 180573 Cannon Target (objects_not_spawned, 2 point(s))
+- object 180575 Keg (objects_not_spawned, 1 point(s))
+- object 180598 AQWar - Resource, Bandages, Alliance, Initial (objects_not_spawned, 1 point(s))
+- object 180601 Unstable Rift Crystal (objects_not_spawned, 1 point(s))
+- object 180604 Merithra's Wake (objects_not_spawned, 7 point(s))
+- object 180605 IronForgeSteamTank (objects_not_spawned, 3 point(s))
+- object 180654 Hardpacked Snowdrift (objects_not_spawned, 24 point(s))
+- npc 180666 Surf Elemental (npcs_not_spawned, 0 point(s)): forever-db lists 0 point(s); no EG Link live sighting lies within 40 yards of any
+- object 180674 AQWar - Resource, Bandages, Alliance, Tier 1 (objects_not_spawned, 1 point(s))
+- object 180675 AQWar - Resource, Bandages, Alliance, Tier 2 (objects_not_spawned, 1 point(s))
+- object 180676 AQWar - Resource, Bandages, Alliance, Tier 3 (objects_not_spawned, 1 point(s))
+- object 180677 AQWar - Resource, Bandages, Alliance, Tier 4 (objects_not_spawned, 1 point(s))
+- object 180678 AQWar - Resource, Bandages, Alliance, Tier 5 (objects_not_spawned, 1 point(s))
+- object 180679 AQWar - Resource, Cooking/Herbs, Alliance Initial (objects_not_spawned, 1 point(s))
+- object 180680 AQWar - Resource, Bars, Alliance, Initial (objects_not_spawned, 1 point(s))
+- object 180681 AQWar - Resource, Skins, Alliance, Initial (objects_not_spawned, 1 point(s))
+- object 180688 Cooking Brazier (objects_not_spawned, 1 point(s))
+- object 180689 Cooking Brazier (objects_not_spawned, 1 point(s))
+- object 180692 AQWar - Resource, Skins, Alliance, Tier 1 (objects_not_spawned, 1 point(s))
+- object 180693 AQWar - Resource, Skins, Alliance, Tier 2 (objects_not_spawned, 1 point(s))
+- object 180694 AQWar - Resource, Skins, Alliance, Tier 3 (objects_not_spawned, 1 point(s))
+- object 180695 AQWar - Resource, Skins, Alliance, Tier 4 (objects_not_spawned, 1 point(s))
+- object 180696 AQWar - Resource, Skins, Alliance, Tier 5 (objects_not_spawned, 1 point(s))
+- object 180698 Party Table (objects_not_spawned, 94 point(s))
+- object 180699 Festive Keg (objects_not_spawned, 142 point(s))
+- object 180700 Hay Bale 1 (objects_not_spawned, 56 point(s))
+- object 180703 Firework, Show, Type 1 Red (objects_not_spawned, 6 point(s))
+- object 180704 Firework, Show, Type 2 Red (objects_not_spawned, 5 point(s))
+- object 180707 Firework, Show, Type 1,  Red BIG (objects_not_spawned, 6 point(s))
+- object 180708 Firework, Show, Type 2,  Red BIG (objects_not_spawned, 2 point(s))
+- object 180714 CrateAllianceFirstAid01 (objects_not_spawned, 11 point(s))
+- object 180715 Holly Preserver (objects_not_spawned, 6 point(s))
+- object 180717 The Scarab Gong (objects_not_spawned, 1 point(s))
+- object 180718 The Scarab Gong (objects_not_spawned, 1 point(s))
+- object 180719 Metzen's Stable (objects_not_spawned, 1 point(s))
+- object 180720 Firework, Show, Type 1 Blue (objects_not_spawned, 8 point(s))
+- object 180721 Firework, Show, Type 2 Blue (objects_not_spawned, 8 point(s))
+- object 180722 Firework, Show, Type 1 Blue BIG (objects_not_spawned, 6 point(s))
+- object 180723 Firework, Show, Type 2 Blue BIG (objects_not_spawned, 7 point(s))
+- object 180724 Firework, Show, Type 1 Green (objects_not_spawned, 5 point(s))
+- object 180725 Firework, Show, Type 2 Green BIG (objects_not_spawned, 3 point(s))
+- object 180726 Firework, Show, Type 1 Green BIG (objects_not_spawned, 8 point(s))
+- object 180727 Firework, Show, Type 2 Green (objects_not_spawned, 4 point(s))
+- object 180729 Firework, Show, Type 1 White BIG (objects_not_spawned, 6 point(s))
+- object 180730 Firework, Show, Type 2 White (objects_not_spawned, 2 point(s))
+- object 180731 Firework, Show, Type 2 White BIG (objects_not_spawned, 5 point(s))
+- object 180733 Firework, Show, Type 2 Purple BIG (objects_not_spawned, 8 point(s))
+- object 180736 Firework, Show, Type 1 Yellow (objects_not_spawned, 8 point(s))
+- object 180737 Firework, Show, Type 1 Yellow BIG (objects_not_spawned, 6 point(s))
+- object 180738 Firework, Show, Type 2 Yellow (objects_not_spawned, 6 point(s))
+- object 180739 Firework, Show, Type 2 Yellow BIG (objects_not_spawned, 4 point(s))
+- object 180740 Firework, Show, Type 2 Purple (objects_not_spawned, 8 point(s))
+- object 180741 Firework, Show, Type 1 Purple BIG (objects_not_spawned, 5 point(s))
+- object 180742 Metzen's Fencing (objects_not_spawned, 3 point(s))
+- object 180743 Carefully Wrapped Present (objects_not_spawned, 2 point(s))
+- object 180744 Catapult (objects_not_spawned, 4 point(s))
+- object 180746 Gently Shaken Gift (objects_not_spawned, 2 point(s))
+- object 180747 Gaily Wrapped Present (objects_not_spawned, 2 point(s))
+- object 180748 Ticking Present (objects_not_spawned, 2 point(s))
+- object 180754 Toasting Goblet (objects_not_spawned, 104 point(s))
+- object 180755 Dwarf Hero (objects_not_spawned, 7 point(s))
+- object 180756 Gnome Hero (objects_not_spawned, 5 point(s))
+- object 180757 Human Hero Portrait (objects_not_spawned, 4 point(s))
+- object 180758 Night Elf Hero Portrait (objects_not_spawned, 10 point(s))
+- object 180759 Orc Hero Portrait (objects_not_spawned, 6 point(s))
+- object 180760 Forsaken Hero Portrait (objects_not_spawned, 3 point(s))
+- object 180761 Tauren Hero Portrait (objects_not_spawned, 10 point(s))
+- object 180762 Troll Hero Portrait (objects_not_spawned, 4 point(s))
+- object 180765 Lantern (objects_not_spawned, 65 point(s))
+- object 180766 Lantern (objects_not_spawned, 45 point(s))
+- object 180767 Lantern (objects_not_spawned, 35 point(s))
+- object 180768 Lantern (objects_not_spawned, 50 point(s))
+- object 180769 Lights (objects_not_spawned, 87 point(s))
+- object 180770 Lights (objects_not_spawned, 71 point(s))
+- object 180771 Firework Launcher (objects_not_spawned, 103 point(s))
+- object 180772 Cluster Launcher (objects_not_spawned, 66 point(s))
+- object 180773 Banner (objects_not_spawned, 15 point(s))
+- object 180774 Banner (objects_not_spawned, 15 point(s))
+- object 180775 Banner (objects_not_spawned, 10 point(s))
+- object 180776 Banner (objects_not_spawned, 20 point(s))
+- object 180777 Banner (objects_not_spawned, 13 point(s))
+- object 180778 Banner (objects_not_spawned, 40 point(s))
+- object 180780 AQWar - Resource, Bars, Alliance, Tier 1 (objects_not_spawned, 1 point(s))
+- object 180781 AQWar - Resource, Bars, Alliance, Tier 2 (objects_not_spawned, 1 point(s))
+- object 180782 AQWar - Resource, Bars, Alliance, Tier 3 (objects_not_spawned, 1 point(s))
+- object 180783 AQWar - Resource, Bars, Alliance, Tier 4 (objects_not_spawned, 1 point(s))
+- object 180784 AQWar - Resource, Bars, Alliance, Tier 5 (objects_not_spawned, 1 point(s))
+- object 180793 Festive Gift (objects_not_spawned, 2 point(s))
+- object 180796 PX-238 Winter Wondervolt (objects_not_spawned, 7 point(s))
+- object 180797 PX-238 Winter Wondervolt TRAP (objects_not_spawned, 7 point(s))
+- object 180798 Present BIG (objects_not_spawned, 7 point(s))
+- object 180799 Present BIG (objects_not_spawned, 7 point(s))
+- object 180800 AQWar - Resource, Cooking, Alliance, Tier 1 (objects_not_spawned, 1 point(s))
+- object 180801 AQWar - Resource, Herbs, Alliance, Tier 1 (objects_not_spawned, 1 point(s))
+- object 180802 AQWar - Resource, Herbs, Alliance, Tier 2 (objects_not_spawned, 1 point(s))
+- object 180803 AQWar - Resource, Herbs, Alliance, Tier 3 (objects_not_spawned, 1 point(s))
+- object 180804 AQWar - Resource, Herbs, Alliance, Tier 4 (objects_not_spawned, 1 point(s))
+- object 180805 AQWar - Resource, Herbs, Alliance, Tier 5 (objects_not_spawned, 1 point(s))
+- object 180806 AQWar - Resource, Cooking, Alliance, Tier 2 (objects_not_spawned, 1 point(s))
+- object 180807 AQWar - Resource, Cooking, Alliance, Tier 3 (objects_not_spawned, 1 point(s))
+- object 180808 AQWar - Resource, Cooking, Alliance, Tier 4 (objects_not_spawned, 1 point(s))
+- object 180809 AQWar - Resource, Cooking, Alliance, Tier 5 (objects_not_spawned, 1 point(s))
+- object 180812 AQWar - Resource, Skins, Horde, Initial (objects_not_spawned, 1 point(s))
+- object 180813 AQWar - Resource, Skins, Horde, Tier 1 (objects_not_spawned, 1 point(s))
+- object 180814 AQWar - Resource, Skins, Horde, Tier 2 (objects_not_spawned, 1 point(s))
+- object 180815 AQWar - Resource, Skins, Horde, Tier 3 (objects_not_spawned, 1 point(s))
+- object 180816 AQWar - Resource, Skins, Horde, Tier 4 (objects_not_spawned, 1 point(s))
+- object 180817 AQWar - Resource, Skins, Horde, Tier 5 (objects_not_spawned, 1 point(s))
+- object 180818 AQWar - Resource, Herbs, Horde, Initial (objects_not_spawned, 1 point(s))
+- object 180819 AQWar - Resource, Herbs, Horde, Tier 1 (objects_not_spawned, 1 point(s))
+- object 180820 AQWar - Resource, Herbs, Horde, Tier 2 (objects_not_spawned, 1 point(s))
+- object 180821 AQWar - Resource, Herbs, Horde, Tier 3 (objects_not_spawned, 1 point(s))
+- object 180822 AQWar - Resource, Herbs, Horde, Tier 4 (objects_not_spawned, 1 point(s))
+- object 180823 AQWar - Resource, Herbs, Horde, Tier 5 (objects_not_spawned, 1 point(s))
+- object 180826 AQWar - Resource, Bandages, Horde, Initial (objects_not_spawned, 1 point(s))
+- object 180827 AQWar - Resource, Bandages, Horde, Tier 1 (objects_not_spawned, 1 point(s))
+- object 180828 AQWar - Resource, Bandages, Horde, Tier 2 (objects_not_spawned, 1 point(s))
+- object 180829 AQWar - Resource, Bandages, Horde, Tier 3 (objects_not_spawned, 1 point(s))
+- object 180830 AQWar - Resource, Bandages, Horde, Tier 4 (objects_not_spawned, 1 point(s))
+- object 180831 AQWar - Resource, Bandages, Horde, Tier 5 (objects_not_spawned, 1 point(s))
+- object 180832 AQWar - Resource, Cooking, Horde, Initial (objects_not_spawned, 1 point(s))
+- object 180833 AQWar - Resource, Cooking, Horde, Tier 1 (objects_not_spawned, 1 point(s))
+- object 180834 AQWar - Resource, Cooking, Horde, Tier 2 (objects_not_spawned, 1 point(s))
+- object 180835 AQWar - Resource, Cooking, Horde, Tier 3 (objects_not_spawned, 1 point(s))
+- object 180836 AQWar - Resource, Cooking, Horde, Tier 4 (objects_not_spawned, 1 point(s))
+- object 180837 AQWar - Resource, Cooking, Horde, Tier 5 (objects_not_spawned, 1 point(s))
+- object 180838 AQWar - Resource, Bars, Horde, Initial (objects_not_spawned, 1 point(s))
+- object 180839 AQWar - Resource, Bars, Horde, Tier 1 (objects_not_spawned, 1 point(s))
+- object 180840 AQWar - Resource, Bars, Horde, Tier 2 (objects_not_spawned, 1 point(s))
+- object 180841 AQWar - Resource, Bars, Horde, Tier 3 (objects_not_spawned, 1 point(s))
+- object 180842 AQWar - Resource, Bars, Horde, Tier 4 (objects_not_spawned, 1 point(s))
+- object 180843 AQWar - Resource, Bars, Horde, Tier 5 (objects_not_spawned, 1 point(s))
+- object 180844 Mistletoe (objects_not_spawned, 19 point(s))
+- object 180852 War Map (objects_not_spawned, 1 point(s))
+- object 180853 Duke's Box (objects_not_spawned, 1 point(s))
+- object 180867 Greater Moonlight Spell Focus (objects_not_spawned, 14 point(s))
+- object 180868 Firework Launcher (objects_not_spawned, 42 point(s))
+- object 180869 Cluster Launcher (objects_not_spawned, 16 point(s))
+- object 180874 Cluster Launcher (objects_not_spawned, 2 point(s))
+- object 180875 Boss Fight Altar (objects_not_spawned, 2 point(s))
+- object 180878 GunShopFireworksBarrel (objects_not_spawned, 17 point(s))
+- object 180879 ElvenWoodenTable (objects_not_spawned, 3 point(s))
+- object 180880 AmmoBoxBlue (objects_not_spawned, 2 point(s))
+- object 180881 AmmoBoxBlueBlock (objects_not_spawned, 2 point(s))
+- object 180882 AmmoBoxRed (objects_not_spawned, 2 point(s))
+- object 180883 AmmoBoxRedBlock (objects_not_spawned, 2 point(s))
+- object 180884 DwarvenTableSmall (objects_not_spawned, 1 point(s))
+- object 180885 InnTableTiny (objects_not_spawned, 1 point(s))
+- object 180888 OrcTable01 (objects_not_spawned, 2 point(s))
+- object 180891 Port to Moonglade TRAP (objects_not_spawned, 8 point(s))
+- object 180892 Port to StormwindTRAP (objects_not_spawned, 1 point(s))
+- object 180893 Port to Ironforge TRAP (objects_not_spawned, 1 point(s))
+- object 180894 Port to Darnassus TRAP (objects_not_spawned, 1 point(s))
+- object 180895 Port to OrgrimmarTRAP (objects_not_spawned, 1 point(s))
+- object 180896 Port to Undercity TRAP (objects_not_spawned, 1 point(s))
+- object 180897 Port to Thunder Bluff TRAP (objects_not_spawned, 1 point(s))
+- object 180905 Festive Mug (objects_not_spawned, 99 point(s))
+- object 180909 Lucky Red Envelope (objects_not_spawned, 1 point(s))
+- object 180910 Starsong Scroll (objects_not_spawned, 1 point(s))
+- object 181014 Hanging, Square, Large (objects_not_spawned, 23 point(s))
+- object 181015 Standing, Large (objects_not_spawned, 16 point(s))
+- object 181016 Standing, Medium, Exterior (objects_not_spawned, 140 point(s))
+- object 181017 Hanging, Streamers, Medium (objects_not_spawned, 88 point(s))
+- object 181018 Hanging, Tall/Thin, Medium (objects_not_spawned, 36 point(s))
+- object 181019 Standing, Medium Interior (objects_not_spawned, 46 point(s))
+- object 181020 Hanging, Square, Medium (objects_not_spawned, 37 point(s))
+- object 181021 Hanging, Door (objects_not_spawned, 26 point(s))
+- object 181022 Standing, Giant (objects_not_spawned, 1 point(s))
+- object 181024 Hanging, Short/Squat, Large (objects_not_spawned, 9 point(s))
+- object 181025 Hanging, Tall/Thin, Large (objects_not_spawned, 29 point(s))
+- object 181027 Floating, medium (objects_not_spawned, 71 point(s))
+- object 181029 Burning Coals (objects_not_spawned, 2 point(s))
+- object 181055 Hanging, Streamers, x3 (objects_not_spawned, 40 point(s))
+- object 181060 Standing, small Interior (objects_not_spawned, 141 point(s))
+- object 181073 Fragrant Cauldron (objects_not_spawned, 2 point(s))
+- object 181086 Valentine Arch (objects_not_spawned, 8 point(s))
+- object 181087 Plant (objects_not_spawned, 27 point(s))
+- object 181088 Event Trap, Thrall (objects_not_spawned, 1 point(s))
+- object 181089 Event Trap, Bolvar (objects_not_spawned, 1 point(s))
+- object 181090 Event Trap, Magni (objects_not_spawned, 1 point(s))
+- object 181091 Event Trap, Tyrande (objects_not_spawned, 2 point(s))
+- object 181092 Event Trap, Cairne (objects_not_spawned, 2 point(s))
+- object 181093 Event Trap, Sylvanas (objects_not_spawned, 2 point(s))
+- object 181103 Flower (objects_not_spawned, 1 point(s))
+- object 181104 Small Dirt Mound (objects_not_spawned, 1 point(s))
+- object 181136 Circle (objects_not_spawned, 42 point(s))
+- object 181154 Necropolis (objects_not_spawned, 6 point(s))
+- object 181172 Necropolis City (objects_not_spawned, 7 point(s))
+- object 181173 Undead Fire (objects_not_spawned, 152 point(s))
+- object 181174 Undead Fire Aura (objects_not_spawned, 152 point(s))
+- object 181191 Skullpile 01 (objects_not_spawned, 149 point(s))
+- object 181192 Skullpile 02 (objects_not_spawned, 150 point(s))
+- object 181193 Skullpile 03 (objects_not_spawned, 133 point(s))
+- object 181194 Skullpile 04 (objects_not_spawned, 146 point(s))
+- object 181215 Necropolis (scale 2.5) (objects_not_spawned, 3 point(s))
+- object 181223 Necropolis (scale 3.5) (objects_not_spawned, 3 point(s))
+- object 181227 Circle (objects_not_spawned, 12 point(s))
+- object 181254 Argent Dawn Buffer Tent (objects_not_spawned, 8 point(s))
+- object 181255 Argent Dawn Buffer Crate (objects_not_spawned, 9 point(s))
+- object 181256 Argent Dawn Banner (objects_not_spawned, 18 point(s))
+- object 181288 Midsummer Bonfire (objects_not_spawned, 25 point(s))
+- object 181300 Standing, Large - MFF (objects_not_spawned, 14 point(s))
+- object 181301 Camp Pavilion (objects_not_spawned, 23 point(s))
+- object 181302 Camp Crate (objects_not_spawned, 28 point(s))
+- object 181305 Camp Table (objects_not_spawned, 26 point(s))
+- object 181306 Camp Jug (objects_not_spawned, 11 point(s))
+- object 181307 Camp Mug (objects_not_spawned, 8 point(s))
+- object 181332 Flame of Stormwind (objects_not_spawned, 1 point(s))
+- object 181333 Flame of Ironforge (objects_not_spawned, 1 point(s))
+- object 181334 Flame of Darnassus (objects_not_spawned, 1 point(s))
+- object 181335 Flame of the Undercity (objects_not_spawned, 1 point(s))
+- object 181336 Flame of Orgrimmar (objects_not_spawned, 1 point(s))
+- object 181337 Flame of Thunder Bluff (objects_not_spawned, 3 point(s))
+- object 181338 Flame of the Plaguelands (objects_not_spawned, 1 point(s))
+- object 181339 Flame of Silithus (objects_not_spawned, 2 point(s))
+- object 181340 Flame of Winterspring (objects_not_spawned, 1 point(s))
+- object 181341 Flame of Searing Gorge (objects_not_spawned, 1 point(s))
+- object 181342 Flame of Azshara (objects_not_spawned, 1 point(s))
+- object 181343 Flame of Un'Goro (objects_not_spawned, 1 point(s))
+- object 181344 Flame of the Blasted Lands (objects_not_spawned, 1 point(s))
+- object 181345 Flame of the Hinterlands (objects_not_spawned, 1 point(s))
+- object 181354 Floating, Medium - MFF (objects_not_spawned, 102 point(s))
+- object 181355 Standing, Exterior, Medium - MFF (objects_not_spawned, 512 point(s))
+- object 181358 Hanging, Square, Large - MFF (objects_not_spawned, 26 point(s))
+- object 181373 Necropolis (scale 1.5) (objects_not_spawned, 1 point(s))
+- object 181374 Necropolis (scale 2.0) (objects_not_spawned, 1 point(s))
+- object 181376 Midsummer Bonfire Campfire Damage Trap (objects_not_spawned, 26 point(s))
+- object 181388 Standing, Interior, Medium - MFF (objects_not_spawned, 135 point(s))
+- object 181389 Hanging, Tall/Thin, Large - MFF (objects_not_spawned, 40 point(s))
+- object 181390 Hanging, Square, Medium - MFF (objects_not_spawned, 116 point(s))
+- object 181391 Standing, Interior, Small - MFF (objects_not_spawned, 239 point(s))
+- object 181392 Hanging, Streamer - MFF (objects_not_spawned, 223 point(s))
+- object 181393 Hanging, Tall/Thin, Medium - MFF (objects_not_spawned, 118 point(s))
+- object 181401 Hanging, Streamer x3 - MFF (objects_not_spawned, 181 point(s))
+- object 181431 Fire Festival Fury Trap (objects_not_spawned, 176 point(s))
+- object 181560 Flame of the Barrens (objects_not_spawned, 1 point(s))
+- object 181561 Flame of Ashenvale (objects_not_spawned, 1 point(s))
+- object 181562 Flame of Stonetalon (objects_not_spawned, 1 point(s))
+- object 181563 Flame of Darkshore (objects_not_spawned, 1 point(s))
+- object 181564 Flame of Silverpine (objects_not_spawned, 1 point(s))
+- object 181565 Flame of Westfall (objects_not_spawned, 1 point(s))
+- object 181566 Flame of Hillsbrad (objects_not_spawned, 2 point(s))
+- object 181567 Flame of the Wetlands (objects_not_spawned, 1 point(s))
+- object 181598 Silithyst Geyser (objects_not_spawned, 19 point(s))
+- object 181603 Sillithus Flag Stand, Alliance (objects_not_spawned, 1 point(s))
+- object 181617 Sillithus Flag Stand, Horde (objects_not_spawned, 1 point(s))
+- object 181618 ToWoW - Flag Cap Counter, Alliance (objects_not_spawned, 1 point(s))
+- object 181619 ToWoW - Flag Cap Counter, Horde (objects_not_spawned, 1 point(s))
+- object 181620 Unopened Crate (objects_not_spawned, 1 point(s))
+- object 181624 Tarantula Cage (objects_not_spawned, 1 point(s))
+- object 181625 Jaguar - Crocolisk Cage (objects_not_spawned, 2 point(s))
+- object 181627 Weapon Rack (objects_not_spawned, 1 point(s))
+- object 181631 Robotron Control Panel (objects_not_spawned, 1 point(s))
+- object 181636 Altar of Naias (objects_not_spawned, 1 point(s))
+- object 181643 Featherbeard's Remains (objects_not_spawned, 1 point(s))
+- object 181645 Gryphon Egg (objects_not_spawned, 22 point(s))
+- object 181649 Featherbeard's Journal (objects_not_spawned, 1 point(s))
+- object 181681 Chalice of Elune (objects_not_spawned, 1 point(s))
+- object 181682 Lordaeron Shrine (objects_not_spawned, 1 point(s))
+- object 181686 Lumber Pile (objects_not_spawned, 16 point(s))
+- object 181687 Lumber Pile (objects_not_spawned, 18 point(s))
+- object 181825 Concealed Control Panel (objects_not_spawned, 1 point(s))
+- object 181899 Doodad_BattlefieldBanner_State_Base_Plaguelands01 (objects_not_spawned, 1 point(s))
+- object 181916 Tainted Wood (objects_not_spawned, 14 point(s))
+- object 181955 Lordaeron Shrine (objects_not_spawned, 1 point(s))
+- object 181962 Dust Bag (objects_not_spawned, 2 point(s))
+- object 181963 Charred Bone Fragment (objects_not_spawned, 1 point(s))
+- object 182059 Campfire (objects_not_spawned, 2 point(s))
+- object 182063 Basin of Holy Water (objects_not_spawned, 1 point(s))
+- object 182096 Doodad_BattlefieldBanner_State_Base_Plaguelands02 (objects_not_spawned, 1 point(s))
+- object 182097 Doodad_BattlefieldBanner_State_Base_Plaguelands03 (objects_not_spawned, 1 point(s))
+- object 182098 Doodad_BattlefieldBanner_State_Base_Plaguelands04 (objects_not_spawned, 1 point(s))
+- object 184006 Temporal Prison (objects_not_spawned, 2 point(s))
+- object 184616 Anvil (objects_not_spawned, 1 point(s))
+- object 184617 Forge (objects_not_spawned, 1 point(s))
+- npc 185317 Incubus (npcs_not_spawned, 46 point(s)): forever-db lists 46 point(s); no EG Link live sighting lies within 40 yards of any
+- object 185321 Meeting Stone (objects_not_spawned, 1 point(s))
+- npc 185335 Summoned Incubus (npcs_not_spawned, 8 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- object 185493 Moonglade Fountain (objects_not_spawned, 1 point(s))
+- object 185498 Campfire (objects_not_spawned, 1 point(s))
+- object 185580 Moonstone Altar (objects_not_spawned, 1 point(s))
+- object 186218 Moon Well (objects_not_spawned, 1 point(s))
+- object 186233 Campfire (objects_not_spawned, 1 point(s))
+- object 186243 Campfire (objects_not_spawned, 1 point(s))
+- object 186264 Missing: Kyle (objects_not_spawned, 1 point(s))
+- object 186283 Shipwreck Debris (objects_not_spawned, 8 point(s))
+- object 186322 Hyal Family Monument (objects_not_spawned, 1 point(s))
+- object 186419 Wrecked Row Boat (objects_not_spawned, 1 point(s))
+- object 186420 Syndicate Documents (objects_not_spawned, 1 point(s))
+- object 186426 Wanted Poster (objects_not_spawned, 1 point(s))
+- object 186451 Cauldron (objects_not_spawned, 1 point(s))
+- object 186465 Lighthouse Beam (objects_not_spawned, 1 point(s))
+- object 186469 Alcaz Rune Circle (objects_not_spawned, 1 point(s))
+- object 186630 Forge (objects_not_spawned, 1 point(s))
+- object 186631 Anvil (objects_not_spawned, 1 point(s))
+- object 187252 Campfire (objects_not_spawned, 1 point(s))
+- object 187254 Rolled Scroll (objects_not_spawned, 1 point(s))
+- object 187273 Suspicious Hoofprint (objects_not_spawned, 1 point(s))
+- object 187576 Hanging, Square, Small - MFF (objects_not_spawned, 115 point(s))
+- object 187653 Standing, Post - MFF (objects_not_spawned, 50 point(s))
+- object 187667 Hanging, Tall/Thin, Small - MFF (objects_not_spawned, 41 point(s))
+- object 187918 Twilight Bonfire (objects_not_spawned, 5 point(s))
+- object 187988 Twilight Torch (objects_not_spawned, 1 point(s))
+- object 187989 Twilight Torch (objects_not_spawned, 2 point(s))
+- object 188123 Mailbox (objects_not_spawned, 1 point(s))
+- object 190483 Document Chest (objects_not_spawned, 1 point(s))
+- object 190484 Document Chest (objects_not_spawned, 1 point(s))
+- npc 203139 Son of Arugal (extra_spots, 24 point(s)): forever-db lists 23 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 216289 Orokai (extra_spots, 14 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 246848 Kirin Tor Guard (extra_spots, 24 point(s)): forever-db lists 21 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 247223 Nancy Songflower (extra_spots, 19 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 250283 Vile Fin Attacker (extra_spots, 24 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 250868 Vuldren (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 250874 Vuldren Alpha (extra_spots, 24 point(s)): forever-db lists 8 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 250921 Forest Sprite (extra_spots, 24 point(s)): forever-db lists 14 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 250926 Scrawny Ursera (extra_spots, 24 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 250928 Highlands Ursera (extra_spots, 24 point(s)): forever-db lists 7 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 251143 Roiling Winds (extra_spots, 24 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 251284 Hippogryph Protector (extra_spots, 24 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 251291 Hippogryph Youth (extra_spots, 24 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 251402 Cirrusfly Soldier (extra_spots, 24 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 251448 Al'Aketh Neophyte (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 251451 Al'Aketh Ambusher (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 251622 Flutterfly (extra_spots, 24 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 251661 Galestrider (extra_spots, 24 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 251662 Living Lightning (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 251676 Wind Hollow (extra_spots, 24 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 251707 Ornery Galestrider (extra_spots, 24 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 251918 Highlands Bandit (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 252068 Al'Aketh Stormcaller (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 252390 Antelariaa Cloudgaze (extra_spots, 10 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 252428 Munchies (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 252429 Prairie Dog (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 252481 Wind Sprite (extra_spots, 24 point(s)): forever-db lists 10 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 252664 Al'Aketh Stormchaser (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 252762 Al'Aketh Guardian (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 252763 Al'Aketh Spiritcaller (extra_spots, 24 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 252765 Al'Aketh Blademaster (extra_spots, 24 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 252802 Hungry Bandit (extra_spots, 24 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 252820 Bandit Highwayman (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 252863 Ferauu the Bludgeon (npcs_not_spawned, 4 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 252875 Bandit Henchman (npcs_not_spawned, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 253281 Fillion Flamebreeze (extra_spots, 5 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 253474 Peacekeeper (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 253782 Al'Aketh Attacker (extra_spots, 24 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 254082 Aarnor Galestrike (extra_spots, 13 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 254089 Coriella Calmbreeze (extra_spots, 9 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 254596 Al'Aketh Healer (extra_spots, 24 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 254626 Al'Aketh Assassin (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 256092 Shadowgale Shriekling (extra_spots, 24 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 256108 Shadowgale Shrieker (extra_spots, 16 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 256317 Animated Broom (extra_spots, 4 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 256359 Dalaran Wizard (extra_spots, 8 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 256392 Pack Kodo (extra_spots, 5 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 256398 Off-Duty Pack Kodo (extra_spots, 5 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 256400 Okamache (extra_spots, 13 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 256672 Kurvelk Shadowhoof (extra_spots, 9 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 256930 Captured Bandit (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 256996 Al'Aketh Warrior (extra_spots, 9 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 257036 Baelann Favorbreeze (extra_spots, 5 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 257196 Zaal Stormshield (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 257597 Bruegs Kindleborn (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 257663 Deathguard Falgan (npcs_not_spawned, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 258443 Ur'endra (extra_spots, 4 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 258879 Steamwheedle Courier (extra_spots, 5 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 259011 Ban'aethal Refugee (extra_spots, 6 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 259377 Injured Deathguard (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 259388 Mystmane (extra_spots, 4 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 259431 Rudolph Gelhardt (extra_spots, 5 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 259433 Tarnished Zealot (extra_spots, 24 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 259434 Tarnished Drudge (extra_spots, 24 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 260431 Shadowvale Lurcher (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 260432 Shadowvale Mystic (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 260804 Highland Lurker (npcs_not_spawned, 14 point(s)): forever-db lists 14 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 262492 Rimblat Earthshatter (extra_spots, 7 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 262502 Brix Xizzix (extra_spots, 5 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 262504 Earthen Ring Shaman (extra_spots, 24 point(s)): forever-db lists 9 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 263930 Peacekeeper (extra_spots, 20 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 265654 Faladriaal Featherfall (extra_spots, 5 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 265756 Genn Fairweather (extra_spots, 4 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 265760 Swift Umber Galestrider (extra_spots, 3 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 267291 Emerald Riding Raptor (extra_spots, 2 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 268047 Theramore Emissary (extra_spots, 15 point(s)): forever-db lists 10 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 268048 Darkspear Emissary (extra_spots, 21 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 268238 Nordun Steadysight (extra_spots, 19 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 268622 Encroaching Soldier (npcs_not_spawned, 15 point(s)): forever-db lists 15 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 268623 Outraged Pillager (npcs_not_spawned, 14 point(s)): forever-db lists 14 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 269454 Darkspear Elite (extra_spots, 4 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 269730 Risen Charger (extra_spots, 3 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 270112 Saera Wirraway (extra_spots, 4 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 270201 Al'Aketh Brawler (extra_spots, 24 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 271080 Blightsculler (extra_spots, 24 point(s)): forever-db lists 7 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 271530 Elder Wendigo (npcs_not_spawned, 24 point(s)): forever-db lists 24 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 271707 Juvenile Cloudrunner (extra_spots, 13 point(s)): forever-db lists 5 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 271710 Cloudrunner Matriarch (extra_spots, 15 point(s)): forever-db lists 6 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 271712 Cloudrunner (extra_spots, 24 point(s)): forever-db lists 4 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 272045 Brother Zendraas (extra_spots, 3 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 272049 Saeyleenan (extra_spots, 1 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 272101 Deathguard Lizabetha (extra_spots, 11 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 274300 Coldrasp (extra_spots, 3 point(s)): forever-db lists 3 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 274912 Relreo Emberlight (extra_spots, 9 point(s)): forever-db lists 2 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 274913 Max (extra_spots, 6 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 274930 Lyvia Stormsinger (extra_spots, 5 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 275103 Deathguard Veteran (extra_spots, 7 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 275164 Arcane Sentry (extra_spots, 21 point(s)): forever-db lists 14 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 275269 High Order Dockmaster (extra_spots, 4 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 275270 Windshapers Dockmaster (extra_spots, 7 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 275703 Lasher Sproutling (extra_spots, 24 point(s)): forever-db lists 21 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 275767 Herak the Pillager (extra_spots, 11 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 276003 Minor Ice Elemental (npcs_not_spawned, 24 point(s)): forever-db lists 24 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 276061 Decrepit Harvester (extra_spots, 15 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- npc 276416 Windshaper Elementalist (extra_spots, 24 point(s)): forever-db lists 1 point(s); no EG Link live sighting lies within 40 yards of any
+- object 617084 Portal to Valanaar (objects_not_spawned, 1 point(s))
+- object 657382 Peacebloom (objects_not_spawned, 22 point(s))
+
+## it has a script (AIName or ScriptName) (191)
+
+- npc 412 Stitches (npcs_not_spawned, 1 point(s))
+- npc 572 Leprithus (npcs_not_spawned, 2 point(s))
+- npc 846 Ghoul (npcs_not_spawned, 5 point(s))
+- npc 2149 Dark Iron Raider (npcs_not_spawned, 1 point(s))
+- npc 2158 Gravelflint Scout (npcs_not_spawned, 1 point(s))
+- npc 2159 Gravelflint Bonesnapper (npcs_not_spawned, 1 point(s))
+- npc 2160 Gravelflint Geomancer (npcs_not_spawned, 1 point(s))
+- npc 2433 Helcular's Remains (npcs_not_spawned, 1 point(s))
+- npc 2435 Southshore Crier (npcs_not_spawned, 1 point(s))
+- npc 2532 Donna (npcs_not_spawned, 1 point(s))
+- npc 2624 Gazban (npcs_not_spawned, 2 point(s))
+- npc 2755 Myzrael (npcs_not_spawned, 1 point(s))
+- npc 2937 Dagun the Ravenous (npcs_not_spawned, 1 point(s))
+- npc 3504 Gil (npcs_not_spawned, 1 point(s))
+- npc 4347 Noxious Reaver (npcs_not_spawned, 13 point(s))
+- npc 4348 Noxious Shredder (npcs_not_spawned, 24 point(s))
+- npc 4394 Bubbling Swamp Ooze (npcs_not_spawned, 15 point(s))
+- npc 5044 Theramore Skirmisher (npcs_not_spawned, 1 point(s))
+- npc 5045 Private Hallan (npcs_not_spawned, 1 point(s))
+- npc 5046 Lieutenant Caldwell (npcs_not_spawned, 1 point(s))
+- npc 5402 Khan Hratha (npcs_not_spawned, 1 point(s))
+- npc 5676 Summoned Voidwalker (npcs_not_spawned, 3 point(s))
+- npc 5677 Summoned Succubus (npcs_not_spawned, 3 point(s))
+- npc 6069 Maraudine Khan Guard (npcs_not_spawned, 1 point(s))
+- npc 6070 Maraudine Khan Advisor (npcs_not_spawned, 1 point(s))
+- npc 6180 Defias Raider (npcs_not_spawned, 1 point(s))
+- npc 6239 Cyclonian (npcs_not_spawned, 1 point(s))
+- npc 6268 Summoned Felhunter (npcs_not_spawned, 1 point(s))
+- npc 6550 Mana Surge (npcs_not_spawned, 1 point(s))
+- npc 7135 Infernal Bodyguard (npcs_not_spawned, 2 point(s))
+- npc 7167 Polly (npcs_not_spawned, 1 point(s))
+- npc 7411 Spirit of Sathrah (npcs_not_spawned, 2 point(s))
+- npc 7664 Razelikh the Defiler (npcs_not_spawned, 1 point(s))
+- npc 8075 Edana Hatetalon (npcs_not_spawned, 1 point(s))
+- npc 8578 Magus Rimtori (npcs_not_spawned, 1 point(s))
+- npc 8581 Blood Elf Defender (npcs_not_spawned, 1 point(s))
+- npc 8666 Lil Timmy (npcs_not_spawned, 1 point(s))
+- npc 9453 Aquementas (npcs_not_spawned, 1 point(s))
+- npc 9456 Warlord Krom'zar (npcs_not_spawned, 1 point(s))
+- npc 9598 Arei (npcs_not_spawned, 1 point(s))
+- npc 9684 Lar'korwi (npcs_not_spawned, 1 point(s))
+- npc 10038 Night Watch Guard (npcs_not_spawned, 2 point(s))
+- npc 10040 Gorishi Hive Guard (npcs_not_spawned, 1 point(s))
+- npc 10373 Xabraxxis (npcs_not_spawned, 1 point(s))
+- npc 10445 Selina Dourman (npcs_not_spawned, 2 point(s))
+- npc 10737 Shy-Rotam (npcs_not_spawned, 1 point(s))
+- npc 10819 Baron Bloodbane (npcs_not_spawned, 1 point(s))
+- npc 10946 Horgus the Ravager (npcs_not_spawned, 1 point(s))
+- npc 10979 Scarlet Hound (npcs_not_spawned, 5 point(s))
+- npc 11284 Dark Shade (npcs_not_spawned, 1 point(s))
+- npc 11447 Mushgog (npcs_not_spawned, 1 point(s))
+- npc 11497 The Razza (npcs_not_spawned, 1 point(s))
+- npc 11498 Skarr the Unbreakable (npcs_not_spawned, 1 point(s))
+- npc 11560 Centaur Spectre (npcs_not_spawned, 1 point(s))
+- npc 11605 Whitewhisker Overseer (npcs_not_spawned, 1 point(s))
+- npc 11614 Bloodshot (npcs_not_spawned, 1 point(s))
+- npc 11627 Tamed Kodo (npcs_not_spawned, 24 point(s))
+- npc 11836 Captured Rabid Thistle Bear (npcs_not_spawned, 5 point(s))
+- npc 11886 Mercutio Filthgorger (npcs_not_spawned, 1 point(s))
+- npc 12138 Lunaclaw (npcs_not_spawned, 3 point(s))
+- npc 12319 Burning Blade Toxicologist (npcs_not_spawned, 1 point(s))
+- npc 12321 Stormscale Toxicologist (npcs_not_spawned, 1 point(s))
+- npc 12923 Injured Soldier (npcs_not_spawned, 1 point(s))
+- npc 12924 Badly Injured Soldier (npcs_not_spawned, 1 point(s))
+- npc 12925 Critically Injured Soldier (npcs_not_spawned, 1 point(s))
+- npc 12936 Badly Injured Alliance Soldier (npcs_not_spawned, 1 point(s))
+- npc 12937 Critically Injured Alliance Soldier (npcs_not_spawned, 1 point(s))
+- npc 12938 Injured Alliance Soldier (npcs_not_spawned, 1 point(s))
+- npc 12940 Vorsha the Lasher (npcs_not_spawned, 1 point(s))
+- npc 12976 Kolkar Waylayer (npcs_not_spawned, 2 point(s))
+- npc 12977 Kolkar Ambusher (npcs_not_spawned, 2 point(s))
+- npc 12999 Blackwing Trigger (npcs_not_spawned, 1 point(s))
+- npc 13444 Greatfather Winter (npcs_not_spawned, 1 point(s))
+- npc 13534 Seasoned Coldmine Guard (npcs_not_spawned, 2 point(s))
+- npc 13535 Veteran Coldmine Guard (npcs_not_spawned, 2 point(s))
+- npc 13536 Champion Coldmine Guard (npcs_not_spawned, 2 point(s))
+- npc 13537 Seasoned Coldmine Surveyor (npcs_not_spawned, 1 point(s))
+- npc 13538 Veteran Coldmine Surveyor (npcs_not_spawned, 1 point(s))
+- npc 13539 Champion Coldmine Surveyor (npcs_not_spawned, 1 point(s))
+- npc 13543 Seasoned Irondeep Raider (npcs_not_spawned, 1 point(s))
+- npc 13544 Veteran Irondeep Raider (npcs_not_spawned, 1 point(s))
+- npc 13545 Champion Irondeep Raider (npcs_not_spawned, 1 point(s))
+- npc 13547 Veteran Coldmine Explorer (npcs_not_spawned, 1 point(s))
+- npc 13548 Champion Coldmine Explorer (npcs_not_spawned, 1 point(s))
+- npc 13549 Seasoned Coldmine Invader (npcs_not_spawned, 1 point(s))
+- npc 13550 Veteran Coldmine Invader (npcs_not_spawned, 1 point(s))
+- npc 13551 Champion Coldmine Invader (npcs_not_spawned, 1 point(s))
+- npc 13552 Seasoned Irondeep Guard (npcs_not_spawned, 2 point(s))
+- npc 13553 Veteran Irondeep Guard (npcs_not_spawned, 2 point(s))
+- npc 13554 Champion Irondeep Guard (npcs_not_spawned, 2 point(s))
+- npc 13555 Seasoned Irondeep Surveyor (npcs_not_spawned, 1 point(s))
+- npc 13556 Veteran Irondeep Surveyor (npcs_not_spawned, 1 point(s))
+- npc 13557 Champion Irondeep Surveyor (npcs_not_spawned, 1 point(s))
+- npc 13602 The Abominable Greench (npcs_not_spawned, 14 point(s))
+- npc 14455 Whirling Invader (npcs_not_spawned, 3 point(s))
+- npc 14458 Watery Invader (npcs_not_spawned, 1 point(s))
+- npc 14748 Vilebranch Kidnapper (npcs_not_spawned, 1 point(s))
+- npc 14822 Sayge (npcs_not_spawned, 2 point(s))
+- npc 14823 Silas Darkmoon (npcs_not_spawned, 2 point(s))
+- npc 14862 Emissary Roman'khan (npcs_not_spawned, 1 point(s))
+- npc 14887 Ysondre (npcs_not_spawned, 4 point(s))
+- npc 14888 Lethon (npcs_not_spawned, 4 point(s))
+- npc 14889 Emeriss (npcs_not_spawned, 4 point(s))
+- npc 14890 Taerar (npcs_not_spawned, 4 point(s))
+- npc 14990 Defilers Emissary (npcs_not_spawned, 32 point(s))
+- npc 15105 Warsong Emissary (npcs_not_spawned, 24 point(s))
+- npc 15203 Prince Skaldrenox (npcs_not_spawned, 3 point(s))
+- npc 15204 High Marshal Whirlaxis (npcs_not_spawned, 3 point(s))
+- npc 15205 Baron Kazum (npcs_not_spawned, 3 point(s))
+- npc 15206 The Duke of Cynders (npcs_not_spawned, 3 point(s))
+- npc 15207 The Duke of Fathoms (npcs_not_spawned, 3 point(s))
+- npc 15208 The Duke of Shards (npcs_not_spawned, 3 point(s))
+- npc 15209 Crimson Templar (npcs_not_spawned, 6 point(s))
+- npc 15211 Azure Templar (npcs_not_spawned, 6 point(s))
+- npc 15212 Hoary Templar (npcs_not_spawned, 6 point(s))
+- npc 15220 The Duke of Zephyrs (npcs_not_spawned, 3 point(s))
+- npc 15286 Xil'xix (npcs_not_spawned, 1 point(s))
+- npc 15288 Aluntir (npcs_not_spawned, 1 point(s))
+- npc 15290 Arakis (npcs_not_spawned, 1 point(s))
+- npc 15305 Lord Skwol (npcs_not_spawned, 3 point(s))
+- npc 15307 Earthen Templar (npcs_not_spawned, 6 point(s))
+- npc 15414 Qiraji Wasp (npcs_not_spawned, 12 point(s))
+- npc 15422 Qiraji Tank (npcs_not_spawned, 12 point(s))
+- npc 15423 Kaldorei Infantry (npcs_not_spawned, 30 point(s))
+- npc 15424 Anubisath Conqueror (npcs_not_spawned, 2 point(s))
+- npc 15466 Minion of Omen (npcs_not_spawned, 23 point(s))
+- npc 15554 Number Two (npcs_not_spawned, 1 point(s))
+- npc 15623 Xandivious (npcs_not_spawned, 1 point(s))
+- npc 15625 Twilight Corrupter (npcs_not_spawned, 1 point(s))
+- npc 15664 Metzen the Reindeer (npcs_not_spawned, 2 point(s))
+- npc 15692 Dark Iron Kidnapper (npcs_not_spawned, 10 point(s))
+- npc 15694 Stormwind Reveler (npcs_not_spawned, 3 point(s))
+- npc 15719 Thunder Bluff Reveler (npcs_not_spawned, 3 point(s))
+- npc 15746 Great-father Winter's Helper (npcs_not_spawned, 1 point(s))
+- npc 15760 Winter Reveler (npcs_not_spawned, 22 point(s))
+- npc 15895 Lunar Festival Harbinger (npcs_not_spawned, 8 point(s))
+- npc 15905 Darnassus Reveler (npcs_not_spawned, 2 point(s))
+- npc 15906 Ironforge Reveler (npcs_not_spawned, 3 point(s))
+- npc 15907 Undercity Reveler (npcs_not_spawned, 3 point(s))
+- npc 15908 Orgrimmar Reveler (npcs_not_spawned, 3 point(s))
+- npc 15961 Lunar Festival Sentinel (npcs_not_spawned, 12 point(s))
+- npc 16781 Midsummer Celebrant (npcs_not_spawned, 23 point(s))
+- npc 16817 Festival Loremaster (npcs_not_spawned, 3 point(s))
+- npc 16818 Festival Talespinner (npcs_not_spawned, 5 point(s))
+- npc 19541 Netherstorm Agent (npcs_not_spawned, 0 point(s))
+- npc 21277 Vindicator Vuuleen (npcs_not_spawned, 0 point(s))
+- npc 22250 Rancid Mushroom (npcs_not_spawned, 0 point(s))
+- npc 22253 Dragonmaw Ascendant (npcs_not_spawned, 0 point(s))
+- npc 28776 Elizabeth Ross (npcs_not_spawned, 2 point(s))
+- npc 28989 Aemara (npcs_not_spawned, 6 point(s))
+- npc 32403 Sandra Bartan (npcs_not_spawned, 2 point(s))
+- npc 32424 Laire Brewgold (npcs_not_spawned, 2 point(s))
+- npc 32426 Coira Longrifle (npcs_not_spawned, 1 point(s))
+- npc 32631 Alfred Copperworth (npcs_not_spawned, 4 point(s))
+- npc 32679 Darthalia Ebonscorch (npcs_not_spawned, 1 point(s))
+- npc 32688 Archmage Tenaj (npcs_not_spawned, 2 point(s))
+- npc 32735 Alchemist Burroughs (npcs_not_spawned, 1 point(s))
+- npc 32737 Archmage John Nicholas (npcs_not_spawned, 2 point(s))
+- npc 32738 Kat Sunflower (npcs_not_spawned, 1 point(s))
+- npc 32739 Baroness Zildjia (npcs_not_spawned, 1 point(s))
+- npc 32740 Archmage Rheaume (npcs_not_spawned, 1 point(s))
+- npc 32741 Conjurer Weinhaus (npcs_not_spawned, 1 point(s))
+- npc 32746 Geffon the Unruly (npcs_not_spawned, 2 point(s))
+- npc 34365 Orphan Matron Aria (npcs_not_spawned, 1 point(s))
+- npc 35591 Lesser Infernal (npcs_not_spawned, 0 point(s))
+- npc 36727 First Trough (npcs_not_spawned, 0 point(s))
+- npc 40833 Tiala Whitemane (npcs_not_spawned, 1 point(s))
+- object 180335 Darkmoon Faire Music Doodad (objects_not_spawned, 2 point(s))
+- object 180437 Wickerman Ember (objects_not_spawned, 4 point(s))
+- object 180749 Cheer Speaker (objects_not_spawned, 31 point(s))
+- object 180763 Firecrackers (objects_not_spawned, 93 point(s))
+- object 180764 Firecrackers (objects_not_spawned, 103 point(s))
+- object 180870 Firecrackers (objects_not_spawned, 3 point(s))
+- object 180871 Firecrackers (objects_not_spawned, 19 point(s))
+- object 180872 Firecrackers (objects_not_spawned, 9 point(s))
+- object 180873 Firecrackers (objects_not_spawned, 42 point(s))
+- object 181605 Ribbon Pole (objects_not_spawned, 25 point(s))
+- object 183356 Theatric Lightning (objects_not_spawned, 1 point(s))
+- object 188135 Ice Stone (objects_not_spawned, 1 point(s))
+- object 188174 Midsummer Music Doodad (objects_not_spawned, 4 point(s))
+- npc 252957 High Priestess Lorthuna (npcs_not_spawned, 8 point(s))
+- npc 255830 Malevolent Storm (npcs_not_spawned, 8 point(s))
+- npc 255833 Rohash (npcs_not_spawned, 4 point(s))
+- npc 256249 High Priestess Lorthuna (npcs_not_spawned, 4 point(s))
+- npc 256250 Living Storm (npcs_not_spawned, 5 point(s))
+- npc 256617 Duke Anvillaxx (npcs_not_spawned, 4 point(s))
+- npc 256620 Muln Earthfury (npcs_not_spawned, 2 point(s))
+- npc 256621 Archmage Ansirem Runeweaver (npcs_not_spawned, 3 point(s))
+- npc 257862 Earthen Ring Shaman (npcs_not_spawned, 1 point(s))
+- npc 257866 Kirin Tor Mage (npcs_not_spawned, 2 point(s))
+- npc 260396 Whispering Horror (npcs_not_spawned, 18 point(s))
+
+## the fork's SmartAI summons it (113)
+
+- npc 314 Eliza (npcs_not_spawned, 1 point(s))
+- npc 583 Defias Ambusher (npcs_not_spawned, 1 point(s))
+- npc 775 Kurzen's Agent (npcs_not_spawned, 1 point(s))
+- npc 1494 Negolash (npcs_not_spawned, 1 point(s))
+- npc 1511 Enraged Silverback Gorilla (npcs_not_spawned, 1 point(s))
+- npc 1514 Mokk the Savage (npcs_not_spawned, 1 point(s))
+- npc 1516 Konda (npcs_not_spawned, 1 point(s))
+- npc 1755 Marzon the Silent Blade (npcs_not_spawned, 1 point(s))
+- npc 1946 Lillith Nefara (npcs_not_spawned, 1 point(s))
+- npc 1983 Nightlash (npcs_not_spawned, 3 point(s))
+- npc 2044 Forlorn Spirit (npcs_not_spawned, 3 point(s))
+- npc 2060 Councilman Smithers (npcs_not_spawned, 1 point(s))
+- npc 2061 Councilman Thatcher (npcs_not_spawned, 1 point(s))
+- npc 2062 Councilman Hendricks (npcs_not_spawned, 1 point(s))
+- npc 2063 Councilman Wilhelm (npcs_not_spawned, 1 point(s))
+- npc 2064 Councilman Hartin (npcs_not_spawned, 1 point(s))
+- npc 2065 Councilman Cooper (npcs_not_spawned, 1 point(s))
+- npc 2066 Councilman Higarth (npcs_not_spawned, 1 point(s))
+- npc 2067 Councilman Brunswick (npcs_not_spawned, 1 point(s))
+- npc 2068 Lord Mayor Morrison (npcs_not_spawned, 1 point(s))
+- npc 2275 Enraged Stanley (npcs_not_spawned, 1 point(s))
+- npc 2434 Shadowy Assassin (npcs_not_spawned, 1 point(s))
+- npc 2757 Blacklash (npcs_not_spawned, 1 point(s))
+- npc 2759 Hematus (npcs_not_spawned, 1 point(s))
+- npc 2763 Thenan (npcs_not_spawned, 1 point(s))
+- npc 2794 Summoned Guardian (npcs_not_spawned, 1 point(s))
+- npc 2919 Fam'retor Guardian (npcs_not_spawned, 1 point(s))
+- npc 3395 Verog the Dervish (npcs_not_spawned, 1 point(s))
+- npc 3879 Dark Strand Assassin (npcs_not_spawned, 1 point(s))
+- npc 3893 Forsaken Scout (npcs_not_spawned, 1 point(s))
+- npc 3898 Aligar the Tormentor (npcs_not_spawned, 1 point(s))
+- npc 3899 Balizar the Umbrage (npcs_not_spawned, 1 point(s))
+- npc 3900 Caedakar the Vicious (npcs_not_spawned, 1 point(s))
+- npc 3946 Velinde Starsong (npcs_not_spawned, 2 point(s))
+- npc 3998 Windshear Vermin (npcs_not_spawned, 1 point(s))
+- npc 4001 Windshear Tunnel Rat (npcs_not_spawned, 1 point(s))
+- npc 4002 Windshear Stonecutter (npcs_not_spawned, 1 point(s))
+- npc 5043 Defias Rioter (npcs_not_spawned, 1 point(s))
+- npc 5680 Male Human Captive (npcs_not_spawned, 2 point(s))
+- npc 5681 Female Human Captive (npcs_not_spawned, 1 point(s))
+- npc 5685 Captive Ghoul (npcs_not_spawned, 1 point(s))
+- npc 5686 Captive Zombie (npcs_not_spawned, 1 point(s))
+- npc 5687 Captive Abomination (npcs_not_spawned, 1 point(s))
+- npc 5895 Minor Manifestation of Water (npcs_not_spawned, 1 point(s))
+- npc 6390 Ulag the Cleaver (npcs_not_spawned, 1 point(s))
+- npc 6866 Defias Bodyguard (npcs_not_spawned, 1 point(s))
+- npc 6911 Minion of Sethir (npcs_not_spawned, 1 point(s))
+- npc 7046 Searscale Drake (extra_spots, 3 point(s))
+- npc 7805 Wastewander Scofflaw (npcs_not_spawned, 1 point(s))
+- npc 7808 Marauding Owlbeast (npcs_not_spawned, 1 point(s))
+- npc 7809 Vilebranch Ambusher (npcs_not_spawned, 1 point(s))
+- npc 7848 Lurking Feral Scar (npcs_not_spawned, 1 point(s))
+- npc 7918 Stone Watcher of Norgannon (npcs_not_spawned, 1 point(s))
+- npc 8391 Lathoric the Black (npcs_not_spawned, 1 point(s))
+- npc 9136 Sha'ni Proudtusk (npcs_not_spawned, 1 point(s))
+- npc 9157 Bloodpetal Pest (npcs_not_spawned, 4 point(s))
+- npc 9461 Frenzied Black Drake (npcs_not_spawned, 1 point(s))
+- npc 9522 Blackrock Ambusher (npcs_not_spawned, 2 point(s))
+- npc 9523 Kolkar Stormseer (npcs_not_spawned, 1 point(s))
+- npc 9524 Kolkar Invader (npcs_not_spawned, 1 point(s))
+- npc 10323 Murkdeep (npcs_not_spawned, 1 point(s))
+- npc 10741 Sian-Rotam (npcs_not_spawned, 1 point(s))
+- npc 10836 Farmer Dalson (npcs_not_spawned, 1 point(s))
+- npc 10936 Joseph Redpath (npcs_not_spawned, 1 point(s))
+- npc 11075 Cauldron Lord Bilemaw (npcs_not_spawned, 1 point(s))
+- npc 11076 Cauldron Lord Razarch (npcs_not_spawned, 1 point(s))
+- npc 11077 Cauldron Lord Malvinious (npcs_not_spawned, 1 point(s))
+- npc 11078 Cauldron Lord Soulwrath (npcs_not_spawned, 1 point(s))
+- npc 11288 Spectral Betrayer (npcs_not_spawned, 1 point(s))
+- npc 11714 Marosh the Devious (npcs_not_spawned, 1 point(s))
+- npc 11876 Demon Spirit (npcs_not_spawned, 1 point(s))
+- npc 11937 Demon Portal Guardian (npcs_not_spawned, 20 point(s))
+- npc 12126 Lord Tirion Fordring (npcs_not_spawned, 1 point(s))
+- npc 12128 Crimson Elite (npcs_not_spawned, 1 point(s))
+- npc 12339 Demetria (npcs_not_spawned, 1 point(s))
+- npc 12369 Lord Kragaru (npcs_not_spawned, 1 point(s))
+- npc 12860 Duriel Moonfire (npcs_not_spawned, 1 point(s))
+- npc 12918 Chief Murgut (npcs_not_spawned, 1 point(s))
+- npc 13301 Hive'Ashi Ambusher (npcs_not_spawned, 1 point(s))
+- object 19592 NG-5 Explosives (Red) (objects_not_spawned, 1 point(s))
+- object 19601 NG-5 Explosives (Blue) (objects_not_spawned, 1 point(s))
+- object 92252 Strahad's Summoning Circle (objects_not_spawned, 1 point(s))
+- object 92388 Summoning Circle (objects_not_spawned, 1 point(s))
+- object 164881 Cleansed Night Dragon (objects_not_spawned, 1 point(s))
+- object 164882 Cleansed Songflower (objects_not_spawned, 1 point(s))
+- object 164883 Cleansed Whipper Root (objects_not_spawned, 1 point(s))
+- object 164884 Cleansed Windblossom (objects_not_spawned, 1 point(s))
+- object 171940 Cleansed Songflower (objects_not_spawned, 1 point(s))
+- object 171943 Cleansed Songflower (objects_not_spawned, 1 point(s))
+- object 173325 Cleansed Night Dragon (objects_not_spawned, 1 point(s))
+- object 173326 Cleansed Windblossom (objects_not_spawned, 1 point(s))
+- object 174609 Cleansed Night Dragon (objects_not_spawned, 1 point(s))
+- object 174610 Cleansed Songflower (objects_not_spawned, 1 point(s))
+- object 174612 Cleansed Songflower (objects_not_spawned, 1 point(s))
+- object 174613 Cleansed Songflower (objects_not_spawned, 1 point(s))
+- object 174614 Cleansed Songflower (objects_not_spawned, 1 point(s))
+- object 174615 Cleansed Songflower (objects_not_spawned, 1 point(s))
+- object 174616 Cleansed Windblossom (objects_not_spawned, 1 point(s))
+- object 174617 Cleansed Windblossom (objects_not_spawned, 1 point(s))
+- object 174618 Cleansed Windblossom (objects_not_spawned, 1 point(s))
+- object 174619 Cleansed Windblossom (objects_not_spawned, 1 point(s))
+- object 174620 Cleansed Windblossom (objects_not_spawned, 1 point(s))
+- object 174621 Cleansed Windblossom (objects_not_spawned, 1 point(s))
+- object 174622 Cleansed Whipper Root (objects_not_spawned, 1 point(s))
+- object 174623 Cleansed Whipper Root (objects_not_spawned, 1 point(s))
+- object 174624 Cleansed Whipper Root (objects_not_spawned, 1 point(s))
+- object 174625 Cleansed Whipper Root (objects_not_spawned, 1 point(s))
+- object 174685 Cleansed Night Dragon (objects_not_spawned, 1 point(s))
+- object 174687 Cleansed Whipper Root (objects_not_spawned, 1 point(s))
+- object 174710 Cleansed Windblossom (objects_not_spawned, 1 point(s))
+- object 174711 Cleansed Windblossom (objects_not_spawned, 1 point(s))
+- object 174714 Cleansed Songflower (objects_not_spawned, 1 point(s))
+- object 174715 Cleansed Songflower (objects_not_spawned, 1 point(s))
+
+## a client spell summons it (88)
+
+- npc 68 Stormwind City Guard (extra_spots, 26 point(s))
+- npc 727 Ironforge Mountaineer (extra_spots, 26 point(s))
+- npc 736 Panther (extra_spots, 24 point(s))
+- npc 756 Skullsplitter Panther (npcs_not_spawned, 1 point(s))
+- npc 771 Commander Felstrom (extra_spots, 10 point(s))
+- npc 2462 Flesh Eating Worm (npcs_not_spawned, 1 point(s))
+- npc 2676 Compact Harvest Reaper (extra_spots, 2 point(s))
+- npc 3560 Healing Ward (npcs_not_spawned, 1 point(s))
+- npc 3619 Ghost Saber (npcs_not_spawned, 3 point(s))
+- npc 3640 Evolving Ectoplasm (extra_spots, 0 point(s))
+- npc 4263 Deepmoss Hatchling (npcs_not_spawned, 1 point(s))
+- npc 4264 Deepmoss Matriarch (npcs_not_spawned, 4 point(s))
+- npc 5766 Savannah Cub (extra_spots, 8 point(s))
+- npc 5806 Treant Ally (npcs_not_spawned, 7 point(s))
+- npc 6549 Demon of the Orb (npcs_not_spawned, 1 point(s))
+- npc 7168 Polly (npcs_not_spawned, 1 point(s))
+- npc 7360 Dun Garok Soldier (npcs_not_spawned, 1 point(s))
+- npc 7386 White Kitten (npcs_not_spawned, 1 point(s))
+- npc 7729 Spirit of Kirith (npcs_not_spawned, 1 point(s))
+- npc 7732 Dupe Bug (npcs_not_spawned, 1 point(s))
+- npc 7734 Ilifar (npcs_not_spawned, 1 point(s))
+- npc 7735 Felcular (npcs_not_spawned, 1 point(s))
+- npc 7750 Corporal Thund Splithoof (npcs_not_spawned, 1 point(s))
+- npc 7767 Witherbark Felhunter (npcs_not_spawned, 3 point(s))
+- npc 7768 Witherbark Bloodling (npcs_not_spawned, 3 point(s))
+- npc 7899 Treasure Hunting Pirate (npcs_not_spawned, 6 point(s))
+- npc 7901 Treasure Hunting Swashbuckler (npcs_not_spawned, 6 point(s))
+- npc 7902 Treasure Hunting Buccaneer (npcs_not_spawned, 6 point(s))
+- npc 7980 Deathguard Elite (extra_spots, 7 point(s))
+- npc 8096 Protector of the People (npcs_not_spawned, 3 point(s))
+- npc 8337 Dark Iron Steelshifter (npcs_not_spawned, 1 point(s))
+- npc 8612 Screecher Spirit (npcs_not_spawned, 24 point(s))
+- npc 8996 Voidwalker Minion (npcs_not_spawned, 1 point(s))
+- npc 9297 Enraged Wyvern (npcs_not_spawned, 28 point(s))
+- npc 9477 Cloned Ooze (npcs_not_spawned, 5 point(s))
+- npc 9521 Enraged Felbat (npcs_not_spawned, 4 point(s))
+- npc 9526 Enraged Gryphon (npcs_not_spawned, 20 point(s))
+- npc 9527 Enraged Hippogryph (npcs_not_spawned, 14 point(s))
+- object 10076 Scrying Bowl (objects_not_spawned, 1 point(s))
+- npc 10717 Temporal Parasite (npcs_not_spawned, 20 point(s))
+- npc 10996 Fallen Hero (npcs_not_spawned, 50 point(s))
+- npc 11064 Darrowshire Spirit (npcs_not_spawned, 24 point(s))
+- npc 12261 Infected Mossflayer (npcs_not_spawned, 1 point(s))
+- npc 12352 Scarlet Trooper (npcs_not_spawned, 9 point(s))
+- npc 12898 Phantim Illusion (npcs_not_spawned, 1 point(s))
+- npc 13136 Hive'Ashi Drone (npcs_not_spawned, 2 point(s))
+- npc 14305 Human Orphan (npcs_not_spawned, 1 point(s))
+- npc 14444 Orcish Orphan (npcs_not_spawned, 1 point(s))
+- npc 14564 Terrordale Spirit (npcs_not_spawned, 24 point(s))
+- npc 15214 Invisible Stalker (extra_spots, 4 point(s))
+- npc 15712 Dirt Mound (npcs_not_spawned, 1 point(s))
+- npc 16143 Shadow of Doom (npcs_not_spawned, 34 point(s))
+- npc 16356 Scourge Invasion Minion, finder (npcs_not_spawned, 163 point(s))
+- npc 16401 Necropolis (npcs_not_spawned, 14 point(s))
+- npc 16421 Necropolis health (npcs_not_spawned, 14 point(s))
+- npc 16479 Polymorph Clone (npcs_not_spawned, 2 point(s))
+- npc 16606 Midsummer Bonfire Despawner (npcs_not_spawned, 26 point(s))
+- npc 17066 Ribbon Pole Debug Target (npcs_not_spawned, 7 point(s))
+- object 19021 Rusty Chest (objects_not_spawned, 24 point(s))
+- npc 41938 Tremor Totem (npcs_not_spawned, 1 point(s))
+- object 144064 Gordunni Dirt Mound (objects_not_spawned, 18 point(s))
+- object 175264 Broodling Essence (objects_not_spawned, 24 point(s))
+- object 175321 Unforged Seal of Ascension (objects_not_spawned, 1 point(s))
+- object 175322 Forged Seal of Ascension (objects_not_spawned, 1 point(s))
+- object 177241 Araj's Phylactery (objects_not_spawned, 1 point(s))
+- object 177624 Xabraxxis' Demon Bag (objects_not_spawned, 1 point(s))
+- object 178227 Murgut's Totem Basket (objects_not_spawned, 1 point(s))
+- object 180206 Grom's Troll Tribute (objects_not_spawned, 1 point(s))
+- object 180207 Grom's Orc Tribute (objects_not_spawned, 1 point(s))
+- object 180208 Grom's Forsaken Tribute (objects_not_spawned, 1 point(s))
+- object 180209 Grom's Tauren Tribute (objects_not_spawned, 1 point(s))
+- object 180210 Uther's Human Tribute (objects_not_spawned, 1 point(s))
+- object 180213 Uther's Night Elf Tribute (objects_not_spawned, 1 point(s))
+- object 180214 Uther's Dwarf Tribute (objects_not_spawned, 1 point(s))
+- object 180449 Forsaken Stink Bomb (objects_not_spawned, 4 point(s))
+- object 180859 Cluster Launcher (objects_not_spawned, 2 point(s))
+- npc 259842 Musical Gustjumper (npcs_not_spawned, 29 point(s))
+- npc 264850 Hawk (npcs_not_spawned, 57 point(s))
+- npc 266025 Rat Familiar (npcs_not_spawned, 62 point(s))
+- npc 266735 Excitable Slime (npcs_not_spawned, 43 point(s))
+- npc 268707 Prairie Wolf Pup (npcs_not_spawned, 6 point(s))
+- npc 268744 Frog Familiar (npcs_not_spawned, 8 point(s))
+- npc 268765 Lava Spout Totem (npcs_not_spawned, 7 point(s))
+- npc 271368 Shadowgale Squirrel (npcs_not_spawned, 1 point(s))
+- npc 271636 Weevil K. Neevil (npcs_not_spawned, 3 point(s))
+- npc 271913 Plagued Cockroach (extra_spots, 4 point(s))
+- npc 271968 Forsaken Adventurer (extra_spots, 14 point(s))
+- npc 273391 Baby Crocolisk (npcs_not_spawned, 1 point(s))
+
+## further spots no live sighting confirms (8)
+
+- npc 3416 Savannah Matriarch: further spots (extra_spots): 1 more spot(s) far from every spawn: no live sighting confirms them, or only players' positions (EG Link) show them
+- npc 251245 Prideclaw: further spots (extra_spots): 7 more spot(s) far from every spawn: no live sighting confirms them, or only players' positions (EG Link) show them
+- npc 254588 Windsong Crawler: further spots (extra_spots): 4 more spot(s) far from every spawn: no live sighting confirms them, or only players' positions (EG Link) show them
+- npc 266849 Ridgeshade Lurker: further spots (extra_spots): 2 more spot(s) far from every spawn: no live sighting confirms them, or only players' positions (EG Link) show them
+- npc 266850 Ridgeshade Creeper: further spots (extra_spots): 2 more spot(s) far from every spawn: no live sighting confirms them, or only players' positions (EG Link) show them
+- npc 267006 Dark Neophyte: further spots (extra_spots): 2 more spot(s) far from every spawn: no live sighting confirms them, or only players' positions (EG Link) show them
+- npc 275437 Dark Enforcer: further spots (extra_spots): 2 more spot(s) far from every spawn: no live sighting confirms them, or only players' positions (EG Link) show them
+- npc 277882 Foothills Duskbat: further spots (extra_spots): 8 more spot(s) far from every spawn: no live sighting confirms them, or only players' positions (EG Link) show them
+
+## a test or do-not-display one (its name says so) (4)
+
+- npc 10720 Galak Assassin (npcs_not_spawned, 1 point(s))
+- npc 10882 Arikara (npcs_not_spawned, 1 point(s))
+- npc 14242 Sulhasa (npcs_not_spawned, 2 point(s))
+- npc 15801 GONG BOY DND DNR (npcs_not_spawned, 2 point(s))
+
+## no height, and the point is in water (2)
+
+- npc 3476 Isha Awak (extra_spots)
+- npc 250927 Shadowgale Ursera (extra_spots)
+
+## an object's other points: no live sighting confirms them, or no usable height (1)
+
+- object 180523 Apple Bob: its other points (objects_not_spawned, 38 point(s)): 37 more point(s): no live sighting within 40 yards
+
+## some of its points have no usable height (1)
+
+- npc 275437 Dark Enforcer: some points (extra_spots, 24 point(s)): no height, and a fork spawn within 10 yards stands off the ground (a building, bridge or cave: +2.7 yards)
