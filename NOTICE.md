@@ -13,7 +13,7 @@ dates) of every source it was made from.
 - **EG Link** by Efficient Games: Data from Efficient Games (https://efficient.games), licensed under CC BY 4.0
   (https://creativecommons.org/licenses/by/4.0/). Changed: voted against the other sources and written as TrinityCore
   rows. Used for: quest progress and completion texts, quest records, objectives; loot drops and their chances
-  (slice 2: drops per loot window).
+  (slice 2: drops per loot window); trainer spells and vendor stock (slice 3: trainer and vendor windows).
 - **forever-db** from Polestar (https://github.com/fitzforge/polestar): GPL-3.0 for its tables. Used for: quest givers
   and enders, objectives (checked against); the client item list loot items are checked against; its drop rows
   (`item_source`, which Polestar builds from pfQuest/VMaNGOS and CMaNGOS Classic data) as Classic drop chances, each
@@ -25,6 +25,6 @@ dates) of every source it was made from.
 - **TrinityCore `forever` branch** (https://github.com/advocaite/TrinityCore/tree/forever), GPL-2.0: the world
   the files are written against; its Forever beta sniffs vote too.
 - Wowhead's public tooltips and the item history of ericbtaylorjr/forever-db were used as references only; nothing is
-  copied from them.
+  copied from them (slice 3 checks against the item history that a trainer's spells exist in the client).
 
 Game content such as names and text belongs to Blizzard Entertainment.

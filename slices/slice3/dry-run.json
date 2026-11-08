@@ -1,0 +1,362 @@
+{
+ "categories": [
+  "quests_ender_differs",
+  "quests_giver_differs",
+  "quests_no_completion_text",
+  "quests_no_ender",
+  "quests_no_giver",
+  "quests_no_objectives",
+  "quests_no_progress_text",
+  "quests_no_text",
+  "loot_items_missing",
+  "npcs_no_loot",
+  "trainer_spells_missing",
+  "trainers_unlinked",
+  "vendor_items_missing",
+  "vendors_no_stock"
+ ],
+ "checks": [
+  {
+   "check": "stepped run: the updater skips every fork file (the deployed state is the fork world)",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "stepped run: the updater applies each of our files once, in name order",
+   "detail": "[{\"file\": \"2026_11_08_00_world_everlake_import_slice1.sql\", \"mode\": \"applied\", \"statements\": 50, \"left_out\": 0}, {\"file\": \"2026_11_08_01_world_everlake_import_slice1_corrections.sql\", \"mode\": \"applied\", \"statements\": 167, \"left_out\": 0}, {\"file\": \"2026_11_08_02_world_everlake_import_slice2.sql\", \"mode\": \"applied\", \"statements\": 134, \"left_out\": 0}, {\"file\": \"2026_11_08_03_world_everlake_import_slice2_corrections.sql\", \"mode\": \"applied\", \"statements\": 359, \"left_out\": 0}, {\"file\": \"2026_11_08_04_world_everlake_import_slice3.sql\", \"mode\": \"applied\", \"statements\": 15, \"left_out\": 0}]",
+   "ok": true
+  },
+  {
+   "check": "from scratch: each of our files applied once, after every fork file",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "both runs have the same tables",
+   "detail": "only scratch: []; only stepped: []",
+   "ok": true
+  },
+  {
+   "check": "both runs end with the same world",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "fork rows outside the corrections are unchanged (rows added = rows recorded; removed and changed = the corrections')",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "the only new table is everlake_import_rows",
+   "detail": "['everlake_import_rows']",
+   "ok": true
+  },
+  {
+   "check": "every recorded key's row is in the world, once",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "no key collides with a fork row",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "every recorded row names one of our files",
+   "detail": "{'2026_11_08_00_world_everlake_import_slice1.sql': 210, '2026_11_08_01_world_everlake_import_slice1_corrections.sql': 144, '2026_11_08_02_world_everlake_import_slice2.sql': 1502, '2026_11_08_04_world_everlake_import_slice3.sql': 217}",
+   "ok": true
+  },
+  {
+   "check": "every new row points at things that exist",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "running our files again changes nothing",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "the updater skips every file on the next start",
+   "detail": "[]",
+   "ok": true
+  },
+  {
+   "check": "... and the world stays the same",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "the gap report: each gap of the slices' categories is closed, or on the review or held-back list",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "the gap report: no category gains an item",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "after the fork takes over quest 79097's creature_questender rows (2 were ours), a re-run adds nothing next to its",
+   "detail": "[(211022, 70900)]",
+   "ok": true
+  },
+  {
+   "check": "after the fork re-sniffs quest_template {'ID': 5634}, a re-run of the corrections leaves it",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "after the fork puts back creature_queststarter 4217 for quest 6121, a re-run of the corrections leaves it",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "after the fork drops item 735 from loot table 46 (ours), a re-run doesn't add it back",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "after the fork links creature 68's own loot table, a re-run of slice 2 leaves it",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "after the fork drops spell 20271 from trainer list 28 (ours), a re-run doesn't add it back",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "where the fork lists vendor 791's item 11291 at its own price, our file adds nothing next to it",
+   "detail": "",
+   "ok": true
+  }
+ ],
+ "closed": {
+  "loot_items_missing": 925,
+  "npcs_no_loot": 616,
+  "quests_ender_differs": 8,
+  "quests_giver_differs": 27,
+  "quests_no_completion_text": 77,
+  "quests_no_ender": 40,
+  "quests_no_giver": 46,
+  "quests_no_objectives": 4,
+  "quests_no_progress_text": 41,
+  "quests_no_text": 1,
+  "trainer_spells_missing": 127,
+  "trainers_unlinked": 0,
+  "vendor_items_missing": 88,
+  "vendors_no_stock": 1
+ },
+ "files": [
+  {
+   "kind": "import",
+   "name": "2026_11_08_00_world_everlake_import_slice1.sql",
+   "sha1": "53F438C1D0E5B57659F1C93CD61A018E3F4DBCAD"
+  },
+  {
+   "kind": "corrections",
+   "name": "2026_11_08_01_world_everlake_import_slice1_corrections.sql",
+   "sha1": "DC60501BC15004BE2D145474D727980242C99683"
+  },
+  {
+   "kind": "import",
+   "name": "2026_11_08_02_world_everlake_import_slice2.sql",
+   "sha1": "F7E96DB4AA5DF4F42AD7A38EF487288C4087EE19"
+  },
+  {
+   "kind": "corrections",
+   "name": "2026_11_08_03_world_everlake_import_slice2_corrections.sql",
+   "sha1": "E0567EF485033587A6FC6C4D507AAE996E7335DE"
+  },
+  {
+   "kind": "import",
+   "name": "2026_11_08_04_world_everlake_import_slice3.sql",
+   "sha1": "990E7CECA92C6C1BDEAB93F11B9C24304CFE232C"
+  }
+ ],
+ "gaps_after": {
+  "extra_spots": 574,
+  "loot_items_missing": 1979,
+  "missing_npcs": 1213,
+  "missing_quests_data": 114,
+  "missing_quests_live": 762,
+  "npcs_no_loot": 34,
+  "npcs_not_spawned": 934,
+  "objects_missing": 178,
+  "objects_not_spawned": 537,
+  "quest_rewards_missing": 5,
+  "quests_ender_differs": 51,
+  "quests_giver_differs": 60,
+  "quests_no_completion_text": 1,
+  "quests_no_ender": 32,
+  "quests_no_giver": 31,
+  "quests_no_objectives": 169,
+  "quests_no_progress_text": 1,
+  "renamed_quests": 17,
+  "trainer_spells_missing": 220,
+  "trainers_unlinked": 1,
+  "vendor_items_missing": 69,
+  "vendors_no_stock": 1
+ },
+ "gaps_before": {
+  "extra_spots": 574,
+  "loot_items_missing": 2865,
+  "missing_npcs": 1213,
+  "missing_quests_data": 114,
+  "missing_quests_live": 762,
+  "npcs_no_loot": 650,
+  "npcs_not_spawned": 934,
+  "objects_missing": 178,
+  "objects_not_spawned": 537,
+  "quest_rewards_missing": 5,
+  "quests_ender_differs": 58,
+  "quests_giver_differs": 86,
+  "quests_no_completion_text": 78,
+  "quests_no_ender": 72,
+  "quests_no_giver": 77,
+  "quests_no_objectives": 173,
+  "quests_no_progress_text": 42,
+  "quests_no_text": 1,
+  "renamed_quests": 17,
+  "trainer_spells_missing": 347,
+  "trainers_unlinked": 1,
+  "vendor_items_missing": 157,
+  "vendors_no_stock": 2
+ },
+ "left": {
+  "loot_items_missing": {
+   "held back": 1450,
+   "review": 529
+  },
+  "npcs_no_loot": {
+   "held back": 30,
+   "review": 4
+  },
+  "quests_ender_differs": {
+   "held back": 2,
+   "review": 49
+  },
+  "quests_giver_differs": {
+   "held back": 3,
+   "review": 57
+  },
+  "quests_no_completion_text": {
+   "review": 1
+  },
+  "quests_no_ender": {
+   "held back": 32
+  },
+  "quests_no_giver": {
+   "held back": 31
+  },
+  "quests_no_objectives": {
+   "held back": 169
+  },
+  "quests_no_progress_text": {
+   "review": 1
+  },
+  "quests_no_text": {},
+  "trainer_spells_missing": {
+   "held back": 135,
+   "review": 85
+  },
+  "trainers_unlinked": {
+   "held back": 1
+  },
+  "vendor_items_missing": {
+   "held back": 69
+  },
+  "vendors_no_stock": {
+   "held back": 1
+  }
+ },
+ "made": "2026-11-08T18:01:35Z",
+ "ok": true,
+ "recorded": {
+  "creature_loot_template": 1502,
+  "creature_questender": 85,
+  "creature_queststarter": 124,
+  "gameobject_questender": 9,
+  "gameobject_queststarter": 14,
+  "npc_vendor": 90,
+  "quest_objectives": 4,
+  "quest_offer_reward": 77,
+  "quest_request_items": 41,
+  "trainer_spell": 127
+ },
+ "report": "slice3",
+ "scratch_run": true,
+ "slices": [
+  "slice1",
+  "slice2",
+  "slice3"
+ ],
+ "tables_changed": {
+  "creature_loot_template": {
+   "added": 1502,
+   "changed": 0,
+   "removed": 0
+  },
+  "creature_questender": {
+   "added": 85,
+   "changed": 0,
+   "removed": 1
+  },
+  "creature_queststarter": {
+   "added": 124,
+   "changed": 0,
+   "removed": 3
+  },
+  "creature_template_difficulty": {
+   "added": 0,
+   "changed": 177,
+   "removed": 0
+  },
+  "gameobject_questender": {
+   "added": 9,
+   "changed": 0,
+   "removed": 0
+  },
+  "gameobject_queststarter": {
+   "added": 14,
+   "changed": 0,
+   "removed": 0
+  },
+  "npc_vendor": {
+   "added": 90,
+   "changed": 0,
+   "removed": 0
+  },
+  "quest_objectives": {
+   "added": 4,
+   "changed": 0,
+   "removed": 0
+  },
+  "quest_offer_reward": {
+   "added": 77,
+   "changed": 0,
+   "removed": 0
+  },
+  "quest_request_items": {
+   "added": 41,
+   "changed": 0,
+   "removed": 0
+  },
+  "quest_template": {
+   "added": 0,
+   "changed": 1,
+   "removed": 0
+  },
+  "trainer_spell": {
+   "added": 127,
+   "changed": 0,
+   "removed": 0
+  }
+ },
+ "timings_s": {
+  "scratch": 163,
+  "stepped": 116
+ },
+ "world": "forever-tdb-2026-10-14+updates@2ae1313e9f"
+}
