@@ -7,7 +7,7 @@
   },
   {
    "check": "stepped run: the updater applies each of our files once",
-   "detail": "[{\"file\": \"2026_11_08_00_world_everlake_import_slice1.sql\", \"mode\": \"applied\", \"statements\": 43, \"left_out\": 0}, {\"file\": \"2026_11_08_01_world_everlake_import_slice1_corrections.sql\", \"mode\": \"applied\", \"statements\": 167, \"left_out\": 0}]",
+   "detail": "[{\"file\": \"2026_11_08_00_world_everlake_import_slice1.sql\", \"mode\": \"applied\", \"statements\": 50, \"left_out\": 0}, {\"file\": \"2026_11_08_01_world_everlake_import_slice1_corrections.sql\", \"mode\": \"applied\", \"statements\": 167, \"left_out\": 0}]",
    "ok": true
   },
   {
@@ -47,7 +47,7 @@
   },
   {
    "check": "every recorded row names one of our files",
-   "detail": "{'2026_11_08_00_world_everlake_import_slice1.sql': 206, '2026_11_08_01_world_everlake_import_slice1_corrections.sql': 144}",
+   "detail": "{'2026_11_08_00_world_everlake_import_slice1.sql': 210, '2026_11_08_01_world_everlake_import_slice1_corrections.sql': 144}",
    "ok": true
   },
   {
@@ -102,7 +102,7 @@
   "quests_no_completion_text": 77,
   "quests_no_ender": 40,
   "quests_no_giver": 46,
-  "quests_no_objectives": 0,
+  "quests_no_objectives": 4,
   "quests_no_progress_text": 41,
   "quests_no_text": 1
  },
@@ -110,7 +110,7 @@
   {
    "kind": "import",
    "name": "2026_11_08_00_world_everlake_import_slice1.sql",
-   "sha1": "322C8231A2CE714188EF6EE44DCE2F66F8ED6E84"
+   "sha1": "53F438C1D0E5B57659F1C93CD61A018E3F4DBCAD"
   },
   {
    "kind": "corrections",
@@ -135,7 +135,7 @@
   "quests_no_completion_text": 1,
   "quests_no_ender": 32,
   "quests_no_giver": 31,
-  "quests_no_objectives": 173,
+  "quests_no_objectives": 169,
   "quests_no_progress_text": 1,
   "quests_no_text": 0,
   "renamed_quests": 17,
@@ -189,20 +189,21 @@
    "held back": 31
   },
   "quests_no_objectives": {
-   "held back": 173
+   "held back": 169
   },
   "quests_no_progress_text": {
    "review": 1
   },
   "quests_no_text": {}
  },
- "made": "2026-11-08T15:39:30Z",
+ "made": "2026-11-08T16:37:20Z",
  "ok": true,
  "recorded": {
   "creature_questender": 85,
   "creature_queststarter": 124,
   "gameobject_questender": 9,
   "gameobject_queststarter": 14,
+  "quest_objectives": 4,
   "quest_offer_reward": 77,
   "quest_request_items": 41
  },
@@ -229,6 +230,11 @@
    "changed": 0,
    "removed": 0
   },
+  "quest_objectives": {
+   "added": 4,
+   "changed": 0,
+   "removed": 0
+  },
   "quest_offer_reward": {
    "added": 77,
    "changed": 0,
@@ -246,8 +252,8 @@
   }
  },
  "timings_s": {
-  "scratch": 182,
-  "stepped": 84
+  "scratch": 164,
+  "stepped": 78
  },
  "world": "forever-tdb-2026-10-14+updates@2ae1313e9f"
 }

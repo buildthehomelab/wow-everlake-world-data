@@ -1,10 +1,10 @@
 # Everlake world import, slice1: dry run
 
-Made 2026-11-08T15:39:30Z by tools/forever-data/import_dryrun.py against the fork world forever-tdb-2026-10-14+updates@2ae1313e9f. Result: **every check passes**.
+Made 2026-11-08T16:37:20Z by tools/forever-data/import_dryrun.py against the fork world forever-tdb-2026-10-14+updates@2ae1313e9f. Result: **every check passes**.
 
 ## Files
 
-- `2026_11_08_00_world_everlake_import_slice1.sql` (import, SHA1 322C8231A2CE)
+- `2026_11_08_00_world_everlake_import_slice1.sql` (import, SHA1 53F438C1D0E5)
 - `2026_11_08_01_world_everlake_import_slice1_corrections.sql` (corrections, SHA1 DC60501BC150)
 
 ## What the files do
@@ -15,19 +15,20 @@ Made 2026-11-08T15:39:30Z by tools/forever-data/import_dryrun.py against the for
 | add `creature_queststarter` | 46 |
 | add `gameobject_questender` | 1 |
 | add `gameobject_queststarter` | 1 |
+| add `quest_objectives` | 4 |
 | add `quest_offer_reward` | 77 |
 | add `quest_request_items` | 41 |
 | corrections: other givers or enders | 128 quests: 144 rows added, 4 fork rows removed |
 | corrections: empty text filled in | 1 |
 | close calls (review list, not in the files) | 108 |
-| held back | 242 |
+| held back | 238 |
 
-Objective rows: none written: no public source records their Flags (see held back).
+Objective rows: written with Flags,Flags2 = [32, 0].
 
 ## Runs
 
-- Stepped (the fork world as deployed, then our files): 84 s.
-- From scratch (the world release, then every fork file and ours in name order): 182 s.
+- Stepped (the fork world as deployed, then our files): 78 s.
+- From scratch (the world release, then every fork file and ours in name order): 164 s.
 
 ## Checks
 
@@ -51,7 +52,7 @@ Objective rows: none written: no public source records their Flags (see held bac
 - pass: after the fork re-sniffs quest_template {'ID': 5634}, a re-run of the corrections leaves it
 - pass: after the fork puts back creature_queststarter 4217 for quest 6121, a re-run of the corrections leaves it
 
-Tables changed against the fork world (rows): `creature_questender` +85 -1 ~0, `creature_queststarter` +124 -3 ~0, `gameobject_questender` +9 -0 ~0, `gameobject_queststarter` +14 -0 ~0, `quest_offer_reward` +77 -0 ~0, `quest_request_items` +41 -0 ~0, `quest_template` +0 -0 ~1
+Tables changed against the fork world (rows): `creature_questender` +85 -1 ~0, `creature_queststarter` +124 -3 ~0, `gameobject_questender` +9 -0 ~0, `gameobject_queststarter` +14 -0 ~0, `quest_objectives` +4 -0 ~0, `quest_offer_reward` +77 -0 ~0, `quest_request_items` +41 -0 ~0, `quest_template` +0 -0 ~1
 
 ## Gap report, before and after
 
@@ -62,7 +63,7 @@ Tables changed against the fork world (rows): `creature_questender` +85 -1 ~0, `
 | quests_no_ender | 72 | 32 | 40 | 0 | 32 | 0 |
 | quests_ender_differs | 58 | 51 | 8 | 49 | 2 | 0 |
 | quests_no_text | 1 | 0 | 1 | 0 | 0 | 0 |
-| quests_no_objectives | 173 | 173 | 0 | 0 | 173 | 0 |
+| quests_no_objectives | 173 | 169 | 4 | 0 | 169 | 0 |
 | quests_no_progress_text | 42 | 1 | 41 | 1 | 0 | 0 |
 | quests_no_completion_text | 78 | 1 | 77 | 1 | 0 | 0 |
 
@@ -74,7 +75,8 @@ Full list: held-back.md.
 
 - 151 x objectives: Forever's objective ids aren't recorded
 - 69 x the NPC or object has no template in the world (slice 5)
-- 22 x objectives: Flags not recorded
+- 17 x objectives: area trigger or reputation objectives (need more than a row)
+- 1 x objectives: a target NPC or object isn't in the world (slice 5)
 
 ## Close calls
 
