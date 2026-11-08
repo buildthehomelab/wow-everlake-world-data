@@ -1,0 +1,1504 @@
+# Slice 2: held back
+
+Drops without a usable chance, or that need something we don't have, and why. Nothing here was guessed.
+
+## the loot table is shared with other creatures that don't show the drop (622)
+
+- npc 10983 Winterax Troll: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 10983 is also creature 22794's, which would drop it too. Seen: Classic 100%
+- npc 10983 Winterax Troll: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 10983 is also creature 22794's, which would drop it too. Seen: Classic 100%
+- npc 10983 Winterax Troll: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 10983 is also creature 22794's, which would drop it too. Seen: Classic 100%
+- npc 10983 Winterax Troll: item 17422 Armor Scraps (loot_items_missing): loot table 10983 is also creature 22794's, which would drop it too. Seen: Classic 80%
+- npc 10983 Winterax Troll: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 10983 is also creature 22794's, which would drop it too. Seen: Classic 100%
+- npc 10983 Winterax Troll: item 18144 Human Bone Chip (loot_items_missing): loot table 10983 is also creature 22794's, which would drop it too. Seen: Classic 100%
+- npc 10983 Winterax Troll: item 18147 Forsaken Heart (loot_items_missing): loot table 10983 is also creature 22794's, which would drop it too. Seen: Classic 100%
+- npc 10984 Winterax Berserker: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 10984 is also creature 22725's, which would drop it too. Seen: Classic 100%
+- npc 10984 Winterax Berserker: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 10984 is also creature 22725's, which would drop it too. Seen: Classic 100%
+- npc 10984 Winterax Berserker: item 17422 Armor Scraps (loot_items_missing): loot table 10984 is also creature 22725's, which would drop it too. Seen: Classic 80%
+- npc 10984 Winterax Berserker: item 17423 Storm Crystal (loot_items_missing): loot table 10984 is also creature 22725's, which would drop it too. Seen: Classic 80%
+- npc 10984 Winterax Berserker: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 10984 is also creature 22725's, which would drop it too. Seen: Classic 100%
+- npc 10984 Winterax Berserker: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 10984 is also creature 22725's, which would drop it too. Seen: Classic 100%
+- npc 10984 Winterax Berserker: item 18145 Tauren Hoof (loot_items_missing): loot table 10984 is also creature 22725's, which would drop it too. Seen: Classic 100%
+- npc 10984 Winterax Berserker: item 18207 Orc Tooth (loot_items_missing): loot table 10984 is also creature 22725's, which would drop it too. Seen: Classic 100%
+- npc 11679 Winterax Witch Doctor: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 11679 is also creature 22796's, which would drop it too. Seen: Classic 100%
+- npc 11679 Winterax Witch Doctor: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 11679 is also creature 22796's, which would drop it too. Seen: Classic 100%
+- npc 11679 Winterax Witch Doctor: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 11679 is also creature 22796's, which would drop it too. Seen: Classic 100%
+- npc 11679 Winterax Witch Doctor: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 11679 is also creature 22796's, which would drop it too. Seen: Classic 100%
+- npc 11679 Winterax Witch Doctor: item 17422 Armor Scraps (loot_items_missing): loot table 11679 is also creature 22796's, which would drop it too. Seen: Classic 80%
+- npc 11679 Winterax Witch Doctor: item 17423 Storm Crystal (loot_items_missing): loot table 11679 is also creature 22796's, which would drop it too. Seen: Classic 80%
+- npc 11679 Winterax Witch Doctor: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 11679 is also creature 22796's, which would drop it too. Seen: Classic 100%
+- npc 11679 Winterax Witch Doctor: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 11679 is also creature 22796's, which would drop it too. Seen: Classic 100%
+- npc 11679 Winterax Witch Doctor: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 11679 is also creature 22796's, which would drop it too. Seen: Classic 100%
+- npc 11679 Winterax Witch Doctor: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 11679 is also creature 22796's, which would drop it too. Seen: Classic 100%
+- npc 11679 Winterax Witch Doctor: item 18144 Human Bone Chip (loot_items_missing): loot table 11679 is also creature 22796's, which would drop it too. Seen: Classic 100%
+- npc 11679 Winterax Witch Doctor: item 18145 Tauren Hoof (loot_items_missing): loot table 11679 is also creature 22796's, which would drop it too. Seen: Classic 100%
+- npc 11679 Winterax Witch Doctor: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 11679 is also creature 22796's, which would drop it too. Seen: Classic 100%
+- npc 11679 Winterax Witch Doctor: item 18147 Forsaken Heart (loot_items_missing): loot table 11679 is also creature 22796's, which would drop it too. Seen: Classic 100%
+- npc 11679 Winterax Witch Doctor: item 18206 Dwarf Spine (loot_items_missing): loot table 11679 is also creature 22796's, which would drop it too. Seen: Classic 100%
+- npc 11679 Winterax Witch Doctor: item 18207 Orc Tooth (loot_items_missing): loot table 11679 is also creature 22796's, which would drop it too. Seen: Classic 100%
+- npc 12047 Stormpike Mountaineer: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 12047 is also creature 22657's, which would drop it too. Seen: Classic 100%
+- npc 12047 Stormpike Mountaineer: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 12047 is also creature 22657's, which would drop it too. Seen: Classic 100%
+- npc 12047 Stormpike Mountaineer: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 12047 is also creature 22657's, which would drop it too. Seen: Classic 100%
+- npc 12047 Stormpike Mountaineer: item 17422 Armor Scraps (loot_items_missing): loot table 12047 is also creature 22657's, which would drop it too. Seen: Classic 80%
+- npc 12047 Stormpike Mountaineer: item 17423 Storm Crystal (loot_items_missing): loot table 12047 is also creature 22657's, which would drop it too. Seen: Classic 80%
+- npc 12047 Stormpike Mountaineer: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 12047 is also creature 22657's, which would drop it too. Seen: Classic 100%
+- npc 12047 Stormpike Mountaineer: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 12047 is also creature 22657's, which would drop it too. Seen: Classic 100%
+- npc 12047 Stormpike Mountaineer: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 12047 is also creature 22657's, which would drop it too. Seen: Classic 100%
+- npc 12047 Stormpike Mountaineer: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 12047 is also creature 22657's, which would drop it too. Seen: Classic 100%
+- npc 12047 Stormpike Mountaineer: item 18144 Human Bone Chip (loot_items_missing): loot table 12047 is also creature 22657's, which would drop it too. Seen: Classic 100%
+- npc 12047 Stormpike Mountaineer: item 18145 Tauren Hoof (loot_items_missing): loot table 12047 is also creature 22657's, which would drop it too. Seen: Classic 100%
+- npc 12047 Stormpike Mountaineer: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 12047 is also creature 22657's, which would drop it too. Seen: Classic 100%
+- npc 12047 Stormpike Mountaineer: item 18147 Forsaken Heart (loot_items_missing): loot table 12047 is also creature 22657's, which would drop it too. Seen: Classic 100%
+- npc 12047 Stormpike Mountaineer: item 18206 Dwarf Spine (loot_items_missing): loot table 12047 is also creature 22657's, which would drop it too. Seen: Classic 100%
+- npc 12047 Stormpike Mountaineer: item 18207 Orc Tooth (loot_items_missing): loot table 12047 is also creature 22657's, which would drop it too. Seen: Classic 100%
+- npc 12048 Alliance Sentinel: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 12048 is also creature 22645's, which would drop it too. Seen: Classic 100%
+- npc 12048 Alliance Sentinel: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 12048 is also creature 22645's, which would drop it too. Seen: Classic 100%
+- npc 12048 Alliance Sentinel: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 12048 is also creature 22645's, which would drop it too. Seen: Classic 100%
+- npc 12048 Alliance Sentinel: item 17423 Storm Crystal (loot_items_missing): loot table 12048 is also creature 22645's, which would drop it too. Seen: Classic 80%
+- npc 12048 Alliance Sentinel: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 12048 is also creature 22645's, which would drop it too. Seen: Classic 100%
+- npc 12048 Alliance Sentinel: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 12048 is also creature 22645's, which would drop it too. Seen: Classic 100%
+- npc 12048 Alliance Sentinel: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 12048 is also creature 22645's, which would drop it too. Seen: Classic 100%
+- npc 12048 Alliance Sentinel: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 12048 is also creature 22645's, which would drop it too. Seen: Classic 100%
+- npc 12048 Alliance Sentinel: item 18144 Human Bone Chip (loot_items_missing): loot table 12048 is also creature 22645's, which would drop it too. Seen: Classic 100%
+- npc 12048 Alliance Sentinel: item 18145 Tauren Hoof (loot_items_missing): loot table 12048 is also creature 22645's, which would drop it too. Seen: Classic 100%
+- npc 12048 Alliance Sentinel: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 12048 is also creature 22645's, which would drop it too. Seen: Classic 100%
+- npc 12048 Alliance Sentinel: item 18147 Forsaken Heart (loot_items_missing): loot table 12048 is also creature 22645's, which would drop it too. Seen: Classic 100%
+- npc 12048 Alliance Sentinel: item 18206 Dwarf Spine (loot_items_missing): loot table 12048 is also creature 22645's, which would drop it too. Seen: Classic 100%
+- npc 12048 Alliance Sentinel: item 18207 Orc Tooth (loot_items_missing): loot table 12048 is also creature 22645's, which would drop it too. Seen: Classic 100%
+- npc 12052 Frostwolf Warrior: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 12052 is also creature 22649's, which would drop it too. Seen: Classic 100%
+- npc 12052 Frostwolf Warrior: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 12052 is also creature 22649's, which would drop it too. Seen: Classic 100%
+- npc 12052 Frostwolf Warrior: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 12052 is also creature 22649's, which would drop it too. Seen: Classic 100%
+- npc 12052 Frostwolf Warrior: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 12052 is also creature 22649's, which would drop it too. Seen: Classic 100%
+- npc 12052 Frostwolf Warrior: item 17411 Steamsaw (loot_items_missing): loot table 12052 is also creature 22649's, which would drop it too. Seen: Classic 100%
+- npc 12052 Frostwolf Warrior: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 12052 is also creature 22649's, which would drop it too. Seen: Classic 100%
+- npc 12052 Frostwolf Warrior: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 12052 is also creature 22649's, which would drop it too. Seen: Classic 100%
+- npc 12052 Frostwolf Warrior: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 12052 is also creature 22649's, which would drop it too. Seen: Classic 100%
+- npc 12052 Frostwolf Warrior: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 12052 is also creature 22649's, which would drop it too. Seen: Classic 100%
+- npc 12052 Frostwolf Warrior: item 18144 Human Bone Chip (loot_items_missing): loot table 12052 is also creature 22649's, which would drop it too. Seen: Classic 100%
+- npc 12052 Frostwolf Warrior: item 18145 Tauren Hoof (loot_items_missing): loot table 12052 is also creature 22649's, which would drop it too. Seen: Classic 100%
+- npc 12052 Frostwolf Warrior: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 12052 is also creature 22649's, which would drop it too. Seen: Classic 100%
+- npc 12052 Frostwolf Warrior: item 18147 Forsaken Heart (loot_items_missing): loot table 12052 is also creature 22649's, which would drop it too. Seen: Classic 100%
+- npc 12052 Frostwolf Warrior: item 18206 Dwarf Spine (loot_items_missing): loot table 12052 is also creature 22649's, which would drop it too. Seen: Classic 100%
+- npc 12052 Frostwolf Warrior: item 18207 Orc Tooth (loot_items_missing): loot table 12052 is also creature 22649's, which would drop it too. Seen: Classic 100%
+- npc 12156 Winterax Axe Thrower: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 12156 is also creature 22788's, which would drop it too. Seen: Classic 100%
+- npc 12156 Winterax Axe Thrower: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 12156 is also creature 22788's, which would drop it too. Seen: Classic 100%
+- npc 12156 Winterax Axe Thrower: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 12156 is also creature 22788's, which would drop it too. Seen: Classic 100%
+- npc 12156 Winterax Axe Thrower: item 17422 Armor Scraps (loot_items_missing): loot table 12156 is also creature 22788's, which would drop it too. Seen: Classic 80%
+- npc 12156 Winterax Axe Thrower: item 17423 Storm Crystal (loot_items_missing): loot table 12156 is also creature 22788's, which would drop it too. Seen: Classic 80%
+- npc 12156 Winterax Axe Thrower: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 12156 is also creature 22788's, which would drop it too. Seen: Classic 100%
+- npc 12156 Winterax Axe Thrower: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 12156 is also creature 22788's, which would drop it too. Seen: Classic 100%
+- npc 12156 Winterax Axe Thrower: item 18144 Human Bone Chip (loot_items_missing): loot table 12156 is also creature 22788's, which would drop it too. Seen: Classic 100%
+- npc 12156 Winterax Axe Thrower: item 18145 Tauren Hoof (loot_items_missing): loot table 12156 is also creature 22788's, which would drop it too. Seen: Classic 100%
+- npc 12156 Winterax Axe Thrower: item 18147 Forsaken Heart (loot_items_missing): loot table 12156 is also creature 22788's, which would drop it too. Seen: Classic 100%
+- npc 12156 Winterax Axe Thrower: item 18207 Orc Tooth (loot_items_missing): loot table 12156 is also creature 22788's, which would drop it too. Seen: Classic 100%
+- npc 12157 Winterax Shadow Hunter: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 12157 is also creature 22792's, which would drop it too. Seen: Classic 100%
+- npc 12157 Winterax Shadow Hunter: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 12157 is also creature 22792's, which would drop it too. Seen: Classic 100%
+- npc 12157 Winterax Shadow Hunter: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 12157 is also creature 22792's, which would drop it too. Seen: Classic 100%
+- npc 12157 Winterax Shadow Hunter: item 17422 Armor Scraps (loot_items_missing): loot table 12157 is also creature 22792's, which would drop it too. Seen: Classic 80%
+- npc 12157 Winterax Shadow Hunter: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 12157 is also creature 22792's, which would drop it too. Seen: Classic 100%
+- npc 12157 Winterax Shadow Hunter: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 12157 is also creature 22792's, which would drop it too. Seen: Classic 100%
+- npc 12157 Winterax Shadow Hunter: item 18144 Human Bone Chip (loot_items_missing): loot table 12157 is also creature 22792's, which would drop it too. Seen: Classic 100%
+- npc 12157 Winterax Shadow Hunter: item 18147 Forsaken Heart (loot_items_missing): loot table 12157 is also creature 22792's, which would drop it too. Seen: Classic 100%
+- npc 12157 Winterax Shadow Hunter: item 18207 Orc Tooth (loot_items_missing): loot table 12157 is also creature 22792's, which would drop it too. Seen: Classic 100%
+- npc 12158 Winterax Hunter: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 12158 is also creature 22789's, which would drop it too. Seen: Classic 100%
+- npc 12158 Winterax Hunter: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 12158 is also creature 22789's, which would drop it too. Seen: Classic 100%
+- npc 12158 Winterax Hunter: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 12158 is also creature 22789's, which would drop it too. Seen: Classic 100%
+- npc 12158 Winterax Hunter: item 17422 Armor Scraps (loot_items_missing): loot table 12158 is also creature 22789's, which would drop it too. Seen: Classic 80%
+- npc 12158 Winterax Hunter: item 17423 Storm Crystal (loot_items_missing): loot table 12158 is also creature 22789's, which would drop it too. Seen: Classic 80%
+- npc 12158 Winterax Hunter: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 12158 is also creature 22789's, which would drop it too. Seen: Classic 100%
+- npc 12158 Winterax Hunter: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 12158 is also creature 22789's, which would drop it too. Seen: Classic 100%
+- npc 12158 Winterax Hunter: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 12158 is also creature 22789's, which would drop it too. Seen: Classic 100%
+- npc 12158 Winterax Hunter: item 18147 Forsaken Heart (loot_items_missing): loot table 12158 is also creature 22789's, which would drop it too. Seen: Classic 100%
+- npc 13137 Lieutenant Rugba: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13137 is also creature 22707's, which would drop it too. Seen: Classic 100%
+- npc 13137 Lieutenant Rugba: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13137 is also creature 22707's, which would drop it too. Seen: Classic 100%
+- npc 13137 Lieutenant Rugba: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13137 is also creature 22707's, which would drop it too. Seen: Classic 100%
+- npc 13137 Lieutenant Rugba: item 18145 Tauren Hoof (loot_items_missing): loot table 13137 is also creature 22707's, which would drop it too. Seen: Classic 100%
+- npc 13137 Lieutenant Rugba: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13137 is also creature 22707's, which would drop it too. Seen: Classic 100%
+- npc 13137 Lieutenant Rugba: item 18147 Forsaken Heart (loot_items_missing): loot table 13137 is also creature 22707's, which would drop it too. Seen: Classic 100%
+- npc 13137 Lieutenant Rugba: item 18207 Orc Tooth (loot_items_missing): loot table 13137 is also creature 22707's, which would drop it too. Seen: Classic 100%
+- npc 13138 Lieutenant Spencer: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13138 is also creature 22708's, which would drop it too. Seen: Classic 100%
+- npc 13138 Lieutenant Spencer: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13138 is also creature 22708's, which would drop it too. Seen: Classic 100%
+- npc 13138 Lieutenant Spencer: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13138 is also creature 22708's, which would drop it too. Seen: Classic 100%
+- npc 13138 Lieutenant Spencer: item 18144 Human Bone Chip (loot_items_missing): loot table 13138 is also creature 22708's, which would drop it too. Seen: Classic 100%
+- npc 13138 Lieutenant Spencer: item 18206 Dwarf Spine (loot_items_missing): loot table 13138 is also creature 22708's, which would drop it too. Seen: Classic 100%
+- npc 13139 Commander Randolph: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13139 is also creature 22620's, which would drop it too. Seen: Classic 100%
+- npc 13139 Commander Randolph: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13139 is also creature 22620's, which would drop it too. Seen: Classic 100%
+- npc 13139 Commander Randolph: item 17423 Storm Crystal (loot_items_missing): loot table 13139 is also creature 22620's, which would drop it too. Seen: Classic 80%
+- npc 13139 Commander Randolph: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13139 is also creature 22620's, which would drop it too. Seen: Classic 100%
+- npc 13139 Commander Randolph: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13139 is also creature 22620's, which would drop it too. Seen: Classic 100%
+- npc 13139 Commander Randolph: item 18144 Human Bone Chip (loot_items_missing): loot table 13139 is also creature 22620's, which would drop it too. Seen: Classic 100%
+- npc 13139 Commander Randolph: item 18147 Forsaken Heart (loot_items_missing): loot table 13139 is also creature 22620's, which would drop it too. Seen: Classic 100%
+- npc 13139 Commander Randolph: item 18206 Dwarf Spine (loot_items_missing): loot table 13139 is also creature 22620's, which would drop it too. Seen: Classic 100%
+- npc 13140 Commander Dardosh: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13140 is also creature 22613's, which would drop it too. Seen: Classic 100%
+- npc 13140 Commander Dardosh: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13140 is also creature 22613's, which would drop it too. Seen: Classic 100%
+- npc 13140 Commander Dardosh: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13140 is also creature 22613's, which would drop it too. Seen: Classic 100%
+- npc 13140 Commander Dardosh: item 18145 Tauren Hoof (loot_items_missing): loot table 13140 is also creature 22613's, which would drop it too. Seen: Classic 100%
+- npc 13140 Commander Dardosh: item 18147 Forsaken Heart (loot_items_missing): loot table 13140 is also creature 22613's, which would drop it too. Seen: Classic 100%
+- npc 13143 Lieutenant Stronghoof: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13143 is also creature 22710's, which would drop it too. Seen: Classic 100%
+- npc 13143 Lieutenant Stronghoof: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13143 is also creature 22710's, which would drop it too. Seen: Classic 100%
+- npc 13143 Lieutenant Stronghoof: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13143 is also creature 22710's, which would drop it too. Seen: Classic 100%
+- npc 13143 Lieutenant Stronghoof: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13143 is also creature 22710's, which would drop it too. Seen: Classic 100%
+- npc 13143 Lieutenant Stronghoof: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13143 is also creature 22710's, which would drop it too. Seen: Classic 100%
+- npc 13143 Lieutenant Stronghoof: item 18144 Human Bone Chip (loot_items_missing): loot table 13143 is also creature 22710's, which would drop it too. Seen: Classic 100%
+- npc 13143 Lieutenant Stronghoof: item 18145 Tauren Hoof (loot_items_missing): loot table 13143 is also creature 22710's, which would drop it too. Seen: Classic 100%
+- npc 13143 Lieutenant Stronghoof: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13143 is also creature 22710's, which would drop it too. Seen: Classic 100%
+- npc 13143 Lieutenant Stronghoof: item 18147 Forsaken Heart (loot_items_missing): loot table 13143 is also creature 22710's, which would drop it too. Seen: Classic 100%
+- npc 13143 Lieutenant Stronghoof: item 18207 Orc Tooth (loot_items_missing): loot table 13143 is also creature 22710's, which would drop it too. Seen: Classic 100%
+- npc 13144 Lieutenant Vol'talar: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13144 is also creature 22711's, which would drop it too. Seen: Classic 100%
+- npc 13144 Lieutenant Vol'talar: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13144 is also creature 22711's, which would drop it too. Seen: Classic 100%
+- npc 13145 Lieutenant Grummus: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13145 is also creature 22701's, which would drop it too. Seen: Classic 100%
+- npc 13145 Lieutenant Grummus: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13145 is also creature 22701's, which would drop it too. Seen: Classic 100%
+- npc 13145 Lieutenant Grummus: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13145 is also creature 22701's, which would drop it too. Seen: Classic 100%
+- npc 13145 Lieutenant Grummus: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13145 is also creature 22701's, which would drop it too. Seen: Classic 100%
+- npc 13145 Lieutenant Grummus: item 18145 Tauren Hoof (loot_items_missing): loot table 13145 is also creature 22701's, which would drop it too. Seen: Classic 100%
+- npc 13145 Lieutenant Grummus: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13145 is also creature 22701's, which would drop it too. Seen: Classic 100%
+- npc 13145 Lieutenant Grummus: item 18147 Forsaken Heart (loot_items_missing): loot table 13145 is also creature 22701's, which would drop it too. Seen: Classic 100%
+- npc 13145 Lieutenant Grummus: item 18207 Orc Tooth (loot_items_missing): loot table 13145 is also creature 22701's, which would drop it too. Seen: Classic 100%
+- npc 13146 Lieutenant Murp: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13146 is also creature 22706's, which would drop it too. Seen: Classic 100%
+- npc 13146 Lieutenant Murp: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13146 is also creature 22706's, which would drop it too. Seen: Classic 100%
+- npc 13146 Lieutenant Murp: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13146 is also creature 22706's, which would drop it too. Seen: Classic 100%
+- npc 13146 Lieutenant Murp: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13146 is also creature 22706's, which would drop it too. Seen: Classic 100%
+- npc 13146 Lieutenant Murp: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13146 is also creature 22706's, which would drop it too. Seen: Classic 100%
+- npc 13146 Lieutenant Murp: item 18145 Tauren Hoof (loot_items_missing): loot table 13146 is also creature 22706's, which would drop it too. Seen: Classic 100%
+- npc 13146 Lieutenant Murp: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13146 is also creature 22706's, which would drop it too. Seen: Classic 100%
+- npc 13146 Lieutenant Murp: item 18147 Forsaken Heart (loot_items_missing): loot table 13146 is also creature 22706's, which would drop it too. Seen: Classic 100%
+- npc 13146 Lieutenant Murp: item 18207 Orc Tooth (loot_items_missing): loot table 13146 is also creature 22706's, which would drop it too. Seen: Classic 100%
+- npc 13147 Lieutenant Lewis: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13147 is also creature 22703's, which would drop it too. Seen: Classic 100%
+- npc 13147 Lieutenant Lewis: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13147 is also creature 22703's, which would drop it too. Seen: Classic 100%
+- npc 13147 Lieutenant Lewis: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13147 is also creature 22703's, which would drop it too. Seen: Classic 100%
+- npc 13149 Syndicate Brigand: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13149 is also creature 22769's, which would drop it too. Seen: Classic 100%
+- npc 13150 Syndicate Agent: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13150 is also creature 22768's, which would drop it too. Seen: Classic 100%
+- npc 13151 Syndicate Master Ryson: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13151 is also creature 22578's, which would drop it too. Seen: Classic 100%
+- npc 13152 Commander Malgor: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13152 is also creature 22617's, which would drop it too. Seen: Classic 100%
+- npc 13152 Commander Malgor: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13152 is also creature 22617's, which would drop it too. Seen: Classic 100%
+- npc 13152 Commander Malgor: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13152 is also creature 22617's, which would drop it too. Seen: Classic 100%
+- npc 13152 Commander Malgor: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13152 is also creature 22617's, which would drop it too. Seen: Classic 100%
+- npc 13152 Commander Malgor: item 18147 Forsaken Heart (loot_items_missing): loot table 13152 is also creature 22617's, which would drop it too. Seen: Classic 100%
+- npc 13152 Commander Malgor: item 18207 Orc Tooth (loot_items_missing): loot table 13152 is also creature 22617's, which would drop it too. Seen: Classic 100%
+- npc 13153 Commander Mulfort: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13153 is also creature 22619's, which would drop it too. Seen: Classic 100%
+- npc 13153 Commander Mulfort: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13153 is also creature 22619's, which would drop it too. Seen: Classic 100%
+- npc 13153 Commander Mulfort: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13153 is also creature 22619's, which would drop it too. Seen: Classic 100%
+- npc 13153 Commander Mulfort: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13153 is also creature 22619's, which would drop it too. Seen: Classic 100%
+- npc 13153 Commander Mulfort: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13153 is also creature 22619's, which would drop it too. Seen: Classic 100%
+- npc 13153 Commander Mulfort: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13153 is also creature 22619's, which would drop it too. Seen: Classic 100%
+- npc 13153 Commander Mulfort: item 18145 Tauren Hoof (loot_items_missing): loot table 13153 is also creature 22619's, which would drop it too. Seen: Classic 100%
+- npc 13153 Commander Mulfort: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13153 is also creature 22619's, which would drop it too. Seen: Classic 100%
+- npc 13153 Commander Mulfort: item 18147 Forsaken Heart (loot_items_missing): loot table 13153 is also creature 22619's, which would drop it too. Seen: Classic 100%
+- npc 13153 Commander Mulfort: item 18207 Orc Tooth (loot_items_missing): loot table 13153 is also creature 22619's, which would drop it too. Seen: Classic 100%
+- npc 13154 Commander Louis Philips: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13154 is also creature 22616's, which would drop it too. Seen: Classic 100%
+- npc 13154 Commander Louis Philips: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13154 is also creature 22616's, which would drop it too. Seen: Classic 100%
+- npc 13154 Commander Louis Philips: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13154 is also creature 22616's, which would drop it too. Seen: Classic 100%
+- npc 13154 Commander Louis Philips: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13154 is also creature 22616's, which would drop it too. Seen: Classic 100%
+- npc 13154 Commander Louis Philips: item 18144 Human Bone Chip (loot_items_missing): loot table 13154 is also creature 22616's, which would drop it too. Seen: Classic 100%
+- npc 13154 Commander Louis Philips: item 18145 Tauren Hoof (loot_items_missing): loot table 13154 is also creature 22616's, which would drop it too. Seen: Classic 100%
+- npc 13154 Commander Louis Philips: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13154 is also creature 22616's, which would drop it too. Seen: Classic 100%
+- npc 13155 Deathstalker Agent: item 17422 Armor Scraps (loot_items_missing): loot table 13155 is also creature 22539's, which would drop it too. Seen: Classic 80%
+- npc 13155 Deathstalker Agent: item 17423 Storm Crystal (loot_items_missing): loot table 13155 is also creature 22539's, which would drop it too. Seen: Classic 80%
+- npc 13155 Deathstalker Agent: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13155 is also creature 22539's, which would drop it too. Seen: Classic 100%
+- npc 13155 Deathstalker Agent: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13155 is also creature 22539's, which would drop it too. Seen: Classic 100%
+- npc 13155 Deathstalker Agent: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13155 is also creature 22539's, which would drop it too. Seen: Classic 100%
+- npc 13155 Deathstalker Agent: item 18147 Forsaken Heart (loot_items_missing): loot table 13155 is also creature 22539's, which would drop it too. Seen: Classic 100%
+- npc 13155 Deathstalker Agent: item 18207 Orc Tooth (loot_items_missing): loot table 13155 is also creature 22539's, which would drop it too. Seen: Classic 100%
+- npc 13296 Lieutenant Largent: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13296 is also creature 22702's, which would drop it too. Seen: Classic 100%
+- npc 13296 Lieutenant Largent: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13296 is also creature 22702's, which would drop it too. Seen: Classic 100%
+- npc 13296 Lieutenant Largent: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13296 is also creature 22702's, which would drop it too. Seen: Classic 100%
+- npc 13296 Lieutenant Largent: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13296 is also creature 22702's, which would drop it too. Seen: Classic 100%
+- npc 13296 Lieutenant Largent: item 18144 Human Bone Chip (loot_items_missing): loot table 13296 is also creature 22702's, which would drop it too. Seen: Classic 100%
+- npc 13296 Lieutenant Largent: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13296 is also creature 22702's, which would drop it too. Seen: Classic 100%
+- npc 13296 Lieutenant Largent: item 18206 Dwarf Spine (loot_items_missing): loot table 13296 is also creature 22702's, which would drop it too. Seen: Classic 100%
+- npc 13297 Lieutenant Stouthandle: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13297 is also creature 22709's, which would drop it too. Seen: Classic 100%
+- npc 13297 Lieutenant Stouthandle: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13297 is also creature 22709's, which would drop it too. Seen: Classic 100%
+- npc 13297 Lieutenant Stouthandle: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13297 is also creature 22709's, which would drop it too. Seen: Classic 100%
+- npc 13297 Lieutenant Stouthandle: item 18144 Human Bone Chip (loot_items_missing): loot table 13297 is also creature 22709's, which would drop it too. Seen: Classic 100%
+- npc 13297 Lieutenant Stouthandle: item 18206 Dwarf Spine (loot_items_missing): loot table 13297 is also creature 22709's, which would drop it too. Seen: Classic 100%
+- npc 13298 Lieutenant Greywand: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13298 is also creature 22700's, which would drop it too. Seen: Classic 100%
+- npc 13298 Lieutenant Greywand: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13298 is also creature 22700's, which would drop it too. Seen: Classic 100%
+- npc 13298 Lieutenant Greywand: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13298 is also creature 22700's, which would drop it too. Seen: Classic 100%
+- npc 13298 Lieutenant Greywand: item 17423 Storm Crystal (loot_items_missing): loot table 13298 is also creature 22700's, which would drop it too. Seen: Classic 80%
+- npc 13298 Lieutenant Greywand: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13298 is also creature 22700's, which would drop it too. Seen: Classic 100%
+- npc 13298 Lieutenant Greywand: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13298 is also creature 22700's, which would drop it too. Seen: Classic 100%
+- npc 13298 Lieutenant Greywand: item 18144 Human Bone Chip (loot_items_missing): loot table 13298 is also creature 22700's, which would drop it too. Seen: Classic 100%
+- npc 13298 Lieutenant Greywand: item 18207 Orc Tooth (loot_items_missing): loot table 13298 is also creature 22700's, which would drop it too. Seen: Classic 100%
+- npc 13299 Lieutenant Lonadin: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13299 is also creature 22704's, which would drop it too. Seen: Classic 100%
+- npc 13299 Lieutenant Lonadin: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13299 is also creature 22704's, which would drop it too. Seen: Classic 100%
+- npc 13299 Lieutenant Lonadin: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13299 is also creature 22704's, which would drop it too. Seen: Classic 100%
+- npc 13299 Lieutenant Lonadin: item 17423 Storm Crystal (loot_items_missing): loot table 13299 is also creature 22704's, which would drop it too. Seen: Classic 80%
+- npc 13299 Lieutenant Lonadin: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13299 is also creature 22704's, which would drop it too. Seen: Classic 100%
+- npc 13299 Lieutenant Lonadin: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13299 is also creature 22704's, which would drop it too. Seen: Classic 100%
+- npc 13299 Lieutenant Lonadin: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13299 is also creature 22704's, which would drop it too. Seen: Classic 100%
+- npc 13299 Lieutenant Lonadin: item 18144 Human Bone Chip (loot_items_missing): loot table 13299 is also creature 22704's, which would drop it too. Seen: Classic 100%
+- npc 13299 Lieutenant Lonadin: item 18147 Forsaken Heart (loot_items_missing): loot table 13299 is also creature 22704's, which would drop it too. Seen: Classic 100%
+- npc 13299 Lieutenant Lonadin: item 18206 Dwarf Spine (loot_items_missing): loot table 13299 is also creature 22704's, which would drop it too. Seen: Classic 100%
+- npc 13299 Lieutenant Lonadin: item 18207 Orc Tooth (loot_items_missing): loot table 13299 is also creature 22704's, which would drop it too. Seen: Classic 100%
+- npc 13300 Lieutenant Mancuso: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13300 is also creature 22705's, which would drop it too. Seen: Classic 100%
+- npc 13300 Lieutenant Mancuso: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13300 is also creature 22705's, which would drop it too. Seen: Classic 100%
+- npc 13300 Lieutenant Mancuso: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13300 is also creature 22705's, which would drop it too. Seen: Classic 100%
+- npc 13300 Lieutenant Mancuso: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13300 is also creature 22705's, which would drop it too. Seen: Classic 100%
+- npc 13300 Lieutenant Mancuso: item 18144 Human Bone Chip (loot_items_missing): loot table 13300 is also creature 22705's, which would drop it too. Seen: Classic 100%
+- npc 13318 Commander Mortimer: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13318 is also creature 22618's, which would drop it too. Seen: Classic 100%
+- npc 13318 Commander Mortimer: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13318 is also creature 22618's, which would drop it too. Seen: Classic 100%
+- npc 13318 Commander Mortimer: item 17423 Storm Crystal (loot_items_missing): loot table 13318 is also creature 22618's, which would drop it too. Seen: Classic 80%
+- npc 13318 Commander Mortimer: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13318 is also creature 22618's, which would drop it too. Seen: Classic 100%
+- npc 13318 Commander Mortimer: item 18144 Human Bone Chip (loot_items_missing): loot table 13318 is also creature 22618's, which would drop it too. Seen: Classic 100%
+- npc 13318 Commander Mortimer: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13318 is also creature 22618's, which would drop it too. Seen: Classic 100%
+- npc 13319 Commander Duffy: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13319 is also creature 22614's, which would drop it too. Seen: Classic 100%
+- npc 13319 Commander Duffy: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13319 is also creature 22614's, which would drop it too. Seen: Classic 100%
+- npc 13319 Commander Duffy: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13319 is also creature 22614's, which would drop it too. Seen: Classic 100%
+- npc 13319 Commander Duffy: item 17423 Storm Crystal (loot_items_missing): loot table 13319 is also creature 22614's, which would drop it too. Seen: Classic 80%
+- npc 13319 Commander Duffy: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13319 is also creature 22614's, which would drop it too. Seen: Classic 100%
+- npc 13319 Commander Duffy: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13319 is also creature 22614's, which would drop it too. Seen: Classic 100%
+- npc 13319 Commander Duffy: item 18145 Tauren Hoof (loot_items_missing): loot table 13319 is also creature 22614's, which would drop it too. Seen: Classic 100%
+- npc 13319 Commander Duffy: item 18147 Forsaken Heart (loot_items_missing): loot table 13319 is also creature 22614's, which would drop it too. Seen: Classic 100%
+- npc 13319 Commander Duffy: item 18206 Dwarf Spine (loot_items_missing): loot table 13319 is also creature 22614's, which would drop it too. Seen: Classic 100%
+- npc 13319 Commander Duffy: item 18207 Orc Tooth (loot_items_missing): loot table 13319 is also creature 22614's, which would drop it too. Seen: Classic 100%
+- npc 13320 Commander Karl Philips: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13320 is also creature 22615's, which would drop it too. Seen: Classic 100%
+- npc 13320 Commander Karl Philips: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13320 is also creature 22615's, which would drop it too. Seen: Classic 100%
+- npc 13320 Commander Karl Philips: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13320 is also creature 22615's, which would drop it too. Seen: Classic 100%
+- npc 13320 Commander Karl Philips: item 17411 Steamsaw (loot_items_missing): loot table 13320 is also creature 22615's, which would drop it too. Seen: Classic 100%
+- npc 13320 Commander Karl Philips: item 17423 Storm Crystal (loot_items_missing): loot table 13320 is also creature 22615's, which would drop it too. Seen: Classic 80%
+- npc 13320 Commander Karl Philips: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13320 is also creature 22615's, which would drop it too. Seen: Classic 100%
+- npc 13320 Commander Karl Philips: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13320 is also creature 22615's, which would drop it too. Seen: Classic 100%
+- npc 13320 Commander Karl Philips: item 18144 Human Bone Chip (loot_items_missing): loot table 13320 is also creature 22615's, which would drop it too. Seen: Classic 100%
+- npc 13320 Commander Karl Philips: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13320 is also creature 22615's, which would drop it too. Seen: Classic 100%
+- npc 13320 Commander Karl Philips: item 18147 Forsaken Heart (loot_items_missing): loot table 13320 is also creature 22615's, which would drop it too. Seen: Classic 100%
+- npc 13320 Commander Karl Philips: item 18206 Dwarf Spine (loot_items_missing): loot table 13320 is also creature 22615's, which would drop it too. Seen: Classic 100%
+- npc 13320 Commander Karl Philips: item 18207 Orc Tooth (loot_items_missing): loot table 13320 is also creature 22615's, which would drop it too. Seen: Classic 100%
+- npc 13324 Seasoned Guardsman: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13324 is also creature 22687's, which would drop it too. Seen: Classic 100%
+- npc 13324 Seasoned Guardsman: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13324 is also creature 22687's, which would drop it too. Seen: Classic 100%
+- npc 13324 Seasoned Guardsman: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13324 is also creature 22687's, which would drop it too. Seen: Classic 100%
+- npc 13324 Seasoned Guardsman: item 17423 Storm Crystal (loot_items_missing): loot table 13324 is also creature 22687's, which would drop it too. Seen: Classic 80%
+- npc 13324 Seasoned Guardsman: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13324 is also creature 22687's, which would drop it too. Seen: Classic 100%
+- npc 13324 Seasoned Guardsman: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13324 is also creature 22687's, which would drop it too. Seen: Classic 100%
+- npc 13324 Seasoned Guardsman: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13324 is also creature 22687's, which would drop it too. Seen: Classic 100%
+- npc 13324 Seasoned Guardsman: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13324 is also creature 22687's, which would drop it too. Seen: Classic 100%
+- npc 13324 Seasoned Guardsman: item 18144 Human Bone Chip (loot_items_missing): loot table 13324 is also creature 22687's, which would drop it too. Seen: Classic 100%
+- npc 13324 Seasoned Guardsman: item 18145 Tauren Hoof (loot_items_missing): loot table 13324 is also creature 22687's, which would drop it too. Seen: Classic 100%
+- npc 13324 Seasoned Guardsman: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13324 is also creature 22687's, which would drop it too. Seen: Classic 100%
+- npc 13324 Seasoned Guardsman: item 18147 Forsaken Heart (loot_items_missing): loot table 13324 is also creature 22687's, which would drop it too. Seen: Classic 100%
+- npc 13324 Seasoned Guardsman: item 18206 Dwarf Spine (loot_items_missing): loot table 13324 is also creature 22687's, which would drop it too. Seen: Classic 100%
+- npc 13324 Seasoned Guardsman: item 18207 Orc Tooth (loot_items_missing): loot table 13324 is also creature 22687's, which would drop it too. Seen: Classic 100%
+- npc 13325 Seasoned Mountaineer: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13325 is also creature 22662's, which would drop it too. Seen: Classic 100%
+- npc 13325 Seasoned Mountaineer: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13325 is also creature 22662's, which would drop it too. Seen: Classic 100%
+- npc 13325 Seasoned Mountaineer: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13325 is also creature 22662's, which would drop it too. Seen: Classic 100%
+- npc 13325 Seasoned Mountaineer: item 17423 Storm Crystal (loot_items_missing): loot table 13325 is also creature 22662's, which would drop it too. Seen: Classic 80%
+- npc 13325 Seasoned Mountaineer: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13325 is also creature 22662's, which would drop it too. Seen: Classic 100%
+- npc 13325 Seasoned Mountaineer: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13325 is also creature 22662's, which would drop it too. Seen: Classic 100%
+- npc 13325 Seasoned Mountaineer: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13325 is also creature 22662's, which would drop it too. Seen: Classic 100%
+- npc 13325 Seasoned Mountaineer: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13325 is also creature 22662's, which would drop it too. Seen: Classic 100%
+- npc 13325 Seasoned Mountaineer: item 18144 Human Bone Chip (loot_items_missing): loot table 13325 is also creature 22662's, which would drop it too. Seen: Classic 100%
+- npc 13325 Seasoned Mountaineer: item 18145 Tauren Hoof (loot_items_missing): loot table 13325 is also creature 22662's, which would drop it too. Seen: Classic 100%
+- npc 13325 Seasoned Mountaineer: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13325 is also creature 22662's, which would drop it too. Seen: Classic 100%
+- npc 13325 Seasoned Mountaineer: item 18147 Forsaken Heart (loot_items_missing): loot table 13325 is also creature 22662's, which would drop it too. Seen: Classic 100%
+- npc 13325 Seasoned Mountaineer: item 18206 Dwarf Spine (loot_items_missing): loot table 13325 is also creature 22662's, which would drop it too. Seen: Classic 100%
+- npc 13325 Seasoned Mountaineer: item 18207 Orc Tooth (loot_items_missing): loot table 13325 is also creature 22662's, which would drop it too. Seen: Classic 100%
+- npc 13327 Seasoned Sentinel: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13327 is also creature 22663's, which would drop it too. Seen: Classic 100%
+- npc 13327 Seasoned Sentinel: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13327 is also creature 22663's, which would drop it too. Seen: Classic 100%
+- npc 13327 Seasoned Sentinel: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13327 is also creature 22663's, which would drop it too. Seen: Classic 100%
+- npc 13327 Seasoned Sentinel: item 17423 Storm Crystal (loot_items_missing): loot table 13327 is also creature 22663's, which would drop it too. Seen: Classic 80%
+- npc 13327 Seasoned Sentinel: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13327 is also creature 22663's, which would drop it too. Seen: Classic 100%
+- npc 13327 Seasoned Sentinel: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13327 is also creature 22663's, which would drop it too. Seen: Classic 100%
+- npc 13327 Seasoned Sentinel: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13327 is also creature 22663's, which would drop it too. Seen: Classic 100%
+- npc 13327 Seasoned Sentinel: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13327 is also creature 22663's, which would drop it too. Seen: Classic 100%
+- npc 13327 Seasoned Sentinel: item 18144 Human Bone Chip (loot_items_missing): loot table 13327 is also creature 22663's, which would drop it too. Seen: Classic 100%
+- npc 13327 Seasoned Sentinel: item 18145 Tauren Hoof (loot_items_missing): loot table 13327 is also creature 22663's, which would drop it too. Seen: Classic 100%
+- npc 13327 Seasoned Sentinel: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13327 is also creature 22663's, which would drop it too. Seen: Classic 100%
+- npc 13327 Seasoned Sentinel: item 18147 Forsaken Heart (loot_items_missing): loot table 13327 is also creature 22663's, which would drop it too. Seen: Classic 100%
+- npc 13327 Seasoned Sentinel: item 18206 Dwarf Spine (loot_items_missing): loot table 13327 is also creature 22663's, which would drop it too. Seen: Classic 100%
+- npc 13327 Seasoned Sentinel: item 18207 Orc Tooth (loot_items_missing): loot table 13327 is also creature 22663's, which would drop it too. Seen: Classic 100%
+- npc 13329 Seasoned Legionnaire: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13329 is also creature 22688's, which would drop it too. Seen: Classic 100%
+- npc 13329 Seasoned Legionnaire: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13329 is also creature 22688's, which would drop it too. Seen: Classic 100%
+- npc 13329 Seasoned Legionnaire: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13329 is also creature 22688's, which would drop it too. Seen: Classic 100%
+- npc 13329 Seasoned Legionnaire: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13329 is also creature 22688's, which would drop it too. Seen: Classic 100%
+- npc 13329 Seasoned Legionnaire: item 17423 Storm Crystal (loot_items_missing): loot table 13329 is also creature 22688's, which would drop it too. Seen: Classic 80%
+- npc 13329 Seasoned Legionnaire: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13329 is also creature 22688's, which would drop it too. Seen: Classic 100%
+- npc 13329 Seasoned Legionnaire: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13329 is also creature 22688's, which would drop it too. Seen: Classic 100%
+- npc 13329 Seasoned Legionnaire: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13329 is also creature 22688's, which would drop it too. Seen: Classic 100%
+- npc 13329 Seasoned Legionnaire: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13329 is also creature 22688's, which would drop it too. Seen: Classic 100%
+- npc 13329 Seasoned Legionnaire: item 18144 Human Bone Chip (loot_items_missing): loot table 13329 is also creature 22688's, which would drop it too. Seen: Classic 100%
+- npc 13329 Seasoned Legionnaire: item 18145 Tauren Hoof (loot_items_missing): loot table 13329 is also creature 22688's, which would drop it too. Seen: Classic 100%
+- npc 13329 Seasoned Legionnaire: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13329 is also creature 22688's, which would drop it too. Seen: Classic 100%
+- npc 13329 Seasoned Legionnaire: item 18147 Forsaken Heart (loot_items_missing): loot table 13329 is also creature 22688's, which would drop it too. Seen: Classic 100%
+- npc 13329 Seasoned Legionnaire: item 18206 Dwarf Spine (loot_items_missing): loot table 13329 is also creature 22688's, which would drop it too. Seen: Classic 100%
+- npc 13329 Seasoned Legionnaire: item 18207 Orc Tooth (loot_items_missing): loot table 13329 is also creature 22688's, which would drop it too. Seen: Classic 100%
+- npc 13330 Seasoned Warrior: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13330 is also creature 22664's, which would drop it too. Seen: Classic 100%
+- npc 13330 Seasoned Warrior: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13330 is also creature 22664's, which would drop it too. Seen: Classic 100%
+- npc 13330 Seasoned Warrior: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13330 is also creature 22664's, which would drop it too. Seen: Classic 100%
+- npc 13330 Seasoned Warrior: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13330 is also creature 22664's, which would drop it too. Seen: Classic 100%
+- npc 13330 Seasoned Warrior: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13330 is also creature 22664's, which would drop it too. Seen: Classic 100%
+- npc 13330 Seasoned Warrior: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13330 is also creature 22664's, which would drop it too. Seen: Classic 100%
+- npc 13330 Seasoned Warrior: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13330 is also creature 22664's, which would drop it too. Seen: Classic 100%
+- npc 13330 Seasoned Warrior: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13330 is also creature 22664's, which would drop it too. Seen: Classic 100%
+- npc 13330 Seasoned Warrior: item 18144 Human Bone Chip (loot_items_missing): loot table 13330 is also creature 22664's, which would drop it too. Seen: Classic 100%
+- npc 13330 Seasoned Warrior: item 18145 Tauren Hoof (loot_items_missing): loot table 13330 is also creature 22664's, which would drop it too. Seen: Classic 100%
+- npc 13330 Seasoned Warrior: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13330 is also creature 22664's, which would drop it too. Seen: Classic 100%
+- npc 13330 Seasoned Warrior: item 18147 Forsaken Heart (loot_items_missing): loot table 13330 is also creature 22664's, which would drop it too. Seen: Classic 100%
+- npc 13330 Seasoned Warrior: item 18206 Dwarf Spine (loot_items_missing): loot table 13330 is also creature 22664's, which would drop it too. Seen: Classic 100%
+- npc 13330 Seasoned Warrior: item 18207 Orc Tooth (loot_items_missing): loot table 13330 is also creature 22664's, which would drop it too. Seen: Classic 100%
+- npc 13333 Veteran Guardsman: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13333 is also creature 22719's, which would drop it too. Seen: Classic 100%
+- npc 13333 Veteran Guardsman: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13333 is also creature 22719's, which would drop it too. Seen: Classic 100%
+- npc 13333 Veteran Guardsman: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13333 is also creature 22719's, which would drop it too. Seen: Classic 100%
+- npc 13333 Veteran Guardsman: item 17423 Storm Crystal (loot_items_missing): loot table 13333 is also creature 22719's, which would drop it too. Seen: Classic 80%
+- npc 13333 Veteran Guardsman: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13333 is also creature 22719's, which would drop it too. Seen: Classic 100%
+- npc 13333 Veteran Guardsman: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13333 is also creature 22719's, which would drop it too. Seen: Classic 100%
+- npc 13333 Veteran Guardsman: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13333 is also creature 22719's, which would drop it too. Seen: Classic 100%
+- npc 13333 Veteran Guardsman: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13333 is also creature 22719's, which would drop it too. Seen: Classic 100%
+- npc 13333 Veteran Guardsman: item 18144 Human Bone Chip (loot_items_missing): loot table 13333 is also creature 22719's, which would drop it too. Seen: Classic 100%
+- npc 13333 Veteran Guardsman: item 18145 Tauren Hoof (loot_items_missing): loot table 13333 is also creature 22719's, which would drop it too. Seen: Classic 100%
+- npc 13333 Veteran Guardsman: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13333 is also creature 22719's, which would drop it too. Seen: Classic 100%
+- npc 13333 Veteran Guardsman: item 18147 Forsaken Heart (loot_items_missing): loot table 13333 is also creature 22719's, which would drop it too. Seen: Classic 100%
+- npc 13333 Veteran Guardsman: item 18206 Dwarf Spine (loot_items_missing): loot table 13333 is also creature 22719's, which would drop it too. Seen: Classic 100%
+- npc 13333 Veteran Guardsman: item 18207 Orc Tooth (loot_items_missing): loot table 13333 is also creature 22719's, which would drop it too. Seen: Classic 100%
+- npc 13335 Veteran Mountaineer: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13335 is also creature 22667's, which would drop it too. Seen: Classic 100%
+- npc 13335 Veteran Mountaineer: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13335 is also creature 22667's, which would drop it too. Seen: Classic 100%
+- npc 13335 Veteran Mountaineer: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13335 is also creature 22667's, which would drop it too. Seen: Classic 100%
+- npc 13335 Veteran Mountaineer: item 17423 Storm Crystal (loot_items_missing): loot table 13335 is also creature 22667's, which would drop it too. Seen: Classic 80%
+- npc 13335 Veteran Mountaineer: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13335 is also creature 22667's, which would drop it too. Seen: Classic 100%
+- npc 13335 Veteran Mountaineer: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13335 is also creature 22667's, which would drop it too. Seen: Classic 100%
+- npc 13335 Veteran Mountaineer: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13335 is also creature 22667's, which would drop it too. Seen: Classic 100%
+- npc 13335 Veteran Mountaineer: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13335 is also creature 22667's, which would drop it too. Seen: Classic 100%
+- npc 13335 Veteran Mountaineer: item 18144 Human Bone Chip (loot_items_missing): loot table 13335 is also creature 22667's, which would drop it too. Seen: Classic 100%
+- npc 13335 Veteran Mountaineer: item 18145 Tauren Hoof (loot_items_missing): loot table 13335 is also creature 22667's, which would drop it too. Seen: Classic 100%
+- npc 13335 Veteran Mountaineer: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13335 is also creature 22667's, which would drop it too. Seen: Classic 100%
+- npc 13335 Veteran Mountaineer: item 18147 Forsaken Heart (loot_items_missing): loot table 13335 is also creature 22667's, which would drop it too. Seen: Classic 100%
+- npc 13335 Veteran Mountaineer: item 18206 Dwarf Spine (loot_items_missing): loot table 13335 is also creature 22667's, which would drop it too. Seen: Classic 100%
+- npc 13335 Veteran Mountaineer: item 18207 Orc Tooth (loot_items_missing): loot table 13335 is also creature 22667's, which would drop it too. Seen: Classic 100%
+- npc 13336 Veteran Sentinel: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13336 is also creature 22668's, which would drop it too. Seen: Classic 100%
+- npc 13336 Veteran Sentinel: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13336 is also creature 22668's, which would drop it too. Seen: Classic 100%
+- npc 13336 Veteran Sentinel: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13336 is also creature 22668's, which would drop it too. Seen: Classic 100%
+- npc 13336 Veteran Sentinel: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13336 is also creature 22668's, which would drop it too. Seen: Classic 100%
+- npc 13336 Veteran Sentinel: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13336 is also creature 22668's, which would drop it too. Seen: Classic 100%
+- npc 13336 Veteran Sentinel: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13336 is also creature 22668's, which would drop it too. Seen: Classic 100%
+- npc 13336 Veteran Sentinel: item 18144 Human Bone Chip (loot_items_missing): loot table 13336 is also creature 22668's, which would drop it too. Seen: Classic 100%
+- npc 13336 Veteran Sentinel: item 18145 Tauren Hoof (loot_items_missing): loot table 13336 is also creature 22668's, which would drop it too. Seen: Classic 100%
+- npc 13336 Veteran Sentinel: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13336 is also creature 22668's, which would drop it too. Seen: Classic 100%
+- npc 13336 Veteran Sentinel: item 18206 Dwarf Spine (loot_items_missing): loot table 13336 is also creature 22668's, which would drop it too. Seen: Classic 100%
+- npc 13336 Veteran Sentinel: item 18207 Orc Tooth (loot_items_missing): loot table 13336 is also creature 22668's, which would drop it too. Seen: Classic 100%
+- npc 13337 Veteran Warrior: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13337 is also creature 22669's, which would drop it too. Seen: Classic 100%
+- npc 13337 Veteran Warrior: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13337 is also creature 22669's, which would drop it too. Seen: Classic 100%
+- npc 13337 Veteran Warrior: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13337 is also creature 22669's, which would drop it too. Seen: Classic 100%
+- npc 13337 Veteran Warrior: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13337 is also creature 22669's, which would drop it too. Seen: Classic 100%
+- npc 13337 Veteran Warrior: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13337 is also creature 22669's, which would drop it too. Seen: Classic 100%
+- npc 13337 Veteran Warrior: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13337 is also creature 22669's, which would drop it too. Seen: Classic 100%
+- npc 13337 Veteran Warrior: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13337 is also creature 22669's, which would drop it too. Seen: Classic 100%
+- npc 13337 Veteran Warrior: item 18144 Human Bone Chip (loot_items_missing): loot table 13337 is also creature 22669's, which would drop it too. Seen: Classic 100%
+- npc 13337 Veteran Warrior: item 18145 Tauren Hoof (loot_items_missing): loot table 13337 is also creature 22669's, which would drop it too. Seen: Classic 100%
+- npc 13337 Veteran Warrior: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13337 is also creature 22669's, which would drop it too. Seen: Classic 100%
+- npc 13337 Veteran Warrior: item 18147 Forsaken Heart (loot_items_missing): loot table 13337 is also creature 22669's, which would drop it too. Seen: Classic 100%
+- npc 13337 Veteran Warrior: item 18206 Dwarf Spine (loot_items_missing): loot table 13337 is also creature 22669's, which would drop it too. Seen: Classic 100%
+- npc 13337 Veteran Warrior: item 18207 Orc Tooth (loot_items_missing): loot table 13337 is also creature 22669's, which would drop it too. Seen: Classic 100%
+- npc 13356 Stormpike Mine Layer: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13356 is also creature 22635's, which would drop it too. Seen: Classic 100%
+- npc 13356 Stormpike Mine Layer: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13356 is also creature 22635's, which would drop it too. Seen: Classic 100%
+- npc 13356 Stormpike Mine Layer: item 17422 Armor Scraps (loot_items_missing): loot table 13356 is also creature 22635's, which would drop it too. Seen: Classic 80%
+- npc 13357 Frostwolf Mine Layer: item 17422 Armor Scraps (loot_items_missing): loot table 13357 is also creature 22624's, which would drop it too. Seen: Classic 80%
+- npc 13358 Stormpike Bowman: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13358 is also creature 13521, 13522, 13523's, which would drop it too. Seen: Classic 100%
+- npc 13358 Stormpike Bowman: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13358 is also creature 13521, 13522, 13523's, which would drop it too. Seen: Classic 100%
+- npc 13358 Stormpike Bowman: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13358 is also creature 13521, 13522, 13523's, which would drop it too. Seen: Classic 100%
+- npc 13358 Stormpike Bowman: item 17423 Storm Crystal (loot_items_missing): loot table 13358 is also creature 13521, 13522, 13523's, which would drop it too. Seen: Classic 80%
+- npc 13358 Stormpike Bowman: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13358 is also creature 13521, 13522, 13523's, which would drop it too. Seen: Classic 100%
+- npc 13358 Stormpike Bowman: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13358 is also creature 13521, 13522, 13523's, which would drop it too. Seen: Classic 100%
+- npc 13358 Stormpike Bowman: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13358 is also creature 13521, 13522, 13523's, which would drop it too. Seen: Classic 100%
+- npc 13358 Stormpike Bowman: item 18144 Human Bone Chip (loot_items_missing): loot table 13358 is also creature 13521, 13522, 13523's, which would drop it too. Seen: Classic 100%
+- npc 13358 Stormpike Bowman: item 18145 Tauren Hoof (loot_items_missing): loot table 13358 is also creature 13521, 13522, 13523's, which would drop it too. Seen: Classic 100%
+- npc 13358 Stormpike Bowman: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13358 is also creature 13521, 13522, 13523's, which would drop it too. Seen: Classic 100%
+- npc 13358 Stormpike Bowman: item 18147 Forsaken Heart (loot_items_missing): loot table 13358 is also creature 13521, 13522, 13523's, which would drop it too. Seen: Classic 100%
+- npc 13358 Stormpike Bowman: item 18206 Dwarf Spine (loot_items_missing): loot table 13358 is also creature 13521, 13522, 13523's, which would drop it too. Seen: Classic 100%
+- npc 13358 Stormpike Bowman: item 18207 Orc Tooth (loot_items_missing): loot table 13358 is also creature 13521, 13522, 13523's, which would drop it too. Seen: Classic 100%
+- npc 13359 Frostwolf Bowman: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13359 is also creature 13517, 13518, 13519's, which would drop it too. Seen: Classic 100%
+- npc 13359 Frostwolf Bowman: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13359 is also creature 13517, 13518, 13519's, which would drop it too. Seen: Classic 100%
+- npc 13359 Frostwolf Bowman: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13359 is also creature 13517, 13518, 13519's, which would drop it too. Seen: Classic 100%
+- npc 13359 Frostwolf Bowman: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13359 is also creature 13517, 13518, 13519's, which would drop it too. Seen: Classic 100%
+- npc 13359 Frostwolf Bowman: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13359 is also creature 13517, 13518, 13519's, which would drop it too. Seen: Classic 100%
+- npc 13359 Frostwolf Bowman: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13359 is also creature 13517, 13518, 13519's, which would drop it too. Seen: Classic 100%
+- npc 13359 Frostwolf Bowman: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13359 is also creature 13517, 13518, 13519's, which would drop it too. Seen: Classic 100%
+- npc 13359 Frostwolf Bowman: item 18144 Human Bone Chip (loot_items_missing): loot table 13359 is also creature 13517, 13518, 13519's, which would drop it too. Seen: Classic 100%
+- npc 13359 Frostwolf Bowman: item 18145 Tauren Hoof (loot_items_missing): loot table 13359 is also creature 13517, 13518, 13519's, which would drop it too. Seen: Classic 100%
+- npc 13359 Frostwolf Bowman: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13359 is also creature 13517, 13518, 13519's, which would drop it too. Seen: Classic 100%
+- npc 13359 Frostwolf Bowman: item 18147 Forsaken Heart (loot_items_missing): loot table 13359 is also creature 13517, 13518, 13519's, which would drop it too. Seen: Classic 100%
+- npc 13359 Frostwolf Bowman: item 18206 Dwarf Spine (loot_items_missing): loot table 13359 is also creature 13517, 13518, 13519's, which would drop it too. Seen: Classic 100%
+- npc 13359 Frostwolf Bowman: item 18207 Orc Tooth (loot_items_missing): loot table 13359 is also creature 13517, 13518, 13519's, which would drop it too. Seen: Classic 100%
+- npc 13377 Master Engineer Zinfizzlex: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13377 is also creature 22565's, which would drop it too. Seen: Classic 100%
+- npc 13377 Master Engineer Zinfizzlex: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13377 is also creature 22565's, which would drop it too. Seen: Classic 100%
+- npc 13377 Master Engineer Zinfizzlex: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13377 is also creature 22565's, which would drop it too. Seen: Classic 100%
+- npc 13377 Master Engineer Zinfizzlex: item 17422 Armor Scraps (loot_items_missing): loot table 13377 is also creature 22565's, which would drop it too. Seen: Classic 80%
+- npc 13377 Master Engineer Zinfizzlex: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13377 is also creature 22565's, which would drop it too. Seen: Classic 100%
+- npc 13377 Master Engineer Zinfizzlex: item 18147 Forsaken Heart (loot_items_missing): loot table 13377 is also creature 22565's, which would drop it too. Seen: Classic 100%
+- npc 13377 Master Engineer Zinfizzlex: item 18206 Dwarf Spine (loot_items_missing): loot table 13377 is also creature 22565's, which would drop it too. Seen: Classic 100%
+- npc 13378 Frostwolf Shredder Unit: item 17422 Armor Scraps (loot_items_missing): loot table 13378 is also creature 22550's, which would drop it too. Seen: Classic 80%
+- npc 13378 Frostwolf Shredder Unit: item 17423 Storm Crystal (loot_items_missing): loot table 13378 is also creature 22550's, which would drop it too. Seen: Classic 80%
+- npc 13378 Frostwolf Shredder Unit: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13378 is also creature 22550's, which would drop it too. Seen: Classic 100%
+- npc 13378 Frostwolf Shredder Unit: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13378 is also creature 22550's, which would drop it too. Seen: Classic 100%
+- npc 13416 Stormpike Shredder Unit: item 17422 Armor Scraps (loot_items_missing): loot table 13416 is also creature 22576's, which would drop it too. Seen: Classic 80%
+- npc 13416 Stormpike Shredder Unit: item 17423 Storm Crystal (loot_items_missing): loot table 13416 is also creature 22576's, which would drop it too. Seen: Classic 80%
+- npc 13416 Stormpike Shredder Unit: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13416 is also creature 22576's, which would drop it too. Seen: Classic 100%
+- npc 13416 Stormpike Shredder Unit: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13416 is also creature 22576's, which would drop it too. Seen: Classic 100%
+- npc 13416 Stormpike Shredder Unit: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13416 is also creature 22576's, which would drop it too. Seen: Classic 100%
+- npc 13416 Stormpike Shredder Unit: item 18207 Orc Tooth (loot_items_missing): loot table 13416 is also creature 22576's, which would drop it too. Seen: Classic 100%
+- npc 13424 Champion Guardsman: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13424 is also creature 22533's, which would drop it too. Seen: Classic 100%
+- npc 13424 Champion Guardsman: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13424 is also creature 22533's, which would drop it too. Seen: Classic 100%
+- npc 13424 Champion Guardsman: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13424 is also creature 22533's, which would drop it too. Seen: Classic 100%
+- npc 13424 Champion Guardsman: item 17411 Steamsaw (loot_items_missing): loot table 13424 is also creature 22533's, which would drop it too. Seen: Classic 100%
+- npc 13424 Champion Guardsman: item 17423 Storm Crystal (loot_items_missing): loot table 13424 is also creature 22533's, which would drop it too. Seen: Classic 80%
+- npc 13424 Champion Guardsman: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13424 is also creature 22533's, which would drop it too. Seen: Classic 100%
+- npc 13424 Champion Guardsman: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13424 is also creature 22533's, which would drop it too. Seen: Classic 100%
+- npc 13424 Champion Guardsman: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13424 is also creature 22533's, which would drop it too. Seen: Classic 100%
+- npc 13424 Champion Guardsman: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13424 is also creature 22533's, which would drop it too. Seen: Classic 100%
+- npc 13424 Champion Guardsman: item 18144 Human Bone Chip (loot_items_missing): loot table 13424 is also creature 22533's, which would drop it too. Seen: Classic 100%
+- npc 13424 Champion Guardsman: item 18145 Tauren Hoof (loot_items_missing): loot table 13424 is also creature 22533's, which would drop it too. Seen: Classic 100%
+- npc 13424 Champion Guardsman: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13424 is also creature 22533's, which would drop it too. Seen: Classic 100%
+- npc 13424 Champion Guardsman: item 18147 Forsaken Heart (loot_items_missing): loot table 13424 is also creature 22533's, which would drop it too. Seen: Classic 100%
+- npc 13424 Champion Guardsman: item 18206 Dwarf Spine (loot_items_missing): loot table 13424 is also creature 22533's, which would drop it too. Seen: Classic 100%
+- npc 13424 Champion Guardsman: item 18207 Orc Tooth (loot_items_missing): loot table 13424 is also creature 22533's, which would drop it too. Seen: Classic 100%
+- npc 13425 Champion Legionnaire: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13425 is also creature 22538's, which would drop it too. Seen: Classic 100%
+- npc 13425 Champion Legionnaire: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13425 is also creature 22538's, which would drop it too. Seen: Classic 100%
+- npc 13425 Champion Legionnaire: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13425 is also creature 22538's, which would drop it too. Seen: Classic 100%
+- npc 13425 Champion Legionnaire: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13425 is also creature 22538's, which would drop it too. Seen: Classic 100%
+- npc 13425 Champion Legionnaire: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13425 is also creature 22538's, which would drop it too. Seen: Classic 100%
+- npc 13425 Champion Legionnaire: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13425 is also creature 22538's, which would drop it too. Seen: Classic 100%
+- npc 13425 Champion Legionnaire: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13425 is also creature 22538's, which would drop it too. Seen: Classic 100%
+- npc 13425 Champion Legionnaire: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13425 is also creature 22538's, which would drop it too. Seen: Classic 100%
+- npc 13425 Champion Legionnaire: item 18144 Human Bone Chip (loot_items_missing): loot table 13425 is also creature 22538's, which would drop it too. Seen: Classic 100%
+- npc 13425 Champion Legionnaire: item 18145 Tauren Hoof (loot_items_missing): loot table 13425 is also creature 22538's, which would drop it too. Seen: Classic 100%
+- npc 13425 Champion Legionnaire: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13425 is also creature 22538's, which would drop it too. Seen: Classic 100%
+- npc 13425 Champion Legionnaire: item 18147 Forsaken Heart (loot_items_missing): loot table 13425 is also creature 22538's, which would drop it too. Seen: Classic 100%
+- npc 13425 Champion Legionnaire: item 18206 Dwarf Spine (loot_items_missing): loot table 13425 is also creature 22538's, which would drop it too. Seen: Classic 100%
+- npc 13425 Champion Legionnaire: item 18207 Orc Tooth (loot_items_missing): loot table 13425 is also creature 22538's, which would drop it too. Seen: Classic 100%
+- npc 13426 Champion Mountaineer: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13426 is also creature 22671's, which would drop it too. Seen: Classic 100%
+- npc 13426 Champion Mountaineer: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13426 is also creature 22671's, which would drop it too. Seen: Classic 100%
+- npc 13426 Champion Mountaineer: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13426 is also creature 22671's, which would drop it too. Seen: Classic 100%
+- npc 13426 Champion Mountaineer: item 17423 Storm Crystal (loot_items_missing): loot table 13426 is also creature 22671's, which would drop it too. Seen: Classic 80%
+- npc 13426 Champion Mountaineer: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13426 is also creature 22671's, which would drop it too. Seen: Classic 100%
+- npc 13426 Champion Mountaineer: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13426 is also creature 22671's, which would drop it too. Seen: Classic 100%
+- npc 13426 Champion Mountaineer: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13426 is also creature 22671's, which would drop it too. Seen: Classic 100%
+- npc 13426 Champion Mountaineer: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13426 is also creature 22671's, which would drop it too. Seen: Classic 100%
+- npc 13426 Champion Mountaineer: item 18144 Human Bone Chip (loot_items_missing): loot table 13426 is also creature 22671's, which would drop it too. Seen: Classic 100%
+- npc 13426 Champion Mountaineer: item 18145 Tauren Hoof (loot_items_missing): loot table 13426 is also creature 22671's, which would drop it too. Seen: Classic 100%
+- npc 13426 Champion Mountaineer: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13426 is also creature 22671's, which would drop it too. Seen: Classic 100%
+- npc 13426 Champion Mountaineer: item 18147 Forsaken Heart (loot_items_missing): loot table 13426 is also creature 22671's, which would drop it too. Seen: Classic 100%
+- npc 13426 Champion Mountaineer: item 18206 Dwarf Spine (loot_items_missing): loot table 13426 is also creature 22671's, which would drop it too. Seen: Classic 100%
+- npc 13426 Champion Mountaineer: item 18207 Orc Tooth (loot_items_missing): loot table 13426 is also creature 22671's, which would drop it too. Seen: Classic 100%
+- npc 13427 Champion Sentinel: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13427 is also creature 22672's, which would drop it too. Seen: Classic 100%
+- npc 13427 Champion Sentinel: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13427 is also creature 22672's, which would drop it too. Seen: Classic 100%
+- npc 13427 Champion Sentinel: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13427 is also creature 22672's, which would drop it too. Seen: Classic 100%
+- npc 13427 Champion Sentinel: item 17423 Storm Crystal (loot_items_missing): loot table 13427 is also creature 22672's, which would drop it too. Seen: Classic 80%
+- npc 13427 Champion Sentinel: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13427 is also creature 22672's, which would drop it too. Seen: Classic 100%
+- npc 13427 Champion Sentinel: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13427 is also creature 22672's, which would drop it too. Seen: Classic 100%
+- npc 13427 Champion Sentinel: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13427 is also creature 22672's, which would drop it too. Seen: Classic 100%
+- npc 13427 Champion Sentinel: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13427 is also creature 22672's, which would drop it too. Seen: Classic 100%
+- npc 13427 Champion Sentinel: item 18144 Human Bone Chip (loot_items_missing): loot table 13427 is also creature 22672's, which would drop it too. Seen: Classic 100%
+- npc 13427 Champion Sentinel: item 18145 Tauren Hoof (loot_items_missing): loot table 13427 is also creature 22672's, which would drop it too. Seen: Classic 100%
+- npc 13427 Champion Sentinel: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13427 is also creature 22672's, which would drop it too. Seen: Classic 100%
+- npc 13427 Champion Sentinel: item 18147 Forsaken Heart (loot_items_missing): loot table 13427 is also creature 22672's, which would drop it too. Seen: Classic 100%
+- npc 13427 Champion Sentinel: item 18207 Orc Tooth (loot_items_missing): loot table 13427 is also creature 22672's, which would drop it too. Seen: Classic 100%
+- npc 13428 Champion Warrior: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13428 is also creature 22673's, which would drop it too. Seen: Classic 100%
+- npc 13428 Champion Warrior: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13428 is also creature 22673's, which would drop it too. Seen: Classic 100%
+- npc 13428 Champion Warrior: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13428 is also creature 22673's, which would drop it too. Seen: Classic 100%
+- npc 13428 Champion Warrior: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13428 is also creature 22673's, which would drop it too. Seen: Classic 100%
+- npc 13428 Champion Warrior: item 17422 Armor Scraps (loot_items_missing): loot table 13428 is also creature 22673's, which would drop it too. Seen: Classic 80%
+- npc 13428 Champion Warrior: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13428 is also creature 22673's, which would drop it too. Seen: Classic 100%
+- npc 13428 Champion Warrior: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13428 is also creature 22673's, which would drop it too. Seen: Classic 100%
+- npc 13428 Champion Warrior: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13428 is also creature 22673's, which would drop it too. Seen: Classic 100%
+- npc 13428 Champion Warrior: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13428 is also creature 22673's, which would drop it too. Seen: Classic 100%
+- npc 13428 Champion Warrior: item 18144 Human Bone Chip (loot_items_missing): loot table 13428 is also creature 22673's, which would drop it too. Seen: Classic 100%
+- npc 13428 Champion Warrior: item 18145 Tauren Hoof (loot_items_missing): loot table 13428 is also creature 22673's, which would drop it too. Seen: Classic 100%
+- npc 13428 Champion Warrior: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13428 is also creature 22673's, which would drop it too. Seen: Classic 100%
+- npc 13428 Champion Warrior: item 18147 Forsaken Heart (loot_items_missing): loot table 13428 is also creature 22673's, which would drop it too. Seen: Classic 100%
+- npc 13428 Champion Warrior: item 18206 Dwarf Spine (loot_items_missing): loot table 13428 is also creature 22673's, which would drop it too. Seen: Classic 100%
+- npc 13428 Champion Warrior: item 18207 Orc Tooth (loot_items_missing): loot table 13428 is also creature 22673's, which would drop it too. Seen: Classic 100%
+- npc 13440 Frostwolf Wolf Rider: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13440 is also creature 22679's, which would drop it too. Seen: Classic 100%
+- npc 13440 Frostwolf Wolf Rider: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13440 is also creature 22679's, which would drop it too. Seen: Classic 100%
+- npc 13440 Frostwolf Wolf Rider: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13440 is also creature 22679's, which would drop it too. Seen: Classic 100%
+- npc 13440 Frostwolf Wolf Rider: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13440 is also creature 22679's, which would drop it too. Seen: Classic 100%
+- npc 13440 Frostwolf Wolf Rider: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13440 is also creature 22679's, which would drop it too. Seen: Classic 100%
+- npc 13440 Frostwolf Wolf Rider: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13440 is also creature 22679's, which would drop it too. Seen: Classic 100%
+- npc 13440 Frostwolf Wolf Rider: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13440 is also creature 22679's, which would drop it too. Seen: Classic 100%
+- npc 13440 Frostwolf Wolf Rider: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13440 is also creature 22679's, which would drop it too. Seen: Classic 100%
+- npc 13440 Frostwolf Wolf Rider: item 18144 Human Bone Chip (loot_items_missing): loot table 13440 is also creature 22679's, which would drop it too. Seen: Classic 100%
+- npc 13440 Frostwolf Wolf Rider: item 18145 Tauren Hoof (loot_items_missing): loot table 13440 is also creature 22679's, which would drop it too. Seen: Classic 100%
+- npc 13440 Frostwolf Wolf Rider: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13440 is also creature 22679's, which would drop it too. Seen: Classic 100%
+- npc 13440 Frostwolf Wolf Rider: item 18147 Forsaken Heart (loot_items_missing): loot table 13440 is also creature 22679's, which would drop it too. Seen: Classic 100%
+- npc 13440 Frostwolf Wolf Rider: item 18206 Dwarf Spine (loot_items_missing): loot table 13440 is also creature 22679's, which would drop it too. Seen: Classic 100%
+- npc 13440 Frostwolf Wolf Rider: item 18207 Orc Tooth (loot_items_missing): loot table 13440 is also creature 22679's, which would drop it too. Seen: Classic 100%
+- npc 13446 Field Marshal Teravaine: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13446 is also creature 22621's, which would drop it too. Seen: Classic 100%
+- npc 13446 Field Marshal Teravaine: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13446 is also creature 22621's, which would drop it too. Seen: Classic 100%
+- npc 13446 Field Marshal Teravaine: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13446 is also creature 22621's, which would drop it too. Seen: Classic 100%
+- npc 13446 Field Marshal Teravaine: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13446 is also creature 22621's, which would drop it too. Seen: Classic 100%
+- npc 13449 Warmaster Garrick: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13449 is also creature 22639's, which would drop it too. Seen: Classic 100%
+- npc 13449 Warmaster Garrick: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13449 is also creature 22639's, which would drop it too. Seen: Classic 100%
+- npc 13449 Warmaster Garrick: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13449 is also creature 22639's, which would drop it too. Seen: Classic 100%
+- npc 13449 Warmaster Garrick: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13449 is also creature 22639's, which would drop it too. Seen: Classic 100%
+- npc 13449 Warmaster Garrick: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13449 is also creature 22639's, which would drop it too. Seen: Classic 100%
+- npc 13449 Warmaster Garrick: item 18145 Tauren Hoof (loot_items_missing): loot table 13449 is also creature 22639's, which would drop it too. Seen: Classic 100%
+- npc 13449 Warmaster Garrick: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13449 is also creature 22639's, which would drop it too. Seen: Classic 100%
+- npc 13449 Warmaster Garrick: item 18147 Forsaken Heart (loot_items_missing): loot table 13449 is also creature 22639's, which would drop it too. Seen: Classic 100%
+- npc 13449 Warmaster Garrick: item 18207 Orc Tooth (loot_items_missing): loot table 13449 is also creature 22639's, which would drop it too. Seen: Classic 100%
+- npc 13524 Stormpike Commando: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13524 is also creature 22689's, which would drop it too. Seen: Classic 100%
+- npc 13524 Stormpike Commando: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13524 is also creature 22689's, which would drop it too. Seen: Classic 100%
+- npc 13525 Seasoned Commando: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13525 is also creature 22713's, which would drop it too. Seen: Classic 1%
+- npc 13525 Seasoned Commando: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13525 is also creature 22713's, which would drop it too. Seen: Classic 100%
+- npc 13525 Seasoned Commando: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13525 is also creature 22713's, which would drop it too. Seen: Classic 100%
+- npc 13525 Seasoned Commando: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13525 is also creature 22713's, which would drop it too. Seen: Classic 1%
+- npc 13526 Veteran Commando: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13526 is also creature 22587's, which would drop it too. Seen: Classic 100%
+- npc 13526 Veteran Commando: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13526 is also creature 22587's, which would drop it too. Seen: Classic 100%
+- npc 13526 Veteran Commando: item 17423 Storm Crystal (loot_items_missing): loot table 13526 is also creature 22587's, which would drop it too. Seen: Classic 80%
+- npc 13526 Veteran Commando: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13526 is also creature 22587's, which would drop it too. Seen: Classic 100%
+- npc 13526 Veteran Commando: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13526 is also creature 22587's, which would drop it too. Seen: Classic 100%
+- npc 13527 Champion Commando: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13527 is also creature 22607's, which would drop it too. Seen: Classic 100%
+- npc 13527 Champion Commando: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13527 is also creature 22607's, which would drop it too. Seen: Classic 100%
+- npc 13527 Champion Commando: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13527 is also creature 22607's, which would drop it too. Seen: Classic 100%
+- npc 13527 Champion Commando: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13527 is also creature 22607's, which would drop it too. Seen: Classic 100%
+- npc 13527 Champion Commando: item 18144 Human Bone Chip (loot_items_missing): loot table 13527 is also creature 22607's, which would drop it too. Seen: Classic 100%
+- npc 13527 Champion Commando: item 18206 Dwarf Spine (loot_items_missing): loot table 13527 is also creature 22607's, which would drop it too. Seen: Classic 100%
+- npc 13528 Frostwolf Reaver: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13528 is also creature 22676's, which would drop it too. Seen: Classic 100%
+- npc 13528 Frostwolf Reaver: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13528 is also creature 22676's, which would drop it too. Seen: Classic 1%
+- npc 13528 Frostwolf Reaver: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13528 is also creature 22676's, which would drop it too. Seen: Classic 100%
+- npc 13528 Frostwolf Reaver: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13528 is also creature 22676's, which would drop it too. Seen: Classic 100%
+- npc 13528 Frostwolf Reaver: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13528 is also creature 22676's, which would drop it too. Seen: Classic 100%
+- npc 13528 Frostwolf Reaver: item 18145 Tauren Hoof (loot_items_missing): loot table 13528 is also creature 22676's, which would drop it too. Seen: Classic 1%
+- npc 13528 Frostwolf Reaver: item 18147 Forsaken Heart (loot_items_missing): loot table 13528 is also creature 22676's, which would drop it too. Seen: Classic 1%
+- npc 13528 Frostwolf Reaver: item 18207 Orc Tooth (loot_items_missing): loot table 13528 is also creature 22676's, which would drop it too. Seen: Classic 1%
+- npc 13529 Seasoned Reaver: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13529 is also creature 22718's, which would drop it too. Seen: Classic 100%
+- npc 13529 Seasoned Reaver: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13529 is also creature 22718's, which would drop it too. Seen: Classic 100%
+- npc 13529 Seasoned Reaver: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13529 is also creature 22718's, which would drop it too. Seen: Classic 100%
+- npc 13529 Seasoned Reaver: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13529 is also creature 22718's, which would drop it too. Seen: Classic 100%
+- npc 13529 Seasoned Reaver: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13529 is also creature 22718's, which would drop it too. Seen: Classic 100%
+- npc 13529 Seasoned Reaver: item 18144 Human Bone Chip (loot_items_missing): loot table 13529 is also creature 22718's, which would drop it too. Seen: Classic 100%
+- npc 13529 Seasoned Reaver: item 18147 Forsaken Heart (loot_items_missing): loot table 13529 is also creature 22718's, which would drop it too. Seen: Classic 100%
+- npc 13530 Veteran Reaver: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13530 is also creature 22592's, which would drop it too. Seen: Classic 100%
+- npc 13530 Veteran Reaver: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13530 is also creature 22592's, which would drop it too. Seen: Classic 100%
+- npc 13530 Veteran Reaver: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13530 is also creature 22592's, which would drop it too. Seen: Classic 100%
+- npc 13530 Veteran Reaver: item 18145 Tauren Hoof (loot_items_missing): loot table 13530 is also creature 22592's, which would drop it too. Seen: Classic 100%
+- npc 13530 Veteran Reaver: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13530 is also creature 22592's, which would drop it too. Seen: Classic 100%
+- npc 13531 Champion Reaver: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13531 is also creature 22612's, which would drop it too. Seen: Classic 100%
+- npc 13531 Champion Reaver: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13531 is also creature 22612's, which would drop it too. Seen: Classic 100%
+- npc 13531 Champion Reaver: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13531 is also creature 22612's, which would drop it too. Seen: Classic 100%
+- npc 13531 Champion Reaver: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13531 is also creature 22612's, which would drop it too. Seen: Classic 100%
+- npc 13531 Champion Reaver: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13531 is also creature 22612's, which would drop it too. Seen: Classic 100%
+- npc 13531 Champion Reaver: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13531 is also creature 22612's, which would drop it too. Seen: Classic 100%
+- npc 13531 Champion Reaver: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13531 is also creature 22612's, which would drop it too. Seen: Classic 100%
+- npc 13531 Champion Reaver: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13531 is also creature 22612's, which would drop it too. Seen: Classic 100%
+- npc 13531 Champion Reaver: item 18144 Human Bone Chip (loot_items_missing): loot table 13531 is also creature 22612's, which would drop it too. Seen: Classic 100%
+- npc 13531 Champion Reaver: item 18145 Tauren Hoof (loot_items_missing): loot table 13531 is also creature 22612's, which would drop it too. Seen: Classic 100%
+- npc 13531 Champion Reaver: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13531 is also creature 22612's, which would drop it too. Seen: Classic 100%
+- npc 13531 Champion Reaver: item 18147 Forsaken Heart (loot_items_missing): loot table 13531 is also creature 22612's, which would drop it too. Seen: Classic 100%
+- npc 13531 Champion Reaver: item 18206 Dwarf Spine (loot_items_missing): loot table 13531 is also creature 22612's, which would drop it too. Seen: Classic 100%
+- npc 13531 Champion Reaver: item 18207 Orc Tooth (loot_items_missing): loot table 13531 is also creature 22612's, which would drop it too. Seen: Classic 100%
+- npc 13576 Stormpike Ram Rider: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13576 is also creature 22691's, which would drop it too. Seen: Classic 100%
+- npc 13576 Stormpike Ram Rider: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13576 is also creature 22691's, which would drop it too. Seen: Classic 100%
+- npc 13576 Stormpike Ram Rider: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13576 is also creature 22691's, which would drop it too. Seen: Classic 100%
+- npc 13576 Stormpike Ram Rider: item 17423 Storm Crystal (loot_items_missing): loot table 13576 is also creature 22691's, which would drop it too. Seen: Classic 80%
+- npc 13576 Stormpike Ram Rider: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13576 is also creature 22691's, which would drop it too. Seen: Classic 100%
+- npc 13576 Stormpike Ram Rider: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13576 is also creature 22691's, which would drop it too. Seen: Classic 100%
+- npc 13576 Stormpike Ram Rider: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13576 is also creature 22691's, which would drop it too. Seen: Classic 100%
+- npc 13576 Stormpike Ram Rider: item 18143 Tuft of Gnome Hair (loot_items_missing): loot table 13576 is also creature 22691's, which would drop it too. Seen: Classic 100%
+- npc 13576 Stormpike Ram Rider: item 18144 Human Bone Chip (loot_items_missing): loot table 13576 is also creature 22691's, which would drop it too. Seen: Classic 100%
+- npc 13576 Stormpike Ram Rider: item 18145 Tauren Hoof (loot_items_missing): loot table 13576 is also creature 22691's, which would drop it too. Seen: Classic 100%
+- npc 13576 Stormpike Ram Rider: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13576 is also creature 22691's, which would drop it too. Seen: Classic 100%
+- npc 13576 Stormpike Ram Rider: item 18147 Forsaken Heart (loot_items_missing): loot table 13576 is also creature 22691's, which would drop it too. Seen: Classic 100%
+- npc 13576 Stormpike Ram Rider: item 18206 Dwarf Spine (loot_items_missing): loot table 13576 is also creature 22691's, which would drop it too. Seen: Classic 100%
+- npc 13576 Stormpike Ram Rider: item 18207 Orc Tooth (loot_items_missing): loot table 13576 is also creature 22691's, which would drop it too. Seen: Classic 100%
+- npc 13597 Frostwolf Explosives Expert: item 17422 Armor Scraps (loot_items_missing): loot table 13597 is also creature 22623's, which would drop it too. Seen: Classic 80%
+- npc 13597 Frostwolf Explosives Expert: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13597 is also creature 22623's, which would drop it too. Seen: Classic 100%
+- npc 13597 Frostwolf Explosives Expert: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13597 is also creature 22623's, which would drop it too. Seen: Classic 100%
+- npc 13598 Stormpike Explosives Expert: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13598 is also creature 22634's, which would drop it too. Seen: Classic 100%
+- npc 13598 Stormpike Explosives Expert: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13598 is also creature 22634's, which would drop it too. Seen: Classic 100%
+- npc 13598 Stormpike Explosives Expert: item 17422 Armor Scraps (loot_items_missing): loot table 13598 is also creature 22634's, which would drop it too. Seen: Classic 80%
+- npc 13676 Stabled Alterac Ram: item 17326 Stormpike Soldier's Flesh (loot_items_missing): loot table 13676 is also creature 22764's, which would drop it too. Seen: Classic 100%
+- npc 13676 Stabled Alterac Ram: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13676 is also creature 22764's, which would drop it too. Seen: Classic 100%
+- npc 13676 Stabled Alterac Ram: item 17422 Armor Scraps (loot_items_missing): loot table 13676 is also creature 22764's, which would drop it too. Seen: Classic 80%
+- npc 13676 Stabled Alterac Ram: item 17423 Storm Crystal (loot_items_missing): loot table 13676 is also creature 22764's, which would drop it too. Seen: Classic 80%
+- npc 13676 Stabled Alterac Ram: item 17502 Frostwolf Soldier's Medal (loot_items_missing): loot table 13676 is also creature 22764's, which would drop it too. Seen: Classic 100%
+- npc 13676 Stabled Alterac Ram: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13676 is also creature 22764's, which would drop it too. Seen: Classic 100%
+- npc 13676 Stabled Alterac Ram: item 18145 Tauren Hoof (loot_items_missing): loot table 13676 is also creature 22764's, which would drop it too. Seen: Classic 100%
+- npc 13676 Stabled Alterac Ram: item 18146 Darkspear Troll Mojo (loot_items_missing): loot table 13676 is also creature 22764's, which would drop it too. Seen: Classic 100%
+- npc 13676 Stabled Alterac Ram: item 18147 Forsaken Heart (loot_items_missing): loot table 13676 is also creature 22764's, which would drop it too. Seen: Classic 100%
+- npc 13676 Stabled Alterac Ram: item 18206 Dwarf Spine (loot_items_missing): loot table 13676 is also creature 22764's, which would drop it too. Seen: Classic 100%
+- npc 13840 Warmaster Laggrond: item 17422 Armor Scraps (loot_items_missing): loot table 13840 is also creature 22640's, which would drop it too. Seen: Classic 80%
+- npc 13840 Warmaster Laggrond: item 17423 Storm Crystal (loot_items_missing): loot table 13840 is also creature 22640's, which would drop it too. Seen: Classic 80%
+- npc 13840 Warmaster Laggrond: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13840 is also creature 22640's, which would drop it too. Seen: Classic 100%
+- npc 13840 Warmaster Laggrond: item 17504 Frostwolf Commander's Medal (loot_items_missing): loot table 13840 is also creature 22640's, which would drop it too. Seen: Classic 100%
+- npc 13841 Lieutenant Haggerdin: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13841 is also creature 22628's, which would drop it too. Seen: Classic 100%
+- npc 13841 Lieutenant Haggerdin: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13841 is also creature 22628's, which would drop it too. Seen: Classic 100%
+- npc 13841 Lieutenant Haggerdin: item 17328 Stormpike Commander's Flesh (loot_items_missing): loot table 13841 is also creature 22628's, which would drop it too. Seen: Classic 100%
+- npc 13841 Lieutenant Haggerdin: item 17422 Armor Scraps (loot_items_missing): loot table 13841 is also creature 22628's, which would drop it too. Seen: Classic 80%
+- npc 13956 Winterax Mystic: item 17306 Stormpike Soldier's Blood (loot_items_missing): loot table 13956 is also creature 22790's, which would drop it too. Seen: Classic 100%
+- npc 13956 Winterax Mystic: item 17327 Stormpike Lieutenant's Flesh (loot_items_missing): loot table 13956 is also creature 22790's, which would drop it too. Seen: Classic 100%
+- npc 13956 Winterax Mystic: item 17422 Armor Scraps (loot_items_missing): loot table 13956 is also creature 22790's, which would drop it too. Seen: Classic 80%
+- npc 13957 Winterax Warrior: item 17422 Armor Scraps (loot_items_missing): loot table 13957 is also creature 22795's, which would drop it too. Seen: Classic 80%
+- npc 13957 Winterax Warrior: item 17423 Storm Crystal (loot_items_missing): loot table 13957 is also creature 22795's, which would drop it too. Seen: Classic 80%
+- npc 13957 Winterax Warrior: item 17503 Frostwolf Lieutenant's Medal (loot_items_missing): loot table 13957 is also creature 22795's, which would drop it too. Seen: Classic 100%
+- npc 13957 Winterax Warrior: item 18147 Forsaken Heart (loot_items_missing): loot table 13957 is also creature 22795's, which would drop it too. Seen: Classic 100%
+
+## a quest item no quest in the world asks for (316)
+
+- npc 1530 Rotting Ancestor: item 2839 A Letter to Yvette (loot_items_missing): a quest item no quest in the world asks for. Seen: EG Link 14 kills without it; Classic 2.5%
+- npc 1532 Wandering Spirit: item 2839 A Letter to Yvette (loot_items_missing): a quest item no quest in the world asks for. Seen: EG Link 48 kills without it; Classic 2.5%
+- npc 1548 Cursed Darkhound: item 2839 A Letter to Yvette (loot_items_missing): a quest item no quest in the world asks for. Seen: EG Link 41 kills without it; Classic 2.5%
+- npc 1664 Captain Vachon: item 2839 A Letter to Yvette (loot_items_missing): a quest item no quest in the world asks for. Seen: EG Link 5 kills without it; Classic 2.5%
+- npc 1770 Moonrage Darkrunner: item 2839 A Letter to Yvette (loot_items_missing): a quest item no quest in the world asks for. Seen: EG Link 22 kills without it; Classic 2.5%
+- npc 3732 Forsaken Seeker: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3732 Forsaken Seeker: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3732 Forsaken Seeker: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3732 Forsaken Seeker: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3732 Forsaken Seeker: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3732 Forsaken Seeker: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3732 Forsaken Seeker: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3732 Forsaken Seeker: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 3732 Forsaken Seeker: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3732 Forsaken Seeker: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3732 Forsaken Seeker: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3732 Forsaken Seeker: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3733 Forsaken Herbalist: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3733 Forsaken Herbalist: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3733 Forsaken Herbalist: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3733 Forsaken Herbalist: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3733 Forsaken Herbalist: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 3733 Forsaken Herbalist: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3733 Forsaken Herbalist: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3733 Forsaken Herbalist: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3733 Forsaken Herbalist: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3733 Forsaken Herbalist: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3733 Forsaken Herbalist: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3733 Forsaken Herbalist: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3734 Forsaken Thug: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.9%
+- npc 3734 Forsaken Thug: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.9%
+- npc 3734 Forsaken Thug: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.9%
+- npc 3734 Forsaken Thug: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1%
+- npc 3734 Forsaken Thug: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.8%
+- npc 3734 Forsaken Thug: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.9%
+- npc 3734 Forsaken Thug: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.7%
+- npc 3734 Forsaken Thug: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.9%
+- npc 3734 Forsaken Thug: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1%
+- npc 3734 Forsaken Thug: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.9%
+- npc 3734 Forsaken Thug: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.8%
+- npc 3734 Forsaken Thug: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1%
+- npc 3735 Apothecary Falthis: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3735 Apothecary Falthis: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.8%
+- npc 3735 Apothecary Falthis: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.1%
+- npc 3735 Apothecary Falthis: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3735 Apothecary Falthis: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.1%
+- npc 3735 Apothecary Falthis: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.7%
+- npc 3735 Apothecary Falthis: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3735 Apothecary Falthis: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.4%
+- npc 3735 Apothecary Falthis: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.7%
+- npc 3735 Apothecary Falthis: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.7%
+- npc 3735 Apothecary Falthis: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.1%
+- npc 3735 Apothecary Falthis: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3736 Darkslayer Mordenthal: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.9%
+- npc 3736 Darkslayer Mordenthal: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.1%
+- npc 3736 Darkslayer Mordenthal: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3736 Darkslayer Mordenthal: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.4%
+- npc 3736 Darkslayer Mordenthal: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.1%
+- npc 3736 Darkslayer Mordenthal: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.4%
+- npc 3736 Darkslayer Mordenthal: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.4%
+- npc 3736 Darkslayer Mordenthal: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.4%
+- npc 3736 Darkslayer Mordenthal: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.6%
+- npc 3736 Darkslayer Mordenthal: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.9%
+- npc 3736 Darkslayer Mordenthal: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.9%
+- npc 3736 Darkslayer Mordenthal: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.1%
+- npc 3799 Severed Druid: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.5%
+- npc 3799 Severed Druid: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.4%
+- npc 3799 Severed Druid: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.2%
+- npc 3799 Severed Druid: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.6%
+- npc 3799 Severed Druid: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.4%
+- npc 3799 Severed Druid: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.2%
+- npc 3799 Severed Druid: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.4%
+- npc 3799 Severed Druid: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.3%
+- npc 3799 Severed Druid: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.1%
+- npc 3799 Severed Druid: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.4%
+- npc 3799 Severed Druid: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.3%
+- npc 3799 Severed Druid: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.3%
+- npc 3804 Forsaken Intruder: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 3804 Forsaken Intruder: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3804 Forsaken Intruder: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.8%
+- npc 3804 Forsaken Intruder: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3804 Forsaken Intruder: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3804 Forsaken Intruder: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3804 Forsaken Intruder: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3804 Forsaken Intruder: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3804 Forsaken Intruder: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3804 Forsaken Intruder: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3804 Forsaken Intruder: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3804 Forsaken Intruder: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.2%
+- npc 3806 Forsaken Infiltrator: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3806 Forsaken Infiltrator: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3806 Forsaken Infiltrator: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3806 Forsaken Infiltrator: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3806 Forsaken Infiltrator: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3806 Forsaken Infiltrator: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 3806 Forsaken Infiltrator: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3806 Forsaken Infiltrator: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3806 Forsaken Infiltrator: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3806 Forsaken Infiltrator: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3806 Forsaken Infiltrator: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3806 Forsaken Infiltrator: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3807 Forsaken Assassin: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3807 Forsaken Assassin: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3807 Forsaken Assassin: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3807 Forsaken Assassin: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3807 Forsaken Assassin: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3807 Forsaken Assassin: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3807 Forsaken Assassin: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3807 Forsaken Assassin: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3807 Forsaken Assassin: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3807 Forsaken Assassin: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3807 Forsaken Assassin: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3807 Forsaken Assassin: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3808 Forsaken Dark Stalker: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3808 Forsaken Dark Stalker: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 3808 Forsaken Dark Stalker: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3808 Forsaken Dark Stalker: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3808 Forsaken Dark Stalker: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3808 Forsaken Dark Stalker: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3808 Forsaken Dark Stalker: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3808 Forsaken Dark Stalker: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3808 Forsaken Dark Stalker: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3808 Forsaken Dark Stalker: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3808 Forsaken Dark Stalker: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.8%
+- npc 3808 Forsaken Dark Stalker: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3879 Dark Strand Assassin: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.8%
+- npc 3879 Dark Strand Assassin: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.9%
+- npc 3879 Dark Strand Assassin: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.9%
+- npc 3879 Dark Strand Assassin: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3879 Dark Strand Assassin: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.1%
+- npc 3879 Dark Strand Assassin: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 3879 Dark Strand Assassin: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.2%
+- npc 3879 Dark Strand Assassin: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3879 Dark Strand Assassin: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3879 Dark Strand Assassin: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.2%
+- npc 3879 Dark Strand Assassin: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3879 Dark Strand Assassin: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3893 Forsaken Scout: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3893 Forsaken Scout: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3893 Forsaken Scout: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.1%
+- npc 3893 Forsaken Scout: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3893 Forsaken Scout: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.2%
+- npc 3893 Forsaken Scout: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3893 Forsaken Scout: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.2%
+- npc 3893 Forsaken Scout: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 3893 Forsaken Scout: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3893 Forsaken Scout: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.9%
+- npc 3893 Forsaken Scout: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.1%
+- npc 3893 Forsaken Scout: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.9%
+- npc 3898 Aligar the Tormentor: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.1%
+- npc 3898 Aligar the Tormentor: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.8%
+- npc 3898 Aligar the Tormentor: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3898 Aligar the Tormentor: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3898 Aligar the Tormentor: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.7%
+- npc 3898 Aligar the Tormentor: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3898 Aligar the Tormentor: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.4%
+- npc 3898 Aligar the Tormentor: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3898 Aligar the Tormentor: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.1%
+- npc 3898 Aligar the Tormentor: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3898 Aligar the Tormentor: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.3%
+- npc 3899 Balizar the Umbrage: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 3899 Balizar the Umbrage: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.6%
+- npc 3899 Balizar the Umbrage: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 3899 Balizar the Umbrage: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.6%
+- npc 3899 Balizar the Umbrage: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.6%
+- npc 3899 Balizar the Umbrage: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.6%
+- npc 3899 Balizar the Umbrage: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.3%
+- npc 3899 Balizar the Umbrage: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 3899 Balizar the Umbrage: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.3%
+- npc 3899 Balizar the Umbrage: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 3899 Balizar the Umbrage: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.9%
+- npc 3899 Balizar the Umbrage: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.9%
+- npc 3900 Caedakar the Vicious: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3900 Caedakar the Vicious: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.3%
+- npc 3900 Caedakar the Vicious: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.3%
+- npc 3900 Caedakar the Vicious: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 3.4%
+- npc 3900 Caedakar the Vicious: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.1%
+- npc 3900 Caedakar the Vicious: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3900 Caedakar the Vicious: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 3900 Caedakar the Vicious: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.3%
+- npc 3900 Caedakar the Vicious: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 3900 Caedakar the Vicious: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.3%
+- npc 3900 Caedakar the Vicious: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.1%
+- npc 3900 Caedakar the Vicious: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.8%
+- npc 3986 Sarilus Foulborne: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.4%
+- npc 3986 Sarilus Foulborne: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.8%
+- npc 3986 Sarilus Foulborne: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2%
+- npc 3986 Sarilus Foulborne: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 3986 Sarilus Foulborne: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.1%
+- npc 3986 Sarilus Foulborne: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.1%
+- npc 3986 Sarilus Foulborne: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.2%
+- npc 3986 Sarilus Foulborne: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.1%
+- npc 3986 Sarilus Foulborne: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2%
+- npc 3986 Sarilus Foulborne: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 3986 Sarilus Foulborne: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 3986 Sarilus Foulborne: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 4663 Burning Blade Augur: item 6766 Flayed Demon Skin (old2) (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2%
+- npc 4664 Burning Blade Reaver: item 6766 Flayed Demon Skin (old2) (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2%
+- npc 4665 Burning Blade Adept: item 6766 Flayed Demon Skin (old2) (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2%
+- npc 4666 Burning Blade Felsworn: item 6766 Flayed Demon Skin (old2) (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2%
+- npc 4667 Burning Blade Shadowmage: item 6766 Flayed Demon Skin (old2) (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2%
+- npc 4668 Burning Blade Summoner: item 6766 Flayed Demon Skin (old2) (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2%
+- npc 4705 Burning Blade Invoker: item 6766 Flayed Demon Skin (old2) (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2%
+- npc 7086 Cursed Ooze: item 11914 Empty Cursed Ooze Jar (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.3%
+- npc 7086 Cursed Ooze: item 11948 Empty Tainted Ooze Jar (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.3%
+- npc 7092 Tainted Ooze: item 11914 Empty Cursed Ooze Jar (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.2%
+- npc 7092 Tainted Ooze: item 11948 Empty Tainted Ooze Jar (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.2%
+- npc 11053 High Priestess MacDonnell: item 11914 Empty Cursed Ooze Jar (npcs_no_loot): a quest item no quest in the world asks for. Seen: Classic 10.7%
+- npc 11053 High Priestess MacDonnell: item 11948 Empty Tainted Ooze Jar (npcs_no_loot): a quest item no quest in the world asks for. Seen: Classic 10.7%
+- npc 11380 Jin'do the Hexxer: item 19882 The Hexxer's Head (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 100%
+- npc 11602 Irondeep Skullthumper: item 19235 Seven of Beasts (npcs_no_loot): a quest item no quest in the world asks for. Seen: Classic 0.1%
+- npc 11656 Horde Peon: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 11656 Horde Peon: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.1%
+- npc 11656 Horde Peon: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 11656 Horde Peon: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 11656 Horde Peon: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1%
+- npc 11656 Horde Peon: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 11656 Horde Peon: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.8%
+- npc 11656 Horde Peon: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.1%
+- npc 11656 Horde Peon: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.8%
+- npc 11656 Horde Peon: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.1%
+- npc 11656 Horde Peon: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 11656 Horde Peon: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.8%
+- npc 11680 Horde Scout: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 11680 Horde Scout: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 11680 Horde Scout: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.1%
+- npc 11680 Horde Scout: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.2%
+- npc 11680 Horde Scout: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 11680 Horde Scout: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 11680 Horde Scout: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 11680 Horde Scout: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 11680 Horde Scout: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.8%
+- npc 11680 Horde Scout: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 11680 Horde Scout: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.8%
+- npc 11680 Horde Scout: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 11681 Horde Deforester: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.9%
+- npc 11681 Horde Deforester: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.2%
+- npc 11681 Horde Deforester: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 11681 Horde Deforester: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 11681 Horde Deforester: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 11681 Horde Deforester: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 11681 Horde Deforester: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 11681 Horde Deforester: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.1%
+- npc 11681 Horde Deforester: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 11681 Horde Deforester: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.1%
+- npc 11681 Horde Deforester: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.2%
+- npc 11681 Horde Deforester: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.2%
+- npc 11682 Horde Grunt: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1%
+- npc 11682 Horde Grunt: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 11682 Horde Grunt: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 11682 Horde Grunt: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1%
+- npc 11682 Horde Grunt: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.9%
+- npc 11682 Horde Grunt: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.9%
+- npc 11682 Horde Grunt: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.8%
+- npc 11682 Horde Grunt: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 11682 Horde Grunt: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 11682 Horde Grunt: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 11682 Horde Grunt: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 11682 Horde Grunt: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.8%
+- npc 11683 Horde Shaman: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 11683 Horde Shaman: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2%
+- npc 11683 Horde Shaman: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.8%
+- npc 11683 Horde Shaman: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 11683 Horde Shaman: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 3.3%
+- npc 11683 Horde Shaman: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.4%
+- npc 11683 Horde Shaman: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 11683 Horde Shaman: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.1%
+- npc 11683 Horde Shaman: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 11683 Horde Shaman: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 11683 Horde Shaman: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.6%
+- npc 11683 Horde Shaman: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 11684 Warsong Shredder: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.5%
+- npc 11684 Warsong Shredder: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 11684 Warsong Shredder: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 11684 Warsong Shredder: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 11684 Warsong Shredder: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1%
+- npc 11684 Warsong Shredder: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 11684 Warsong Shredder: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1%
+- npc 11684 Warsong Shredder: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.3%
+- npc 11684 Warsong Shredder: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 8.1%
+- npc 11684 Warsong Shredder: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.9%
+- npc 11684 Warsong Shredder: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.7%
+- npc 11684 Warsong Shredder: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.6%
+- npc 12387 Large Vile Slime: item 15886 Timolain's Phylactery (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 100%
+- npc 12858 Torek: item 16647 Shredder Operating Manual - Page 3 (npcs_no_loot): a quest item no quest in the world asks for. Seen: Classic 33.3%
+- npc 12860 Duriel Moonfire: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.2%
+- npc 12860 Duriel Moonfire: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.6%
+- npc 12860 Duriel Moonfire: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.2%
+- npc 12860 Duriel Moonfire: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1%
+- npc 12860 Duriel Moonfire: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.9%
+- npc 12860 Duriel Moonfire: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.6%
+- npc 12860 Duriel Moonfire: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.6%
+- npc 12860 Duriel Moonfire: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.4%
+- npc 12860 Duriel Moonfire: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.8%
+- npc 12860 Duriel Moonfire: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.9%
+- npc 12860 Duriel Moonfire: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.4%
+- npc 12860 Duriel Moonfire: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1%
+- npc 12918 Chief Murgut: item 16645 Shredder Operating Manual - Page 1 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2.1%
+- npc 12918 Chief Murgut: item 16646 Shredder Operating Manual - Page 2 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.2%
+- npc 12918 Chief Murgut: item 16647 Shredder Operating Manual - Page 3 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.9%
+- npc 12918 Chief Murgut: item 16648 Shredder Operating Manual - Page 4 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.3%
+- npc 12918 Chief Murgut: item 16649 Shredder Operating Manual - Page 5 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.9%
+- npc 12918 Chief Murgut: item 16650 Shredder Operating Manual - Page 6 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.9%
+- npc 12918 Chief Murgut: item 16651 Shredder Operating Manual - Page 7 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.2%
+- npc 12918 Chief Murgut: item 16652 Shredder Operating Manual - Page 8 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.9%
+- npc 12918 Chief Murgut: item 16653 Shredder Operating Manual - Page 9 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 1.2%
+- npc 12918 Chief Murgut: item 16654 Shredder Operating Manual - Page 10 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.3%
+- npc 12918 Chief Murgut: item 16655 Shredder Operating Manual - Page 11 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.9%
+- npc 12918 Chief Murgut: item 16656 Shredder Operating Manual - Page 12 (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 0.6%
+- npc 13019 Burning Blade Seer: item 6766 Flayed Demon Skin (old2) (loot_items_missing): a quest item no quest in the world asks for. Seen: Classic 2%
+- npc 13396 Irondeep Miner: item 19282 Six of Portals (npcs_no_loot): a quest item no quest in the world asks for. Seen: Classic 0.2%
+- npc 13397 Irondeep Peon: item 19281 Five of Portals (npcs_no_loot): a quest item no quest in the world asks for. Seen: Classic 0.1%
+- npc 13542 Champion Irondeep Explorer: item 19233 Five of Beasts (npcs_no_loot): a quest item no quest in the world asks for. Seen: Classic 1%
+- npc 15467 Omen: item 21557 Small Red Rocket (npcs_no_loot): a quest item no quest in the world asks for. Seen: Classic 80%
+- npc 15467 Omen: item 21558 Small Blue Rocket (npcs_no_loot): a quest item no quest in the world asks for. Seen: Classic 80%
+- npc 15467 Omen: item 21559 Small Green Rocket (npcs_no_loot): a quest item no quest in the world asks for. Seen: Classic 80%
+
+## only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance (270)
+
+- npc 379 Darcy: item 1179 Ice Cold Milk (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 379 Darcy: item 1708 Sweet Nectar (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 379 Darcy: item 6887 Spotted Yellowtail (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 742 Green Wyrmkin: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 742 Green Wyrmkin: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 1032 Black Ooze: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 1032 Black Ooze: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 1327 Reese Langston: item 1179 Ice Cold Milk (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 1327 Reese Langston: item 1708 Sweet Nectar (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 1666 Kam Deepfury: item 2455 Minor Mana Potion (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 2655 Green Sludge: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 2655 Green Sludge: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 2656 Jade Ooze: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 2656 Jade Ooze: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 3266 Razormane Defender: item 5075 Blood Shard (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: EG Link 51 kills without it; Classic, no chance
+- npc 3280 Witchwing Windcaller: item 5075 Blood Shard (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: EG Link 15 kills without it; Classic, no chance
+- npc 3286 Venture Co. Overseer: item 5075 Blood Shard (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: EG Link 13 kills without it; Classic, no chance
+- npc 3458 Razormane Seer: item 5075 Blood Shard (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: EG Link 6 kills without it; Classic, no chance
+- npc 3459 Razormane Warfrenzy: item 5075 Blood Shard (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: EG Link 10 kills without it; Classic, no chance
+- npc 3461 Oasis Snapjaw: item 5075 Blood Shard (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: EG Link 51 kills without it; Classic, no chance
+- npc 4476 Screaming Haunt: item 8932 Alterac Swiss (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 4476 Screaming Haunt: item 11732 Libram of Rumination (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 4476 Screaming Haunt: item 11734 Libram of Tenacity (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 4476 Screaming Haunt: item 11736 Libram of Resilience (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 4476 Screaming Haunt: item 11737 Libram of Voracity (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 5308 Rogue Vale Screecher: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 5308 Rogue Vale Screecher: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 5331 Hatecrest Warrior: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 5331 Hatecrest Warrior: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 5424 Scorpid Dunestalker: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 5833 Margol the Rager: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 5833 Margol the Rager: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 6201 Legashi Rogue: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 6201 Legashi Rogue: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 6508 Venomhide Ravasaur: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 6508 Venomhide Ravasaur: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 6556 Muculent Ooze: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 6556 Muculent Ooze: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 6557 Primal Ooze: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 6557 Primal Ooze: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 6559 Glutinous Ooze: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 6559 Glutinous Ooze: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 7093 Vile Ooze: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 7126 Jaedenar Hunter: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 7126 Jaedenar Hunter: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 7132 Toxic Horror: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 7132 Toxic Horror: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 7449 Chillwind Ravager: item 20679 Decoded Twilight Text (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 8602 Monstrous Plaguebat: item 20679 Decoded Twilight Text (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 8959 Felpaw Wolf: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 8959 Felpaw Wolf: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9019 Emperor Dagran Thaurissan: item 16724 Lightforge Gauntlets (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9046 Scarshield Quartermaster: item 16673 Cord of Elements (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9046 Scarshield Quartermaster: item 16703 Dreadmist Bracers (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9046 Scarshield Quartermaster: item 16713 Shadowcraft Belt (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9196 Highlord Omokk: item 16736 Belt of Valor (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9237 War Master Voone: item 18335 Pristine Black Diamond (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9237 War Master Voone: item 19236 Eight of Beasts (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9237 War Master Voone: item 19263 Six of Warlords (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9237 War Master Voone: item 19265 Eight of Warlords (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9237 War Master Voone: item 19272 Five of Elementals (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9237 War Master Voone: item 19275 Eight of Elementals (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9477 Cloned Ooze: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9477 Cloned Ooze: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9676 Tink Sprocketwhistle: item 3466 Strong Flux (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9676 Tink Sprocketwhistle: item 4363 Copper Modulator (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9676 Tink Sprocketwhistle: item 4371 Bronze Tube (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 9676 Tink Sprocketwhistle: item 4389 Gyrochronatom (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10422 Crimson Sorcerer: item 16702 Dreadmist Belt (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10429 Warchief Rend Blackhand: item 18335 Pristine Black Diamond (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10429 Warchief Rend Blackhand: item 19262 Five of Warlords (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10429 Warchief Rend Blackhand: item 19263 Six of Warlords (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10429 Warchief Rend Blackhand: item 19264 Seven of Warlords (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10429 Warchief Rend Blackhand: item 19265 Eight of Warlords (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10429 Warchief Rend Blackhand: item 19274 Seven of Elementals (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10429 Warchief Rend Blackhand: item 19281 Five of Portals (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10429 Warchief Rend Blackhand: item 19282 Six of Portals (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10429 Warchief Rend Blackhand: item 19284 Eight of Portals (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10477 Scholomance Necromancer: item 16705 Dreadmist Wraps (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10503 Jandice Barov: item 19234 Six of Beasts (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10503 Jandice Barov: item 19235 Seven of Beasts (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10503 Jandice Barov: item 19263 Six of Warlords (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10503 Jandice Barov: item 19273 Six of Elementals (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10503 Jandice Barov: item 19281 Five of Portals (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10503 Jandice Barov: item 19282 Six of Portals (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10503 Jandice Barov: item 19284 Eight of Portals (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10584 Urok Doomhowl: item 16670 Boots of Elements (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10720 [Deprecated for 4.x]Galak Assassin: item 1206 Moss Agate (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10882 [Deprecated for 4.x]Arikara: item 929 Healing Potion (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 10882 [Deprecated for 4.x]Arikara: item 1206 Moss Agate (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11143 Postmaster Malown: item 16682 Magister's Boots (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11145 Myolor Sunderfury: item 3466 Strong Flux (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11145 Myolor Sunderfury: item 3857 Coal (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11338 Hakkari Shadowcaster: item 19813 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11338 Hakkari Shadowcaster: item 19815 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11338 Hakkari Shadowcaster: item 19816 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11338 Hakkari Shadowcaster: item 19817 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11338 Hakkari Shadowcaster: item 19818 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11338 Hakkari Shadowcaster: item 19819 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11338 Hakkari Shadowcaster: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11339 Hakkari Shadow Hunter: item 19815 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11339 Hakkari Shadow Hunter: item 19818 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11339 Hakkari Shadow Hunter: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11347 Zealot Lor'Khan: item 19815 Punctured Voodoo Doll (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11350 Gurubashi Axe Thrower: item 19813 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11350 Gurubashi Axe Thrower: item 19814 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11350 Gurubashi Axe Thrower: item 19815 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11350 Gurubashi Axe Thrower: item 19816 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11350 Gurubashi Axe Thrower: item 19817 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11350 Gurubashi Axe Thrower: item 19818 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11350 Gurubashi Axe Thrower: item 19819 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11350 Gurubashi Axe Thrower: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11350 Gurubashi Axe Thrower: item 19821 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11351 Gurubashi Headhunter: item 19813 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11351 Gurubashi Headhunter: item 19815 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11351 Gurubashi Headhunter: item 19818 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11351 Gurubashi Headhunter: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11351 Gurubashi Headhunter: item 19821 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11352 Gurubashi Berserker: item 19813 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11352 Gurubashi Berserker: item 19814 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11352 Gurubashi Berserker: item 19818 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11352 Gurubashi Berserker: item 19819 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11352 Gurubashi Berserker: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11352 Gurubashi Berserker: item 19821 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11353 Gurubashi Blood Drinker: item 19813 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11353 Gurubashi Blood Drinker: item 19814 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11353 Gurubashi Blood Drinker: item 19815 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11353 Gurubashi Blood Drinker: item 19816 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11353 Gurubashi Blood Drinker: item 19817 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11353 Gurubashi Blood Drinker: item 19818 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11353 Gurubashi Blood Drinker: item 19819 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11353 Gurubashi Blood Drinker: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11353 Gurubashi Blood Drinker: item 19821 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11357 Son of Hakkar: item 19821 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11360 Zulian Cub: item 19814 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11360 Zulian Cub: item 19816 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11360 Zulian Cub: item 19817 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11360 Zulian Cub: item 19818 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11360 Zulian Cub: item 19819 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11360 Zulian Cub: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11360 Zulian Cub: item 19821 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11361 Zulian Tiger: item 19813 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11361 Zulian Tiger: item 19814 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11361 Zulian Tiger: item 19815 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11361 Zulian Tiger: item 19816 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11361 Zulian Tiger: item 19817 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11361 Zulian Tiger: item 19818 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11361 Zulian Tiger: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11361 Zulian Tiger: item 19821 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11365 Zulian Panther: item 19819 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11368 Bloodseeker Bat: item 19813 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11368 Bloodseeker Bat: item 19814 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11368 Bloodseeker Bat: item 19819 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11368 Bloodseeker Bat: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11368 Bloodseeker Bat: item 19821 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11370 Razzashi Broodwidow: item 19814 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11370 Razzashi Broodwidow: item 19816 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11370 Razzashi Broodwidow: item 19818 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11370 Razzashi Broodwidow: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11371 Razzashi Serpent: item 19818 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11600 Irondeep Shaman: item 11732 Libram of Rumination (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11600 Irondeep Shaman: item 11736 Libram of Resilience (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11600 Irondeep Shaman: item 11737 Libram of Voracity (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11600 Irondeep Shaman: item 19234 Six of Beasts (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11600 Irondeep Shaman: item 19262 Five of Warlords (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11600 Irondeep Shaman: item 19265 Eight of Warlords (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11600 Irondeep Shaman: item 19272 Five of Elementals (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11600 Irondeep Shaman: item 19273 Six of Elementals (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11600 Irondeep Shaman: item 19275 Eight of Elementals (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11600 Irondeep Shaman: item 19283 Seven of Portals (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11600 Irondeep Shaman: item 19284 Eight of Portals (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11602 Irondeep Skullthumper: item 11736 Libram of Resilience (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11602 Irondeep Skullthumper: item 19262 Five of Warlords (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11602 Irondeep Skullthumper: item 19263 Six of Warlords (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11602 Irondeep Skullthumper: item 19265 Eight of Warlords (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11602 Irondeep Skullthumper: item 19272 Five of Elementals (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11602 Irondeep Skullthumper: item 19273 Six of Elementals (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11602 Irondeep Skullthumper: item 19282 Six of Portals (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11602 Irondeep Skullthumper: item 19283 Seven of Portals (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11604 Whitewhisker Geomancer: item 11736 Libram of Resilience (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11604 Whitewhisker Geomancer: item 19235 Seven of Beasts (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11605 Whitewhisker Overseer: item 11732 Libram of Rumination (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11605 Whitewhisker Overseer: item 11733 Libram of Constitution (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11605 Whitewhisker Overseer: item 11734 Libram of Tenacity (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11605 Whitewhisker Overseer: item 19272 Five of Elementals (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11605 Whitewhisker Overseer: item 19275 Eight of Elementals (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11605 Whitewhisker Overseer: item 19282 Six of Portals (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11738 Sand Skitterer: item 20541 Decoded Twilight Text (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11738 Sand Skitterer: item 20552 Decoded Twilight Text (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11803 Twilight Keeper Exeter: item 20679 Decoded Twilight Text (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11830 Hakkari Priest: item 19819 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11830 Hakkari Priest: item 19821 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11831 Hakkari Witch Doctor: item 19813 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11831 Hakkari Witch Doctor: item 19814 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11831 Hakkari Witch Doctor: item 19815 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11831 Hakkari Witch Doctor: item 19816 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11831 Hakkari Witch Doctor: item 19817 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11831 Hakkari Witch Doctor: item 19821 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11881 Twilight Geolord: item 20541 Decoded Twilight Text (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11881 Twilight Geolord: item 20678 Decoded Twilight Text (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 11881 Twilight Geolord: item 20679 Decoded Twilight Text (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 12221 Noxious Slime: item 11914 Empty Cursed Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 12221 Noxious Slime: item 11948 Empty Tainted Ooze Jar (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 13022 Whip Lasher: item 18240 Ogre Tannin (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 13160 Carrion Swarmer: item 3864 Citrine (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 13160 Carrion Swarmer: item 7079 Globe of Water (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14122 Massive Geyser: item 19815 Punctured Voodoo Doll (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14532 Razzashi Venombrood: item 19813 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14532 Razzashi Venombrood: item 19814 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14532 Razzashi Venombrood: item 19815 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14532 Razzashi Venombrood: item 19816 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14532 Razzashi Venombrood: item 19819 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14532 Razzashi Venombrood: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14750 Gurubashi Bat Rider: item 19814 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14750 Gurubashi Bat Rider: item 19815 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14750 Gurubashi Bat Rider: item 19817 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14750 Gurubashi Bat Rider: item 19818 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14750 Gurubashi Bat Rider: item 19819 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14750 Gurubashi Bat Rider: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14750 Gurubashi Bat Rider: item 19821 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14821 Razzashi Raptor: item 19813 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14821 Razzashi Raptor: item 19814 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14821 Razzashi Raptor: item 19815 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14821 Razzashi Raptor: item 19816 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14821 Razzashi Raptor: item 19817 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14821 Razzashi Raptor: item 19818 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14821 Razzashi Raptor: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14825 Withered Mistress: item 19813 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14825 Withered Mistress: item 19814 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14825 Withered Mistress: item 19815 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14825 Withered Mistress: item 19816 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14825 Withered Mistress: item 19819 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14825 Withered Mistress: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14825 Withered Mistress: item 19821 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14826 Sacrificed Troll: item 19815 Punctured Voodoo Doll (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14880 Razzashi Skitterer: item 19813 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14880 Razzashi Skitterer: item 19814 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14880 Razzashi Skitterer: item 19815 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14880 Razzashi Skitterer: item 19816 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14880 Razzashi Skitterer: item 19818 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14880 Razzashi Skitterer: item 19819 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14880 Razzashi Skitterer: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14880 Razzashi Skitterer: item 19821 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14882 Atal'ai Mistress: item 19814 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14882 Atal'ai Mistress: item 19815 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14882 Atal'ai Mistress: item 19816 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14882 Atal'ai Mistress: item 19818 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14882 Atal'ai Mistress: item 19819 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14882 Atal'ai Mistress: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14882 Atal'ai Mistress: item 19821 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14883 Voodoo Slave: item 19814 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14883 Voodoo Slave: item 19815 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14883 Voodoo Slave: item 19817 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14883 Voodoo Slave: item 19820 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14884 Parasitic Serpent: item 19815 Punctured Voodoo Doll (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14965 Frenzied Bloodseeker Bat: item 19815 Punctured Voodoo Doll (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14986 Shade of Jin'do: item 19815 Punctured Voodoo Doll (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14987 Powerful Healing Ward: item 19815 Punctured Voodoo Doll (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 14988 Ohgan: item 19815 Punctured Voodoo Doll (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 15041 Spawn of Mar'li: item 19815 Punctured Voodoo Doll (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 15068 Zulian Guardian: item 19815 Punctured Voodoo Doll (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 15101 Zulian Prowler: item 19815 Punctured Voodoo Doll (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 15112 Brain Wash Totem: item 19815 Punctured Voodoo Doll (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 15117 Chained Spirit: item 19815 Punctured Voodoo Doll (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 15146 Mad Voidwalker: item 19815 Punctured Voodoo Doll (npcs_no_loot): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 16141 Ghoul Berserker: item 4625 Firebloom (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 16141 Ghoul Berserker: item 8846 Gromsblood (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 16299 Skeletal Shocktrooper: item 8846 Gromsblood (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 16423 Spectral Apparition: item 765 Silverleaf (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+- npc 16438 Skeletal Trooper: item 2447 Peacebloom (loot_items_missing): only Classic data shows it (forever-db: pfQuest/CMaNGOS), with no chance. Seen: Classic, no chance
+
+## no usable chance: EG Link has under 50 kills, no Classic chance (181)
+
+- npc 1172 Tunnel Rat Vermin: item 1430 Patchwork Gloves (loot_items_missing): no usable chance: EG Link saw 2 drops in 13 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 13 kills (1 in 12 on a quest)
+- npc 1507 Scarlet Initiate: item 2589 Linen Cloth (loot_items_missing): no usable chance: EG Link saw 2 drops in 13 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 13 kills (2 in 13 on a quest)
+- npc 1529 Bleeding Horror: item 211785 Scroll: CWAL (loot_items_missing): no usable chance: EG Link saw 4 drops in 48 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 4 drops in 48 kills (4 in 47 on a quest); QuestieTrace
+- npc 1545 Vile Fin Muckdweller: item 3610 Plans: Gemmed Copper Gauntlets (loot_items_missing): no usable chance: EG Link saw 2 drops in 4 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 4 kills (2 in 2 on a quest)
+- npc 1548 Cursed Darkhound: item 211785 Scroll: CWAL (loot_items_missing): no usable chance: EG Link saw 4 drops in 41 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 4 drops in 41 kills (0 in 23 on a quest); QuestieTrace
+- npc 1548 Cursed Darkhound: item 211787 Scroll: LOWER PING WHOMEVER (loot_items_missing): no usable chance: EG Link saw 2 drops in 41 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 41 kills (0 in 23 on a quest); QuestieTrace
+- npc 1554 Vampiric Duskbat: item 211780 Scroll: KWYJIBO (loot_items_missing): no usable chance: EG Link saw 2 drops in 27 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 27 kills (2 in 24 on a quest); QuestieTrace
+- npc 1667 Meven Korgal: item 2589 Linen Cloth (loot_items_missing): no usable chance: EG Link saw 7 drops in 13 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 7 drops in 13 kills (7 in 13 on a quest)
+- npc 1781 Mist Creeper: item 211780 Scroll: KWYJIBO (loot_items_missing): no usable chance: EG Link saw 2 drops in 47 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 47 kills (2 in 46 on a quest); QuestieTrace
+- npc 1781 Mist Creeper: item 211787 Scroll: LOWER PING WHOMEVER (loot_items_missing): no usable chance: EG Link saw 3 drops in 47 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 47 kills (3 in 46 on a quest); QuestieTrace
+- npc 1866 Ravenclaw Slave: item 211785 Scroll: CWAL (loot_items_missing): no usable chance: EG Link saw 2 drops in 48 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 48 kills (0 in 0 on a quest); QuestieTrace
+- npc 1889 Dalaran Wizard: item 211853 Scroll: VOCE WELL (loot_items_missing): no usable chance: EG Link saw 2 drops in 11 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 11 kills (2 in 11 on a quest); QuestieTrace
+- npc 1919 Samuel Fipps: item 2589 Linen Cloth (loot_items_missing): no usable chance: EG Link saw 5 drops in 9 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 5 drops in 9 kills (5 in 9 on a quest)
+- npc 1941 Rot Hide Graverobber: item 211787 Scroll: LOWER PING WHOMEVER (loot_items_missing): no usable chance: EG Link saw 2 drops in 49 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 49 kills (2 in 48 on a quest); QuestieTrace
+- npc 1974 Ravenclaw Drudger: item 271343 Note Scrap (loot_items_missing): no usable chance: EG Link saw 2 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 15 kills (2 in 11 on a quest); QuestieTrace
+- npc 2952 Bristleback Quilboar: item 2589 Linen Cloth (loot_items_missing): no usable chance: EG Link saw 11 drops in 28 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 11 drops in 28 kills (11 in 28 on a quest)
+- npc 2956 Adult Plainstrider: item 288915 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 10 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 288918 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 10 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 288924 ? (loot_items_missing): no usable chance: EG Link saw 3 drops in 10 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 288929 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 10 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 289083 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 10 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 289084 ? (loot_items_missing): no usable chance: EG Link saw 4 drops in 10 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 4 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 289087 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 10 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 289321 ? (loot_items_missing): no usable chance: EG Link saw 3 drops in 10 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 289334 ? (loot_items_missing): no usable chance: EG Link saw 3 drops in 10 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 10 kills (0 in 1 on a quest)
+- npc 2957 Elder Plainstrider: item 289330 ? (loot_items_missing): no usable chance: EG Link saw 3 drops in 5 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 5 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 5763 Red Woolen Bag (loot_items_missing): no usable chance: EG Link saw 3 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 6657 Savory Deviate Delight (loot_items_missing): no usable chance: EG Link saw 3 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288838 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288839 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288869 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288884 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288896 ? (loot_items_missing): no usable chance: EG Link saw 6 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 6 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288897 ? (loot_items_missing): no usable chance: EG Link saw 5 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 5 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288898 ? (loot_items_missing): no usable chance: EG Link saw 5 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 5 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288901 ? (loot_items_missing): no usable chance: EG Link saw 3 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288902 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288905 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288906 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288908 ? (loot_items_missing): no usable chance: EG Link saw 3 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288909 ? (loot_items_missing): no usable chance: EG Link saw 3 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288910 ? (loot_items_missing): no usable chance: EG Link saw 3 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288914 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288915 ? (loot_items_missing): no usable chance: EG Link saw 3 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288916 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288921 ? (loot_items_missing): no usable chance: EG Link saw 5 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 5 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288922 ? (loot_items_missing): no usable chance: EG Link saw 4 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 4 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288923 ? (loot_items_missing): no usable chance: EG Link saw 4 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 4 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288924 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288925 ? (loot_items_missing): no usable chance: EG Link saw 3 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288926 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288927 ? (loot_items_missing): no usable chance: EG Link saw 3 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288929 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288930 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288931 ? (loot_items_missing): no usable chance: EG Link saw 3 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 289082 ? (loot_items_missing): no usable chance: EG Link saw 8 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 8 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 289083 ? (loot_items_missing): no usable chance: EG Link saw 7 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 7 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 289084 ? (loot_items_missing): no usable chance: EG Link saw 7 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 7 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 289086 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 289087 ? (loot_items_missing): no usable chance: EG Link saw 4 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 4 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 289321 ? (loot_items_missing): no usable chance: EG Link saw 3 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 289329 ? (loot_items_missing): no usable chance: EG Link saw 7 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 7 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 289330 ? (loot_items_missing): no usable chance: EG Link saw 8 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 8 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 289334 ? (loot_items_missing): no usable chance: EG Link saw 8 drops in 44 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 8 drops in 44 kills (0 in 0 on a quest)
+- npc 2970 Swoop: item 288911 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288916 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288924 ? (loot_items_missing): no usable chance: EG Link saw 4 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 4 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288926 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 289081 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 289083 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 289086 ? (loot_items_missing): no usable chance: EG Link saw 3 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 289329 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 289334 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 15 kills (0 in 4 on a quest)
+- npc 3118 Dustwind Storm Witch: item 1425 Worn Leather Vest (loot_items_missing): no usable chance: EG Link saw 2 drops in 18 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 18 kills (2 in 15 on a quest)
+- npc 3130 Thunder Lizard: item 275720 Rough Lizard Hide (loot_items_missing): no usable chance: EG Link saw 3 drops in 18 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 18 kills (3 in 18 on a quest); QuestieTrace
+- npc 3206 Voodoo Troll: item 275724 Hexed Pendant (loot_items_missing): no usable chance: EG Link saw 2 drops in 30 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 30 kills (2 in 29 on a quest); QuestieTrace
+- npc 3207 Hexed Troll: item 275724 Hexed Pendant (loot_items_missing): no usable chance: EG Link saw 2 drops in 28 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 28 kills (1 in 24 on a quest); QuestieTrace
+- npc 3239 Thunderhead: item 211855 Scroll: STHENIC LUNATE (loot_items_missing): no usable chance: EG Link saw 4 drops in 40 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 4 drops in 40 kills (2 in 34 on a quest); QuestieTrace
+- npc 3251 Silithid Grub: item 211853 Scroll: VOCE WELL (loot_items_missing): no usable chance: EG Link saw 2 drops in 10 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 10 kills (0 in 0 on a quest); QuestieTrace
+- npc 3255 Sunscale Screecher: item 250187 Recipe: Tasty Raptor Bites (loot_items_missing): no usable chance: EG Link saw 2 drops in 37 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 37 kills (2 in 32 on a quest); QuestieTrace
+- npc 3267 Razormane Water Seeker: item 1425 Worn Leather Vest (loot_items_missing): no usable chance: EG Link saw 2 drops in 37 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 37 kills (0 in 29 on a quest)
+- npc 3268 Razormane Thornweaver: item 2213 Worn Large Shield (loot_items_missing): no usable chance: EG Link saw 2 drops in 27 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 27 kills (2 in 27 on a quest)
+- npc 3456 Razormane Pathfinder: item 211853 Scroll: VOCE WELL (loot_items_missing): no usable chance: EG Link saw 2 drops in 21 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 21 kills (0 in 0 on a quest); QuestieTrace
+- npc 3457 Razormane Stalker: item 211784 Scroll: WUBBA WUBBA (loot_items_missing): no usable chance: EG Link saw 2 drops in 10 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 10 kills (0 in 0 on a quest); QuestieTrace
+- npc 3458 Razormane Seer: item 211854 Scroll: OMIT KESA (loot_items_missing): no usable chance: EG Link saw 2 drops in 6 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 6 kills (0 in 0 on a quest); QuestieTrace
+- npc 3476 Isha Awak: item 211853 Scroll: VOCE WELL (loot_items_missing): no usable chance: EG Link saw 2 drops in 4 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 4 kills (2 in 4 on a quest)
+- npc 3669 Lord Cobrahn: item 818 Tigerseye (loot_items_missing): no usable chance: EG Link saw 2 drops in 6 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 6 kills (0 in 0 on a quest)
+- npc 3673 Lord Serpentis: item 273087 Blueprint: Journeyman Campfire (loot_items_missing): no usable chance: EG Link saw 2 drops in 6 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 6 kills (0 in 0 on a quest); QuestieTrace
+- npc 3759 Felmusk Rogue: item 211853 Scroll: VOCE WELL (loot_items_missing): no usable chance: EG Link saw 2 drops in 20 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 20 kills (2 in 20 on a quest)
+- npc 3887 Baron Silverlaine: item 273637 Blade of Silverlaine (loot_items_missing): no usable chance: EG Link saw 3 drops in 4 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 4 kills (0 in 0 on a quest); QuestieTrace
+- npc 4022 Bloodfury Harpy: item 211855 Scroll: STHENIC LUNATE (loot_items_missing): no usable chance: EG Link saw 2 drops in 23 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 23 kills (2 in 19 on a quest); QuestieTrace
+- npc 4022 Bloodfury Harpy: item 248689 Waylaid Crate: Journeyman Curiosities (loot_items_missing): no usable chance: EG Link saw 2 drops in 23 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 23 kills (0 in 19 on a quest); QuestieTrace
+- npc 4022 Bloodfury Harpy: item 250382 Recipe: Elixir of Spirit (loot_items_missing): no usable chance: EG Link saw 2 drops in 23 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 23 kills (2 in 19 on a quest); QuestieTrace
+- npc 4024 Bloodfury Slayer: item 211854 Scroll: OMIT KESA (loot_items_missing): no usable chance: EG Link saw 4 drops in 20 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 4 drops in 20 kills (4 in 18 on a quest); QuestieTrace
+- npc 4026 Bloodfury Windcaller: item 277936 Glittering Sunstone (loot_items_missing): no usable chance: EG Link saw 6 drops in 7 kills made on a quest (under 50), and forever-db has no Classic chance. Seen: EG Link 6 drops in 19 kills (6 in 7 on a quest); QuestieTrace
+- npc 4027 Bloodfury Storm Witch: item 211853 Scroll: VOCE WELL (loot_items_missing): no usable chance: EG Link saw 2 drops in 20 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 20 kills (2 in 5 on a quest); QuestieTrace
+- npc 4027 Bloodfury Storm Witch: item 277936 Glittering Sunstone (loot_items_missing): no usable chance: EG Link saw 4 drops in 5 kills made on a quest (under 50), and forever-db has no Classic chance. Seen: EG Link 4 drops in 20 kills (4 in 5 on a quest); QuestieTrace
+- npc 4038 Burning Destroyer: item 211855 Scroll: STHENIC LUNATE (loot_items_missing): no usable chance: EG Link saw 2 drops in 12 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 12 kills (2 in 12 on a quest)
+- npc 4278 Commander Springvale: item 273643 Worgenbane Talisman (loot_items_missing): no usable chance: EG Link saw 2 drops in 2 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 2 kills (0 in 0 on a quest); QuestieTrace
+- npc 4279 Odo the Blindwatcher: item 273645 Blindwatcher's Sight (loot_items_missing): no usable chance: EG Link saw 3 drops in 3 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 3 kills (0 in 0 on a quest); QuestieTrace
+- npc 4440 Razorfen Totemic: item 211853 Scroll: VOCE WELL (loot_items_missing): no usable chance: EG Link saw 2 drops in 4 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 4 kills (0 in 0 on a quest)
+- npc 4515 Death's Head Acolyte: item 211853 Scroll: VOCE WELL (loot_items_missing): no usable chance: EG Link saw 2 drops in 2 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 2 kills (0 in 0 on a quest)
+- npc 4522 Razorfen Dustweaver: item 211854 Scroll: OMIT KESA (loot_items_missing): no usable chance: EG Link saw 2 drops in 2 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 2 kills (0 in 0 on a quest)
+- npc 4655 Maraudine Wrangler: item 274047 Twisted Air Totem (loot_items_missing): no usable chance: EG Link saw 2 drops in 2 kills made on a quest (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 3 kills (2 in 2 on a quest); QuestieTrace
+- npc 4656 Maraudine Mauler: item 254432 Carved Centaur Totem (loot_items_missing): no usable chance: EG Link saw 2 drops in 3 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 3 kills (2 in 3 on a quest); QuestieTrace
+- npc 5761 Deviate Shambler: item 4297 Pattern: Barbaric Gloves (loot_items_missing): no usable chance: EG Link saw 2 drops in 40 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 40 kills (0 in 0 on a quest)
+- npc 5775 Verdan the Everliving: item 1778 Brocade Vest (loot_items_missing): no usable chance: EG Link saw 2 drops in 6 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 6 kills (0 in 0 on a quest)
+- npc 10358 Fellicent's Shade: item 283471 Fellicent's Bindings (loot_items_missing): no usable chance: EG Link saw 2 drops in 3 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 3 kills (0 in 0 on a quest); QuestieTrace
+- npc 11318 Ragefire Trogg: item 211785 Scroll: CWAL (loot_items_missing): no usable chance: EG Link saw 2 drops in 38 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 38 kills (0 in 0 on a quest); QuestieTrace
+- npc 11517 Oggleflint: item 252773 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 5 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 5 kills (0 in 0 on a quest); QuestieTrace
+- npc 11517 Oggleflint: item 272996 Trogg Scepter (loot_items_missing): no usable chance: EG Link saw 2 drops in 5 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 5 kills (0 in 0 on a quest); QuestieTrace
+- npc 11519 Bazzalan: item 273003 Searing Dagger (loot_items_missing): no usable chance: EG Link saw 3 drops in 6 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 6 kills (0 in 0 on a quest); QuestieTrace
+- npc 11519 Bazzalan: item 273005 Satyrskin Cloak (loot_items_missing): no usable chance: EG Link saw 3 drops in 6 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 6 kills (0 in 0 on a quest); QuestieTrace
+- npc 12856 Ashenvale Outrunner: item 211854 Scroll: OMIT KESA (loot_items_missing): no usable chance: EG Link saw 2 drops in 26 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 26 kills (2 in 21 on a quest)
+- npc 12876 Baron Aquanis: item 252513 Trapper's Leather Helm (loot_items_missing): no usable chance: EG Link saw 2 drops in 2 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 2 kills (0 in 0 on a quest)
+- npc 250618 Skeleton: item 286980 Rotmender's Sash (loot_items_missing): no usable chance: EG Link saw 3 drops in 47 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 47 kills (0 in 0 on a quest); QuestieTrace
+- npc 250624 Skeletal Mage: item 6380 Inscribed Buckler (loot_items_missing): no usable chance: EG Link saw 2 drops in 17 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 17 kills (0 in 0 on a quest)
+- npc 250624 Skeletal Mage: item 211854 Scroll: OMIT KESA (loot_items_missing): no usable chance: EG Link saw 2 drops in 17 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 17 kills (0 in 0 on a quest); QuestieTrace
+- npc 250627 Ghoul: item 6380 Inscribed Buckler (loot_items_missing): no usable chance: EG Link saw 2 drops in 20 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 20 kills (0 in 0 on a quest)
+- npc 250651 Vengeful Citizen: item 1210 Shadowgem (loot_items_missing): no usable chance: EG Link saw 2 drops in 2 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 2 kills (0 in 0 on a quest)
+- npc 250868 Vuldren: item 2672 Stringy Wolf Meat (loot_items_missing): no usable chance: EG Link saw 4 drops in 10 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 4 drops in 10 kills (0 in 0 on a quest)
+- npc 250926 Scrawny Ursera: item 1367 Ragged Leather Boots (loot_items_missing): no usable chance: EG Link saw 2 drops in 42 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 42 kills (1 in 24 on a quest)
+- npc 250926 Scrawny Ursera: item 1374 Frayed Shoes (loot_items_missing): no usable chance: EG Link saw 2 drops in 42 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 42 kills (1 in 24 on a quest)
+- npc 250926 Scrawny Ursera: item 1376 Frayed Cloak (loot_items_missing): no usable chance: EG Link saw 2 drops in 42 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 42 kills (1 in 24 on a quest)
+- npc 250927 Shadowgale Ursera: item 6889 Small Egg (loot_items_missing): no usable chance: EG Link saw 2 drops in 2 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 2 kills (0 in 0 on a quest)
+- npc 250937 Ursera Scavenger: item 2211 Bent Large Shield (loot_items_missing): no usable chance: EG Link saw 2 drops in 31 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 31 kills (1 in 18 on a quest)
+- npc 251143 Roiling Winds: item 3363 Frayed Belt (loot_items_missing): no usable chance: EG Link saw 2 drops in 17 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 17 kills (2 in 14 on a quest)
+- npc 251145 Al'Aketh Brute: item 2211 Bent Large Shield (loot_items_missing): no usable chance: EG Link saw 2 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 15 kills (2 in 15 on a quest)
+- npc 251160 Al'Aketh Convert: item 159 Refreshing Spring Water (loot_items_missing): no usable chance: EG Link saw 3 drops in 20 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 20 kills (3 in 18 on a quest)
+- npc 251160 Al'Aketh Convert: item 1380 Frayed Robe (loot_items_missing): no usable chance: EG Link saw 3 drops in 20 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 20 kills (2 in 18 on a quest)
+- npc 251160 Al'Aketh Convert: item 4540 Tough Hunk of Bread (loot_items_missing): no usable chance: EG Link saw 4 drops in 20 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 4 drops in 20 kills (4 in 18 on a quest)
+- npc 251169 Pesky Cirrusfly: item 1369 Ragged Leather Belt (loot_items_missing): no usable chance: EG Link saw 2 drops in 37 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 37 kills (2 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 6657 Savory Deviate Delight (loot_items_missing): no usable chance: EG Link saw 2 drops in 37 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 37 kills (2 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 288896 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 37 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 37 kills (2 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 288913 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 37 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 37 kills (2 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 288919 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 37 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 37 kills (2 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 289329 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 37 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 37 kills (2 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 289334 ? (loot_items_missing): no usable chance: EG Link saw 2 drops in 37 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 37 kills (2 in 37 on a quest)
+- npc 251261 Hippogryph Matriarch: item 4775 Cracked Bill (loot_items_missing): no usable chance: EG Link saw 2 drops in 2 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 2 kills (2 in 2 on a quest)
+- npc 251622 Flutterfly: item 7100 Sticky Ichor (loot_items_missing): no usable chance: EG Link saw 3 drops in 5 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 5 kills (0 in 0 on a quest)
+- npc 252763 Al'Aketh Spiritcaller: item 252022 Galestrider Jerky (loot_items_missing): no usable chance: EG Link saw 2 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 15 kills (2 in 15 on a quest); QuestieTrace
+- npc 252763 Al'Aketh Spiritcaller: item 267474 Galeswept Forestshroom (loot_items_missing): no usable chance: EG Link saw 4 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 4 drops in 15 kills (4 in 15 on a quest); QuestieTrace
+- npc 252763 Al'Aketh Spiritcaller: item 273815 Airy Windseeker's Shirt (loot_items_missing): no usable chance: EG Link saw 2 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 15 kills (2 in 15 on a quest); QuestieTrace
+- npc 252764 Al'Aketh Skypriest: item 2589 Linen Cloth (loot_items_missing): no usable chance: EG Link saw 2 drops in 7 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 7 kills (0 in 0 on a quest)
+- npc 252764 Al'Aketh Skypriest: item 255663 Windstone (loot_items_missing): no usable chance: EG Link saw 2 drops in 7 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 7 kills (0 in 0 on a quest); QuestieTrace
+- npc 252767 Al'Aketh Honor Guard: item 252030 Pungent Skycheddar (loot_items_missing): no usable chance: EG Link saw 2 drops in 7 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 7 kills (0 in 0 on a quest); QuestieTrace
+- npc 252802 Hungry Bandit: item 252028 Fresh Gustberry Bread (loot_items_missing): no usable chance: EG Link saw 3 drops in 24 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 24 kills (2 in 13 on a quest); QuestieTrace
+- npc 252802 Hungry Bandit: item 255663 Windstone (loot_items_missing): no usable chance: EG Link saw 3 drops in 24 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 24 kills (1 in 13 on a quest); QuestieTrace
+- npc 253282 Shriekling Fledgling: item 3300 Rabbit's Foot (loot_items_missing): no usable chance: EG Link saw 3 drops in 5 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 5 kills (0 in 0 on a quest)
+- npc 253622 Commander Haalien: item 267474 Galeswept Forestshroom (loot_items_missing): no usable chance: EG Link saw 2 drops in 3 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 3 kills (2 in 3 on a quest); QuestieTrace
+- npc 254588 Windsong Crawler: item 1422 Worn Leather Gloves (loot_items_missing): no usable chance: EG Link saw 2 drops in 41 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 41 kills (2 in 41 on a quest)
+- npc 254589 Vulgara the Insatiable: item 3300 Rabbit's Foot (loot_items_missing): no usable chance: EG Link saw 2 drops in 3 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 3 kills (2 in 3 on a quest)
+- npc 254596 Al'Aketh Healer: item 252028 Fresh Gustberry Bread (loot_items_missing): no usable chance: EG Link saw 3 drops in 20 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 20 kills (1 in 11 on a quest); QuestieTrace
+- npc 254626 Al'Aketh Assassin: item 252030 Pungent Skycheddar (loot_items_missing): no usable chance: EG Link saw 8 drops in 29 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 8 drops in 29 kills (8 in 25 on a quest); QuestieTrace
+- npc 255534 "Badwind" Bennic: item 252031 Crisp Spring Water (loot_items_missing): no usable chance: EG Link saw 2 drops in 3 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 3 kills (2 in 3 on a quest); QuestieTrace
+- npc 255964 Fallen Necromancer: item 286978 Rotmender's Garb (loot_items_missing): no usable chance: EG Link saw 2 drops in 10 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 10 kills (0 in 0 on a quest); QuestieTrace
+- npc 260430 Shadowvale Mystic: item 118 Minor Healing Potion (loot_items_missing): no usable chance: EG Link saw 3 drops in 36 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 3 drops in 36 kills (3 in 20 on a quest)
+- npc 260430 Shadowvale Mystic: item 1181 Scroll of Spirit (loot_items_missing): no usable chance: EG Link saw 2 drops in 36 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 36 kills (0 in 20 on a quest)
+- npc 260430 Shadowvale Mystic: item 1514 Rusty Warhammer (loot_items_missing): no usable chance: EG Link saw 2 drops in 36 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 36 kills (0 in 20 on a quest)
+- npc 260430 Shadowvale Mystic: item 2213 Worn Large Shield (loot_items_missing): no usable chance: EG Link saw 2 drops in 36 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 36 kills (2 in 20 on a quest)
+- npc 260430 Shadowvale Mystic: item 9746 Simple Gloves (loot_items_missing): no usable chance: EG Link saw 2 drops in 36 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 36 kills (0 in 20 on a quest)
+- npc 260430 Shadowvale Mystic: item 9758 Cadet Belt (loot_items_missing): no usable chance: EG Link saw 2 drops in 36 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 36 kills (0 in 20 on a quest)
+- npc 260430 Shadowvale Mystic: item 211786 Scroll: CHAP BALK WELLES (loot_items_missing): no usable chance: EG Link saw 2 drops in 36 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 36 kills (2 in 20 on a quest); QuestieTrace
+- npc 260431 Shadowvale Lurcher: item 159 Refreshing Spring Water (loot_items_missing): no usable chance: EG Link saw 2 drops in 43 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 43 kills (0 in 0 on a quest)
+- npc 260431 Shadowvale Lurcher: item 4604 Forest Mushroom Cap (loot_items_missing): no usable chance: EG Link saw 6 drops in 43 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 6 drops in 43 kills (0 in 0 on a quest)
+- npc 260431 Shadowvale Lurcher: item 6515 Disciple's Gloves (loot_items_missing): no usable chance: EG Link saw 2 drops in 43 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 43 kills (0 in 0 on a quest)
+- npc 260432 Shadowvale Mystic: item 286259 Faintly Glowing Bone (loot_items_missing): no usable chance: EG Link saw 7 drops in 14 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 7 drops in 14 kills (7 in 10 on a quest); QuestieTrace
+- npc 266849 Ridgeshade Lurker: item 1476 Snapped Spider Limb (npcs_no_loot): no usable chance: EG Link saw 4 drops in 7 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 4 drops in 7 kills (4 in 7 on a quest)
+- npc 266849 Ridgeshade Lurker: item 2590 Forest Spider Webbing (npcs_no_loot): no usable chance: EG Link saw 5 drops in 7 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 5 drops in 7 kills (5 in 7 on a quest)
+- npc 266849 Ridgeshade Lurker: item 5465 Small Spider Leg (npcs_no_loot): no usable chance: EG Link saw 2 drops in 7 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 7 kills (2 in 7 on a quest)
+- npc 266850 Ridgeshade Creeper: item 1476 Snapped Spider Limb (npcs_no_loot): no usable chance: EG Link saw 4 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 4 drops in 15 kills (4 in 15 on a quest)
+- npc 266850 Ridgeshade Creeper: item 2590 Forest Spider Webbing (npcs_no_loot): no usable chance: EG Link saw 6 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 6 drops in 15 kills (6 in 15 on a quest)
+- npc 266850 Ridgeshade Creeper: item 5465 Small Spider Leg (npcs_no_loot): no usable chance: EG Link saw 10 drops in 15 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 10 drops in 15 kills (10 in 15 on a quest)
+- npc 267006 Dark Neophyte: item 1210 Shadowgem (loot_items_missing): no usable chance: EG Link saw 2 drops in 41 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 41 kills (2 in 41 on a quest)
+- npc 267006 Dark Neophyte: item 1505 Warped Cloak (loot_items_missing): no usable chance: EG Link saw 2 drops in 41 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 41 kills (2 in 41 on a quest)
+- npc 267006 Dark Neophyte: item 2589 Linen Cloth (loot_items_missing): no usable chance: EG Link saw 14 drops in 41 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 14 drops in 41 kills (14 in 41 on a quest)
+- npc 267006 Dark Neophyte: item 3643 Spellbinder Bracers (loot_items_missing): no usable chance: EG Link saw 2 drops in 41 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 41 kills (2 in 41 on a quest)
+- npc 267006 Dark Neophyte: item 211787 Scroll: LOWER PING WHOMEVER (loot_items_missing): no usable chance: EG Link saw 2 drops in 41 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 41 kills (2 in 41 on a quest); QuestieTrace
+- npc 271080 Blightsculler: item 6303 Raw Slitherskin Mackerel (loot_items_missing): no usable chance: EG Link saw 2 drops in 2 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 2 kills (0 in 0 on a quest)
+- npc 271080 Blightsculler: item 7350 Disciple's Bracers (loot_items_missing): no usable chance: EG Link saw 2 drops in 2 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 2 drops in 2 kills (0 in 0 on a quest)
+- npc 277882 Foothills Duskbat: item 6293 Dried Bat Blood (npcs_no_loot): no usable chance: EG Link saw 4 drops in 4 kills (under 50), and forever-db has no Classic chance. Seen: EG Link 4 drops in 4 kills (0 in 0 on a quest)
+
+## the item isn't in Forever's client item list (forever-db) (87)
+
+- npc 3035 Flatland Cougar: item 288831 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288852 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 3 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288880 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288896 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 15 of it in 5 drops; no source records the stack range. Seen: EG Link 5 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288897 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 15 of it in 5 drops; no source records the stack range. Seen: EG Link 5 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288898 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 5 of it in 2 drops; no source records the stack range. Seen: EG Link 2 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288904 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 4 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288906 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 4 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288907 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288909 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 3 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288910 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288913 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288914 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288915 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 3 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288916 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 3 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288919 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 3 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288920 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288921 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 3 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288922 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 5 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288923 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 3 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288924 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 4 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288926 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 3 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288927 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 3 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288931 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 289081 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 25 of it in 5 drops; no source records the stack range. Seen: EG Link 5 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 289082 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 3 of it in 2 drops; no source records the stack range. Seen: EG Link 2 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 289083 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 5 of it in 3 drops; no source records the stack range. Seen: EG Link 3 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 289084 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 8 of it in 5 drops; no source records the stack range. Seen: EG Link 5 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 289086 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 10 of it in 6 drops; no source records the stack range. Seen: EG Link 6 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 289087 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 5 of it in 3 drops; no source records the stack range. Seen: EG Link 3 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 289088 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 17 of it in 5 drops; no source records the stack range. Seen: EG Link 5 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 289321 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 5 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 289329 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 3 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 289330 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 4 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 289334 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 9 drops in 59 kills (0 in 18 on a quest)
+- npc 3098 Mottled Boar: item 288832 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288842 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 4 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288851 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (0 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288853 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288867 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288877 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 4 drops in 124 kills (4 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288878 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288883 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288884 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (0 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288889 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (0 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288896 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 10 of it in 2 drops; no source records the stack range. Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288897 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 8 of it in 2 drops; no source records the stack range. Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288898 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288900 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (0 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288904 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288906 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (0 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288907 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (0 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288909 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 4 drops in 124 kills (4 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288910 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288911 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (0 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288913 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288914 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288918 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288920 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 4 drops in 124 kills (4 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288922 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 4 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288923 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288925 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 4 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288926 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288927 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (0 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288929 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288930 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (0 in 109 on a quest)
+- npc 3098 Mottled Boar: item 288931 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 289081 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 10 of it in 2 drops; no source records the stack range. Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 289082 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 12 of it in 6 drops; no source records the stack range. Seen: EG Link 6 drops in 124 kills (6 in 109 on a quest)
+- npc 3098 Mottled Boar: item 289083 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 289084 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 289086 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 4 of it in 2 drops; no source records the stack range. Seen: EG Link 2 drops in 124 kills (0 in 109 on a quest)
+- npc 3098 Mottled Boar: item 289087 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 14 of it in 8 drops; no source records the stack range. Seen: EG Link 8 drops in 124 kills (8 in 109 on a quest)
+- npc 3098 Mottled Boar: item 289088 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 8 of it in 4 drops; no source records the stack range. Seen: EG Link 4 drops in 124 kills (4 in 109 on a quest)
+- npc 3098 Mottled Boar: item 289321 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 4 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 289329 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 4 drops in 124 kills (2 in 109 on a quest)
+- npc 3098 Mottled Boar: item 289330 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 6 drops in 124 kills (6 in 109 on a quest)
+- npc 3098 Mottled Boar: item 289334 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 4 drops in 124 kills (4 in 109 on a quest)
+- npc 250873 Juvenile Vuldren: item 288896 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 5 of it in 2 drops; no source records the stack range. Seen: EG Link 2 drops in 50 kills (2 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288924 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288927 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 3 drops in 50 kills (2 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 289084 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 4 of it in 2 drops; no source records the stack range. Seen: EG Link 2 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 289087 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 4 of it in 3 drops; no source records the stack range. Seen: EG Link 3 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 289088 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db); EG Link saw 8 of it in 3 drops; no source records the stack range. Seen: EG Link 3 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 289321 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 3 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 289329 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 289334 ? (loot_items_missing): the item isn't in Forever's client item list (forever-db). Seen: EG Link 2 drops in 50 kills (1 in 43 on a quest)
+
+## stack sizes over one; no source records the range (3)
+
+- npc 3098 Mottled Boar: item 6657 Savory Deviate Delight (loot_items_missing): EG Link saw 10 of it in 2 drops; no source records the stack range. Seen: EG Link 2 drops in 124 kills (2 in 109 on a quest)
+- npc 251918 Highlands Bandit: item 267474 Galeswept Forestshroom (loot_items_missing): EG Link saw 16 of it in 9 drops; no source records the stack range. Seen: EG Link 9 drops in 62 kills (8 in 59 on a quest); QuestieTrace
+- npc 275437 Dark Enforcer: item 2589 Linen Cloth (loot_items_missing): EG Link saw 43 of it in 21 drops; no source records the stack range. Seen: EG Link 21 drops in 59 kills (21 in 59 on a quest)
+
+## EG Link recorded the NPC's kills without it (1)
+
+- npc 1537 Scarlet Zealot: item 2839 A Letter to Yvette (loot_items_missing): only Classic data shows it, and EG Link recorded 85 kills made on a quest with no drop of it. Seen: EG Link 110 kills without it; Classic 2.5%
