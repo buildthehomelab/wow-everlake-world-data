@@ -1,0 +1,542 @@
+# Slice 2: drops seen once (not in the files)
+
+EG Link saw each of these drop once. A person decides them; one sighting gives no chance worth writing.
+
+## loot_items_missing (529)
+
+- npc 642 Sneed's Shredder: item 285292 Dull Sawblade (loot_items_missing): EG Link saw it drop once in 1 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 1 kills (0 in 0 on a quest); QuestieTrace
+- npc 644 Rhahk'Zor: item 273289 Ogre Loincloth (loot_items_missing): EG Link saw it drop once in 1 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 1 kills (0 in 0 on a quest); QuestieTrace
+- npc 1166 Stonesplinter Seer: item 248682 Waylaid Crate: Apprentice Herbs (loot_items_missing): EG Link saw it drop once in 12 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 12 kills (1 in 10 on a quest); QuestieTrace
+- npc 1172 Tunnel Rat Vermin: item 211785 Scroll: CWAL (loot_items_missing): EG Link saw it drop once in 13 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 13 kills (1 in 12 on a quest); QuestieTrace
+- npc 1173 Tunnel Rat Scout: item 1412 Crude Bastard Sword (loot_items_missing): EG Link saw it drop once in 8 kills. Seen: EG Link 1 drops in 8 kills (0 in 5 on a quest)
+- npc 1522 Darkeye Bonecaster: item 211786 Scroll: CHAP BALK WELLES (loot_items_missing): EG Link saw it drop once in 82 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 82 kills (1 in 50 on a quest); QuestieTrace
+- npc 1532 Wandering Spirit: item 3373 Patchwork Bracers (loot_items_missing): EG Link saw it drop once in 48 kills. Seen: EG Link 1 drops in 48 kills (0 in 46 on a quest)
+- npc 1532 Wandering Spirit: item 211780 Scroll: KWYJIBO (loot_items_missing): EG Link saw it drop once in 48 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 48 kills (1 in 46 on a quest); QuestieTrace
+- npc 1532 Wandering Spirit: item 211787 Scroll: LOWER PING WHOMEVER (loot_items_missing): EG Link saw it drop once in 48 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 48 kills (1 in 46 on a quest); QuestieTrace
+- npc 1534 Wailing Ancestor: item 211785 Scroll: CWAL (loot_items_missing): EG Link saw it drop once in 13 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 13 kills (1 in 12 on a quest); QuestieTrace
+- npc 1535 Scarlet Warrior: item 211780 Scroll: KWYJIBO (loot_items_missing): EG Link saw it drop once in 71 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 71 kills (1 in 46 on a quest); QuestieTrace
+- npc 1537 Scarlet Zealot: item 211785 Scroll: CWAL (loot_items_missing): EG Link saw it drop once in 110 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 110 kills (1 in 85 on a quest); QuestieTrace
+- npc 1540 Scarlet Vanguard: item 211785 Scroll: CWAL (loot_items_missing): EG Link saw it drop once in 3 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 3 kills (0 in 0 on a quest); QuestieTrace
+- npc 1544 Vile Fin Minor Oracle: item 211785 Scroll: CWAL (loot_items_missing): EG Link saw it drop once in 44 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 44 kills (1 in 39 on a quest); QuestieTrace
+- npc 1548 Cursed Darkhound: item 211780 Scroll: KWYJIBO (loot_items_missing): EG Link saw it drop once in 41 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 41 kills (1 in 23 on a quest); QuestieTrace
+- npc 1553 Greater Duskbat: item 211785 Scroll: CWAL (loot_items_missing): EG Link saw it drop once in 128 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 128 kills (1 in 124 on a quest); QuestieTrace
+- npc 1555 Vicious Night Web Spider: item 211786 Scroll: CHAP BALK WELLES (loot_items_missing): EG Link saw it drop once in 53 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 53 kills (0 in 52 on a quest); QuestieTrace
+- npc 1675 Rot Hide Mongrel: item 211786 Scroll: CHAP BALK WELLES (loot_items_missing): EG Link saw it drop once in 50 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 50 kills (1 in 48 on a quest); QuestieTrace
+- npc 1769 Moonrage Whitescalp: item 1413 Feeble Sword (loot_items_missing): EG Link saw it drop once in 45 kills. Seen: EG Link 1 drops in 45 kills (0 in 35 on a quest)
+- npc 1769 Moonrage Whitescalp: item 1419 Worn Leather Boots (loot_items_missing): EG Link saw it drop once in 45 kills. Seen: EG Link 1 drops in 45 kills (1 in 35 on a quest)
+- npc 1772 Rot Hide Gladerunner: item 211780 Scroll: KWYJIBO (loot_items_missing): EG Link saw it drop once in 4 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 4 kills (0 in 0 on a quest); QuestieTrace
+- npc 1778 Ferocious Grizzled Bear: item 211786 Scroll: CHAP BALK WELLES (loot_items_missing): EG Link saw it drop once in 35 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 35 kills (1 in 32 on a quest); QuestieTrace
+- npc 1779 Moonrage Glutton: item 211785 Scroll: CWAL (loot_items_missing): EG Link saw it drop once in 132 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 132 kills (1 in 111 on a quest); QuestieTrace
+- npc 1780 Moss Stalker: item 211786 Scroll: CHAP BALK WELLES (loot_items_missing): EG Link saw it drop once in 115 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 115 kills (1 in 115 on a quest); QuestieTrace
+- npc 1781 Mist Creeper: item 211786 Scroll: CHAP BALK WELLES (loot_items_missing): EG Link saw it drop once in 47 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 47 kills (1 in 46 on a quest); QuestieTrace
+- npc 1782 Moonrage Darksoul: item 211780 Scroll: KWYJIBO (loot_items_missing): EG Link saw it drop once in 103 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 103 kills (0 in 44 on a quest); QuestieTrace
+- npc 1797 Giant Grizzled Bear: item 211785 Scroll: CWAL (loot_items_missing): EG Link saw it drop once in 116 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 116 kills (1 in 113 on a quest); QuestieTrace
+- npc 1912 Dalaran Protector: item 211787 Scroll: LOWER PING WHOMEVER (loot_items_missing): EG Link saw it drop once in 43 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 43 kills (1 in 42 on a quest); QuestieTrace
+- npc 1953 Lake Skulker: item 211780 Scroll: KWYJIBO (loot_items_missing): EG Link saw it drop once in 40 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 40 kills (1 in 37 on a quest); QuestieTrace
+- npc 1954 Elder Lake Skulker: item 211784 Scroll: WUBBA WUBBA (loot_items_missing): EG Link saw it drop once in 45 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 45 kills (1 in 41 on a quest); QuestieTrace
+- npc 1956 Elder Lake Creeper: item 211784 Scroll: WUBBA WUBBA (loot_items_missing): EG Link saw it drop once in 44 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 44 kills (1 in 43 on a quest); QuestieTrace
+- npc 2067 Councilman Brunswick: item 9758 Cadet Belt (loot_items_missing): EG Link saw it drop once in 2 kills. Seen: EG Link 1 drops in 2 kills (0 in 0 on a quest)
+- npc 2106 Apothecary Berard: item 211855 Scroll: STHENIC LUNATE (loot_items_missing): EG Link saw it drop once in 4 kills. Seen: EG Link 1 drops in 4 kills (0 in 0 on a quest)
+- npc 2244 Syndicate Shadow Mage: item 211854 Scroll: OMIT KESA (loot_items_missing): EG Link saw it drop once in 7 kills. Seen: EG Link 1 drops in 7 kills (0 in 0 on a quest)
+- npc 2261 Syndicate Watchman: item 211854 Scroll: OMIT KESA (loot_items_missing): EG Link saw it drop once in 13 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 13 kills (0 in 9 on a quest); QuestieTrace
+- npc 2266 Hillsbrad Farmer: item 211784 Scroll: WUBBA WUBBA (loot_items_missing): EG Link saw it drop once in 8 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 8 kills (1 in 5 on a quest); QuestieTrace
+- npc 2267 Hillsbrad Peasant: item 211784 Scroll: WUBBA WUBBA (loot_items_missing): EG Link saw it drop once in 15 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 15 kills (1 in 15 on a quest); QuestieTrace
+- npc 2268 Hillsbrad Footman: item 211855 Scroll: STHENIC LUNATE (loot_items_missing): EG Link saw it drop once in 4 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 4 kills (0 in 3 on a quest); QuestieTrace
+- npc 2351 Gray Bear: item 211784 Scroll: WUBBA WUBBA (loot_items_missing): EG Link saw it drop once in 13 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 13 kills (1 in 13 on a quest); QuestieTrace
+- npc 2358 Dalaran Summoner: item 248694 Waylaid Crate: Expert Curiosities (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (1 in 6 on a quest)
+- npc 2384 Starving Mountain Lion: item 211855 Scroll: STHENIC LUNATE (loot_items_missing): EG Link saw it drop once in 25 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 25 kills (1 in 25 on a quest); QuestieTrace
+- npc 2950 Palemane Skinner: item 211780 Scroll: KWYJIBO (loot_items_missing): EG Link saw it drop once in 13 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 13 kills (0 in 8 on a quest); QuestieTrace
+- npc 2950 Palemane Skinner: item 211785 Scroll: CWAL (loot_items_missing): EG Link saw it drop once in 13 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 13 kills (0 in 8 on a quest); QuestieTrace
+- npc 2953 Bristleback Shaman: item 2589 Linen Cloth (loot_items_missing): EG Link saw it drop once in 4 kills. Seen: EG Link 1 drops in 4 kills (1 in 4 on a quest)
+- npc 2956 Adult Plainstrider: item 5763 Red Woolen Bag (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 288840 ? (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 288843 ? (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 288846 ? (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 288874 ? (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 288877 ? (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 288884 ? (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 288885 ? (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 288908 ? (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 288927 ? (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 288930 ? (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 289082 ? (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 289329 ? (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (0 in 1 on a quest)
+- npc 2956 Adult Plainstrider: item 289330 ? (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (0 in 1 on a quest)
+- npc 2957 Elder Plainstrider: item 6657 Savory Deviate Delight (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 2957 Elder Plainstrider: item 288827 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 2957 Elder Plainstrider: item 288828 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 2957 Elder Plainstrider: item 288830 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 2957 Elder Plainstrider: item 288832 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 2957 Elder Plainstrider: item 288896 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 2957 Elder Plainstrider: item 288897 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 2957 Elder Plainstrider: item 288898 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 2957 Elder Plainstrider: item 288906 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 2957 Elder Plainstrider: item 288908 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 2957 Elder Plainstrider: item 288914 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 2957 Elder Plainstrider: item 288919 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 2957 Elder Plainstrider: item 288920 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 2957 Elder Plainstrider: item 288922 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 2957 Elder Plainstrider: item 288929 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 2957 Elder Plainstrider: item 289334 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 2958 Prairie Wolf: item 5763 Red Woolen Bag (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 2 on a quest)
+- npc 2958 Prairie Wolf: item 288841 ? (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 2 on a quest)
+- npc 2958 Prairie Wolf: item 288847 ? (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 2 on a quest)
+- npc 2958 Prairie Wolf: item 288853 ? (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 2 on a quest)
+- npc 2958 Prairie Wolf: item 288889 ? (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 2 on a quest)
+- npc 2958 Prairie Wolf: item 288898 ? (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 2 on a quest)
+- npc 2958 Prairie Wolf: item 288900 ? (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 2 on a quest)
+- npc 2958 Prairie Wolf: item 288913 ? (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 2 on a quest)
+- npc 2958 Prairie Wolf: item 288914 ? (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 2 on a quest)
+- npc 2958 Prairie Wolf: item 288924 ? (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 2 on a quest)
+- npc 2958 Prairie Wolf: item 288925 ? (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 2 on a quest)
+- npc 2958 Prairie Wolf: item 289081 ? (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 2 on a quest)
+- npc 2958 Prairie Wolf: item 289330 ? (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 2 on a quest)
+- npc 2959 Prairie Stalker: item 211786 Scroll: CHAP BALK WELLES (loot_items_missing): EG Link saw it drop once in 44 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest); QuestieTrace
+- npc 2959 Prairie Stalker: item 288829 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288834 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288835 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288841 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288842 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288844 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288845 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288846 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288853 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288854 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288856 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288857 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288864 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288865 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288868 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288871 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288881 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288887 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288888 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288892 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288904 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288907 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288911 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288917 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288918 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288919 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 288920 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 289081 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2959 Prairie Stalker: item 289088 ? (loot_items_missing): EG Link saw it drop once in 44 kills. Seen: EG Link 1 drops in 44 kills (0 in 0 on a quest)
+- npc 2965 Windfury Matriarch: item 1411 Withered Staff (loot_items_missing): EG Link saw it drop once in 13 kills. Seen: EG Link 1 drops in 13 kills (1 in 13 on a quest)
+- npc 2969 Wiry Swoop: item 288873 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 4 on a quest)
+- npc 2969 Wiry Swoop: item 288904 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 4 on a quest)
+- npc 2969 Wiry Swoop: item 288926 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 4 on a quest)
+- npc 2969 Wiry Swoop: item 289083 ? (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 6657 Savory Deviate Delight (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288834 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288837 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288841 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288847 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288851 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288866 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288873 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288882 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288890 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288893 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288896 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288897 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288898 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288900 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288904 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288906 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288908 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288918 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288920 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288927 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 288930 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 289082 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 289088 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 289321 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 2970 Swoop: item 289330 ? (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (0 in 4 on a quest)
+- npc 3035 Flatland Cougar: item 6657 Savory Deviate Delight (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288823 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288828 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288830 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288832 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288835 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288837 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288843 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288844 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288849 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288850 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288853 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288854 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288856 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288859 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288860 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288861 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288868 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288870 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288879 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288886 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288888 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288889 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288901 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288902 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288903 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288908 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288911 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288918 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288925 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288928 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3035 Flatland Cougar: item 288929 ? (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 18 on a quest)
+- npc 3118 Dustwind Storm Witch: item 3370 Patchwork Belt (loot_items_missing): EG Link saw it drop once in 18 kills. Seen: EG Link 1 drops in 18 kills (1 in 15 on a quest)
+- npc 3123 Bloodtalon Scythemaw: item 211786 Scroll: CHAP BALK WELLES (loot_items_missing): EG Link saw it drop once in 2 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 2 kills (0 in 0 on a quest); QuestieTrace
+- npc 3128 Kul Tiras Sailor: item 250380 Recipe: Elixir of Minor Spirit (loot_items_missing): EG Link saw it drop once in 50 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 50 kills (1 in 45 on a quest); QuestieTrace
+- npc 3131 Lightning Hide: item 211786 Scroll: CHAP BALK WELLES (loot_items_missing): EG Link saw it drop once in 16 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 16 kills (0 in 15 on a quest); QuestieTrace
+- npc 3131 Lightning Hide: item 275720 Rough Lizard Hide (loot_items_missing): EG Link saw it drop once in 16 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 16 kills (1 in 15 on a quest); QuestieTrace
+- npc 3183 Yarrog Baneshadow: item 2589 Linen Cloth (loot_items_missing): EG Link saw it drop once in 4 kills. Seen: EG Link 1 drops in 4 kills (1 in 4 on a quest)
+- npc 3197 Burning Blade Fanatic: item 211787 Scroll: LOWER PING WHOMEVER (loot_items_missing): EG Link saw it drop once in 48 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 48 kills (0 in 38 on a quest); QuestieTrace
+- npc 3198 Burning Blade Apprentice: item 1414 Cracked Sledge (loot_items_missing): EG Link saw it drop once in 28 kills. Seen: EG Link 1 drops in 28 kills (0 in 21 on a quest)
+- npc 3206 Voodoo Troll: item 211787 Scroll: LOWER PING WHOMEVER (loot_items_missing): EG Link saw it drop once in 30 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 30 kills (1 in 29 on a quest); QuestieTrace
+- npc 3239 Thunderhead: item 211853 Scroll: VOCE WELL (loot_items_missing): EG Link saw it drop once in 40 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 40 kills (1 in 34 on a quest); QuestieTrace
+- npc 3241 Savannah Patriarch: item 211785 Scroll: CWAL (loot_items_missing): EG Link saw it drop once in 13 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 13 kills (1 in 13 on a quest); QuestieTrace
+- npc 3242 Zhevra Runner: item 248703 Waylaid Crate: Apprentice Ingots (loot_items_missing): EG Link saw it drop once in 31 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 31 kills (1 in 28 on a quest); QuestieTrace
+- npc 3244 Greater Plainstrider: item 211786 Scroll: CHAP BALK WELLES (loot_items_missing): EG Link saw it drop once in 60 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 60 kills (1 in 55 on a quest); QuestieTrace
+- npc 3245 Ornery Plainstrider: item 211784 Scroll: WUBBA WUBBA (loot_items_missing): EG Link saw it drop once in 68 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 68 kills (1 in 48 on a quest); QuestieTrace
+- npc 3245 Ornery Plainstrider: item 211854 Scroll: OMIT KESA (loot_items_missing): EG Link saw it drop once in 68 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 68 kills (1 in 48 on a quest); QuestieTrace
+- npc 3245 Ornery Plainstrider: item 248682 Waylaid Crate: Apprentice Herbs (loot_items_missing): EG Link saw it drop once in 68 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 68 kills (1 in 48 on a quest); QuestieTrace
+- npc 3255 Sunscale Screecher: item 248704 Waylaid Crate: Apprentice Parts (loot_items_missing): EG Link saw it drop once in 37 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 37 kills (1 in 32 on a quest); QuestieTrace
+- npc 3256 Sunscale Scytheclaw: item 211855 Scroll: STHENIC LUNATE (loot_items_missing): EG Link saw it drop once in 127 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 127 kills (1 in 114 on a quest); QuestieTrace
+- npc 3260 Bristleback Water Seeker: item 211855 Scroll: STHENIC LUNATE (loot_items_missing): EG Link saw it drop once in 78 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 78 kills (1 in 78 on a quest); QuestieTrace
+- npc 3261 Bristleback Thornweaver: item 248682 Waylaid Crate: Apprentice Herbs (loot_items_missing): EG Link saw it drop once in 54 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 54 kills (1 in 54 on a quest); QuestieTrace
+- npc 3268 Razormane Thornweaver: item 1416 Rusty Hatchet (loot_items_missing): EG Link saw it drop once in 27 kills. Seen: EG Link 1 drops in 27 kills (1 in 27 on a quest)
+- npc 3273 Kolkar Stormer: item 211780 Scroll: KWYJIBO (loot_items_missing): EG Link saw it drop once in 32 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 32 kills (1 in 28 on a quest); QuestieTrace
+- npc 3278 Witchwing Slayer: item 211853 Scroll: VOCE WELL (loot_items_missing): EG Link saw it drop once in 70 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 70 kills (1 in 69 on a quest); QuestieTrace
+- npc 3383 Southsea Cutthroat: item 211787 Scroll: LOWER PING WHOMEVER (loot_items_missing): EG Link saw it drop once in 17 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 17 kills (0 in 0 on a quest); QuestieTrace
+- npc 3396 Hezrul Bloodmark: item 211784 Scroll: WUBBA WUBBA (loot_items_missing): EG Link saw it drop once in 4 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 4 kills (1 in 4 on a quest); QuestieTrace
+- npc 3396 Hezrul Bloodmark: item 211854 Scroll: OMIT KESA (loot_items_missing): EG Link saw it drop once in 4 kills. Seen: EG Link 1 drops in 4 kills (1 in 4 on a quest)
+- npc 3397 Kolkar Bloodcharger: item 211780 Scroll: KWYJIBO (loot_items_missing): EG Link saw it drop once in 16 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 16 kills (1 in 15 on a quest); QuestieTrace
+- npc 3461 Oasis Snapjaw: item 211780 Scroll: KWYJIBO (loot_items_missing): EG Link saw it drop once in 51 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 51 kills (1 in 50 on a quest); QuestieTrace
+- npc 3461 Oasis Snapjaw: item 211786 Scroll: CHAP BALK WELLES (loot_items_missing): EG Link saw it drop once in 51 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 51 kills (1 in 50 on a quest); QuestieTrace
+- npc 3466 Zhevra Courser: item 211853 Scroll: VOCE WELL (loot_items_missing): EG Link saw it drop once in 9 kills. Seen: EG Link 1 drops in 9 kills (0 in 0 on a quest)
+- npc 3476 Isha Awak: item 211784 Scroll: WUBBA WUBBA (loot_items_missing): EG Link saw it drop once in 4 kills. Seen: EG Link 1 drops in 4 kills (1 in 4 on a quest)
+- npc 3633 Deviate Slayer: item 211784 Scroll: WUBBA WUBBA (loot_items_missing): EG Link saw it drop once in 28 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 28 kills (1 in 28 on a quest); QuestieTrace
+- npc 3636 Deviate Ravager: item 211854 Scroll: OMIT KESA (loot_items_missing): EG Link saw it drop once in 39 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 39 kills (0 in 0 on a quest); QuestieTrace
+- npc 3637 Deviate Guardian: item 3611 Plans: Green Iron Boots (loot_items_missing): EG Link saw it drop once in 36 kills. Seen: EG Link 1 drops in 36 kills (0 in 0 on a quest)
+- npc 3640 Evolving Ectoplasm: item 211855 Scroll: STHENIC LUNATE (loot_items_missing): EG Link saw it drop once in 38 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 38 kills (0 in 0 on a quest); QuestieTrace
+- npc 3654 Mutanus the Devourer: item 6576 Defender Girdle (loot_items_missing): EG Link saw it drop once in 3 kills. Seen: EG Link 1 drops in 3 kills (0 in 0 on a quest)
+- npc 3654 Mutanus the Devourer: item 6581 Scouting Belt (loot_items_missing): EG Link saw it drop once in 3 kills. Seen: EG Link 1 drops in 3 kills (0 in 0 on a quest)
+- npc 3669 Lord Cobrahn: item 1816 Unbalanced Axe (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 0 on a quest)
+- npc 3671 Lady Anacondra: item 1764 Canvas Shoes (loot_items_missing): EG Link saw it drop once in 4 kills. Seen: EG Link 1 drops in 4 kills (0 in 0 on a quest)
+- npc 3674 Skum: item 1206 Moss Agate (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 3674 Skum: item 14565 Prospector's Woolies (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 3674 Skum: item 251349 ? (loot_items_missing): EG Link saw it drop once in 5 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest); QuestieTrace
+- npc 3674 Skum: item 273137 Skum's Bucket (loot_items_missing): EG Link saw it drop once in 5 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest); QuestieTrace
+- npc 3840 Druid of the Fang: item 211854 Scroll: OMIT KESA (loot_items_missing): EG Link saw it drop once in 82 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 82 kills (0 in 0 on a quest); QuestieTrace
+- npc 3840 Druid of the Fang: item 211855 Scroll: STHENIC LUNATE (loot_items_missing): EG Link saw it drop once in 82 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 82 kills (0 in 0 on a quest); QuestieTrace
+- npc 3864 Fel Steed: item 252775 ? (loot_items_missing): EG Link saw it drop once in 3 kills. Seen: EG Link 1 drops in 3 kills (0 in 0 on a quest)
+- npc 3886 Razorclaw the Butcher: item 1746 Linked Chain Belt (loot_items_missing): EG Link saw it drop once in 4 kills. Seen: EG Link 1 drops in 4 kills (0 in 0 on a quest)
+- npc 3914 Rethilgore: item 6574 Defender Bracers (loot_items_missing): EG Link saw it drop once in 2 kills. Seen: EG Link 1 drops in 2 kills (0 in 0 on a quest)
+- npc 3914 Rethilgore: item 273457 Sorcerer Collar (loot_items_missing): EG Link saw it drop once in 2 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 2 kills (0 in 0 on a quest); QuestieTrace
+- npc 3927 Wolf Master Nandos: item 929 Healing Potion (loot_items_missing): EG Link saw it drop once in 3 kills. Seen: EG Link 1 drops in 3 kills (0 in 0 on a quest)
+- npc 3927 Wolf Master Nandos: item 273647 Worgpelt Leggings (loot_items_missing): EG Link saw it drop once in 3 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 3 kills (0 in 0 on a quest); QuestieTrace
+- npc 3983 Interrogator Vishas: item 274290 Painwalker Buckler (loot_items_missing): EG Link saw it drop once in 1 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 1 kills (0 in 0 on a quest); QuestieTrace
+- npc 4025 Bloodfury Ambusher: item 248687 Waylaid Crate: Journeyman Ore (loot_items_missing): EG Link saw it drop once in 18 kills. Seen: EG Link 1 drops in 18 kills (1 in 18 on a quest)
+- npc 4124 Needles Cougar: item 3832 Recipe: Elixir of Detect Lesser Invisibility (loot_items_missing): EG Link saw it drop once in 7 kills. Seen: EG Link 1 drops in 7 kills (0 in 0 on a quest)
+- npc 4124 Needles Cougar: item 211855 Scroll: STHENIC LUNATE (loot_items_missing): EG Link saw it drop once in 7 kills. Seen: EG Link 1 drops in 7 kills (0 in 0 on a quest)
+- npc 4416 Defias Strip Miner: item 211854 Scroll: OMIT KESA (loot_items_missing): EG Link saw it drop once in 9 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 9 kills (0 in 0 on a quest); QuestieTrace
+- npc 4420 Overlord Ramtusk: item 274161 Quillord Mail Leggings (loot_items_missing): EG Link saw it drop once in 1 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 1 kills (0 in 0 on a quest); QuestieTrace
+- npc 4424 Aggem Thorncurse: item 274159 Thorncursed Grips (loot_items_missing): EG Link saw it drop once in 1 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 1 kills (0 in 0 on a quest); QuestieTrace
+- npc 4428 Death Speaker Jargba: item 14193 Raincaller Pants (loot_items_missing): EG Link saw it drop once in 1 kills. Seen: EG Link 1 drops in 1 kills (0 in 0 on a quest)
+- npc 4543 Bloodmage Thalnos: item 252821 Pattern: Trapper's Leather Legguards (loot_items_missing): EG Link saw it drop once in 1 kills. Seen: EG Link 1 drops in 1 kills (0 in 0 on a quest)
+- npc 4654 Maraudine Scout: item 254432 Carved Centaur Totem (loot_items_missing): EG Link saw it drop once in 4 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 4 kills (1 in 3 on a quest); QuestieTrace
+- npc 4654 Maraudine Scout: item 274047 Twisted Air Totem (loot_items_missing): EG Link saw it drop once in 3 kills made on a quest. Seen: EG Link 1 drops in 4 kills (1 in 3 on a quest)
+- npc 4656 Maraudine Mauler: item 274047 Twisted Air Totem (loot_items_missing): EG Link saw it drop once in 3 kills made on a quest; QuestieTrace also lists it. Seen: EG Link 1 drops in 3 kills (1 in 3 on a quest); QuestieTrace
+- npc 4657 Maraudine Windchaser: item 274047 Twisted Air Totem (loot_items_missing): EG Link saw it drop once in 6 kills made on a quest; QuestieTrace also lists it. Seen: EG Link 1 drops in 6 kills (1 in 6 on a quest); QuestieTrace
+- npc 4659 Maraudine Marauder: item 254432 Carved Centaur Totem (loot_items_missing): EG Link saw it drop once in 1 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 1 kills (1 in 1 on a quest); QuestieTrace
+- npc 4832 Twilight Lord Kelris: item 273846 Twilight Lord Girdle (loot_items_missing): EG Link saw it drop once in 1 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 1 kills (0 in 0 on a quest); QuestieTrace
+- npc 5048 Deviate Adder: item 211784 Scroll: WUBBA WUBBA (loot_items_missing): EG Link saw it drop once in 18 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 18 kills (0 in 0 on a quest); QuestieTrace
+- npc 5048 Deviate Adder: item 211853 Scroll: VOCE WELL (loot_items_missing): EG Link saw it drop once in 18 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 18 kills (0 in 0 on a quest); QuestieTrace
+- npc 5761 Deviate Shambler: item 211853 Scroll: VOCE WELL (loot_items_missing): EG Link saw it drop once in 40 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 40 kills (0 in 0 on a quest); QuestieTrace
+- npc 5761 Deviate Shambler: item 211854 Scroll: OMIT KESA (loot_items_missing): EG Link saw it drop once in 40 kills. Seen: EG Link 1 drops in 40 kills (0 in 0 on a quest)
+- npc 5761 Deviate Shambler: item 211855 Scroll: STHENIC LUNATE (loot_items_missing): EG Link saw it drop once in 40 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 40 kills (0 in 0 on a quest); QuestieTrace
+- npc 5763 Nightmare Ectoplasm: item 211853 Scroll: VOCE WELL (loot_items_missing): EG Link saw it drop once in 17 kills. Seen: EG Link 1 drops in 17 kills (0 in 0 on a quest)
+- npc 5775 Verdan the Everliving: item 15505 Outrunner's Pauldrons (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 0 on a quest)
+- npc 5826 Geolord Mottle: item 6509 Infantry Belt (loot_items_missing): EG Link saw it drop once in 1 kills. Seen: EG Link 1 drops in 1 kills (0 in 0 on a quest)
+- npc 6132 Razorfen Servitor: item 7092 Pattern: Hands of Darkness (loot_items_missing): EG Link saw it drop once in 2 kills. Seen: EG Link 1 drops in 2 kills (0 in 0 on a quest)
+- npc 6243 Gelihast: item 273141 Blueprint: Fishing Rack (loot_items_missing): EG Link saw it drop once in 1 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 1 kills (0 in 0 on a quest); QuestieTrace
+- npc 8886 Deviate Python: item 211853 Scroll: VOCE WELL (loot_items_missing): EG Link saw it drop once in 16 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 16 kills (0 in 0 on a quest); QuestieTrace
+- npc 11318 Ragefire Trogg: item 6375 Formula: Enchant Bracer - Lesser Spirit (loot_items_missing): EG Link saw it drop once in 38 kills. Seen: EG Link 1 drops in 38 kills (0 in 0 on a quest)
+- npc 11318 Ragefire Trogg: item 211780 Scroll: KWYJIBO (loot_items_missing): EG Link saw it drop once in 38 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 38 kills (0 in 0 on a quest); QuestieTrace
+- npc 11318 Ragefire Trogg: item 211787 Scroll: LOWER PING WHOMEVER (loot_items_missing): EG Link saw it drop once in 38 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 38 kills (0 in 0 on a quest); QuestieTrace
+- npc 11319 Ragefire Shaman: item 211787 Scroll: LOWER PING WHOMEVER (loot_items_missing): EG Link saw it drop once in 19 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 19 kills (0 in 0 on a quest); QuestieTrace
+- npc 11322 Searing Blade Cultist: item 211785 Scroll: CWAL (loot_items_missing): EG Link saw it drop once in 36 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 36 kills (0 in 0 on a quest); QuestieTrace
+- npc 11324 Searing Blade Warlock: item 211780 Scroll: KWYJIBO (loot_items_missing): EG Link saw it drop once in 18 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 18 kills (0 in 0 on a quest); QuestieTrace
+- npc 11517 Oggleflint: item 272998 Bone Knuckles (loot_items_missing): EG Link saw it drop once in 5 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest); QuestieTrace
+- npc 11517 Oggleflint: item 272999 Barbaric Crossbow (loot_items_missing): EG Link saw it drop once in 5 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest); QuestieTrace
+- npc 11518 Jergosh the Invoker: item 1768 Canvas Pants (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 0 on a quest)
+- npc 11518 Jergosh the Invoker: item 2780 Light Hunting Bow (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 0 on a quest)
+- npc 11520 Taragaman the Hungerer: item 818 Tigerseye (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 0 on a quest)
+- npc 11520 Taragaman the Hungerer: item 14365 Mystic's Cape (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 0 on a quest)
+- npc 11912 Grimtotem Brute: item 211785 Scroll: CWAL (loot_items_missing): EG Link saw it drop once in 10 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 10 kills (1 in 6 on a quest); QuestieTrace
+- npc 11918 Gogger Stonepounder: item 248682 Waylaid Crate: Apprentice Herbs (loot_items_missing): EG Link saw it drop once in 1 kills. Seen: EG Link 1 drops in 1 kills (0 in 0 on a quest)
+- npc 250484 Spider: item 1738 Laced Mail Belt (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 0 on a quest)
+- npc 250484 Spider: item 1740 Laced Mail Bracers (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 0 on a quest)
+- npc 250620 Shrieking Banshee: item 1788 Patched Leather Boots (loot_items_missing): EG Link saw it drop once in 3 kills. Seen: EG Link 1 drops in 3 kills (0 in 0 on a quest)
+- npc 250622 Ragged Ghoul: item 286980 Rotmender's Sash (loot_items_missing): EG Link saw it drop once in 19 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 19 kills (0 in 0 on a quest); QuestieTrace
+- npc 250623 Mangled Cadaver: item 286979 Rotmender's Gloves (loot_items_missing): EG Link saw it drop once in 2 kills. Seen: EG Link 1 drops in 2 kills (0 in 0 on a quest)
+- npc 250626 Skeletal Soldier: item 286978 Rotmender's Garb (loot_items_missing): EG Link saw it drop once in 33 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 33 kills (0 in 0 on a quest); QuestieTrace
+- npc 250654 Ghostly Citizen: item 15933 Simple Branch (loot_items_missing): EG Link saw it drop once in 3 kills. Seen: EG Link 1 drops in 3 kills (0 in 0 on a quest)
+- npc 250656 Fallen Berserker: item 1791 Patched Leather Gloves (loot_items_missing): EG Link saw it drop once in 6 kills. Seen: EG Link 1 drops in 6 kills (0 in 0 on a quest)
+- npc 250873 Juvenile Vuldren: item 1370 Ragged Leather Bracers (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 1372 Ragged Cloak (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (0 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 1376 Frayed Cloak (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 1378 Frayed Pants (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 2650 Flimsy Chain Boots (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288825 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (0 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288827 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (0 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288831 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (0 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288832 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288837 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288843 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288865 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (0 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288883 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (0 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288886 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288892 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288897 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288900 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (0 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288903 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288904 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (0 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288907 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288908 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288909 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (0 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288911 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288914 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288916 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (0 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288917 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (0 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288918 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288920 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288921 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (0 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 288926 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (0 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 289082 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (0 in 43 on a quest)
+- npc 250873 Juvenile Vuldren: item 289086 ? (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 43 on a quest)
+- npc 250926 Scrawny Ursera: item 1364 Ragged Leather Vest (loot_items_missing): EG Link saw it drop once in 42 kills. Seen: EG Link 1 drops in 42 kills (0 in 24 on a quest)
+- npc 250926 Scrawny Ursera: item 1368 Ragged Leather Gloves (loot_items_missing): EG Link saw it drop once in 42 kills. Seen: EG Link 1 drops in 42 kills (0 in 24 on a quest)
+- npc 250926 Scrawny Ursera: item 1380 Frayed Robe (loot_items_missing): EG Link saw it drop once in 42 kills. Seen: EG Link 1 drops in 42 kills (1 in 24 on a quest)
+- npc 250926 Scrawny Ursera: item 5571 Small Black Pouch (loot_items_missing): EG Link saw it drop once in 42 kills. Seen: EG Link 1 drops in 42 kills (0 in 24 on a quest)
+- npc 250927 Shadowgale Ursera: item 2287 Haunch of Meat (loot_items_missing): EG Link saw it drop once in 2 kills. Seen: EG Link 1 drops in 2 kills (0 in 0 on a quest)
+- npc 250937 Ursera Scavenger: item 1367 Ragged Leather Boots (loot_items_missing): EG Link saw it drop once in 31 kills. Seen: EG Link 1 drops in 31 kills (1 in 18 on a quest)
+- npc 250937 Ursera Scavenger: item 1372 Ragged Cloak (loot_items_missing): EG Link saw it drop once in 31 kills. Seen: EG Link 1 drops in 31 kills (1 in 18 on a quest)
+- npc 250937 Ursera Scavenger: item 1376 Frayed Cloak (loot_items_missing): EG Link saw it drop once in 31 kills. Seen: EG Link 1 drops in 31 kills (1 in 18 on a quest)
+- npc 250937 Ursera Scavenger: item 1378 Frayed Pants (loot_items_missing): EG Link saw it drop once in 31 kills. Seen: EG Link 1 drops in 31 kills (0 in 18 on a quest)
+- npc 250937 Ursera Scavenger: item 2650 Flimsy Chain Boots (loot_items_missing): EG Link saw it drop once in 31 kills. Seen: EG Link 1 drops in 31 kills (1 in 18 on a quest)
+- npc 250937 Ursera Scavenger: item 2656 Flimsy Chain Vest (loot_items_missing): EG Link saw it drop once in 31 kills. Seen: EG Link 1 drops in 31 kills (0 in 18 on a quest)
+- npc 250937 Ursera Scavenger: item 3363 Frayed Belt (loot_items_missing): EG Link saw it drop once in 31 kills. Seen: EG Link 1 drops in 31 kills (1 in 18 on a quest)
+- npc 251115 Urs'anah: item 1370 Ragged Leather Bracers (loot_items_missing): EG Link saw it drop once in 3 kills. Seen: EG Link 1 drops in 3 kills (1 in 3 on a quest)
+- npc 251143 Roiling Winds: item 1372 Ragged Cloak (loot_items_missing): EG Link saw it drop once in 17 kills. Seen: EG Link 1 drops in 17 kills (0 in 14 on a quest)
+- npc 251143 Roiling Winds: item 2651 Flimsy Chain Bracers (loot_items_missing): EG Link saw it drop once in 17 kills. Seen: EG Link 1 drops in 17 kills (1 in 14 on a quest)
+- npc 251143 Roiling Winds: item 2652 Flimsy Chain Cloak (loot_items_missing): EG Link saw it drop once in 17 kills. Seen: EG Link 1 drops in 17 kills (0 in 14 on a quest)
+- npc 251143 Roiling Winds: item 3365 Frayed Bracers (loot_items_missing): EG Link saw it drop once in 17 kills. Seen: EG Link 1 drops in 17 kills (1 in 14 on a quest)
+- npc 251143 Roiling Winds: item 4496 Small Brown Pouch (loot_items_missing): EG Link saw it drop once in 17 kills. Seen: EG Link 1 drops in 17 kills (1 in 14 on a quest)
+- npc 251145 Al'Aketh Brute: item 1377 Frayed Gloves (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (1 in 15 on a quest)
+- npc 251145 Al'Aketh Brute: item 2653 Flimsy Chain Gloves (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (1 in 15 on a quest)
+- npc 251145 Al'Aketh Brute: item 3365 Frayed Bracers (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (1 in 15 on a quest)
+- npc 251160 Al'Aketh Convert: item 1369 Ragged Leather Belt (loot_items_missing): EG Link saw it drop once in 20 kills. Seen: EG Link 1 drops in 20 kills (1 in 18 on a quest)
+- npc 251160 Al'Aketh Convert: item 1377 Frayed Gloves (loot_items_missing): EG Link saw it drop once in 20 kills. Seen: EG Link 1 drops in 20 kills (1 in 18 on a quest)
+- npc 251160 Al'Aketh Convert: item 2211 Bent Large Shield (loot_items_missing): EG Link saw it drop once in 20 kills. Seen: EG Link 1 drops in 20 kills (1 in 18 on a quest)
+- npc 251160 Al'Aketh Convert: item 4496 Small Brown Pouch (loot_items_missing): EG Link saw it drop once in 20 kills. Seen: EG Link 1 drops in 20 kills (1 in 18 on a quest)
+- npc 251169 Pesky Cirrusfly: item 1366 Ragged Leather Pants (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 1372 Ragged Cloak (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 1374 Frayed Shoes (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 2649 Flimsy Chain Belt (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 2650 Flimsy Chain Boots (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 3363 Frayed Belt (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 288829 ? (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 288854 ? (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 288886 ? (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 288898 ? (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 288901 ? (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 288903 ? (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 288906 ? (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 288908 ? (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 288926 ? (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 288927 ? (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 288930 ? (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 289088 ? (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 289321 ? (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251169 Pesky Cirrusfly: item 289330 ? (loot_items_missing): EG Link saw it drop once in 37 kills. Seen: EG Link 1 drops in 37 kills (1 in 37 on a quest)
+- npc 251245 Prideclaw: item 1369 Ragged Leather Belt (loot_items_missing): EG Link saw it drop once in 47 kills. Seen: EG Link 1 drops in 47 kills (1 in 39 on a quest)
+- npc 251245 Prideclaw: item 1380 Frayed Robe (loot_items_missing): EG Link saw it drop once in 47 kills. Seen: EG Link 1 drops in 47 kills (1 in 39 on a quest)
+- npc 251245 Prideclaw: item 1419 Worn Leather Boots (loot_items_missing): EG Link saw it drop once in 47 kills. Seen: EG Link 1 drops in 47 kills (1 in 39 on a quest)
+- npc 251245 Prideclaw: item 1429 Patchwork Cloak (loot_items_missing): EG Link saw it drop once in 47 kills. Seen: EG Link 1 drops in 47 kills (1 in 39 on a quest)
+- npc 251245 Prideclaw: item 2649 Flimsy Chain Belt (loot_items_missing): EG Link saw it drop once in 47 kills. Seen: EG Link 1 drops in 47 kills (1 in 39 on a quest)
+- npc 251245 Prideclaw: item 2656 Flimsy Chain Vest (loot_items_missing): EG Link saw it drop once in 47 kills. Seen: EG Link 1 drops in 47 kills (1 in 39 on a quest)
+- npc 251284 Hippogryph Protector: item 1418 Worn Leather Belt (loot_items_missing): EG Link saw it drop once in 27 kills. Seen: EG Link 1 drops in 27 kills (0 in 17 on a quest)
+- npc 251284 Hippogryph Protector: item 1429 Patchwork Cloak (loot_items_missing): EG Link saw it drop once in 27 kills. Seen: EG Link 1 drops in 27 kills (0 in 17 on a quest)
+- npc 251284 Hippogryph Protector: item 2138 Sharpened Letter Opener (loot_items_missing): EG Link saw it drop once in 27 kills. Seen: EG Link 1 drops in 27 kills (1 in 17 on a quest)
+- npc 251284 Hippogryph Protector: item 2773 Cracked Shortbow (loot_items_missing): EG Link saw it drop once in 27 kills. Seen: EG Link 1 drops in 27 kills (0 in 17 on a quest)
+- npc 251291 Hippogryph Youth: item 1418 Worn Leather Belt (loot_items_missing): EG Link saw it drop once in 26 kills. Seen: EG Link 1 drops in 26 kills (1 in 22 on a quest)
+- npc 251402 Cirrusfly Soldier: item 3363 Frayed Belt (loot_items_missing): EG Link saw it drop once in 3 kills. Seen: EG Link 1 drops in 3 kills (0 in 0 on a quest)
+- npc 251448 Al'Aketh Neophyte: item 1372 Ragged Cloak (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (1 in 10 on a quest)
+- npc 251622 Flutterfly: item 3370 Patchwork Belt (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 251622 Flutterfly: item 15484 War Torn Handgrips (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 251661 Galestrider: item 1366 Ragged Leather Pants (loot_items_missing): EG Link saw it drop once in 57 kills. Seen: EG Link 1 drops in 57 kills (0 in 0 on a quest)
+- npc 251661 Galestrider: item 1368 Ragged Leather Gloves (loot_items_missing): EG Link saw it drop once in 57 kills. Seen: EG Link 1 drops in 57 kills (0 in 0 on a quest)
+- npc 251661 Galestrider: item 1376 Frayed Cloak (loot_items_missing): EG Link saw it drop once in 57 kills. Seen: EG Link 1 drops in 57 kills (0 in 0 on a quest)
+- npc 251661 Galestrider: item 1413 Feeble Sword (loot_items_missing): EG Link saw it drop once in 57 kills. Seen: EG Link 1 drops in 57 kills (0 in 0 on a quest)
+- npc 251661 Galestrider: item 1433 Patchwork Armor (loot_items_missing): EG Link saw it drop once in 57 kills. Seen: EG Link 1 drops in 57 kills (0 in 0 on a quest)
+- npc 251661 Galestrider: item 2650 Flimsy Chain Boots (loot_items_missing): EG Link saw it drop once in 57 kills. Seen: EG Link 1 drops in 57 kills (0 in 0 on a quest)
+- npc 251661 Galestrider: item 2652 Flimsy Chain Cloak (loot_items_missing): EG Link saw it drop once in 57 kills. Seen: EG Link 1 drops in 57 kills (0 in 0 on a quest)
+- npc 251661 Galestrider: item 2654 Flimsy Chain Pants (loot_items_missing): EG Link saw it drop once in 57 kills. Seen: EG Link 1 drops in 57 kills (0 in 0 on a quest)
+- npc 251661 Galestrider: item 2773 Cracked Shortbow (loot_items_missing): EG Link saw it drop once in 57 kills. Seen: EG Link 1 drops in 57 kills (0 in 0 on a quest)
+- npc 251662 Living Lightning: item 766 Flanged Mace (loot_items_missing): EG Link saw it drop once in 12 kills. Seen: EG Link 1 drops in 12 kills (1 in 10 on a quest)
+- npc 251662 Living Lightning: item 2212 Cracked Buckler (loot_items_missing): EG Link saw it drop once in 12 kills. Seen: EG Link 1 drops in 12 kills (1 in 10 on a quest)
+- npc 251662 Living Lightning: item 255663 Windstone (loot_items_missing): EG Link saw it drop once in 12 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 12 kills (1 in 10 on a quest); QuestieTrace
+- npc 251676 Wind Hollow: item 1421 Worn Hide Cloak (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (1 in 54 on a quest)
+- npc 251676 Wind Hollow: item 1513 Old Greatsword (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 54 on a quest)
+- npc 251676 Wind Hollow: item 2646 Loose Chain Pants (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (1 in 54 on a quest)
+- npc 251676 Wind Hollow: item 3287 Tribal Pants (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (1 in 54 on a quest)
+- npc 251676 Wind Hollow: item 3374 Calico Belt (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (1 in 54 on a quest)
+- npc 251676 Wind Hollow: item 4671 Ancestral Cloak (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (1 in 54 on a quest)
+- npc 251676 Wind Hollow: item 14094 Beaded Wraps (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 54 on a quest)
+- npc 251676 Wind Hollow: item 211787 Scroll: LOWER PING WHOMEVER (loot_items_missing): EG Link saw it drop once in 59 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 59 kills (1 in 54 on a quest); QuestieTrace
+- npc 251707 Ornery Galestrider: item 1411 Withered Staff (loot_items_missing): EG Link saw it drop once in 56 kills. Seen: EG Link 1 drops in 56 kills (1 in 45 on a quest)
+- npc 251707 Ornery Galestrider: item 1421 Worn Hide Cloak (loot_items_missing): EG Link saw it drop once in 56 kills. Seen: EG Link 1 drops in 56 kills (0 in 45 on a quest)
+- npc 251707 Ornery Galestrider: item 1423 Worn Leather Pants (loot_items_missing): EG Link saw it drop once in 56 kills. Seen: EG Link 1 drops in 56 kills (1 in 45 on a quest)
+- npc 251707 Ornery Galestrider: item 2138 Sharpened Letter Opener (loot_items_missing): EG Link saw it drop once in 56 kills. Seen: EG Link 1 drops in 56 kills (1 in 45 on a quest)
+- npc 251707 Ornery Galestrider: item 2213 Worn Large Shield (loot_items_missing): EG Link saw it drop once in 56 kills. Seen: EG Link 1 drops in 56 kills (1 in 45 on a quest)
+- npc 251707 Ornery Galestrider: item 2642 Loose Chain Boots (loot_items_missing): EG Link saw it drop once in 56 kills. Seen: EG Link 1 drops in 56 kills (0 in 45 on a quest)
+- npc 251707 Ornery Galestrider: item 3373 Patchwork Bracers (loot_items_missing): EG Link saw it drop once in 56 kills. Seen: EG Link 1 drops in 56 kills (1 in 45 on a quest)
+- npc 251707 Ornery Galestrider: item 3642 Ancestral Bracers (loot_items_missing): EG Link saw it drop once in 56 kills. Seen: EG Link 1 drops in 56 kills (1 in 45 on a quest)
+- npc 251707 Ornery Galestrider: item 4672 Ancestral Belt (loot_items_missing): EG Link saw it drop once in 56 kills. Seen: EG Link 1 drops in 56 kills (1 in 45 on a quest)
+- npc 251707 Ornery Galestrider: item 4674 Tribal Cloak (loot_items_missing): EG Link saw it drop once in 56 kills. Seen: EG Link 1 drops in 56 kills (1 in 45 on a quest)
+- npc 251707 Ornery Galestrider: item 14086 Beaded Sandals (loot_items_missing): EG Link saw it drop once in 56 kills. Seen: EG Link 1 drops in 56 kills (1 in 45 on a quest)
+- npc 251707 Ornery Galestrider: item 15003 Primal Belt (loot_items_missing): EG Link saw it drop once in 56 kills. Seen: EG Link 1 drops in 56 kills (0 in 45 on a quest)
+- npc 251918 Highlands Bandit: item 727 Notched Shortsword (loot_items_missing): EG Link saw it drop once in 62 kills. Seen: EG Link 1 drops in 62 kills (1 in 59 on a quest)
+- npc 251918 Highlands Bandit: item 774 Malachite (loot_items_missing): EG Link saw it drop once in 62 kills. Seen: EG Link 1 drops in 62 kills (1 in 59 on a quest)
+- npc 251918 Highlands Bandit: item 1416 Rusty Hatchet (loot_items_missing): EG Link saw it drop once in 62 kills. Seen: EG Link 1 drops in 62 kills (1 in 59 on a quest)
+- npc 251918 Highlands Bandit: item 1427 Patchwork Shoes (loot_items_missing): EG Link saw it drop once in 62 kills. Seen: EG Link 1 drops in 62 kills (1 in 59 on a quest)
+- npc 251918 Highlands Bandit: item 3373 Patchwork Bracers (loot_items_missing): EG Link saw it drop once in 62 kills. Seen: EG Link 1 drops in 62 kills (1 in 59 on a quest)
+- npc 251918 Highlands Bandit: item 5572 Small Green Pouch (loot_items_missing): EG Link saw it drop once in 62 kills. Seen: EG Link 1 drops in 62 kills (1 in 59 on a quest)
+- npc 251918 Highlands Bandit: item 211786 Scroll: CHAP BALK WELLES (loot_items_missing): EG Link saw it drop once in 62 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 62 kills (1 in 59 on a quest); QuestieTrace
+- npc 251918 Highlands Bandit: item 211787 Scroll: LOWER PING WHOMEVER (loot_items_missing): EG Link saw it drop once in 62 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 62 kills (1 in 59 on a quest); QuestieTrace
+- npc 251966 Commander Cyclas: item 252028 Fresh Gustberry Bread (loot_items_missing): EG Link saw it drop once in 3 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 3 kills (1 in 3 on a quest); QuestieTrace
+- npc 251966 Commander Cyclas: item 252030 Pungent Skycheddar (loot_items_missing): EG Link saw it drop once in 3 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 3 kills (1 in 3 on a quest); QuestieTrace
+- npc 252068 Al'Aketh Stormcaller: item 2213 Worn Large Shield (loot_items_missing): EG Link saw it drop once in 31 kills. Seen: EG Link 1 drops in 31 kills (1 in 26 on a quest)
+- npc 252068 Al'Aketh Stormcaller: item 4563 Billy Club (loot_items_missing): EG Link saw it drop once in 31 kills. Seen: EG Link 1 drops in 31 kills (1 in 26 on a quest)
+- npc 252664 Al'Aketh Stormchaser: item 1430 Patchwork Gloves (loot_items_missing): EG Link saw it drop once in 72 kills. Seen: EG Link 1 drops in 72 kills (1 in 35 on a quest)
+- npc 252664 Al'Aketh Stormchaser: item 1501 Calico Tunic (loot_items_missing): EG Link saw it drop once in 72 kills. Seen: EG Link 1 drops in 72 kills (0 in 35 on a quest)
+- npc 252664 Al'Aketh Stormchaser: item 1511 Commoner's Sword (loot_items_missing): EG Link saw it drop once in 72 kills. Seen: EG Link 1 drops in 72 kills (1 in 35 on a quest)
+- npc 252664 Al'Aketh Stormchaser: item 1730 Worn Mail Belt (loot_items_missing): EG Link saw it drop once in 72 kills. Seen: EG Link 1 drops in 72 kills (1 in 35 on a quest)
+- npc 252664 Al'Aketh Stormchaser: item 1734 Worn Mail Gloves (loot_items_missing): EG Link saw it drop once in 72 kills. Seen: EG Link 1 drops in 72 kills (0 in 35 on a quest)
+- npc 252664 Al'Aketh Stormchaser: item 2642 Loose Chain Boots (loot_items_missing): EG Link saw it drop once in 72 kills. Seen: EG Link 1 drops in 72 kills (0 in 35 on a quest)
+- npc 252664 Al'Aketh Stormchaser: item 3373 Patchwork Bracers (loot_items_missing): EG Link saw it drop once in 72 kills. Seen: EG Link 1 drops in 72 kills (0 in 35 on a quest)
+- npc 252664 Al'Aketh Stormchaser: item 4577 Compact Shotgun (loot_items_missing): EG Link saw it drop once in 72 kills. Seen: EG Link 1 drops in 72 kills (0 in 35 on a quest)
+- npc 252664 Al'Aketh Stormchaser: item 15299 Grizzly Cape (loot_items_missing): EG Link saw it drop once in 72 kills. Seen: EG Link 1 drops in 72 kills (0 in 35 on a quest)
+- npc 252664 Al'Aketh Stormchaser: item 15476 Charger's Handwraps (loot_items_missing): EG Link saw it drop once in 72 kills. Seen: EG Link 1 drops in 72 kills (0 in 35 on a quest)
+- npc 252664 Al'Aketh Stormchaser: item 211780 Scroll: KWYJIBO (loot_items_missing): EG Link saw it drop once in 72 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 72 kills (0 in 35 on a quest); QuestieTrace
+- npc 252665 Al'Aketh Footsoldier: item 3291 Ancestral Woollies (loot_items_missing): EG Link saw it drop once in 11 kills. Seen: EG Link 1 drops in 11 kills (0 in 6 on a quest)
+- npc 252665 Al'Aketh Footsoldier: item 252022 Galestrider Jerky (loot_items_missing): EG Link saw it drop once in 11 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 11 kills (1 in 6 on a quest); QuestieTrace
+- npc 252666 Commander Belguilos: item 727 Notched Shortsword (loot_items_missing): EG Link saw it drop once in 2 kills. Seen: EG Link 1 drops in 2 kills (1 in 2 on a quest)
+- npc 252762 Al'Aketh Guardian: item 2212 Cracked Buckler (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (1 in 14 on a quest)
+- npc 252762 Al'Aketh Guardian: item 4577 Compact Shotgun (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (1 in 14 on a quest)
+- npc 252763 Al'Aketh Spiritcaller: item 255663 Windstone (loot_items_missing): EG Link saw it drop once in 15 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 15 kills (1 in 15 on a quest); QuestieTrace
+- npc 252764 Al'Aketh Skypriest: item 1513 Old Greatsword (loot_items_missing): EG Link saw it drop once in 7 kills. Seen: EG Link 1 drops in 7 kills (0 in 0 on a quest)
+- npc 252764 Al'Aketh Skypriest: item 252022 Galestrider Jerky (loot_items_missing): EG Link saw it drop once in 7 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 7 kills (0 in 0 on a quest); QuestieTrace
+- npc 252765 Al'Aketh Blademaster: item 1181 Scroll of Spirit (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (1 in 15 on a quest)
+- npc 252765 Al'Aketh Blademaster: item 4563 Billy Club (loot_items_missing): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (1 in 15 on a quest)
+- npc 252765 Al'Aketh Blademaster: item 267474 Galeswept Forestshroom (loot_items_missing): EG Link saw it drop once in 15 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 15 kills (1 in 15 on a quest); QuestieTrace
+- npc 252767 Al'Aketh Honor Guard: item 1181 Scroll of Spirit (loot_items_missing): EG Link saw it drop once in 7 kills. Seen: EG Link 1 drops in 7 kills (0 in 0 on a quest)
+- npc 252767 Al'Aketh Honor Guard: item 1433 Patchwork Armor (loot_items_missing): EG Link saw it drop once in 7 kills. Seen: EG Link 1 drops in 7 kills (0 in 0 on a quest)
+- npc 252767 Al'Aketh Honor Guard: item 1506 Warped Leather Gloves (loot_items_missing): EG Link saw it drop once in 7 kills. Seen: EG Link 1 drops in 7 kills (0 in 0 on a quest)
+- npc 252802 Hungry Bandit: item 1181 Scroll of Spirit (loot_items_missing): EG Link saw it drop once in 24 kills. Seen: EG Link 1 drops in 24 kills (1 in 13 on a quest)
+- npc 252802 Hungry Bandit: item 3649 Tribal Buckler (loot_items_missing): EG Link saw it drop once in 24 kills. Seen: EG Link 1 drops in 24 kills (0 in 13 on a quest)
+- npc 252802 Hungry Bandit: item 211786 Scroll: CHAP BALK WELLES (loot_items_missing): EG Link saw it drop once in 24 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 24 kills (1 in 13 on a quest); QuestieTrace
+- npc 252820 Bandit Highwayman: item 767 Long Bo Staff (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (1 in 48 on a quest)
+- npc 252820 Bandit Highwayman: item 1414 Cracked Sledge (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 48 on a quest)
+- npc 252820 Bandit Highwayman: item 1421 Worn Hide Cloak (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 48 on a quest)
+- npc 252820 Bandit Highwayman: item 2642 Loose Chain Boots (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (1 in 48 on a quest)
+- npc 252820 Bandit Highwayman: item 3373 Patchwork Bracers (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (0 in 48 on a quest)
+- npc 252820 Bandit Highwayman: item 4563 Billy Club (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (1 in 48 on a quest)
+- npc 252820 Bandit Highwayman: item 211787 Scroll: LOWER PING WHOMEVER (loot_items_missing): EG Link saw it drop once in 59 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 59 kills (1 in 48 on a quest); QuestieTrace
+- npc 253195 Al'Aketh Preacher: item 258771 Al'Alketh Cultist's Ear (loot_items_missing): EG Link saw it drop once in 3 kills made on a quest; QuestieTrace also lists it. Seen: EG Link 1 drops in 4 kills (1 in 3 on a quest); QuestieTrace
+- npc 253195 Al'Aketh Preacher: item 267474 Galeswept Forestshroom (loot_items_missing): EG Link saw it drop once in 4 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 4 kills (0 in 3 on a quest); QuestieTrace
+- npc 253282 Shriekling Fledgling: item 14088 Beaded Cloak (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 253283 Shriekling Matriarch: item 3300 Rabbit's Foot (loot_items_missing): EG Link saw it drop once in 1 kills. Seen: EG Link 1 drops in 1 kills (1 in 1 on a quest)
+- npc 253511 Al'Aketh Pillager: item 3642 Ancestral Bracers (loot_items_missing): EG Link saw it drop once in 3 kills. Seen: EG Link 1 drops in 3 kills (0 in 1 on a quest)
+- npc 253622 Commander Haalien: item 252030 Pungent Skycheddar (loot_items_missing): EG Link saw it drop once in 3 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 3 kills (1 in 3 on a quest); QuestieTrace
+- npc 254588 Windsong Crawler: item 768 Lumberjack Axe (loot_items_missing): EG Link saw it drop once in 41 kills. Seen: EG Link 1 drops in 41 kills (1 in 41 on a quest)
+- npc 254588 Windsong Crawler: item 1425 Worn Leather Vest (loot_items_missing): EG Link saw it drop once in 41 kills. Seen: EG Link 1 drops in 41 kills (1 in 41 on a quest)
+- npc 254588 Windsong Crawler: item 2643 Loose Chain Bracers (loot_items_missing): EG Link saw it drop once in 41 kills. Seen: EG Link 1 drops in 41 kills (1 in 41 on a quest)
+- npc 254588 Windsong Crawler: item 4563 Billy Club (loot_items_missing): EG Link saw it drop once in 41 kills. Seen: EG Link 1 drops in 41 kills (1 in 41 on a quest)
+- npc 254588 Windsong Crawler: item 8180 Hunting Bow (loot_items_missing): EG Link saw it drop once in 41 kills. Seen: EG Link 1 drops in 41 kills (1 in 41 on a quest)
+- npc 254589 Vulgara the Insatiable: item 4865 Ruined Pelt (loot_items_missing): EG Link saw it drop once in 3 kills. Seen: EG Link 1 drops in 3 kills (1 in 3 on a quest)
+- npc 254589 Vulgara the Insatiable: item 7073 Broken Fang (loot_items_missing): EG Link saw it drop once in 3 kills. Seen: EG Link 1 drops in 3 kills (1 in 3 on a quest)
+- npc 254596 Al'Aketh Healer: item 768 Lumberjack Axe (loot_items_missing): EG Link saw it drop once in 20 kills. Seen: EG Link 1 drops in 20 kills (1 in 11 on a quest)
+- npc 254596 Al'Aketh Healer: item 1415 Carpenter's Mallet (loot_items_missing): EG Link saw it drop once in 20 kills. Seen: EG Link 1 drops in 20 kills (0 in 11 on a quest)
+- npc 254596 Al'Aketh Healer: item 1425 Worn Leather Vest (loot_items_missing): EG Link saw it drop once in 20 kills. Seen: EG Link 1 drops in 20 kills (1 in 11 on a quest)
+- npc 254596 Al'Aketh Healer: item 3279 Battle Chain Boots (loot_items_missing): EG Link saw it drop once in 20 kills. Seen: EG Link 1 drops in 20 kills (0 in 11 on a quest)
+- npc 254596 Al'Aketh Healer: item 15299 Grizzly Cape (loot_items_missing): EG Link saw it drop once in 20 kills. Seen: EG Link 1 drops in 20 kills (0 in 11 on a quest)
+- npc 254626 Al'Aketh Assassin: item 727 Notched Shortsword (loot_items_missing): EG Link saw it drop once in 29 kills. Seen: EG Link 1 drops in 29 kills (1 in 25 on a quest)
+- npc 254626 Al'Aketh Assassin: item 1412 Crude Bastard Sword (loot_items_missing): EG Link saw it drop once in 29 kills. Seen: EG Link 1 drops in 29 kills (1 in 25 on a quest)
+- npc 254626 Al'Aketh Assassin: item 1419 Worn Leather Boots (loot_items_missing): EG Link saw it drop once in 29 kills. Seen: EG Link 1 drops in 29 kills (1 in 25 on a quest)
+- npc 254626 Al'Aketh Assassin: item 1427 Patchwork Shoes (loot_items_missing): EG Link saw it drop once in 29 kills. Seen: EG Link 1 drops in 29 kills (1 in 25 on a quest)
+- npc 254626 Al'Aketh Assassin: item 2643 Loose Chain Bracers (loot_items_missing): EG Link saw it drop once in 29 kills. Seen: EG Link 1 drops in 29 kills (1 in 25 on a quest)
+- npc 254626 Al'Aketh Assassin: item 3013 Scroll of Protection (loot_items_missing): EG Link saw it drop once in 29 kills. Seen: EG Link 1 drops in 29 kills (1 in 25 on a quest)
+- npc 254626 Al'Aketh Assassin: item 3370 Patchwork Belt (loot_items_missing): EG Link saw it drop once in 29 kills. Seen: EG Link 1 drops in 29 kills (1 in 25 on a quest)
+- npc 254626 Al'Aketh Assassin: item 4408 Schematic: Mechanical Squirrel (loot_items_missing): EG Link saw it drop once in 29 kills. Seen: EG Link 1 drops in 29 kills (1 in 25 on a quest)
+- npc 254626 Al'Aketh Assassin: item 4672 Ancestral Belt (loot_items_missing): EG Link saw it drop once in 29 kills. Seen: EG Link 1 drops in 29 kills (1 in 25 on a quest)
+- npc 254626 Al'Aketh Assassin: item 4675 Tribal Belt (loot_items_missing): EG Link saw it drop once in 29 kills. Seen: EG Link 1 drops in 29 kills (1 in 25 on a quest)
+- npc 255534 "Badwind" Bennic: item 1416 Rusty Hatchet (loot_items_missing): EG Link saw it drop once in 3 kills. Seen: EG Link 1 drops in 3 kills (1 in 3 on a quest)
+- npc 256040 Deep Widow: item 1743 Laced Mail Pants (loot_items_missing): EG Link saw it drop once in 8 kills. Seen: EG Link 1 drops in 8 kills (0 in 0 on a quest)
+- npc 256040 Deep Widow: item 211786 Scroll: CHAP BALK WELLES (loot_items_missing): EG Link saw it drop once in 8 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 8 kills (0 in 0 on a quest); QuestieTrace
+- npc 256092 Shadowgale Shriekling: item 727 Notched Shortsword (loot_items_missing): EG Link saw it drop once in 62 kills. Seen: EG Link 1 drops in 62 kills (1 in 53 on a quest)
+- npc 256092 Shadowgale Shriekling: item 1412 Crude Bastard Sword (loot_items_missing): EG Link saw it drop once in 62 kills. Seen: EG Link 1 drops in 62 kills (0 in 53 on a quest)
+- npc 256092 Shadowgale Shriekling: item 1415 Carpenter's Mallet (loot_items_missing): EG Link saw it drop once in 62 kills. Seen: EG Link 1 drops in 62 kills (0 in 53 on a quest)
+- npc 256092 Shadowgale Shriekling: item 1419 Worn Leather Boots (loot_items_missing): EG Link saw it drop once in 62 kills. Seen: EG Link 1 drops in 62 kills (1 in 53 on a quest)
+- npc 256092 Shadowgale Shriekling: item 1498 Calico Gloves (loot_items_missing): EG Link saw it drop once in 62 kills. Seen: EG Link 1 drops in 62 kills (1 in 53 on a quest)
+- npc 256092 Shadowgale Shriekling: item 1735 Worn Mail Pants (loot_items_missing): EG Link saw it drop once in 62 kills. Seen: EG Link 1 drops in 62 kills (0 in 53 on a quest)
+- npc 256092 Shadowgale Shriekling: item 3370 Patchwork Belt (loot_items_missing): EG Link saw it drop once in 62 kills. Seen: EG Link 1 drops in 62 kills (1 in 53 on a quest)
+- npc 256092 Shadowgale Shriekling: item 4562 Severing Axe (loot_items_missing): EG Link saw it drop once in 62 kills. Seen: EG Link 1 drops in 62 kills (0 in 53 on a quest)
+- npc 256966 Skypriest Aanders: item 1419 Worn Leather Boots (loot_items_missing): EG Link saw it drop once in 2 kills. Seen: EG Link 1 drops in 2 kills (1 in 2 on a quest)
+- npc 256966 Skypriest Aanders: item 252022 Galestrider Jerky (loot_items_missing): EG Link saw it drop once in 2 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 2 kills (1 in 2 on a quest); QuestieTrace
+- npc 256966 Skypriest Aanders: item 252030 Pungent Skycheddar (loot_items_missing): EG Link saw it drop once in 2 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 2 kills (1 in 2 on a quest); QuestieTrace
+- npc 257521 High Order Apprentice: item 1368 Ragged Leather Gloves (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (0 in 7 on a quest)
+- npc 257521 High Order Apprentice: item 1417 Beaten Battle Axe (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (1 in 7 on a quest)
+- npc 257521 High Order Apprentice: item 2644 Loose Chain Cloak (loot_items_missing): EG Link saw it drop once in 10 kills. Seen: EG Link 1 drops in 10 kills (1 in 7 on a quest)
+- npc 257532 Windshaper Novice Seer: item 1378 Frayed Pants (loot_items_missing): EG Link saw it drop once in 7 kills. Seen: EG Link 1 drops in 7 kills (1 in 6 on a quest)
+- npc 258443 Ur'endra: item 15476 Charger's Handwraps (loot_items_missing): EG Link saw it drop once in 1 kills. Seen: EG Link 1 drops in 1 kills (1 in 1 on a quest)
+- npc 259433 Tarnished Zealot: item 118 Minor Healing Potion (loot_items_missing): EG Link saw it drop once in 13 kills. Seen: EG Link 1 drops in 13 kills (0 in 0 on a quest)
+- npc 260428 Shadowvale Lurcher: item 1505 Warped Cloak (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 24 on a quest)
+- npc 260428 Shadowvale Lurcher: item 1516 Worn Hatchet (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (0 in 24 on a quest)
+- npc 260428 Shadowvale Lurcher: item 1737 Worn Mail Vest (loot_items_missing): EG Link saw it drop once in 50 kills. Seen: EG Link 1 drops in 50 kills (1 in 24 on a quest)
+- npc 260428 Shadowvale Lurcher: item 211780 Scroll: KWYJIBO (loot_items_missing): EG Link saw it drop once in 50 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 50 kills (1 in 24 on a quest); QuestieTrace
+- npc 260430 Shadowvale Mystic: item 4604 Forest Mushroom Cap (loot_items_missing): EG Link saw it drop once in 36 kills. Seen: EG Link 1 drops in 36 kills (1 in 20 on a quest)
+- npc 260431 Shadowvale Lurcher: item 118 Minor Healing Potion (loot_items_missing): EG Link saw it drop once in 43 kills. Seen: EG Link 1 drops in 43 kills (0 in 0 on a quest)
+- npc 263396 Dark Iron Looter: item 1179 Ice Cold Milk (loot_items_missing): EG Link saw it drop once in 5 kills. Seen: EG Link 1 drops in 5 kills (0 in 0 on a quest)
+- npc 263466 Lesser Stone Golem: item 1512 Crude Battle Axe (loot_items_missing): EG Link saw it drop once in 1 kills. Seen: EG Link 1 drops in 1 kills (0 in 0 on a quest)
+- npc 267006 Dark Neophyte: item 159 Refreshing Spring Water (loot_items_missing): EG Link saw it drop once in 41 kills. Seen: EG Link 1 drops in 41 kills (1 in 41 on a quest)
+- npc 267006 Dark Neophyte: item 1507 Warped Leather Pants (loot_items_missing): EG Link saw it drop once in 41 kills. Seen: EG Link 1 drops in 41 kills (1 in 41 on a quest)
+- npc 267006 Dark Neophyte: item 1509 Warped Leather Vest (loot_items_missing): EG Link saw it drop once in 41 kills. Seen: EG Link 1 drops in 41 kills (1 in 41 on a quest)
+- npc 270201 Al'Aketh Brawler: item 1411 Withered Staff (loot_items_missing): EG Link saw it drop once in 73 kills. Seen: EG Link 1 drops in 73 kills (1 in 72 on a quest)
+- npc 270201 Al'Aketh Brawler: item 1412 Crude Bastard Sword (loot_items_missing): EG Link saw it drop once in 73 kills. Seen: EG Link 1 drops in 73 kills (1 in 72 on a quest)
+- npc 270201 Al'Aketh Brawler: item 1415 Carpenter's Mallet (loot_items_missing): EG Link saw it drop once in 73 kills. Seen: EG Link 1 drops in 73 kills (1 in 72 on a quest)
+- npc 270201 Al'Aketh Brawler: item 1417 Beaten Battle Axe (loot_items_missing): EG Link saw it drop once in 73 kills. Seen: EG Link 1 drops in 73 kills (1 in 72 on a quest)
+- npc 270201 Al'Aketh Brawler: item 1427 Patchwork Shoes (loot_items_missing): EG Link saw it drop once in 73 kills. Seen: EG Link 1 drops in 73 kills (1 in 72 on a quest)
+- npc 270201 Al'Aketh Brawler: item 2212 Cracked Buckler (loot_items_missing): EG Link saw it drop once in 73 kills. Seen: EG Link 1 drops in 73 kills (1 in 72 on a quest)
+- npc 270201 Al'Aketh Brawler: item 3289 Ancestral Boots (loot_items_missing): EG Link saw it drop once in 73 kills. Seen: EG Link 1 drops in 73 kills (1 in 72 on a quest)
+- npc 270201 Al'Aketh Brawler: item 4669 Battle Chain Girdle (loot_items_missing): EG Link saw it drop once in 73 kills. Seen: EG Link 1 drops in 73 kills (1 in 72 on a quest)
+- npc 270201 Al'Aketh Brawler: item 4671 Ancestral Cloak (loot_items_missing): EG Link saw it drop once in 73 kills. Seen: EG Link 1 drops in 73 kills (1 in 72 on a quest)
+- npc 270201 Al'Aketh Brawler: item 4686 Barbaric Cloth Cloak (loot_items_missing): EG Link saw it drop once in 73 kills. Seen: EG Link 1 drops in 73 kills (1 in 72 on a quest)
+- npc 270201 Al'Aketh Brawler: item 14090 Beaded Britches (loot_items_missing): EG Link saw it drop once in 73 kills. Seen: EG Link 1 drops in 73 kills (1 in 72 on a quest)
+- npc 275437 Dark Enforcer: item 1505 Warped Cloak (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (1 in 59 on a quest)
+- npc 275437 Dark Enforcer: item 1511 Commoner's Sword (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (1 in 59 on a quest)
+- npc 275437 Dark Enforcer: item 2963 Burnt Leather Boots (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (1 in 59 on a quest)
+- npc 275437 Dark Enforcer: item 6266 Disciple's Vest (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (1 in 59 on a quest)
+- npc 275437 Dark Enforcer: item 6507 Infantry Bracers (loot_items_missing): EG Link saw it drop once in 59 kills. Seen: EG Link 1 drops in 59 kills (1 in 59 on a quest)
+- npc 276020 Riptear: item 159 Refreshing Spring Water (loot_items_missing): EG Link saw it drop once in 4 kills. Seen: EG Link 1 drops in 4 kills (1 in 4 on a quest)
+- npc 276020 Riptear: item 2589 Linen Cloth (loot_items_missing): EG Link saw it drop once in 4 kills. Seen: EG Link 1 drops in 4 kills (1 in 4 on a quest)
+- npc 276416 Windshaper Elementalist: item 4668 Battle Chain Cloak (loot_items_missing): EG Link saw it drop once in 4 kills. Seen: EG Link 1 drops in 4 kills (0 in 0 on a quest)
+- npc 276416 Windshaper Elementalist: item 255663 Windstone (loot_items_missing): EG Link saw it drop once in 4 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 4 kills (0 in 0 on a quest); QuestieTrace
+
+## npcs_no_loot (4)
+
+- npc 256996 Al'Aketh Warrior: item 118 Minor Healing Potion (npcs_no_loot): EG Link saw it drop once in 2 kills. Seen: EG Link 1 drops in 2 kills (0 in 0 on a quest)
+- npc 256996 Al'Aketh Warrior: item 4540 Tough Hunk of Bread (npcs_no_loot): EG Link saw it drop once in 2 kills. Seen: EG Link 1 drops in 2 kills (0 in 0 on a quest)
+- npc 260396 Whispering Horror: item 268812 Whispering Horror Residue (npcs_no_loot): EG Link saw it drop once in 1 kills; QuestieTrace also lists it. Seen: EG Link 1 drops in 1 kills (0 in 0 on a quest); QuestieTrace
+- npc 266850 Ridgeshade Creeper: item 818 Tigerseye (npcs_no_loot): EG Link saw it drop once in 15 kills. Seen: EG Link 1 drops in 15 kills (1 in 15 on a quest)
