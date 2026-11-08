@@ -142,6 +142,19 @@ INSERT INTO `gameobject_questender` (`id`, `quest`, `VerifiedBuild`) SELECT `id`
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `file`, `note`) SELECT 'gameobject_questender', s.`id`, s.`quest`, '2026_11_08_00_world_everlake_import_slice1.sql', s.`note` FROM `everlake_import_stage` s WHERE s.`missing` = 1 ON DUPLICATE KEY UPDATE `file` = '2026_11_08_00_world_everlake_import_slice1.sql', `note` = s.`note`;
 DROP TEMPORARY TABLE `everlake_import_stage`;
 
+-- quest_objectives: objectives with Forever's own ids, for quests the world has none for
+DROP TEMPORARY TABLE IF EXISTS `everlake_import_stage`;
+CREATE TEMPORARY TABLE `everlake_import_stage` (`ID` int unsigned NOT NULL, `QuestID` int unsigned NOT NULL, `Type` tinyint unsigned NOT NULL, `Order` tinyint unsigned NOT NULL, `StorageIndex` tinyint NOT NULL, `ObjectID` int NOT NULL, `Amount` int NOT NULL, `Flags` int unsigned NOT NULL, `Flags2` int unsigned NOT NULL, `Description` mediumtext, `note` varchar(255) NOT NULL, `missing` tinyint NOT NULL DEFAULT '0', PRIMARY KEY (`ID`)) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+INSERT INTO `everlake_import_stage` (`ID`, `QuestID`, `Type`, `Order`, `StorageIndex`, `ObjectID`, `Amount`, `Flags`, `Flags2`, `Description`, `note`) VALUES
+(480587, 772, 1, 0, 0, 4823, 1, 32, 0, '', 'eg-link@70840 forever-db'), -- Rite of Vision: item 4823 x1
+(381475, 934, 1, 0, 0, 5646, 1, 32, 0, '', 'eg-link@70840 forever-db'), -- Crown of the Earth: item 5646 x1
+(480284, 5727, 0, 0, 0, 3216, 1, 32, 0, 'Gauge Neeru Fireblade''s reaction', 'eg-link@70840 forever-db'), -- Hidden Enemies: monster 3216 x1
+(477632, 97891, 3, 0, 0, 11044, 1, 32, 0, 'Speak to Doctor Martin Felben', 'eg-link@70245'); -- Prompt Potion Runner: talkTo 11044 x1
+UPDATE `everlake_import_stage` s SET s.`missing` = 1 WHERE NOT EXISTS (SELECT 1 FROM `quest_objectives` t WHERE t.`ID` = s.`ID`) AND NOT EXISTS (SELECT 1 FROM `quest_objectives` o WHERE o.`QuestID` = s.`QuestID` AND NOT (o.`VerifiedBuild` = 0 AND EXISTS (SELECT 1 FROM `everlake_import_rows` r WHERE r.`tbl` = 'quest_objectives' AND r.`k1` = o.`ID`)));
+INSERT INTO `quest_objectives` (`ID`, `QuestID`, `Type`, `Order`, `StorageIndex`, `ObjectID`, `Amount`, `Flags`, `Flags2`, `Description`) SELECT `ID`, `QuestID`, `Type`, `Order`, `StorageIndex`, `ObjectID`, `Amount`, `Flags`, `Flags2`, `Description` FROM `everlake_import_stage` WHERE `missing` = 1;
+INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `file`, `note`) SELECT 'quest_objectives', s.`ID`, '2026_11_08_00_world_everlake_import_slice1.sql', s.`note` FROM `everlake_import_stage` s WHERE s.`missing` = 1 ON DUPLICATE KEY UPDATE `file` = '2026_11_08_00_world_everlake_import_slice1.sql', `note` = s.`note`;
+DROP TEMPORARY TABLE `everlake_import_stage`;
+
 -- quest_request_items: progress texts for quests the world has no row for
 DROP TEMPORARY TABLE IF EXISTS `everlake_import_stage`;
 CREATE TEMPORARY TABLE `everlake_import_stage` (`ID` int unsigned NOT NULL, `CompletionText` mediumtext, `note` varchar(255) NOT NULL, `missing` tinyint NOT NULL DEFAULT '0', PRIMARY KEY (`ID`)) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;

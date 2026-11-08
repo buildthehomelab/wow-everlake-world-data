@@ -624,6 +624,84 @@
     "why": "Call of Fire: object 61934 Brazier of the Dormant Flame"
    }
   ],
+  "quest_objectives": [
+   {
+    "Amount": 1,
+    "ConditionalAmount": 0,
+    "Description": "",
+    "Flags": 32,
+    "Flags2": 0,
+    "ID": 480587,
+    "ObjectID": 4823,
+    "Order": 0,
+    "ParentObjectiveID": 0,
+    "ProgressBarWeight": 0.0,
+    "QuestID": 772,
+    "StorageIndex": 0,
+    "Type": 1,
+    "VerifiedBuild": 0,
+    "Visible": 1,
+    "note": "eg-link@70840 forever-db",
+    "why": "Rite of Vision: item 4823 x1"
+   },
+   {
+    "Amount": 1,
+    "ConditionalAmount": 0,
+    "Description": "",
+    "Flags": 32,
+    "Flags2": 0,
+    "ID": 381475,
+    "ObjectID": 5646,
+    "Order": 0,
+    "ParentObjectiveID": 0,
+    "ProgressBarWeight": 0.0,
+    "QuestID": 934,
+    "StorageIndex": 0,
+    "Type": 1,
+    "VerifiedBuild": 0,
+    "Visible": 1,
+    "note": "eg-link@70840 forever-db",
+    "why": "Crown of the Earth: item 5646 x1"
+   },
+   {
+    "Amount": 1,
+    "ConditionalAmount": 0,
+    "Description": "Gauge Neeru Fireblade's reaction",
+    "Flags": 32,
+    "Flags2": 0,
+    "ID": 480284,
+    "ObjectID": 3216,
+    "Order": 0,
+    "ParentObjectiveID": 0,
+    "ProgressBarWeight": 0.0,
+    "QuestID": 5727,
+    "StorageIndex": 0,
+    "Type": 0,
+    "VerifiedBuild": 0,
+    "Visible": 1,
+    "note": "eg-link@70840 forever-db",
+    "why": "Hidden Enemies: monster 3216 x1"
+   },
+   {
+    "Amount": 1,
+    "ConditionalAmount": 0,
+    "Description": "Speak to Doctor Martin Felben",
+    "Flags": 32,
+    "Flags2": 0,
+    "ID": 477632,
+    "ObjectID": 11044,
+    "Order": 0,
+    "ParentObjectiveID": 0,
+    "ProgressBarWeight": 0.0,
+    "QuestID": 97891,
+    "StorageIndex": 0,
+    "Type": 3,
+    "VerifiedBuild": 0,
+    "Visible": 1,
+    "note": "eg-link@70245",
+    "why": "Prompt Potion Runner: talkTo 11044 x1"
+   }
+  ],
   "quest_offer_reward": [
    {
     "ID": 79007,
@@ -1341,7 +1419,7 @@
   {
    "kind": "import",
    "name": "2026_11_08_00_world_everlake_import_slice1.sql",
-   "sha1": "322C8231A2CE714188EF6EE44DCE2F66F8ED6E84"
+   "sha1": "53F438C1D0E5B57659F1C93CD61A018E3F4DBCAD"
   },
   {
    "kind": "corrections",
@@ -9265,9 +9343,9 @@
    ],
    "name": "The Fargodeep Mine",
    "quest": 62,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 62 The Fargodeep Mine: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385474 is a areaTriggerEnter objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 385474 is a areaTriggerEnter objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "build": 70840,
@@ -9291,9 +9369,9 @@
    ],
    "name": "The Jasperlode Mine",
    "quest": 76,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 76 The Jasperlode Mine: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385473 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 385473 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "category": "quests_no_objectives",
@@ -9347,9 +9425,9 @@
    ],
    "name": "Investigate the Camp",
    "quest": 201,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 201 Investigate the Camp: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385476 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 385476 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "category": "quests_no_objectives",
@@ -9388,9 +9466,9 @@
    ],
    "name": "Resupplying the Excavation",
    "quest": 273,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 273 Resupplying the Excavation: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385478 is a areaTriggerEnter objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 385478 is a areaTriggerEnter objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "category": "quests_no_objectives",
@@ -9459,9 +9537,9 @@
    ],
    "name": "The Stone of the Tides",
    "quest": 578,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 578 The Stone of the Tides: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385482 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 385482 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "category": "quests_no_objectives",
@@ -9599,32 +9677,6 @@
    "why": "Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives"
   },
   {
-   "build": 70840,
-   "category": "quests_no_objectives",
-   "eg_link": [
-    {
-     "amount": 1,
-     "id": 480587,
-     "objectId": 4823,
-     "storageIndex": 0,
-     "type": "item",
-     "typeId": 1
-    }
-   ],
-   "forever_db": [
-    [
-     "item",
-     4823,
-     1
-    ]
-   ],
-   "name": "Rite of Vision",
-   "quest": 772,
-   "reason": "objectives: Flags not recorded",
-   "what": "quest 772 Rite of Vision: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags"
-  },
-  {
    "category": "quests_no_objectives",
    "forever_db": [
     [
@@ -9691,9 +9743,9 @@
    ],
    "name": "The Forgotten Pools",
    "quest": 870,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 870 The Forgotten Pools: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385484 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 385484 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "category": "quests_no_objectives",
@@ -9741,32 +9793,6 @@
    "why": "Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives"
   },
   {
-   "build": 70840,
-   "category": "quests_no_objectives",
-   "eg_link": [
-    {
-     "amount": 1,
-     "id": 381475,
-     "objectId": 5646,
-     "storageIndex": 0,
-     "type": "item",
-     "typeId": 1
-    }
-   ],
-   "forever_db": [
-    [
-     "item",
-     5646,
-     1
-    ]
-   ],
-   "name": "Crown of the Earth",
-   "quest": 934,
-   "reason": "objectives: Flags not recorded",
-   "what": "quest 934 Crown of the Earth: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags"
-  },
-  {
    "category": "quests_no_objectives",
    "forever_db": [
     [
@@ -9803,9 +9829,9 @@
    ],
    "name": "The Master's Glaive",
    "quest": 944,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 944 The Master's Glaive: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385489 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 385489 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "category": "quests_no_objectives",
@@ -9860,9 +9886,9 @@
    ],
    "name": "How Big a Threat?",
    "quest": 984,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: a target NPC or object isn't in the world (slice 5)",
    "what": "quest 984 How Big a Threat?: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385490's npc 277995 isn't in the world"
+   "why": "objective 385490's npc 277995 isn't in the world"
   },
   {
    "category": "quests_no_objectives",
@@ -9961,9 +9987,9 @@
    ],
    "name": "Test of Faith",
    "quest": 1149,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 1149 Test of Faith: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385491 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 385491 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "category": "quests_no_objectives",
@@ -10032,9 +10058,9 @@
    ],
    "name": "The Missing Diplomat",
    "quest": 1265,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 1265 The Missing Diplomat: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385516 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 385516 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "category": "quests_no_objectives",
@@ -10102,9 +10128,9 @@
    ],
    "name": "Magram Alliance",
    "quest": 1367,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 1367 Magram Alliance: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 381144 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 381144 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "build": 70840,
@@ -10127,9 +10153,9 @@
    ],
    "name": "Gelkis Alliance",
    "quest": 1368,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 1368 Gelkis Alliance: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 381185 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 381185 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "build": 70840,
@@ -10152,9 +10178,9 @@
    ],
    "name": "Strange Alliance",
    "quest": 1382,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 1382 Strange Alliance: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 381571 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 381571 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "build": 70840,
@@ -10177,9 +10203,9 @@
    ],
    "name": "Brutal Politics",
    "quest": 1385,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 1385 Brutal Politics: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 381398 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 381398 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "category": "quests_no_objectives",
@@ -10248,9 +10274,9 @@
    ],
    "name": "In Search of The Temple",
    "quest": 1448,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 1448 In Search of The Temple: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385492 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 385492 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "category": "quests_no_objectives",
@@ -10349,9 +10375,9 @@
    ],
    "name": "Crashing the Wickerman Festival",
    "quest": 1658,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 1658 Crashing the Wickerman Festival: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385504 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 385504 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "category": "quests_no_objectives",
@@ -10390,9 +10416,9 @@
    ],
    "name": "The Rethban Gauntlet",
    "quest": 1699,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 1699 The Rethban Gauntlet: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385494 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 385494 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "category": "quests_no_objectives",
@@ -11196,9 +11222,9 @@
    ],
    "name": "The Red Crystal",
    "quest": 4811,
-   "reason": "objectives: Flags not recorded",
+   "reason": "objectives: area trigger or reputation objectives (need more than a row)",
    "what": "quest 4811 The Red Crystal: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385519 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
+   "why": "objective 385519 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1"
   },
   {
    "category": "quests_no_objectives",
@@ -11379,33 +11405,6 @@
    "reason": "objectives: Forever's objective ids aren't recorded",
    "what": "quest 5713 One Shot.  One Kill.: objectives",
    "why": "Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives"
-  },
-  {
-   "build": 70840,
-   "category": "quests_no_objectives",
-   "eg_link": [
-    {
-     "amount": 1,
-     "id": 480284,
-     "objectId": 3216,
-     "storageIndex": 0,
-     "text": "Gauge Neeru Fireblade's reaction",
-     "type": "monster",
-     "typeId": 0
-    }
-   ],
-   "forever_db": [
-    [
-     "npc",
-     3216,
-     1
-    ]
-   ],
-   "name": "Hidden Enemies",
-   "quest": 5727,
-   "reason": "objectives: Flags not recorded",
-   "what": "quest 5727 Hidden Enemies: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags"
   },
   {
    "category": "quests_no_objectives",
@@ -12013,27 +12012,6 @@
    "why": "Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives"
   },
   {
-   "build": 70245,
-   "category": "quests_no_objectives",
-   "eg_link": [
-    {
-     "amount": 1,
-     "id": 477632,
-     "objectId": 11044,
-     "storageIndex": 0,
-     "text": "Speak to Doctor Martin Felben",
-     "type": "talkTo",
-     "typeId": 3
-    }
-   ],
-   "forever_db": [],
-   "name": "Prompt Potion Runner",
-   "quest": 97891,
-   "reason": "objectives: Flags not recorded",
-   "what": "quest 97891 Prompt Potion Runner: objectives",
-   "why": "objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags"
-  },
-  {
    "category": "quests_no_objectives",
    "forever_db": [
     [
@@ -12049,7 +12027,10 @@
    "why": "Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives"
   }
  ],
- "objective_flags": null,
+ "objective_flags": [
+  32,
+  0
+ ],
  "outcomes": {
   "quests_ender_differs": {
    "1962": "corrected",
@@ -12537,7 +12518,7 @@
    "5126": "held back",
    "5203": "held back",
    "5713": "held back",
-   "5727": "held back",
+   "5727": "added",
    "5742": "held back",
    "578": "held back",
    "5821": "held back",
@@ -12578,7 +12559,7 @@
    "760": "held back",
    "7622": "held back",
    "7631": "held back",
-   "772": "held back",
+   "772": "added",
    "7843": "held back",
    "809": "held back",
    "8114": "held back",
@@ -12598,12 +12579,12 @@
    "9051": "held back",
    "910": "held back",
    "911": "held back",
-   "934": "held back",
+   "934": "added",
    "938": "held back",
    "944": "held back",
    "945": "held back",
    "976": "held back",
-   "97891": "held back",
+   "97891": "added",
    "984": "held back",
    "99144": "held back",
    "994": "held back",

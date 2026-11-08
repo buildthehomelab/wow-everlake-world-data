@@ -83,21 +83,21 @@ Rows that need something we don't have, and why. Nothing here was guessed.
 - quest 97937 Camping 101: Tailoring: givers: npc 265810 Kaga Wildhoof: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 265810 Kaga Wildhoof; weights {"('npc', 265810)": 235}
 - quest 97950 Camping 101: Tailoring: givers: npc 265811 Lyreena Duskblade: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 265811 Lyreena Duskblade; weights {"('npc', 265811)": 235}
 
-## quests_no_objectives (173)
+## quests_no_objectives (169)
 
 - quest 28 Trial of the Lake: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 29 Trial of the Lake: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 62 The Fargodeep Mine: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385474 is a areaTriggerEnter objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
-- quest 76 The Jasperlode Mine: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385473 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 62 The Fargodeep Mine: objectives: objective 385474 is a areaTriggerEnter objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 76 The Jasperlode Mine: objectives: objective 385473 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
 - quest 155 The Defias Brotherhood: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 172 Children's Week: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 201 Investigate the Camp: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385476 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 201 Investigate the Camp: objectives: objective 385476 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
 - quest 219 Missing In Action: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 273 Resupplying the Excavation: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385478 is a areaTriggerEnter objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 273 Resupplying the Excavation: objectives: objective 385478 is a areaTriggerEnter objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
 - quest 309 Protecting the Shipment: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 435 Escorting Erland: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 452 Pyrewood Ambush: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 578 The Stone of the Tides: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385482 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 578 The Stone of the Tides: objectives: objective 385482 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
 - quest 590 A Rogue's Deal: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 648 Rescue OOX-17/TN!: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 660 Hints of a New Plague?: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
@@ -107,49 +107,47 @@ Rows that need something we don't have, and why. Nothing here was guessed.
 - quest 754 Winterhoof Cleansing: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 758 Thunderhorn Cleansing: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 760 Wildmane Cleansing: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 772 Rite of Vision: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags
 - quest 809 Ak'Zeloth: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 836 Rescue OOX-09/HL!: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 863 The Escape: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 870 The Forgotten Pools: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385484 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 870 The Forgotten Pools: objectives: objective 385484 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
 - quest 898 Free From the Hold: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 910 Down at the Docks: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 911 Gateway to the Frontier: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 934 Crown of the Earth: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags
 - quest 938 Mist: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 944 The Master's Glaive: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385489 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 944 The Master's Glaive: objectives: objective 385489 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
 - quest 945 Therylune's Escape: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 976 Supplies to Auberdine: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 984 How Big a Threat?: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385490's npc 277995 isn't in the world
+- quest 984 How Big a Threat?: objectives: objective 385490's npc 277995 isn't in the world
 - quest 994 Escape Through Force: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 995 Escape Through Stealth: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 1086 The Flying Machine Airport: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 1090 Gerenzo's Orders: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 1144 Willix the Importer: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 1149 Test of Faith: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385491 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1149 Test of Faith: objectives: objective 385491 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
 - quest 1173 Challenge Overlord Mok'Morokk: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 1222 Stinky's Escape: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 1249 The Missing Diplomat: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 1265 The Missing Diplomat: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385516 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1265 The Missing Diplomat: objectives: objective 385516 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
 - quest 1270 Stinky's Escape: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 1273 Questioning Reethe: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 1324 The Missing Diplomat: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 1367 Magram Alliance: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 381144 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
-- quest 1368 Gelkis Alliance: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 381185 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
-- quest 1382 Strange Alliance: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 381571 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
-- quest 1385 Brutal Politics: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 381398 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1367 Magram Alliance: objectives: objective 381144 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1368 Gelkis Alliance: objectives: objective 381185 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1382 Strange Alliance: objectives: objective 381571 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1385 Brutal Politics: objectives: objective 381398 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
 - quest 1393 Galen's Escape: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 1440 Return to Vahlarriel: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 1447 The Missing Diplomat: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 1448 In Search of The Temple: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385492 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1448 In Search of The Temple: objectives: objective 385492 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
 - quest 1479 The Bough of the Eternals: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 1558 The Stonewrought Dam: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 1560 Tooga's Quest: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 1640 Beat Bartleby: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 1651 The Tome of Valor: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 1658 Crashing the Wickerman Festival: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385504 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1658 Crashing the Wickerman Festival: objectives: objective 385504 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
 - quest 1687 Spooky Lighthouse: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 1699 The Rethban Gauntlet: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385494 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1699 The Rethban Gauntlet: objectives: objective 385494 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
 - quest 1783 The Tome of Divinity: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 1786 The Tome of Divinity: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 1800 Lordaeron Throne Room: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
@@ -202,7 +200,7 @@ Rows that need something we don't have, and why. Nothing here was guessed.
 - quest 4506 Corrupted Sabers: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 4770 Homeward Bound: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 4786 The Completed Robe: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 4811 The Red Crystal: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385519 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 4811 The Red Crystal: objectives: objective 385519 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
 - quest 4842 Strange Sources: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 4866 Mother's Milk: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 4901 Guardians of the Altar: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
@@ -215,7 +213,6 @@ Rows that need something we don't have, and why. Nothing here was guessed.
 - quest 5126 Lorax's Tale: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 5203 Rescue From Jaedenar: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 5713 One Shot.  One Kill.: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 5727 Hidden Enemies: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags
 - quest 5742 Redemption: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 5821 Bodyguard for Hire : objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 5929 Great Bear Spirit: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
@@ -256,5 +253,4 @@ Rows that need something we don't have, and why. Nothing here was guessed.
 - quest 8736 The Nightmare Manifests: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 8868 Elune's Blessing: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
 - quest 9051 Toxic Test: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
-- quest 97891 Prompt Potion Runner: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags
 - quest 99144 Seeking Refuge: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
