@@ -1,0 +1,260 @@
+# Slice 1: held back
+
+Rows that need something we don't have, and why. Nothing here was guessed.
+
+## quests_ender_differs (1)
+
+- quest 465 Nek'rosh's Gambit: enders: the vote's object 630696 Dragonmaw Catapult has no template in the world (slice 5); the fork's givers stay until it has. World: object 1609 Dragonmaw Catapult; vote: object 630696 Dragonmaw Catapult; weights {"('object', 1609)": 75, "('object', 630696)": 235}
+
+## quests_giver_differs (2)
+
+- quest 461 The Hidden Niche: givers: the vote's object 556683 Shallow Grave has no template in the world (slice 5); the fork's givers stay until it has. World: object 1599 Shallow Grave; vote: object 1599 Shallow Grave, object 556683 Shallow Grave; weights {"('object', 1599)": 75, "('object', 556683)": 90}
+- quest 940 Teldrassil: givers: the vote's object 673378 Oracle Tree Bark has no template in the world (slice 5); the fork's givers stay until it has. World: npc 3519 Sentinel Arynia Cloudsbreak; vote: object 673378 Oracle Tree Bark; weights {"('npc', 3519)": 75, "('object', 673378)": 235}
+
+## quests_no_ender (34)
+
+- quest 79007 ... and that note you found: enders: object 415107 Burned-Out Remains: no gameobject template in the world (new NPCs and objects are slice 5). World: none; vote: object 415107 Burned-Out Remains, object 424010 Nailed Plank; weights {"('object', 415107)": 235, "('object', 424010)": 235}
+- quest 79007 ... and that note you found: enders: object 424010 Nailed Plank: no gameobject template in the world (new NPCs and objects are slice 5). World: none; vote: object 415107 Burned-Out Remains, object 424010 Nailed Plank; weights {"('object', 415107)": 235, "('object', 424010)": 235}
+- quest 79358 Storm, Earth, and Fire: enders: npc 259023 Veyric Thunderhame: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 4722 Rau Cliffrunner, npc 259023 Veyric Thunderhame; weights {"('npc', 4722)": 145, "('npc', 259023)": 165}
+- quest 91723 Delicate Instruments: enders: npc 248242 Hamish Bergwort: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 248242 Hamish Bergwort; weights {"('npc', 248242)": 235}
+- quest 91725 Stolen Enchanting Supplies: enders: npc 248248 Blixie Fitzwink: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 248248 Blixie Fitzwink; weights {"('npc', 248248)": 235}
+- quest 91733 Downstream: enders: npc 248265 Ormin Pelford: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 248265 Ormin Pelford; weights {"('npc', 248265)": 235}
+- quest 92467 Call of Earth: enders: npc 251166 Minor Manifestation of Earth: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 251166 Minor Manifestation of Earth; weights {"('npc', 251166)": 235}
+- quest 92742 Testing the Wells: enders: npc 253092 Alba Fairmoon: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 253092 Alba Fairmoon; weights {"('npc', 253092)": 235}
+- quest 92744 Murloc Gills: enders: npc 253092 Alba Fairmoon: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 253092 Alba Fairmoon; weights {"('npc', 253092)": 235}
+- quest 92909 Harvesting the Harvesters: enders: npc 253395 Ozwin Ironsprocket: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 253395 Ozwin Ironsprocket; weights {"('npc', 253395)": 235}
+- quest 92910 Harvesting the Harvesters: enders: npc 253395 Ozwin Ironsprocket: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 253395 Ozwin Ironsprocket; weights {"('npc', 253395)": 235}
+- quest 92911 Harvesting the Harvesters: enders: npc 253395 Ozwin Ironsprocket: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 253395 Ozwin Ironsprocket; weights {"('npc', 253395)": 235}
+- quest 94465 Call of Fire: enders: npc 257808 Braldir Ashmantle: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 257808 Braldir Ashmantle; weights {"('npc', 257808)": 235}
+- quest 94466 Call of Fire: enders: npc 257808 Braldir Ashmantle: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 257808 Braldir Ashmantle; weights {"('npc', 257808)": 235}
+- quest 94494 Call of Water: enders: npc 258043 Norric Lochthane: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258043 Norric Lochthane; weights {"('npc', 258043)": 235}
+- quest 94495 Call of Water: enders: npc 258203 Hervdana Saegrund: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258203 Hervdana Saegrund; weights {"('npc', 258203)": 235}
+- quest 94497 Call of Water: enders: npc 258203 Hervdana Saegrund: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258203 Hervdana Saegrund; weights {"('npc', 258203)": 235}
+- quest 94499 Call of Water: enders: npc 258203 Hervdana Saegrund: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258203 Hervdana Saegrund; weights {"('npc', 258203)": 235}
+- quest 94500 Call of Water: enders: npc 258203 Hervdana Saegrund: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258203 Hervdana Saegrund; weights {"('npc', 258203)": 235}
+- quest 94501 Call of Water: enders: npc 258043 Norric Lochthane: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258043 Norric Lochthane; weights {"('npc', 258043)": 235}
+- quest 94502 Call of Water: enders: object 619896 Forgotten Shrine: no gameobject template in the world (new NPCs and objects are slice 5). World: none; vote: object 619896 Forgotten Shrine; weights {"('object', 619896)": 165}
+- quest 94505 Call of Water: enders: npc 258043 Norric Lochthane: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258043 Norric Lochthane; weights {"('npc', 258043)": 235}
+- quest 94817 Confounding Flash: enders: npc 258785 High Priestess Mims: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258785 High Priestess Mims; weights {"('npc', 258785)": 235}
+- quest 94818 Contingency Plan: enders: npc 258785 High Priestess Mims: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258785 High Priestess Mims; weights {"('npc', 258785)": 75}
+- quest 95495 The Hermit Tanner: enders: npc 261366 Walton: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 261366 Walton; weights {"('npc', 261366)": 235}
+- quest 96390 Nip 'Em in the Bud: enders: npc 264936 Earthseer Farsen: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 264936 Earthseer Farsen; weights {"('npc', 264936)": 235}
+- quest 96391 Underground Map: enders: npc 264936 Earthseer Farsen: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 264936 Earthseer Farsen; weights {"('npc', 264936)": 235}
+- quest 96392 Farsen's Watch: enders: npc 264936 Earthseer Farsen: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 264936 Earthseer Farsen; weights {"('npc', 264936)": 235}
+- quest 96408 A Visitor to Dun Morogh: enders: npc 264936 Earthseer Farsen: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 264936 Earthseer Farsen; weights {"('npc', 264936)": 235}
+- quest 96604 The Great Outdoors: enders: npc 265809 Brakk: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 265809 Brakk; weights {"('npc', 265809)": 235}
+- quest 96605 The Great Outdoors: enders: npc 265810 Kaga Wildhoof: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 265810 Kaga Wildhoof; weights {"('npc', 265810)": 235}
+- quest 96659 The Adventurer: enders: npc 265810 Kaga Wildhoof: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 265810 Kaga Wildhoof; weights {"('npc', 265810)": 235}
+- quest 96899 Bandarion Keep: enders: npc 267008 Leonid Barthalomew the Revered: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 267008 Leonid Barthalomew the Revered; weights {"('npc', 267008)": 235}
+- quest 99048 A Missing Hand: enders: npc 275657 Heglan Shadeeye: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 275657 Heglan Shadeeye; weights {"('npc', 275657)": 235}
+
+## quests_no_giver (32)
+
+- quest 79007 ... and that note you found: givers: object 415106 Burned-Out Remains: no gameobject template in the world (new NPCs and objects are slice 5). World: none; vote: object 415106 Burned-Out Remains; weights {"('object', 415106)": 235}
+- quest 79358 Storm, Earth, and Fire: givers: npc 259023 Veyric Thunderhame: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 259023 Veyric Thunderhame; weights {"('npc', 259023)": 235}
+- quest 91723 Delicate Instruments: givers: npc 248242 Hamish Bergwort: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 248242 Hamish Bergwort; weights {"('npc', 248242)": 235}
+- quest 91725 Stolen Enchanting Supplies: givers: npc 248248 Blixie Fitzwink: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 248248 Blixie Fitzwink; weights {"('npc', 248248)": 235}
+- quest 91733 Downstream: givers: npc 248265 Ormin Pelford: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 248265 Ormin Pelford; weights {"('npc', 248265)": 235}
+- quest 92468 Call of Earth: givers: npc 251166 Minor Manifestation of Earth: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 251166 Minor Manifestation of Earth; weights {"('npc', 251166)": 235}
+- quest 92742 Testing the Wells: givers: npc 253092 Alba Fairmoon: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 253092 Alba Fairmoon; weights {"('npc', 253092)": 235}
+- quest 92744 Murloc Gills: givers: npc 253092 Alba Fairmoon: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 253092 Alba Fairmoon; weights {"('npc', 253092)": 235}
+- quest 92909 Harvesting the Harvesters: givers: npc 253395 Ozwin Ironsprocket: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 253395 Ozwin Ironsprocket; weights {"('npc', 253395)": 235}
+- quest 92911 Harvesting the Harvesters: givers: npc 253395 Ozwin Ironsprocket: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 253395 Ozwin Ironsprocket; weights {"('npc', 253395)": 235}
+- quest 94449 Call of Fire: givers: npc 258098 Eldrun Stormbreaker: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258098 Eldrun Stormbreaker, npc 258113 Ingrid Dunwald; weights {"('npc', 258098)": 235, "('npc', 258113)": 235, "('npc', 257446)": 90}
+- quest 94466 Call of Fire: givers: npc 257808 Braldir Ashmantle: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 257808 Braldir Ashmantle; weights {"('npc', 257808)": 235}
+- quest 94467 Call of Fire: givers: npc 257808 Braldir Ashmantle: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 257808 Braldir Ashmantle; weights {"('npc', 257808)": 235}
+- quest 94494 Call of Water: givers: npc 258098 Eldrun Stormbreaker: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258098 Eldrun Stormbreaker; weights {"('npc', 258098)": 235}
+- quest 94495 Call of Water: givers: npc 258043 Norric Lochthane: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258043 Norric Lochthane; weights {"('npc', 258043)": 235}
+- quest 94497 Call of Water: givers: npc 258203 Hervdana Saegrund: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258203 Hervdana Saegrund; weights {"('npc', 258203)": 235}
+- quest 94499 Call of Water: givers: npc 258203 Hervdana Saegrund: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258203 Hervdana Saegrund; weights {"('npc', 258203)": 235}
+- quest 94500 Call of Water: givers: npc 258203 Hervdana Saegrund: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258203 Hervdana Saegrund; weights {"('npc', 258203)": 235}
+- quest 94501 Call of Water: givers: npc 258203 Hervdana Saegrund: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258203 Hervdana Saegrund; weights {"('npc', 258203)": 235}
+- quest 94502 Call of Water: givers: npc 258043 Norric Lochthane: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258043 Norric Lochthane; weights {"('npc', 258043)": 235}
+- quest 94503 Call of Water: givers: object 619896 Forgotten Shrine: no gameobject template in the world (new NPCs and objects are slice 5). World: none; vote: object 619896 Forgotten Shrine; weights {"('object', 619896)": 235}
+- quest 94817 Confounding Flash: givers: npc 258785 High Priestess Mims: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258785 High Priestess Mims; weights {"('npc', 258785)": 235}
+- quest 94818 Contingency Plan: givers: npc 258785 High Priestess Mims: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 258785 High Priestess Mims; weights {"('npc', 258785)": 75}
+- quest 96102 Camping 101: Tailoring: givers: npc 265809 Brakk: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 265809 Brakk; weights {"('npc', 265809)": 235}
+- quest 96390 Nip 'Em in the Bud: givers: npc 264936 Earthseer Farsen: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 264936 Earthseer Farsen; weights {"('npc', 264936)": 235}
+- quest 96392 Farsen's Watch: givers: npc 264936 Earthseer Farsen: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 264936 Earthseer Farsen; weights {"('npc', 264936)": 235}
+- quest 96393 Old Ironforge Incursion: givers: npc 264936 Earthseer Farsen: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 264936 Earthseer Farsen; weights {"('npc', 264936)": 235}
+- quest 96604 The Great Outdoors: givers: npc 265809 Brakk: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 265809 Brakk; weights {"('npc', 265809)": 235}
+- quest 96605 The Great Outdoors: givers: npc 265810 Kaga Wildhoof: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 265810 Kaga Wildhoof; weights {"('npc', 265810)": 235}
+- quest 97932 Camping 101: Fishing: givers: npc 265810 Kaga Wildhoof: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 265810 Kaga Wildhoof; weights {"('npc', 265810)": 235}
+- quest 97937 Camping 101: Tailoring: givers: npc 265810 Kaga Wildhoof: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 265810 Kaga Wildhoof; weights {"('npc', 265810)": 235}
+- quest 97950 Camping 101: Tailoring: givers: npc 265811 Lyreena Duskblade: no creature template in the world (new NPCs and objects are slice 5). World: none; vote: npc 265811 Lyreena Duskblade; weights {"('npc', 265811)": 235}
+
+## quests_no_objectives (173)
+
+- quest 28 Trial of the Lake: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 29 Trial of the Lake: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 62 The Fargodeep Mine: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385474 is a areaTriggerEnter objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 76 The Jasperlode Mine: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385473 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 155 The Defias Brotherhood: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 172 Children's Week: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 201 Investigate the Camp: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385476 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 219 Missing In Action: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 273 Resupplying the Excavation: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385478 is a areaTriggerEnter objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 309 Protecting the Shipment: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 435 Escorting Erland: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 452 Pyrewood Ambush: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 578 The Stone of the Tides: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385482 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 590 A Rogue's Deal: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 648 Rescue OOX-17/TN!: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 660 Hints of a New Plague?: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 665 Sunken Treasure: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 667 Death From Below: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 731 The Absent Minded Prospector: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 754 Winterhoof Cleansing: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 758 Thunderhorn Cleansing: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 760 Wildmane Cleansing: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 772 Rite of Vision: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags
+- quest 809 Ak'Zeloth: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 836 Rescue OOX-09/HL!: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 863 The Escape: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 870 The Forgotten Pools: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385484 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 898 Free From the Hold: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 910 Down at the Docks: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 911 Gateway to the Frontier: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 934 Crown of the Earth: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags
+- quest 938 Mist: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 944 The Master's Glaive: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385489 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 945 Therylune's Escape: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 976 Supplies to Auberdine: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 984 How Big a Threat?: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385490's npc 277995 isn't in the world
+- quest 994 Escape Through Force: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 995 Escape Through Stealth: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1086 The Flying Machine Airport: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1090 Gerenzo's Orders: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1144 Willix the Importer: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1149 Test of Faith: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385491 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1173 Challenge Overlord Mok'Morokk: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1222 Stinky's Escape: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1249 The Missing Diplomat: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1265 The Missing Diplomat: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385516 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1270 Stinky's Escape: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1273 Questioning Reethe: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1324 The Missing Diplomat: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1367 Magram Alliance: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 381144 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1368 Gelkis Alliance: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 381185 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1382 Strange Alliance: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 381571 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1385 Brutal Politics: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 381398 is a type 6 objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1393 Galen's Escape: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1440 Return to Vahlarriel: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1447 The Missing Diplomat: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1448 In Search of The Temple: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385492 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1479 The Bough of the Eternals: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1558 The Stonewrought Dam: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1560 Tooga's Quest: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1640 Beat Bartleby: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1651 The Tome of Valor: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1658 Crashing the Wickerman Festival: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385504 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1687 Spooky Lighthouse: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1699 The Rethban Gauntlet: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385494 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 1783 The Tome of Divinity: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1786 The Tome of Divinity: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1800 Lordaeron Throne Room: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 1950 Get the Scoop: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2240 The Hidden Chamber: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2278 The Platinum Discs: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2460 The Shattered Salute: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2480 Hinott's Assistance: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2520 Sathrah's Sacrifice: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2561 Druid of the Claw: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2608 The Touch of Zanzil: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2742 Rin'ji is Trapped!: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2744 The Demon Hunter: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2755 Joys of Omosh: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2765 Expert Blacksmith!: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2767 Rescue OOX-22/FE!: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2784 Fall From Grace: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2801 A Tale of Sorrow: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2843 Gnomer-gooooone!: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2904 A Fine Mess: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2932 Grim Message: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2936 The Spider God: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2954 The Stone Watcher: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2969 Freedom for All Creatures: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2989 The Altar of Zul: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 2992 The Divination: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 3141 Loramus: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 3321 Did You Lose This?: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 3367 Suntara Stones: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 3377 Prayer to Elune: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 3382 A Crew Under Fire: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 3441 Divine Retribution: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 3453 The Torch of Retribution: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 3525 Extinguishing the Idol: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 3625 Enchanted Azsharite Fel Weaponry: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 3702 The Smoldering Ruins of Thaurissan: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 3982 What Is Going On?: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4001 What Is Going On?: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4185 The True Masters: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4224 The True Masters: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4245 Chasing A-Me 01: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4261 Ancient Spirit: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4265 Freed from the Hive: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4285 The Northern Pylon: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4287 The Eastern Pylon: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4288 The Western Pylon: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4322 Jail Break!: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4342 Kharan's Tale: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4491 A Little Help From My Friends: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4506 Corrupted Sabers: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4770 Homeward Bound: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4786 The Completed Robe: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4811 The Red Crystal: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags; objective 385519 is a areaTrigger objective, which needs more than a quest_objectives row (area trigger or reputation set-up): not in slice 1
+- quest 4842 Strange Sources: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4866 Mother's Milk: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4901 Guardians of the Altar: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4904 Free at Last: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4941 Eitrigg's Wisdom: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4964 The Completed Orb of Dar'Orahil: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4966 Protect Kanati Greycloud: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 4975 The Completed Orb of Noh'Orahil: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 5096 Scarlet Diversions: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 5126 Lorax's Tale: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 5203 Rescue From Jaedenar: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 5713 One Shot.  One Kill.: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 5727 Hidden Enemies: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags
+- quest 5742 Redemption: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 5821 Bodyguard for Hire : objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 5929 Great Bear Spirit: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 5930 Great Bear Spirit: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 5943 Gizelton Caravan: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 5944 In Dreams: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 6001 Body and Heart: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 6002 Body and Heart: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 6025 Unfinished Business: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 6403 The Great Masquerade: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 6482 Freedom to Ruul: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 6523 Protect Kaya: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 6544 Torek's Assault: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 6566 What the Wind Carries: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 6622 Triage: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 6624 Triage: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 6627 Test of Lore: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 6628 Test of Lore: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 6641 Vorsha the Lasher: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 7001 Empty Stables: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 7027 Empty Stables: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 7046 The Scepter of Celebras: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 7141 The Battle of Alterac: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 7142 The Battle for Alterac: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 7481 Elven Legends: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 7482 Elven Legends: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 7622 The Balance of Light and Shadow: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 7631 Dreadsteed of Xoroth: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 7843 The Final Message to the Wildhammer: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 8114 Control Four Bases: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 8115 Control Five Bases: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 8121 Take Four Bases: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 8122 Take Five Bases: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 8286 What Tomorrow Brings: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 8373 The Power of Pine: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 8447 Waking Legends: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 8519 A Pawn on the Eternal Board: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 8736 The Nightmare Manifests: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 8868 Elune's Blessing: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 9051 Toxic Test: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives
+- quest 97891 Prompt Potion Runner: objectives: objective Flags and Flags2 aren't recorded by any source (sniffed Forever objectives use Flags 32 for 94% and Flags2 0 or 1): decide them with --objective-flags
+- quest 99144 Seeking Refuge: objectives: Forever's objective ids aren't recorded: forever-db lists kind, target and count only, and no EG Link quest record has the objectives

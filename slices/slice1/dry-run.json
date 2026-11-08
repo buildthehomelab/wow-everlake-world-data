@@ -1,0 +1,253 @@
+{
+ "checks": [
+  {
+   "check": "stepped run: the updater skips every fork file (the deployed state is the fork world)",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "stepped run: the updater applies each of our files once",
+   "detail": "[{\"file\": \"2026_11_08_00_world_everlake_import_slice1.sql\", \"mode\": \"applied\", \"statements\": 43, \"left_out\": 0}, {\"file\": \"2026_11_08_01_world_everlake_import_slice1_corrections.sql\", \"mode\": \"applied\", \"statements\": 167, \"left_out\": 0}]",
+   "ok": true
+  },
+  {
+   "check": "from scratch: each of our files applied once, after every fork file",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "both runs have the same tables",
+   "detail": "only scratch: []; only stepped: []",
+   "ok": true
+  },
+  {
+   "check": "both runs end with the same world",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "fork rows outside the corrections are unchanged (rows added = rows recorded; removed and changed = the corrections')",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "the only new table is everlake_import_rows",
+   "detail": "['everlake_import_rows']",
+   "ok": true
+  },
+  {
+   "check": "every recorded key's row is in the world",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "no key collides with a fork row",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "every recorded row names one of our files",
+   "detail": "{'2026_11_08_00_world_everlake_import_slice1.sql': 206, '2026_11_08_01_world_everlake_import_slice1_corrections.sql': 144}",
+   "ok": true
+  },
+  {
+   "check": "every new row points at things that exist",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "running our files again changes nothing",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "the updater skips every file on the next start",
+   "detail": "[]",
+   "ok": true
+  },
+  {
+   "check": "... and the world stays the same",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "the gap report: each slice-1 gap is closed, or on the review or held-back list",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "the gap report: no category gains an item",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "after the fork takes over quest 79097's creature_questender rows (2 were ours), a re-run adds nothing next to its",
+   "detail": "[(211022, 70900)]",
+   "ok": true
+  },
+  {
+   "check": "after the fork re-sniffs quest_template {'ID': 5634}, a re-run of the corrections leaves it",
+   "detail": "",
+   "ok": true
+  },
+  {
+   "check": "after the fork puts back creature_queststarter 4217 for quest 6121, a re-run of the corrections leaves it",
+   "detail": "",
+   "ok": true
+  }
+ ],
+ "closed": {
+  "quests_ender_differs": 8,
+  "quests_giver_differs": 27,
+  "quests_no_completion_text": 77,
+  "quests_no_ender": 40,
+  "quests_no_giver": 46,
+  "quests_no_objectives": 0,
+  "quests_no_progress_text": 41,
+  "quests_no_text": 1
+ },
+ "files": [
+  {
+   "kind": "import",
+   "name": "2026_11_08_00_world_everlake_import_slice1.sql",
+   "sha1": "322C8231A2CE714188EF6EE44DCE2F66F8ED6E84"
+  },
+  {
+   "kind": "corrections",
+   "name": "2026_11_08_01_world_everlake_import_slice1_corrections.sql",
+   "sha1": "DC60501BC15004BE2D145474D727980242C99683"
+  }
+ ],
+ "gaps_after": {
+  "extra_spots": 574,
+  "flight_masters_unflagged": 0,
+  "loot_items_missing": 643,
+  "missing_npcs": 1213,
+  "missing_quests_data": 114,
+  "missing_quests_live": 762,
+  "npcs_no_loot": 199,
+  "npcs_not_spawned": 934,
+  "objects_missing": 178,
+  "objects_not_spawned": 537,
+  "quest_rewards_missing": 5,
+  "quests_ender_differs": 51,
+  "quests_giver_differs": 60,
+  "quests_no_completion_text": 1,
+  "quests_no_ender": 32,
+  "quests_no_giver": 31,
+  "quests_no_objectives": 173,
+  "quests_no_progress_text": 1,
+  "quests_no_text": 0,
+  "renamed_quests": 17,
+  "trainer_spells_missing": 92,
+  "trainers_unlinked": 1,
+  "vendor_items_missing": 39,
+  "vendors_no_stock": 2
+ },
+ "gaps_before": {
+  "extra_spots": 574,
+  "flight_masters_unflagged": 0,
+  "loot_items_missing": 643,
+  "missing_npcs": 1213,
+  "missing_quests_data": 114,
+  "missing_quests_live": 762,
+  "npcs_no_loot": 199,
+  "npcs_not_spawned": 934,
+  "objects_missing": 178,
+  "objects_not_spawned": 537,
+  "quest_rewards_missing": 5,
+  "quests_ender_differs": 58,
+  "quests_giver_differs": 86,
+  "quests_no_completion_text": 78,
+  "quests_no_ender": 72,
+  "quests_no_giver": 77,
+  "quests_no_objectives": 173,
+  "quests_no_progress_text": 42,
+  "quests_no_text": 1,
+  "renamed_quests": 17,
+  "trainer_spells_missing": 92,
+  "trainers_unlinked": 1,
+  "vendor_items_missing": 39,
+  "vendors_no_stock": 2
+ },
+ "left": {
+  "quests_ender_differs": {
+   "held back": 2,
+   "review": 49
+  },
+  "quests_giver_differs": {
+   "held back": 3,
+   "review": 57
+  },
+  "quests_no_completion_text": {
+   "review": 1
+  },
+  "quests_no_ender": {
+   "held back": 32
+  },
+  "quests_no_giver": {
+   "held back": 31
+  },
+  "quests_no_objectives": {
+   "held back": 173
+  },
+  "quests_no_progress_text": {
+   "review": 1
+  },
+  "quests_no_text": {}
+ },
+ "made": "2026-11-08T15:39:30Z",
+ "ok": true,
+ "recorded": {
+  "creature_questender": 85,
+  "creature_queststarter": 124,
+  "gameobject_questender": 9,
+  "gameobject_queststarter": 14,
+  "quest_offer_reward": 77,
+  "quest_request_items": 41
+ },
+ "scratch_run": true,
+ "slice": "slice1",
+ "tables_changed": {
+  "creature_questender": {
+   "added": 85,
+   "changed": 0,
+   "removed": 1
+  },
+  "creature_queststarter": {
+   "added": 124,
+   "changed": 0,
+   "removed": 3
+  },
+  "gameobject_questender": {
+   "added": 9,
+   "changed": 0,
+   "removed": 0
+  },
+  "gameobject_queststarter": {
+   "added": 14,
+   "changed": 0,
+   "removed": 0
+  },
+  "quest_offer_reward": {
+   "added": 77,
+   "changed": 0,
+   "removed": 0
+  },
+  "quest_request_items": {
+   "added": 41,
+   "changed": 0,
+   "removed": 0
+  },
+  "quest_template": {
+   "added": 0,
+   "changed": 1,
+   "removed": 0
+  }
+ },
+ "timings_s": {
+  "scratch": 182,
+  "stepped": 84
+ },
+ "world": "forever-tdb-2026-10-14+updates@2ae1313e9f"
+}
