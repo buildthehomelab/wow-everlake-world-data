@@ -1,7 +1,9 @@
 # Slice 8 local dry run
 
-MySQL 8.0.46 was rebuilt from the October 14 Forever world release, the repository-default core pin `029c5dd9caee8521eb27dbee2bd1fe515b31331e`, and reviewed world-data pin `24a3b39ef0bb507088e7f72ab8313ad490602572`.
+MySQL 8.0.46 was rebuilt from the October 14 Forever world release, core pin `029c5dd9caee8521eb27dbee2bd1fe515b31331e`, and reviewed world-data pin `24a3b39ef0bb507088e7f72ab8313ad490602572`.
 
-The rebuilt world had one Arcane Secrets chest (410299) with an empty, unshared loot entry (119849), two spawned librarians with quest-giver flags, and an existing Research Access condition that accepts completion of 79096 as one qualifying path. QuestieDB supplies the chest and librarian relationships, and its item trace corroborates the book. The published Library Books walkthrough describes obtaining it by clicking the chest. The chest grants the book before quest acceptance; the item already has a maximum count of one.
+The rebuilt world had one Arcane Secrets chest (410299) with an empty, unshared loot entry (119849). QuestieTrace links the item to the chest and records the turn-in with Owen Thadd. The Forever quest listing corroborates the Horde turn-in and shows a Comprehension Charm reward. The rebuild already had an active Owen Thadd spawn and a Research Access condition accepting completion of 79096 as one qualifying path.
 
-MySQL inserted the ten expected keys. Applying the same SQL twice left those rows and the pre-existing Research Access condition unchanged. The 63 statements also passed Everlake's SQL rewrite. No in-game interaction was tested.
+The chest remains a lootable object. The pinned core dispatches chest use to loot; Owen handles the quest dialog. The SQL uses the core's direct turn-in quest type from the quest response, the existing Horde race mask and one Comprehension Charm. Earlier beta reports about the missing book predate a player report that it was restored; the item trace and later observations corroborate the same chest.
+
+All seven expected keys landed on MySQL. A second application changed nothing, and all 56 statements passed Everlake's SQL rewrite. No in-game interaction was tested.
