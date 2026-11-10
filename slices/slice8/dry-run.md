@@ -6,4 +6,4 @@ The rebuilt world had one Arcane Secrets chest (410299) with an empty, unshared 
 
 The chest remains a lootable object. The pinned core dispatches chest use to loot; Owen handles the quest dialog. The SQL uses the core's direct turn-in quest type from the quest response, the existing Horde race mask and one Comprehension Charm. Earlier beta reports about the missing book predate a player report that it was restored; the item trace and later observations corroborate the same chest.
 
-All seven expected keys landed on MySQL. A second application changed nothing, and all 56 statements passed Everlake's SQL rewrite. No in-game interaction was tested.
+All nine expected keys landed on MySQL. A second application changed nothing, and all 70 statements passed Everlake's SQL rewrite. The progress and reward text match existing library dialogue and the published quest listing. No in-game interaction was tested.
