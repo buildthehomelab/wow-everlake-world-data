@@ -6,7 +6,7 @@
     "questiedb": "c0ce0c97ee449295ff1a8356f815a713ff9e463c"
   },
   "file": "2026_11_10_03_world_everlake_import_slice8.sql",
-  "sha256": "bcdabada2283c034627c41f73edb50bf6dea452754b6f0298e486b2c641839cd",
+  "sha256": "1c0390cc1d49edee12a0dceadc4dd901a26f6f3555c09b857d5a5b016d33b58f",
   "counts": {
     "quest_template": 1,
     "quest_classic_level": 1,
@@ -14,7 +14,9 @@
     "quest_objectives": 1,
     "creature_queststarter": 1,
     "creature_questender": 1,
-    "gameobject_loot_template": 1
+    "gameobject_loot_template": 1,
+    "quest_request_items": 1,
+    "quest_offer_reward": 1
   },
   "keys": {
     "quest_template": [
@@ -54,6 +56,16 @@
         119849,
         0,
         210177
+      ]
+    ],
+    "quest_request_items": [
+      [
+        79096
+      ]
+    ],
+    "quest_offer_reward": [
+      [
+        79096
       ]
     ]
   },
