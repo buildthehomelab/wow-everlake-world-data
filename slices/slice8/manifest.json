@@ -1,0 +1,80 @@
+{
+  "slice": "slice8",
+  "world": "forever-tdb-2026-10-14 + core 029c5dd9 + world-data 24a3b39e",
+  "pins": {
+    "eg-link": "9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae",
+    "questiedb": "c0ce0c97ee449295ff1a8356f815a713ff9e463c"
+  },
+  "file": "2026_11_10_03_world_everlake_import_slice8.sql",
+  "sha256": "7789b3c1399dca69ad2efc6dd7c70d8b23f7275f346e2704e69cebea9c52d86f",
+  "counts": {
+    "quest_template": 1,
+    "quest_classic_level": 1,
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "creature_queststarter": 2,
+    "creature_questender": 2,
+    "gameobject_queststarter": 1,
+    "gameobject_loot_template": 1
+  },
+  "keys": {
+    "quest_template": [
+      [
+        79096
+      ]
+    ],
+    "quest_classic_level": [
+      [
+        79096
+      ]
+    ],
+    "quest_classic_money": [
+      [
+        79096
+      ]
+    ],
+    "quest_objectives": [
+      [
+        445450
+      ]
+    ],
+    "creature_queststarter": [
+      [
+        211022,
+        79096
+      ],
+      [
+        211033,
+        79096
+      ]
+    ],
+    "creature_questender": [
+      [
+        211022,
+        79096
+      ],
+      [
+        211033,
+        79096
+      ]
+    ],
+    "gameobject_queststarter": [
+      [
+        410299,
+        79096
+      ]
+    ],
+    "gameobject_loot_template": [
+      [
+        119849,
+        0,
+        210177
+      ]
+    ]
+  },
+  "acquisition_reference": "https://www.warcrafttavern.com/forever/guides/library-books",
+  "quest": 79096,
+  "chest": 410299,
+  "item": 210177,
+  "research_access_condition_already_present": 97286
+}
