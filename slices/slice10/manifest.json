@@ -1,0 +1,63 @@
+{
+  "slice": "slice10",
+  "file": "2026_11_10_05_world_everlake_import_slice10.sql",
+  "world": "forever-tdb-2026-10-14 + core 029c5dd9 + world-data 24a3b39e",
+  "pins": {
+    "eg-link": "9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae"
+  },
+  "counts": {
+    "trainer_spell": 5
+  },
+  "keys": {
+    "trainer_spell": [
+      [
+        36,
+        2550
+      ],
+      [
+        36,
+        3102
+      ],
+      [
+        37,
+        2575
+      ],
+      [
+        39,
+        3273
+      ],
+      [
+        113,
+        8613
+      ]
+    ]
+  },
+  "observation_npcs": [
+    {
+      "trainer": 36,
+      "spell": 2550,
+      "npc": 8306
+    },
+    {
+      "trainer": 36,
+      "spell": 3102,
+      "npc": 8306
+    },
+    {
+      "trainer": 37,
+      "spell": 2575,
+      "npc": 3001
+    },
+    {
+      "trainer": 39,
+      "spell": 3273,
+      "npc": 2798
+    },
+    {
+      "trainer": 113,
+      "spell": 8613,
+      "npc": 6289
+    }
+  ],
+  "sha256": "1c7c8dc9583d51f310cffb857114bd90512cd0955a33a079b17237842d04b75f"
+}
