@@ -29,7 +29,6 @@ AND NOT EXISTS (SELECT 1 FROM `gameobject_loot_template` l WHERE l.`Entry` = 119
 AND EXISTS (SELECT 1 FROM `quest_template` q WHERE q.`ID` = 97286)
 AND EXISTS (SELECT 1 FROM `conditions` c WHERE c.`SourceTypeOrReferenceId` = 19 AND c.`SourceEntry` = 97286 AND c.`ConditionTypeOrReference` = 8 AND c.`ConditionValue1` = 79096)
 AND EXISTS (SELECT 1 FROM `creature_template` t JOIN `creature` c ON c.`id` = t.`entry` WHERE t.`entry` = 211022 AND (COALESCE(c.`npcflag`, t.`npcflag`) & 2) = 2)
-AND EXISTS (SELECT 1 FROM `creature_template` t JOIN `creature` c ON c.`id` = t.`entry` WHERE t.`entry` = 211033 AND (COALESCE(c.`npcflag`, t.`npcflag`) & 2) = 2)
 AND NOT EXISTS (SELECT 1 FROM `quest_template` q WHERE q.`ID` = 79096)
 AND NOT EXISTS (SELECT 1 FROM `quest_template_addon` q WHERE q.`ID` = 79096)
 AND NOT EXISTS (SELECT 1 FROM `quest_classic_level` q WHERE q.`ID` = 79096)
@@ -41,17 +40,17 @@ AND NOT EXISTS (SELECT 1 FROM `gameobject_questender` q WHERE q.`quest` = 79096)
 AND NOT EXISTS (SELECT 1 FROM `quest_objectives` o WHERE o.`QuestID` = 79096 OR o.`ID` = 445450)
 AND NOT EXISTS (SELECT 1 FROM `everlake_import_rows` r WHERE r.`tbl` = 'quest_template' AND r.`k1` = 79096);
 
--- quest_template: Arcane Secrets and both library turn-ins
+-- quest_template: Arcane Secrets and the Horde librarian
 DROP TEMPORARY TABLE IF EXISTS `everlake_import_stage`;
-CREATE TEMPORARY TABLE `everlake_import_stage` (`ID` int unsigned NOT NULL, `QuestType` tinyint unsigned NOT NULL, `QuestSortID` smallint NOT NULL, `Flags` int unsigned NOT NULL, `AllowableRaces` bigint unsigned NOT NULL, `RewardXPDifficulty` int unsigned NOT NULL, `RewardXPMultiplier` float NOT NULL, `LogTitle` mediumtext NOT NULL, `VerifiedBuild` int NOT NULL, `note` varchar(255) NOT NULL, `missing` tinyint NOT NULL DEFAULT '0', PRIMARY KEY (`ID`)) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-INSERT INTO `everlake_import_stage` (`ID`, `QuestType`, `QuestSortID`, `Flags`, `AllowableRaces`, `RewardXPDifficulty`, `RewardXPMultiplier`, `LogTitle`, `VerifiedBuild`, `note`) VALUES
-(79096, 0, -284, 33554688, 18446744073709551615, 1, 1.0, 'Ataeric: On Arcane Curiosities', 0, 'EG Link @70862 quest response');
+CREATE TEMPORARY TABLE `everlake_import_stage` (`ID` int unsigned NOT NULL, `QuestType` tinyint unsigned NOT NULL, `QuestSortID` smallint NOT NULL, `Flags` int unsigned NOT NULL, `AllowableRaces` bigint unsigned NOT NULL, `RewardItem1` int unsigned NOT NULL, `RewardAmount1` int unsigned NOT NULL, `RewardXPDifficulty` int unsigned NOT NULL, `RewardXPMultiplier` float NOT NULL, `LogTitle` mediumtext NOT NULL, `VerifiedBuild` int NOT NULL, `note` varchar(255) NOT NULL, `missing` tinyint NOT NULL DEFAULT '0', PRIMARY KEY (`ID`)) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+INSERT INTO `everlake_import_stage` (`ID`, `QuestType`, `QuestSortID`, `Flags`, `AllowableRaces`, `RewardItem1`, `RewardAmount1`, `RewardXPDifficulty`, `RewardXPMultiplier`, `LogTitle`, `VerifiedBuild`, `note`) VALUES
+(79096, 0, -284, 33554688, 8589934770, 211779, 1, 1, 1.0, 'Ataeric: On Arcane Curiosities', 0, 'EG Link @70862; Wowhead reward and Horde turn-in; Everlake Horde mask');
 UPDATE `everlake_import_stage` s SET s.`missing` = 1 WHERE NOT EXISTS (SELECT 1 FROM `quest_template` t WHERE t.`ID` = s.`ID`) AND EXISTS (SELECT 1 FROM `everlake_slice8_ready` g WHERE g.`quest` = 79096);
-INSERT INTO `quest_template` (`ID`, `QuestType`, `QuestSortID`, `Flags`, `AllowableRaces`, `RewardXPDifficulty`, `RewardXPMultiplier`, `LogTitle`, `VerifiedBuild`) SELECT `ID`, `QuestType`, `QuestSortID`, `Flags`, `AllowableRaces`, `RewardXPDifficulty`, `RewardXPMultiplier`, `LogTitle`, `VerifiedBuild` FROM `everlake_import_stage` WHERE `missing` = 1;
+INSERT INTO `quest_template` (`ID`, `QuestType`, `QuestSortID`, `Flags`, `AllowableRaces`, `RewardItem1`, `RewardAmount1`, `RewardXPDifficulty`, `RewardXPMultiplier`, `LogTitle`, `VerifiedBuild`) SELECT `ID`, `QuestType`, `QuestSortID`, `Flags`, `AllowableRaces`, `RewardItem1`, `RewardAmount1`, `RewardXPDifficulty`, `RewardXPMultiplier`, `LogTitle`, `VerifiedBuild` FROM `everlake_import_stage` WHERE `missing` = 1;
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `file`, `note`) SELECT 'quest_template', s.`ID`, '2026_11_10_03_world_everlake_import_slice8.sql', s.`note` FROM `everlake_import_stage` s WHERE s.`missing` = 1 ON DUPLICATE KEY UPDATE `file` = '2026_11_10_03_world_everlake_import_slice8.sql', `note` = s.`note`;
 DROP TEMPORARY TABLE `everlake_import_stage`;
 
--- quest_classic_level: Arcane Secrets and both library turn-ins
+-- quest_classic_level: Arcane Secrets and the Horde librarian
 DROP TEMPORARY TABLE IF EXISTS `everlake_import_stage`;
 CREATE TEMPORARY TABLE `everlake_import_stage` (`ID` int unsigned NOT NULL, `QuestLevel` smallint NOT NULL, `MinLevel` tinyint unsigned NOT NULL, `MaxLevel` tinyint unsigned NOT NULL, `note` varchar(255) NOT NULL, `missing` tinyint NOT NULL DEFAULT '0', PRIMARY KEY (`ID`)) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 INSERT INTO `everlake_import_stage` (`ID`, `QuestLevel`, `MinLevel`, `MaxLevel`, `note`) VALUES
@@ -61,7 +60,7 @@ INSERT INTO `quest_classic_level` (`ID`, `QuestLevel`, `MinLevel`, `MaxLevel`) S
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `file`, `note`) SELECT 'quest_classic_level', s.`ID`, '2026_11_10_03_world_everlake_import_slice8.sql', s.`note` FROM `everlake_import_stage` s WHERE s.`missing` = 1 ON DUPLICATE KEY UPDATE `file` = '2026_11_10_03_world_everlake_import_slice8.sql', `note` = s.`note`;
 DROP TEMPORARY TABLE `everlake_import_stage`;
 
--- quest_classic_money: Arcane Secrets and both library turn-ins
+-- quest_classic_money: Arcane Secrets and the Horde librarian
 DROP TEMPORARY TABLE IF EXISTS `everlake_import_stage`;
 CREATE TEMPORARY TABLE `everlake_import_stage` (`ID` int unsigned NOT NULL, `RewardMoney` int NOT NULL, `RewardMoneyMaxLevel` int unsigned NOT NULL, `note` varchar(255) NOT NULL, `missing` tinyint NOT NULL DEFAULT '0', PRIMARY KEY (`ID`)) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 INSERT INTO `everlake_import_stage` (`ID`, `RewardMoney`, `RewardMoneyMaxLevel`, `note`) VALUES
@@ -71,49 +70,37 @@ INSERT INTO `quest_classic_money` (`ID`, `RewardMoney`, `RewardMoneyMaxLevel`) S
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `file`, `note`) SELECT 'quest_classic_money', s.`ID`, '2026_11_10_03_world_everlake_import_slice8.sql', s.`note` FROM `everlake_import_stage` s WHERE s.`missing` = 1 ON DUPLICATE KEY UPDATE `file` = '2026_11_10_03_world_everlake_import_slice8.sql', `note` = s.`note`;
 DROP TEMPORARY TABLE `everlake_import_stage`;
 
--- quest_objectives: Arcane Secrets and both library turn-ins
+-- quest_objectives: Arcane Secrets and the Horde librarian
 DROP TEMPORARY TABLE IF EXISTS `everlake_import_stage`;
 CREATE TEMPORARY TABLE `everlake_import_stage` (`ID` int unsigned NOT NULL, `QuestID` int unsigned NOT NULL, `Type` tinyint unsigned NOT NULL, `Order` tinyint unsigned NOT NULL, `StorageIndex` tinyint NOT NULL, `ObjectID` int NOT NULL, `Amount` int NOT NULL, `Flags` int unsigned NOT NULL, `Flags2` int unsigned NOT NULL, `VerifiedBuild` int NOT NULL, `note` varchar(255) NOT NULL, `missing` tinyint NOT NULL DEFAULT '0', PRIMARY KEY (`ID`)) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 INSERT INTO `everlake_import_stage` (`ID`, `QuestID`, `Type`, `Order`, `StorageIndex`, `ObjectID`, `Amount`, `Flags`, `Flags2`, `VerifiedBuild`, `note`) VALUES
-(445450, 79096, 1, 0, 1, 210177, 1, 32, 0, 0, 'EG Link @70862, QuestieDB Forever; objective flags use the import defaults');
+(445450, 79096, 1, 0, 1, 210177, 1, 0, 0, 0, 'EG Link @70862, QuestieDB Forever; objective flags follow existing library objectives');
 UPDATE `everlake_import_stage` s SET s.`missing` = 1 WHERE NOT EXISTS (SELECT 1 FROM `quest_objectives` t WHERE t.`ID` = s.`ID`) AND EXISTS (SELECT 1 FROM `everlake_slice8_ready` g WHERE g.`quest` = 79096);
 INSERT INTO `quest_objectives` (`ID`, `QuestID`, `Type`, `Order`, `StorageIndex`, `ObjectID`, `Amount`, `Flags`, `Flags2`, `VerifiedBuild`) SELECT `ID`, `QuestID`, `Type`, `Order`, `StorageIndex`, `ObjectID`, `Amount`, `Flags`, `Flags2`, `VerifiedBuild` FROM `everlake_import_stage` WHERE `missing` = 1;
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `file`, `note`) SELECT 'quest_objectives', s.`ID`, '2026_11_10_03_world_everlake_import_slice8.sql', s.`note` FROM `everlake_import_stage` s WHERE s.`missing` = 1 ON DUPLICATE KEY UPDATE `file` = '2026_11_10_03_world_everlake_import_slice8.sql', `note` = s.`note`;
 DROP TEMPORARY TABLE `everlake_import_stage`;
 
--- creature_queststarter: Arcane Secrets and both library turn-ins
+-- creature_queststarter: Arcane Secrets and the Horde librarian
 DROP TEMPORARY TABLE IF EXISTS `everlake_import_stage`;
 CREATE TEMPORARY TABLE `everlake_import_stage` (`id` int unsigned NOT NULL, `quest` int unsigned NOT NULL, `VerifiedBuild` int unsigned NOT NULL, `note` varchar(255) NOT NULL, `missing` tinyint NOT NULL DEFAULT '0', PRIMARY KEY (`id`, `quest`)) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 INSERT INTO `everlake_import_stage` (`id`, `quest`, `VerifiedBuild`, `note`) VALUES
-(211022, 79096, 0, 'QuestieDB Forever quest fix'),
-(211033, 79096, 0, 'QuestieDB Forever quest fix');
+(211022, 79096, 0, 'QuestieTrace and Wowhead Forever quest relationship');
 UPDATE `everlake_import_stage` s SET s.`missing` = 1 WHERE NOT EXISTS (SELECT 1 FROM `creature_queststarter` t WHERE t.`id` = s.`id` AND t.`quest` = s.`quest`) AND EXISTS (SELECT 1 FROM `everlake_slice8_ready` g WHERE g.`quest` = 79096);
 INSERT INTO `creature_queststarter` (`id`, `quest`, `VerifiedBuild`) SELECT `id`, `quest`, `VerifiedBuild` FROM `everlake_import_stage` WHERE `missing` = 1;
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `file`, `note`) SELECT 'creature_queststarter', s.`id`, s.`quest`, '2026_11_10_03_world_everlake_import_slice8.sql', s.`note` FROM `everlake_import_stage` s WHERE s.`missing` = 1 ON DUPLICATE KEY UPDATE `file` = '2026_11_10_03_world_everlake_import_slice8.sql', `note` = s.`note`;
 DROP TEMPORARY TABLE `everlake_import_stage`;
 
--- creature_questender: Arcane Secrets and both library turn-ins
+-- creature_questender: Arcane Secrets and the Horde librarian
 DROP TEMPORARY TABLE IF EXISTS `everlake_import_stage`;
 CREATE TEMPORARY TABLE `everlake_import_stage` (`id` int unsigned NOT NULL, `quest` int unsigned NOT NULL, `VerifiedBuild` int unsigned NOT NULL, `note` varchar(255) NOT NULL, `missing` tinyint NOT NULL DEFAULT '0', PRIMARY KEY (`id`, `quest`)) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 INSERT INTO `everlake_import_stage` (`id`, `quest`, `VerifiedBuild`, `note`) VALUES
-(211022, 79096, 0, 'QuestieDB Forever quest fix'),
-(211033, 79096, 0, 'QuestieDB Forever quest fix');
+(211022, 79096, 0, 'QuestieTrace and Wowhead Forever quest relationship');
 UPDATE `everlake_import_stage` s SET s.`missing` = 1 WHERE NOT EXISTS (SELECT 1 FROM `creature_questender` t WHERE t.`id` = s.`id` AND t.`quest` = s.`quest`) AND EXISTS (SELECT 1 FROM `everlake_slice8_ready` g WHERE g.`quest` = 79096);
 INSERT INTO `creature_questender` (`id`, `quest`, `VerifiedBuild`) SELECT `id`, `quest`, `VerifiedBuild` FROM `everlake_import_stage` WHERE `missing` = 1;
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `file`, `note`) SELECT 'creature_questender', s.`id`, s.`quest`, '2026_11_10_03_world_everlake_import_slice8.sql', s.`note` FROM `everlake_import_stage` s WHERE s.`missing` = 1 ON DUPLICATE KEY UPDATE `file` = '2026_11_10_03_world_everlake_import_slice8.sql', `note` = s.`note`;
 DROP TEMPORARY TABLE `everlake_import_stage`;
 
--- gameobject_queststarter: Arcane Secrets and both library turn-ins
-DROP TEMPORARY TABLE IF EXISTS `everlake_import_stage`;
-CREATE TEMPORARY TABLE `everlake_import_stage` (`id` int unsigned NOT NULL, `quest` int unsigned NOT NULL, `VerifiedBuild` int unsigned NOT NULL, `note` varchar(255) NOT NULL, `missing` tinyint NOT NULL DEFAULT '0', PRIMARY KEY (`id`, `quest`)) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-INSERT INTO `everlake_import_stage` (`id`, `quest`, `VerifiedBuild`, `note`) VALUES
-(410299, 79096, 0, 'QuestieDB Forever quest and object fixes');
-UPDATE `everlake_import_stage` s SET s.`missing` = 1 WHERE NOT EXISTS (SELECT 1 FROM `gameobject_queststarter` t WHERE t.`id` = s.`id` AND t.`quest` = s.`quest`) AND EXISTS (SELECT 1 FROM `everlake_slice8_ready` g WHERE g.`quest` = 79096);
-INSERT INTO `gameobject_queststarter` (`id`, `quest`, `VerifiedBuild`) SELECT `id`, `quest`, `VerifiedBuild` FROM `everlake_import_stage` WHERE `missing` = 1;
-INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `file`, `note`) SELECT 'gameobject_queststarter', s.`id`, s.`quest`, '2026_11_10_03_world_everlake_import_slice8.sql', s.`note` FROM `everlake_import_stage` s WHERE s.`missing` = 1 ON DUPLICATE KEY UPDATE `file` = '2026_11_10_03_world_everlake_import_slice8.sql', `note` = s.`note`;
-DROP TEMPORARY TABLE `everlake_import_stage`;
-
--- gameobject_loot_template: Arcane Secrets and both library turn-ins
+-- gameobject_loot_template: Arcane Secrets and the Horde librarian
 DROP TEMPORARY TABLE IF EXISTS `everlake_import_stage`;
 CREATE TEMPORARY TABLE `everlake_import_stage` (`Entry` int unsigned NOT NULL, `ItemType` tinyint NOT NULL, `Item` int unsigned NOT NULL, `Chance` float NOT NULL, `QuestRequired` tinyint(1) NOT NULL, `LootMode` smallint unsigned NOT NULL, `GroupId` tinyint unsigned NOT NULL, `MinCount` tinyint unsigned NOT NULL, `MaxCount` tinyint unsigned NOT NULL, `Comment` varchar(255) NOT NULL, `note` varchar(255) NOT NULL, `missing` tinyint NOT NULL DEFAULT '0', PRIMARY KEY (`Entry`, `ItemType`, `Item`)) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 INSERT INTO `everlake_import_stage` (`Entry`, `ItemType`, `Item`, `Chance`, `QuestRequired`, `LootMode`, `GroupId`, `MinCount`, `MaxCount`, `Comment`, `note`) VALUES
