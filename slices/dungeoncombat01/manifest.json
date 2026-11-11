@@ -1,0 +1,76 @@
+{
+  "file": "2026_11_10_43_world_everlake_mutanus_combat_placeholder.sql",
+  "sha256": "60c8d1978ec980b9452ef776d9d3af04fe388975b9c02583232e3b1b60f84286",
+  "core": "343fe6fb95076e09575156c8b88d155914003b78",
+  "client": "1.60.1.70862",
+  "source": "https://github.com/cmangos/classic-db/blob/c33f90b8eeb3f8bacb53d5cbfee45075c80b416c/ACID/acid_classic.sql",
+  "issue": 48,
+  "confidence": {
+    "missing_cast_path": "verified in rebuilt world/static core source",
+    "spell_identity": "client slots and DBM corroborated",
+    "targets_timers": "provisional Classic ACID fallback; live Forever unverified"
+  },
+  "source_kind": "Classic EventAI; not SoD raid data",
+  "rows": [
+    {
+      "key": [
+        3654,
+        0,
+        900,
+        0
+      ],
+      "spell": 8150,
+      "initial_ms": [
+        0,
+        10000
+      ],
+      "repeat_ms": [
+        10000,
+        16000
+      ],
+      "smart_target": 1,
+      "players_only": false
+    },
+    {
+      "key": [
+        3654,
+        0,
+        901,
+        0
+      ],
+      "spell": 7967,
+      "initial_ms": [
+        6000,
+        11000
+      ],
+      "repeat_ms": [
+        25000,
+        36000
+      ],
+      "smart_target": 6,
+      "players_only": true
+    },
+    {
+      "key": [
+        3654,
+        0,
+        902,
+        0
+      ],
+      "spell": 7399,
+      "initial_ms": [
+        15000,
+        21000
+      ],
+      "repeat_ms": [
+        18000,
+        24000
+      ],
+      "smart_target": 5,
+      "players_only": false
+    }
+  ],
+  "new_spell_unlocks": 0,
+  "dependency": "PR44 fixes death dispatch separately; this patch works before/after it without rewriting death row",
+  "replacement": "Use a later guarded SQL update when live Forever combat logs establish corrected cadence/targets. Preserve original provenance; do not edit deployed file."
+}
