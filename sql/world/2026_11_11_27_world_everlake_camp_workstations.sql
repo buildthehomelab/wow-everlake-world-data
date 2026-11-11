@@ -1,0 +1,10 @@
+-- Efficient Games Forever beta object details, Arcane Salvager 70338 and Greenhouse 70450, 9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae (CC BY 4.0).
+-- Objects are placed by their item spells.
+CREATE TEMPORARY TABLE everlake_camp_objects LIKE gameobject_template;
+INSERT INTO everlake_camp_objects (entry,type,displayId,name,size,Data0,Data1,Data2,Data3,Data4,Data5,Data6,Data7,Data8,Data9,Data10,Data11,Data12,Data13,Data14,Data15,Data16,Data17,Data18,Data19,Data20,Data21,Data22,Data23,Data24,Data25,Data26,Data27,Data28,Data29,Data30,Data31,Data32,Data33,Data34) VALUES
+    (612130, 8, 125481, 'Arcane Salvager', 1.0, 2256, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0),
+    (612087, 8, 116308, 'Greenhouse', 1.0, 2281, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+INSERT INTO gameobject_template (entry,type,displayId,name,size,Data0,Data1,Data2,Data3,Data4,Data5,Data6,Data7,Data8,Data9,Data10,Data11,Data12,Data13,Data14,Data15,Data16,Data17,Data18,Data19,Data20,Data21,Data22,Data23,Data24,Data25,Data26,Data27,Data28,Data29,Data30,Data31,Data32,Data33,Data34)
+SELECT entry,type,displayId,name,size,Data0,Data1,Data2,Data3,Data4,Data5,Data6,Data7,Data8,Data9,Data10,Data11,Data12,Data13,Data14,Data15,Data16,Data17,Data18,Data19,Data20,Data21,Data22,Data23,Data24,Data25,Data26,Data27,Data28,Data29,Data30,Data31,Data32,Data33,Data34 FROM everlake_camp_objects o
+WHERE NOT EXISTS (SELECT 1 FROM gameobject_template t WHERE t.entry=o.entry);
+DROP TEMPORARY TABLE everlake_camp_objects;
