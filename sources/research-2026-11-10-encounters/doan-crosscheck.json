@@ -1,0 +1,55 @@
+{
+  "sources": [
+    {
+      "repo": "Karrz1/TrinityCore",
+      "sha": "343fe6fb95076e09575156c8b88d155914003b78",
+      "path": "src/server/scripts/EasternKingdoms/ScarletMonastery/boss_arcanist_doan.cpp",
+      "sha256": "c95d5bdb7ad8a9ac81490d2f4d1a0445cc27addf1756065eb915c62a3de3347d",
+      "role": "generic EasternKingdoms Doan reference, not the local classic_* binding"
+    },
+    {
+      "repo": "Karrz1/TrinityCore",
+      "sha": "7d7c05ef83487b8d292584a0e69a2fd1249a5f59",
+      "path": "src/server/scripts/EasternKingdoms/ScarletMonastery/boss_arcanist_doan.cpp",
+      "sha256": "c95d5bdb7ad8a9ac81490d2f4d1a0445cc27addf1756065eb915c62a3de3347d",
+      "role": "generic EasternKingdoms Doan reference, not the local classic_* binding"
+    },
+    {
+      "repo": "vmangos/core",
+      "sha": "fe6bf62bd194dbbd6a8882293604f12e3bd66eae",
+      "path": "src/scripts/eastern_kingdoms/tirisfal_glades/scarlet_monastery/boss_arcanist_doan.cpp",
+      "sha256": "c63ca079a31801f27f6ca1860f3e93fc1afd3c24c703cb10975c7baf75eb18b8",
+      "role": "historical ScriptDev-lineage reference"
+    },
+    {
+      "repo": "cmangos/mangos-classic",
+      "sha": "480077ad7e7d5052f5c773faf83a1716c613f881",
+      "path": "src/game/AI/ScriptDevAI/scripts/eastern_kingdoms/scarlet_monastery/boss_arcanist_doan.cpp",
+      "sha256": "908a1f8349c799e3e1924b38ab9d800264630e9d27cbcadb682e7ffd9ce0b242",
+      "role": "historical ScriptDev-lineage reference"
+    },
+    {
+      "repo": "Karrz1/TrinityCore",
+      "pin": "343fe6fb95076e09575156c8b88d155914003b78",
+      "path": "src/server/scripts/Custom/Classic/instances/scarlet_monastery/classic_boss_arcanist_doan.cpp",
+      "sha256": "6aae2b7125c31cc0674f2d27f97b3bf5b556090e1c536202580981e39842cba2",
+      "role": "actual bound implementation",
+      "unchanged_at_latest_head": true
+    }
+  ],
+  "local_readonly_binding": {
+    "entry": 6487,
+    "AIName": "",
+    "ScriptName": "classic_boss_arcanist_doan",
+    "map_189_instance": "classic_instance_scarlet_monastery"
+  },
+  "observations": [
+    "Bound Classic source explicitly identifies VMaNGOS port and GPL-2 lineage.",
+    "Classic baseline and inspected current Forever head have identical Doan Classic source.",
+    "VMaNGOS and bound Classic: Polymorph first 20 seconds/repeat20; Silence first15/repeat15\u201320; Explosion first3/repeat8; bubble at <=50% health.",
+    "CMaNGOS differs: Polymorph first15; Silence first7.5/repeat15\u201322; Explosion first1\u20133/repeat2.5\u20138.5; detonation timer1 second. These are differences to investigate, not verified Forever defects.",
+    "Generic EasternKingdoms Doan file uses BossAI and is not the bound classic_* implementation. Comparing it alone would audit the wrong script."
+  ],
+  "runtime_patch": false,
+  "next": "Audit actual bound implementation and instance state/door/quest dependencies against Forever combat observations. Do not overwrite working bindings with differently named historical scripts."
+}

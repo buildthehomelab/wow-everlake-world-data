@@ -1,0 +1,37 @@
+{
+  "file": "2026_11_10_44_world_everlake_cobrahn_healing_placeholder.sql",
+  "sha256": "fec93b8983efcf5a82378ade79a0cadb960f161cd910077d46cf3954cffb2b09",
+  "core_pin": "343fe6fb95076e09575156c8b88d155914003b78",
+  "client": "1.60.1.70862",
+  "issue": 47,
+  "key": [
+    3669,
+    0,
+    900,
+    0
+  ],
+  "spell": 5188,
+  "evidence": {
+    "observation": "https://foreverdb.net/dungeon/43-wailing-caverns",
+    "exact_spell": "https://foreverdb.net/spell/5188",
+    "sample": "one recorded 28-second fight; one cast at approximately 7 seconds",
+    "historical_fallback": "https://github.com/cmangos/classic-db/blob/c33f90b8eeb3f8bacb53d5cbfee45075c80b416c/ACID/acid_classic.sql",
+    "classic_record": 366906
+  },
+  "provisional_schedule": {
+    "event": 74,
+    "hp_pct": [
+      0,
+      60
+    ],
+    "repeat_ms": [
+      18000,
+      24000
+    ],
+    "radius": 40,
+    "phase_mask": 1,
+    "target": 7
+  },
+  "confidence": "Observed cast identity; exact timing, health gate and target selection provisional",
+  "new_player_spell_unlocks": 0
+}
