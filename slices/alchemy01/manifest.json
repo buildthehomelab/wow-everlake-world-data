@@ -1,0 +1,518 @@
+{
+  "slice": "alchemy01",
+  "file": "2026_11_10_27_world_everlake_alchemy_vendor_prices.sql",
+  "core": "343fe6fb95076e09575156c8b88d155914003b78",
+  "client": "1.60.1.70862",
+  "sha256": "c58ee56dabaeba8857bcbf185bc398aa05809f2c0859a45e5f8b65f0ad621e0a",
+  "operation": "guarded correction of existing npc_vendor rows",
+  "expected_updates": 28,
+  "new_spell_unlocks": 0,
+  "source": "https://gearinsight.app/wow/en/forever/professions",
+  "source_html_sha256": "357d769db54830c5021afd62f60ffa847bf8f7b5b5c7f6e246b0e21fc0330608",
+  "rows": [
+    {
+      "item": 250364,
+      "name": "Recipe: Elixir of Cunning",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11842,
+      "old_condition": 0,
+      "new_condition": 163433,
+      "favor": 180,
+      "tooltip": {
+        "item": 250364,
+        "name": "Recipe: Elixir of Cunning",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250364",
+        "sha256": "aafbfcb54f8ec53a66b04fbd26d8827126de9d320cfc91af6c14bcfdc9428cb0",
+        "reputation_rank": "Honored",
+        "expected_rank": "Honored",
+        "matched": true
+      }
+    },
+    {
+      "item": 250365,
+      "name": "Recipe: Elixir of the Phalanx",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11842,
+      "old_condition": 0,
+      "new_condition": 163433,
+      "favor": 180,
+      "tooltip": {
+        "item": 250365,
+        "name": "Recipe: Elixir of the Phalanx",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250365",
+        "sha256": "259de02b47b903a0cfc8d10cc0c7dff1c1137a4c8beaa767243d86da3cbcacfc",
+        "reputation_rank": "Honored",
+        "expected_rank": "Honored",
+        "matched": true
+      }
+    },
+    {
+      "item": 250367,
+      "name": "Recipe: Lesser Cleric's Elixir",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11840,
+      "old_condition": 0,
+      "new_condition": 0,
+      "favor": 45,
+      "tooltip": {
+        "item": 250367,
+        "name": "Recipe: Lesser Cleric's Elixir",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250367",
+        "sha256": "f1f4c0f53c46ed76109a2b7151b5db4826201922c617a70b06bc91bb3fd33b9a",
+        "reputation_rank": null,
+        "expected_rank": null,
+        "matched": true
+      }
+    },
+    {
+      "item": 250369,
+      "name": "Recipe: Greater Cleric's Elixir",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11841,
+      "old_condition": 0,
+      "new_condition": 163380,
+      "favor": 120,
+      "tooltip": {
+        "item": 250369,
+        "name": "Recipe: Greater Cleric's Elixir",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250369",
+        "sha256": "e795f4cb9c89519fc4f6535dee74c8138a7839c80d72e6800d1190e990faf97b",
+        "reputation_rank": "Friendly",
+        "expected_rank": "Friendly",
+        "matched": true
+      }
+    },
+    {
+      "item": 250371,
+      "name": "Recipe: Elixir of Greater Fortitude",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11841,
+      "old_condition": 0,
+      "new_condition": 163380,
+      "favor": 120,
+      "tooltip": {
+        "item": 250371,
+        "name": "Recipe: Elixir of Greater Fortitude",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250371",
+        "sha256": "ba5a1e834422e154d9d4123d92674367c886c34b72360b8aa4bc31fb092ad75e",
+        "reputation_rank": "Friendly",
+        "expected_rank": "Friendly",
+        "matched": true
+      }
+    },
+    {
+      "item": 250372,
+      "name": "Recipe: Elixir of Wicked Regeneration",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11842,
+      "old_condition": 0,
+      "new_condition": 163433,
+      "favor": 180,
+      "tooltip": {
+        "item": 250372,
+        "name": "Recipe: Elixir of Wicked Regeneration",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250372",
+        "sha256": "dbe7780c1fa9c2d76d2caf0cb9a846bbd96398e49f9f0fb3f578ed58b179ddc9",
+        "reputation_rank": "Honored",
+        "expected_rank": "Honored",
+        "matched": true
+      }
+    },
+    {
+      "item": 250373,
+      "name": "Recipe: Elixir of the Owl",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11842,
+      "old_condition": 0,
+      "new_condition": 163433,
+      "favor": 180,
+      "tooltip": {
+        "item": 250373,
+        "name": "Recipe: Elixir of the Owl",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250373",
+        "sha256": "30e382f497d6fe21eb034981146859a98ee0fc70d0977ba80a13615170286591",
+        "reputation_rank": "Honored",
+        "expected_rank": "Honored",
+        "matched": true
+      }
+    },
+    {
+      "item": 250374,
+      "name": "Recipe: Elixir of Sages",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11842,
+      "old_condition": 0,
+      "new_condition": 163433,
+      "favor": 180,
+      "tooltip": {
+        "item": 250374,
+        "name": "Recipe: Elixir of Sages",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250374",
+        "sha256": "a568f0834b143a942e45b47beeb8ed1e835b651d265aed6a7f9112415fdb04cb",
+        "reputation_rank": "Honored",
+        "expected_rank": "Honored",
+        "matched": true
+      }
+    },
+    {
+      "item": 250376,
+      "name": "Recipe: Lesser Mageblood Elixir",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11840,
+      "old_condition": 0,
+      "new_condition": 0,
+      "favor": 45,
+      "tooltip": {
+        "item": 250376,
+        "name": "Recipe: Lesser Mageblood Elixir",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250376",
+        "sha256": "52b69d59c4cc5dcab41cb2261dfc24d72e25f3b5cfda284ba9f6d9d837702222",
+        "reputation_rank": null,
+        "expected_rank": null,
+        "matched": true
+      }
+    },
+    {
+      "item": 250377,
+      "name": "Recipe: Greater Mageblood Elixir",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11841,
+      "old_condition": 0,
+      "new_condition": 163380,
+      "favor": 120,
+      "tooltip": {
+        "item": 250377,
+        "name": "Recipe: Greater Mageblood Elixir",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250377",
+        "sha256": "6705b8867c18fe546843e4cca9a650549b7cacb68ce8437cd6eb5fc13934e36f",
+        "reputation_rank": "Friendly",
+        "expected_rank": "Friendly",
+        "matched": true
+      }
+    },
+    {
+      "item": 250378,
+      "name": "Recipe: Lesser Arcane Elixir",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11840,
+      "old_condition": 0,
+      "new_condition": 0,
+      "favor": 45,
+      "tooltip": {
+        "item": 250378,
+        "name": "Recipe: Lesser Arcane Elixir",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250378",
+        "sha256": "edc7ad6b6a26c58b217310155b2090c6ce9d3edcc2de57811e5ff35e3d93789a",
+        "reputation_rank": null,
+        "expected_rank": null,
+        "matched": true
+      }
+    },
+    {
+      "item": 250379,
+      "name": "Recipe: Elixir of Nature Power",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11842,
+      "old_condition": 0,
+      "new_condition": 163433,
+      "favor": 180,
+      "tooltip": {
+        "item": 250379,
+        "name": "Recipe: Elixir of Nature Power",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250379",
+        "sha256": "070cc708bb582f2a86b3d03802021d9a1e82d0ccb33981890ae85953381b431f",
+        "reputation_rank": "Honored",
+        "expected_rank": "Honored",
+        "matched": true
+      }
+    },
+    {
+      "item": 250381,
+      "name": "Recipe: Elixir of Lesser Spirit",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11839,
+      "old_condition": 0,
+      "new_condition": 0,
+      "favor": 45,
+      "tooltip": {
+        "item": 250381,
+        "name": "Recipe: Elixir of Lesser Spirit",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250381",
+        "sha256": "8d56187cbc5ff59ae6c291fc022b10533f970f3c2ad7f284673c1cf85dbff50c",
+        "reputation_rank": null,
+        "expected_rank": null,
+        "matched": true
+      }
+    },
+    {
+      "item": 250383,
+      "name": "Recipe: Elixir of Greater Spirit",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11841,
+      "old_condition": 0,
+      "new_condition": 163380,
+      "favor": 120,
+      "tooltip": {
+        "item": 250383,
+        "name": "Recipe: Elixir of Greater Spirit",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250383",
+        "sha256": "88470f2334f8ff6519870718884450cea0ca8598cd48ca5eb5c2fb7037d4bfb1",
+        "reputation_rank": "Friendly",
+        "expected_rank": "Friendly",
+        "matched": true
+      }
+    },
+    {
+      "item": 250384,
+      "name": "Recipe: Elixir of the Whale",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11842,
+      "old_condition": 0,
+      "new_condition": 163433,
+      "favor": 180,
+      "tooltip": {
+        "item": 250384,
+        "name": "Recipe: Elixir of the Whale",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250384",
+        "sha256": "7edf432a6380123cc3e1f86a27fbb1062253f472f4a71a6cf2bf0015e91316f0",
+        "reputation_rank": "Honored",
+        "expected_rank": "Honored",
+        "matched": true
+      }
+    },
+    {
+      "item": 250386,
+      "name": "Recipe: Elixir of Ferocity",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11842,
+      "old_condition": 0,
+      "new_condition": 163433,
+      "favor": 180,
+      "tooltip": {
+        "item": 250386,
+        "name": "Recipe: Elixir of Ferocity",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250386",
+        "sha256": "494ec0dc0f7dde1e5f34e61d3e94e0f926ec2753d61117aa01324580569162f2",
+        "reputation_rank": "Honored",
+        "expected_rank": "Honored",
+        "matched": true
+      }
+    },
+    {
+      "item": 250387,
+      "name": "Recipe: Elixir of the Grizzly",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11843,
+      "old_condition": 0,
+      "new_condition": 163433,
+      "favor": 240,
+      "tooltip": {
+        "item": 250387,
+        "name": "Recipe: Elixir of the Grizzly",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250387",
+        "sha256": "c3e5972757c36ad2302c1e59b5f69b25c45942628e958a9072da59db230e6c70",
+        "reputation_rank": "Honored",
+        "expected_rank": "Honored",
+        "matched": true
+      }
+    },
+    {
+      "item": 250388,
+      "name": "Recipe: Elixir of Lesser Intellect",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11840,
+      "old_condition": 0,
+      "new_condition": 0,
+      "favor": 45,
+      "tooltip": {
+        "item": 250388,
+        "name": "Recipe: Elixir of Lesser Intellect",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250388",
+        "sha256": "fbb8a0a5300abd8413870ac0efc3befec2d298a53f096c6b1d22e74212d7e1b9",
+        "reputation_rank": null,
+        "expected_rank": null,
+        "matched": true
+      }
+    },
+    {
+      "item": 250978,
+      "name": "Recipe: Spellblasting Potion",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11840,
+      "old_condition": 0,
+      "new_condition": 0,
+      "favor": 45,
+      "tooltip": {
+        "item": 250978,
+        "name": "Recipe: Spellblasting Potion",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250978",
+        "sha256": "30b28a975e39a1bf8469d84f014df5838f3f8b2403f455bd5b7f9947e8293ce3",
+        "reputation_rank": null,
+        "expected_rank": null,
+        "matched": true
+      }
+    },
+    {
+      "item": 250981,
+      "name": "Recipe: Major Spellblasting Potion",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11842,
+      "old_condition": 0,
+      "new_condition": 163433,
+      "favor": 180,
+      "tooltip": {
+        "item": 250981,
+        "name": "Recipe: Major Spellblasting Potion",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250981",
+        "sha256": "718ef47aba757e7b6a595761ac74944e1fd0752f9cf5985b7ccbf724929e276a",
+        "reputation_rank": "Honored",
+        "expected_rank": "Honored",
+        "matched": true
+      }
+    },
+    {
+      "item": 250984,
+      "name": "Recipe: Frenzy Potion",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11840,
+      "old_condition": 0,
+      "new_condition": 0,
+      "favor": 45,
+      "tooltip": {
+        "item": 250984,
+        "name": "Recipe: Frenzy Potion",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250984",
+        "sha256": "0b487c3998dbf2059549ee2b5d8223e04bb5d7b11b1ba6312231b5b4fa311801",
+        "reputation_rank": null,
+        "expected_rank": null,
+        "matched": true
+      }
+    },
+    {
+      "item": 250987,
+      "name": "Recipe: Major Frenzy Potion",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11843,
+      "old_condition": 0,
+      "new_condition": 163433,
+      "favor": 240,
+      "tooltip": {
+        "item": 250987,
+        "name": "Recipe: Major Frenzy Potion",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250987",
+        "sha256": "3fa155dbed4f9c996a11c8bbc33b8df535be892d7f4d08e23c0d6287075dadf0",
+        "reputation_rank": "Honored",
+        "expected_rank": "Honored",
+        "matched": true
+      }
+    },
+    {
+      "item": 250990,
+      "name": "Recipe: Mender's Potion",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11840,
+      "old_condition": 0,
+      "new_condition": 0,
+      "favor": 45,
+      "tooltip": {
+        "item": 250990,
+        "name": "Recipe: Mender's Potion",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250990",
+        "sha256": "c19e9038bae4c4bafed1ce9adcf2595baa7f05aae28270d0e1cc9b33920ec249",
+        "reputation_rank": null,
+        "expected_rank": null,
+        "matched": true
+      }
+    },
+    {
+      "item": 250993,
+      "name": "Recipe: Major Mender's Potion",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11842,
+      "old_condition": 0,
+      "new_condition": 163433,
+      "favor": 180,
+      "tooltip": {
+        "item": 250993,
+        "name": "Recipe: Major Mender's Potion",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250993",
+        "sha256": "df9453401e23105f29a8455478d1275061216bf891f713558b1fe25c08f2e80f",
+        "reputation_rank": "Honored",
+        "expected_rank": "Honored",
+        "matched": true
+      }
+    },
+    {
+      "item": 250994,
+      "name": "Recipe: Potion of Venomous Blood",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11842,
+      "old_condition": 0,
+      "new_condition": 163433,
+      "favor": 180,
+      "tooltip": {
+        "item": 250994,
+        "name": "Recipe: Potion of Venomous Blood",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250994",
+        "sha256": "6b7463238f03eb6e9f4021ec05773a25f459d727083173b5cd8f8392f457e752",
+        "reputation_rank": "Honored",
+        "expected_rank": "Honored",
+        "matched": true
+      }
+    },
+    {
+      "item": 250995,
+      "name": "Recipe: Caustic Smog Potion",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11842,
+      "old_condition": 0,
+      "new_condition": 163433,
+      "favor": 180,
+      "tooltip": {
+        "item": 250995,
+        "name": "Recipe: Caustic Smog Potion",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250995",
+        "sha256": "87ea43de3d50de8d4b98a4610369c2a4b829f0912ae45c3d9e6d276e1a3fb6af",
+        "reputation_rank": "Honored",
+        "expected_rank": "Honored",
+        "matched": true
+      }
+    },
+    {
+      "item": 250997,
+      "name": "Recipe: Dragonfire Potion",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11841,
+      "old_condition": 0,
+      "new_condition": 163380,
+      "favor": 120,
+      "tooltip": {
+        "item": 250997,
+        "name": "Recipe: Dragonfire Potion",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250997",
+        "sha256": "b41909311fc41b5fa34818ed0bc765dd5a2dc6ec1fbddcf4496c44636daed217",
+        "reputation_rank": "Friendly",
+        "expected_rank": "Friendly",
+        "matched": true
+      }
+    },
+    {
+      "item": 250998,
+      "name": "Recipe: Potion of Elemental Purging",
+      "old_extended_cost": 0,
+      "new_extended_cost": 11842,
+      "old_condition": 0,
+      "new_condition": 163433,
+      "favor": 180,
+      "tooltip": {
+        "item": 250998,
+        "name": "Recipe: Potion of Elemental Purging",
+        "source": "https://nether.wowhead.com/forever/tooltip/item/250998",
+        "sha256": "990da414fad730bb3581a42d0524da7ad7e4c24ab6cc5db41aa4bee2cc84f6fd",
+        "reputation_rank": "Honored",
+        "expected_rank": "Honored",
+        "matched": true
+      }
+    }
+  ]
+}

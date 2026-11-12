@@ -1,0 +1,252 @@
+{
+  "scope": "21 prior Registry vendor candidates. Targeted fresh follow-up; prior dispositions retained where not independently resolved. No vendor mutation approved by evidence in this pass.",
+  "candidates": [
+    {
+      "spell": 428424,
+      "item": 211247,
+      "name": "Phoenix Bindings",
+      "places": [
+        "Elaine Compton",
+        "Jornah",
+        "Dokimi",
+        "Gishah",
+        "Tamelyn Aldridge",
+        "Marcy Baker"
+      ],
+      "decision": "unavailable_conflicting_source",
+      "reason": "Wowhead Forever item page marks unavailable to players; vendor list appears alongside that warning. Do not import without a current observation.",
+      "followup": "Fresh page still marks unavailable despite a drop/vendor listing; comment also reports no longer appearing. Conflict remains; no restoration."
+    },
+    {
+      "spell": 431362,
+      "item": 212230,
+      "name": "Soul Vessel",
+      "places": [
+        "Elaine Compton",
+        "Jornah",
+        "Dokimi",
+        "Gishah",
+        "Tamelyn Aldridge",
+        "Marcy Baker"
+      ],
+      "decision": "unavailable_conflicting_source",
+      "reason": "Wowhead Forever item page marks unavailable to players; vendor list appears alongside that warning. Do not import without a current observation.",
+      "followup": "Prior disposition retained; no newly verified exact-ID acquisition evidence in this pass."
+    },
+    {
+      "spell": 435481,
+      "item": 215129,
+      "name": "Enchant Weapon - Dismantle",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock.",
+      "followup": "No exact Ziri template in read-only world name search, and no target vendor rows. 70862 observation snapshot contains none of these stock IDs. Dismantle page confirms Gnomeregan region only; cannot infer NPC template/spawn or purchase requirements for nine records."
+    },
+    {
+      "spell": 435819,
+      "item": 215367,
+      "name": "Faintly Glowing Leather",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock.",
+      "followup": "No exact Ziri template in read-only world name search, and no target vendor rows. 70862 observation snapshot contains none of these stock IDs. Dismantle page confirms Gnomeregan region only; cannot infer NPC template/spawn or purchase requirements for nine records."
+    },
+    {
+      "spell": 435827,
+      "item": 215368,
+      "name": "Hyperconductive Arcano-Filament",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock.",
+      "followup": "No exact Ziri template in read-only world name search, and no target vendor rows. 70862 observation snapshot contains none of these stock IDs. Dismantle page confirms Gnomeregan region only; cannot infer NPC template/spawn or purchase requirements for nine records."
+    },
+    {
+      "spell": 435903,
+      "item": 215138,
+      "name": "Enchant Chest - Retricutioner",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock.",
+      "followup": "No exact Ziri template in read-only world name search, and no target vendor rows. 70862 observation snapshot contains none of these stock IDs. Dismantle page confirms Gnomeregan region only; cannot infer NPC template/spawn or purchase requirements for nine records."
+    },
+    {
+      "spell": 435910,
+      "item": 215384,
+      "name": "Low-Background Truesilver Plates",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock.",
+      "followup": "No exact Ziri template in read-only world name search, and no target vendor rows. 70862 observation snapshot contains none of these stock IDs. Dismantle page confirms Gnomeregan region only; cannot infer NPC template/spawn or purchase requirements for nine records."
+    },
+    {
+      "spell": 435956,
+      "item": 215429,
+      "name": "Polished Truesilver Gears",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock.",
+      "followup": "No exact Ziri template in read-only world name search, and no target vendor rows. 70862 observation snapshot contains none of these stock IDs. Dismantle page confirms Gnomeregan region only; cannot infer NPC template/spawn or purchase requirements for nine records."
+    },
+    {
+      "spell": 435964,
+      "item": 215431,
+      "name": "High-Yield Radiation Bomb",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock.",
+      "followup": "No exact Ziri template in read-only world name search, and no target vendor rows. 70862 observation snapshot contains none of these stock IDs. Dismantle page confirms Gnomeregan region only; cannot infer NPC template/spawn or purchase requirements for nine records."
+    },
+    {
+      "spell": 435966,
+      "item": 215432,
+      "name": "Ez-Thro Radiation Bomb",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock.",
+      "followup": "No exact Ziri template in read-only world name search, and no target vendor rows. 70862 observation snapshot contains none of these stock IDs. Dismantle page confirms Gnomeregan region only; cannot infer NPC template/spawn or purchase requirements for nine records."
+    },
+    {
+      "spell": 439156,
+      "item": 215141,
+      "name": "Sigil of Innovation",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock.",
+      "followup": "No exact Ziri template in read-only world name search, and no target vendor rows. 70862 observation snapshot contains none of these stock IDs. Dismantle page confirms Gnomeregan region only; cannot infer NPC template/spawn or purchase requirements for nine records."
+    },
+    {
+      "spell": 439960,
+      "item": 217399,
+      "name": "Lesser Arcane Elixir",
+      "places": [],
+      "decision": "unavailable_conflicting_source",
+      "reason": "Wowhead Forever item page marks unavailable to players; vendor list appears alongside that warning. Do not import without a current observation.",
+      "followup": "Fresh exact-ID page still marks unavailable. Other session confirmed same-name new Forever recipe 250378 must not be joined to old SoD 217399."
+    },
+    {
+      "spell": 1248668,
+      "item": 249523,
+      "name": "Enchant 2H Weapon - Strength",
+      "places": [
+        "Dalria",
+        "Kulwia"
+      ],
+      "decision": "source_conflict",
+      "reason": "Registry names Dalria/Kulwia, but no exact-ID observed stock, cost or restock. Those vendors also sell a different Lesser Strength bracer formula; do not conflate.",
+      "followup": "Deferred to active other session, which searched this exact item and Dalria/Kulwia. No overlapping edits."
+    },
+    {
+      "spell": 1257492,
+      "item": 254134,
+      "name": "Mooncloth Reagent Bag",
+      "places": [
+        "Dala Fairmaw"
+      ],
+      "decision": "npc_and_purchase_blocked",
+      "reason": "Dala Fairmaw is NPC 256629, confirmed by Norgannon and Wowhead; missing local template/spawn. Friendly for Sweetpaw Jam, Honored for the other two. Pinned base item table lacks those reputation gates; verify live hotfix and purchase costs.",
+      "followup": "Still held: fresh Wowhead tooltip confirms Barkskin Burrow Friendly (Jam) / Honored (Bag and Lotus Claw), but local template/spawn is absent. Public guide claims 10 Deadwood Tribal Beads each, without a verified current NPC stock record, client cost row, or full spawn placement. No inferred gold-only purchase.",
+      "current_source": "https://www.wowhead.com/forever/item=254134"
+    },
+    {
+      "spell": 1263034,
+      "item": 273092,
+      "name": "Repair Bot",
+      "places": [
+        "Happy Camper"
+      ],
+      "decision": "already_covered",
+      "reason": "Verified Sneed drop in prior draft; Happy Camper vendor remains unverified.",
+      "followup": "Prior disposition retained; no newly verified exact-ID acquisition evidence in this pass."
+    },
+    {
+      "spell": 1294014,
+      "item": 274415,
+      "name": "Sweetpaw Jam",
+      "places": [
+        "Dala Fairmaw"
+      ],
+      "decision": "npc_and_purchase_blocked",
+      "reason": "Dala Fairmaw is NPC 256629, confirmed by Norgannon and Wowhead; missing local template/spawn. Friendly for Sweetpaw Jam, Honored for the other two. Pinned base item table lacks those reputation gates; verify live hotfix and purchase costs.",
+      "followup": "Still held: fresh Wowhead tooltip confirms Barkskin Burrow Friendly (Jam) / Honored (Bag and Lotus Claw), but local template/spawn is absent. Public guide claims 10 Deadwood Tribal Beads each, without a verified current NPC stock record, client cost row, or full spawn placement. No inferred gold-only purchase.",
+      "current_source": "https://www.wowhead.com/forever/item=274415"
+    },
+    {
+      "spell": 1294054,
+      "item": 274424,
+      "name": "Enchant Gloves - Lotus Claw",
+      "places": [
+        "Dala Fairmaw"
+      ],
+      "decision": "npc_and_purchase_blocked",
+      "reason": "Dala Fairmaw is NPC 256629, confirmed by Norgannon and Wowhead; missing local template/spawn. Friendly for Sweetpaw Jam, Honored for the other two. Pinned base item table lacks those reputation gates; verify live hotfix and purchase costs.",
+      "followup": "Still held: fresh Wowhead tooltip confirms Barkskin Burrow Friendly (Jam) / Honored (Bag and Lotus Claw), but local template/spawn is absent. Public guide claims 10 Deadwood Tribal Beads each, without a verified current NPC stock record, client cost row, or full spawn placement. No inferred gold-only purchase.",
+      "current_source": "https://www.wowhead.com/forever/item=274424"
+    },
+    {
+      "spell": 1317962,
+      "item": 285289,
+      "name": "Cracked Blacksmith Hammer",
+      "places": [
+        "Gor'mak",
+        "Stondry Darkhammer"
+      ],
+      "decision": "already_covered",
+      "reason": "Existing spawned vendor route; hammer recipes are in PR #25 and Boots Speed in prior drafts.",
+      "followup": "Prior disposition retained; no newly verified exact-ID acquisition evidence in this pass."
+    },
+    {
+      "spell": 1317963,
+      "item": 285290,
+      "name": "Mithril Blacksmith Hammer",
+      "places": [
+        "Gor'mak",
+        "Stondry Darkhammer"
+      ],
+      "decision": "already_covered",
+      "reason": "Existing spawned vendor route; hammer recipes are in PR #25 and Boots Speed in prior drafts.",
+      "followup": "Prior disposition retained; no newly verified exact-ID acquisition evidence in this pass."
+    },
+    {
+      "spell": 1317964,
+      "item": 285291,
+      "name": "Arcanite Blacksmith Hammer",
+      "places": [
+        "Gor'mak",
+        "Stondry Darkhammer"
+      ],
+      "decision": "already_covered",
+      "reason": "Existing spawned vendor route; hammer recipes are in PR #25 and Boots Speed in prior drafts.",
+      "followup": "Prior disposition retained; no newly verified exact-ID acquisition evidence in this pass."
+    },
+    {
+      "spell": 1328948,
+      "item": 289560,
+      "name": "Enchant Boots - Speed",
+      "places": [
+        "Beneris",
+        "Alynsia"
+      ],
+      "decision": "already_covered",
+      "reason": "Existing spawned vendor route; hammer recipes are in PR #25 and Boots Speed in prior drafts.",
+      "followup": "Prior disposition retained; no newly verified exact-ID acquisition evidence in this pass."
+    }
+  ]
+}

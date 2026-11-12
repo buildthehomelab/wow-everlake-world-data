@@ -1,0 +1,131 @@
+{
+  "slice": "addon04",
+  "file": "2026_11_10_24_world_everlake_import_addon04.sql",
+  "world": "forever-tdb-2026-10-14 + core 343fe6fb + world-data 24a3b39e + prior drafts",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "core": "343fe6fb95076e09575156c8b88d155914003b78"
+  },
+  "sha256": "4c553aaeef58c1f9c1ca86e0bb4806467523ea2011e960fddd6143c5e8dcc8dc",
+  "keys": {
+    "creature_loot_template": [
+      [
+        6487,
+        0,
+        254040
+      ],
+      [
+        6487,
+        0,
+        254038
+      ],
+      [
+        6487,
+        0,
+        254048
+      ],
+      [
+        6487,
+        0,
+        252844
+      ],
+      [
+        6487,
+        0,
+        252897
+      ],
+      [
+        6487,
+        0,
+        251402
+      ],
+      [
+        6487,
+        0,
+        251399
+      ],
+      [
+        4719,
+        0,
+        254016
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 8
+  },
+  "routes": [
+    {
+      "npc": 6487,
+      "item": 254040,
+      "spell": 1257445,
+      "chance_percent_estimate": 1.92,
+      "map": 189,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/6487",
+      "note": "Exact NPC-item pair and estimated rate from Icy Veins."
+    },
+    {
+      "npc": 6487,
+      "item": 254038,
+      "spell": 1257444,
+      "chance_percent_estimate": 1.92,
+      "map": 189,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/6487",
+      "note": "Exact NPC-item pair and estimated rate from Icy Veins."
+    },
+    {
+      "npc": 6487,
+      "item": 254048,
+      "spell": 1257449,
+      "chance_percent_estimate": 1.92,
+      "map": 189,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/6487",
+      "note": "Exact NPC-item pair and estimated rate from Icy Veins."
+    },
+    {
+      "npc": 6487,
+      "item": 252844,
+      "spell": 1255063,
+      "chance_percent_estimate": 1.92,
+      "map": 189,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/6487",
+      "note": "Exact NPC-item pair and estimated rate from Icy Veins."
+    },
+    {
+      "npc": 6487,
+      "item": 252897,
+      "spell": 1255010,
+      "chance_percent_estimate": 1.92,
+      "map": 189,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/6487",
+      "note": "Exact NPC-item pair and estimated rate from Icy Veins."
+    },
+    {
+      "npc": 6487,
+      "item": 251402,
+      "spell": 1252299,
+      "chance_percent_estimate": 1.92,
+      "map": 189,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/6487",
+      "note": "Exact NPC-item pair and estimated rate from Icy Veins."
+    },
+    {
+      "npc": 6487,
+      "item": 251399,
+      "spell": 1252296,
+      "chance_percent_estimate": 1.92,
+      "map": 189,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/6487",
+      "note": "Exact NPC-item pair and estimated rate from Icy Veins."
+    },
+    {
+      "npc": 4719,
+      "item": 254016,
+      "spell": 1257433,
+      "chance_percent_estimate": 0.01,
+      "map": 1,
+      "rate_reference": "https://www.wowhead.com/forever/item=254016/pattern-earthen-silk-hood",
+      "note": "Wowhead collected loot names Slitherblade Sea Witch and gives a rounded estimated rate. Local NPC name resolves uniquely to 4719."
+    }
+  ]
+}

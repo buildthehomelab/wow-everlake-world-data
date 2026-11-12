@@ -1,0 +1,11 @@
+{
+  "quest": 2240,
+  "objective": 385513,
+  "choices": [
+    9626,
+    9627,
+    270078
+  ],
+  "replay": "checksums matched",
+  "importer_rewrite_statements": 4
+}

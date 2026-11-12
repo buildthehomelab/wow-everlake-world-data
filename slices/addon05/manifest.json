@@ -1,0 +1,78 @@
+{
+  "slice": "addon05",
+  "file": "2026_11_10_25_world_everlake_import_addon05.sql",
+  "world": "forever-tdb-2026-10-14 + core 343fe6fb + world-data 24a3b39e + prior drafts",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "core": "343fe6fb95076e09575156c8b88d155914003b78"
+  },
+  "sha256": "47700b45d674f612488e44048962725f05da9d098840b4536e5702b03b8f1596",
+  "keys": {
+    "creature_loot_template": [
+      [
+        2739,
+        0,
+        255726
+      ],
+      [
+        5236,
+        0,
+        255725
+      ],
+      [
+        6575,
+        0,
+        255730
+      ],
+      [
+        4711,
+        0,
+        251387
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 4
+  },
+  "routes": [
+    {
+      "npc": 2739,
+      "item": 255726,
+      "spell": 1259348,
+      "chance_percent_estimate": 0.09,
+      "map": 0,
+      "rate_reference": "https://www.wowhead.com/forever/item=255726/manual-leather-tourniquet",
+      "note": "Wowhead collected loot names this creature and provides a rounded estimated rate. Local creature name resolves uniquely."
+    },
+    {
+      "npc": 5236,
+      "item": 255725,
+      "spell": 1244435,
+      "chance_percent_estimate": 0.04,
+      "map": 1,
+      "rate_reference": "https://www.wowhead.com/forever/item=255725/manual-superior-healing-potion",
+      "note": "Wowhead collected loot names this creature and provides a rounded estimated rate. Local creature name resolves uniquely."
+    },
+    {
+      "npc": 6575,
+      "item": 255730,
+      "spell": 1259349,
+      "chance_percent_estimate": 0.04,
+      "map": 189,
+      "rate_reference": "https://www.wowhead.com/forever/item=255730/manual-surgical-tourniquet",
+      "note": "Wowhead collected loot names this creature and provides a rounded estimated rate. Local creature name resolves uniquely.",
+      "summoner": 3975,
+      "core_reference": "https://github.com/buildthehomelab/wow-trinitycore-everlake/blob/343fe6fb95076e09575156c8b88d155914003b78/src/server/scripts/Custom/Classic/instances/scarlet_monastery/classic_boss_herod.cpp",
+      "summon_evidence": "Bound classic_boss_herod JustDied summons 20 Scarlet Trainees (6575). Herod is spawned on map 189. No direct trainee spawn is assumed."
+    },
+    {
+      "npc": 4711,
+      "item": 251387,
+      "spell": 1252284,
+      "chance_percent_estimate": 0.02,
+      "map": 1,
+      "rate_reference": "https://www.wowhead.com/forever/item=251387/plans-hard-gold-bracers",
+      "note": "Wowhead collected loot names this creature and provides a rounded estimated rate. Local creature name resolves uniquely."
+    }
+  ]
+}
