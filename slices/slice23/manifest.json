@@ -1,0 +1,328 @@
+{
+  "slice": "slice23",
+  "world": "forever-tdb-2026-10-14 + core 029c5dd9 + world-data 24a3b39e",
+  "file": "2026_11_10_19_world_everlake_import_slice23.sql",
+  "pins": {
+    "eg-link": "9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae",
+    "wago": "1.60.1.70862"
+  },
+  "sha256": "709f4fbdc182de76c1be26e00ffe52217ed16e126707e96ec3da5ea7e0e0fbf1",
+  "counts": {
+    "quest_template": 4,
+    "quest_classic_level": 4,
+    "creature_queststarter": 4,
+    "creature_questender": 4,
+    "conditions": 4,
+    "quest_objectives": 14,
+    "quest_description_conditional": 4
+  },
+  "keys": {
+    "quest_template": [
+      [
+        96989
+      ],
+      [
+        96994
+      ],
+      [
+        96996
+      ],
+      [
+        96997
+      ]
+    ],
+    "quest_classic_level": [
+      [
+        96989
+      ],
+      [
+        96994
+      ],
+      [
+        96996
+      ],
+      [
+        96997
+      ]
+    ],
+    "creature_queststarter": [
+      [
+        7952,
+        96989
+      ],
+      [
+        3362,
+        96994
+      ],
+      [
+        265756,
+        96996
+      ],
+      [
+        4731,
+        96997
+      ]
+    ],
+    "creature_questender": [
+      [
+        7952,
+        96989
+      ],
+      [
+        3362,
+        96994
+      ],
+      [
+        265756,
+        96996
+      ],
+      [
+        4731,
+        96997
+      ]
+    ],
+    "conditions": [
+      [
+        19,
+        0,
+        96989,
+        0
+      ],
+      [
+        19,
+        0,
+        96994,
+        0
+      ],
+      [
+        19,
+        0,
+        96996,
+        0
+      ],
+      [
+        19,
+        0,
+        96997,
+        0
+      ]
+    ],
+    "quest_objectives": [
+      [
+        474663
+      ],
+      [
+        474664
+      ],
+      [
+        474665
+      ],
+      [
+        474675
+      ],
+      [
+        474676
+      ],
+      [
+        474677
+      ],
+      [
+        474678
+      ],
+      [
+        474683
+      ],
+      [
+        474684
+      ],
+      [
+        474685
+      ],
+      [
+        474689
+      ],
+      [
+        474690
+      ],
+      [
+        474691
+      ],
+      [
+        474740
+      ]
+    ],
+    "quest_description_conditional": [
+      [
+        96989,
+        155127,
+        7952
+      ],
+      [
+        96994,
+        155127,
+        3362
+      ],
+      [
+        96997,
+        158357,
+        4731
+      ],
+      [
+        96997,
+        155127,
+        4731
+      ]
+    ]
+  },
+  "guide": "https://www.wowhead.com/forever/guide/unlocking-riding-skill-mounts",
+  "quests": [
+    {
+      "quest": 96989,
+      "title": "Your First Riding Raptor",
+      "giver_and_ender": 7952,
+      "trainer": 7953,
+      "map": 1,
+      "min_level": 40,
+      "race_mask": "0000000000000080",
+      "required_skill": 762,
+      "required_skill_rank": 75,
+      "objectives": [
+        [
+          474663,
+          267291,
+          4
+        ],
+        [
+          474664,
+          267297,
+          5
+        ],
+        [
+          474665,
+          267298,
+          6
+        ]
+      ],
+      "reward_items": [
+        8588,
+        8591,
+        8592
+      ],
+      "quest_source": "https://www.wowhead.com/forever/quest=96989/your-first-riding-raptor"
+    },
+    {
+      "quest": 96994,
+      "title": "Your First Riding Wolf",
+      "giver_and_ender": 3362,
+      "trainer": 4752,
+      "map": 1,
+      "min_level": 40,
+      "race_mask": "0000000000000002",
+      "required_skill": 762,
+      "required_skill_rank": 75,
+      "objectives": [
+        [
+          474675,
+          267299,
+          4
+        ],
+        [
+          474676,
+          267300,
+          5
+        ],
+        [
+          474677,
+          267301,
+          6
+        ],
+        [
+          474678,
+          267302,
+          0
+        ]
+      ],
+      "reward_items": [
+        5668,
+        5665,
+        1132,
+        1041
+      ],
+      "quest_source": "https://www.wowhead.com/forever/quest=96994/your-first-riding-wolf"
+    },
+    {
+      "quest": 96996,
+      "title": "Your First Riding Galestrider",
+      "giver_and_ender": 265756,
+      "trainer": 265756,
+      "map": 2991,
+      "min_level": 40,
+      "race_mask": "0000000300000000",
+      "required_skill": 762,
+      "required_skill_rank": 75,
+      "objectives": [
+        [
+          474683,
+          267304,
+          4
+        ],
+        [
+          474684,
+          267305,
+          5
+        ],
+        [
+          474685,
+          267306,
+          6
+        ]
+      ],
+      "reward_items": [
+        269681,
+        274930,
+        269683
+      ],
+      "quest_source": "https://www.wowhead.com/forever/quest=96996/your-first-riding-galestrider"
+    },
+    {
+      "quest": 96997,
+      "title": "A Steed in Death as They Were in Life",
+      "giver_and_ender": 4731,
+      "trainer": 4773,
+      "map": 0,
+      "min_level": 40,
+      "race_mask": "0000000000000010",
+      "required_skill": 762,
+      "required_skill_rank": 75,
+      "objectives": [
+        [
+          474689,
+          267357,
+          4
+        ],
+        [
+          474690,
+          267364,
+          5
+        ],
+        [
+          474691,
+          267358,
+          6
+        ],
+        [
+          474740,
+          267354,
+          0
+        ]
+      ],
+      "reward_items": [
+        13332,
+        13331,
+        13333,
+        276063
+      ],
+      "quest_source": "https://www.wowhead.com/forever/quest=96997/a-steed-in-death-as-they-were-in-life"
+    }
+  ]
+}

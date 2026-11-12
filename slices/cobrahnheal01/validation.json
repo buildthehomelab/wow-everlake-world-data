@@ -1,0 +1,24 @@
+{
+  "schema": "codex_cobrahnheal_01a1c7e8",
+  "copied": {
+    "smart_scripts": 38,
+    "creature_template": 1,
+    "creature": 1,
+    "instance_template": 1,
+    "everlake_import_rows": 0
+  },
+  "source": "read-only world snapshot",
+  "added": 1,
+  "old_rows_unchanged": true,
+  "replay": "unchanged",
+  "negative_guards": [
+    "alternate template script",
+    "absent map43 spawn",
+    "altered serpent phase",
+    "existing heal",
+    "reserved key occupied"
+  ],
+  "sql_parser_statements": 10,
+  "sha256": "fec93b8983efcf5a82378ade79a0cadb960f161cd910077d46cf3954cffb2b09",
+  "runtime_test": false
+}

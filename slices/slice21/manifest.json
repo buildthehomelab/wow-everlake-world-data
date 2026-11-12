@@ -1,0 +1,207 @@
+{
+  "slice": "slice21",
+  "file": "2026_11_10_17_world_everlake_import_slice21.sql",
+  "world": "forever-tdb-2026-10-14 + core 029c5dd9 + world-data 24a3b39e",
+  "pins": {
+    "wago": "1.60.1.70862"
+  },
+  "sha256": "fc5c73d2fe6fa2d3173d7c2b83014984d7b7151df10086e9d9d52df69d516d72",
+  "keys": {
+    "creature_loot_template": [
+      [
+        4829,
+        0,
+        251352
+      ],
+      [
+        4830,
+        0,
+        251352
+      ],
+      [
+        4832,
+        0,
+        251352
+      ],
+      [
+        4829,
+        0,
+        251350
+      ],
+      [
+        4830,
+        0,
+        251350
+      ],
+      [
+        4832,
+        0,
+        251350
+      ],
+      [
+        12876,
+        0,
+        251350
+      ],
+      [
+        4829,
+        0,
+        253980
+      ],
+      [
+        4832,
+        0,
+        253980
+      ],
+      [
+        6243,
+        0,
+        253980
+      ],
+      [
+        4830,
+        0,
+        252816
+      ],
+      [
+        4831,
+        0,
+        252798
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 12
+  },
+  "routes": [
+    {
+      "npc": 4829,
+      "item": 251352,
+      "spell": 1252249,
+      "chance_percent_estimate": 0.584,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4829",
+      "wowhead_drops": 8,
+      "wowhead_kills": 7514,
+      "corroboration": "https://www.wowhead.com/forever/item=251352/plans-protectors-chain-helm"
+    },
+    {
+      "npc": 4830,
+      "item": 251352,
+      "spell": 1252249,
+      "chance_percent_estimate": 0.713,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4830",
+      "wowhead_drops": 4,
+      "wowhead_kills": 5334,
+      "corroboration": "https://www.wowhead.com/forever/item=251352/plans-protectors-chain-helm"
+    },
+    {
+      "npc": 4832,
+      "item": 251352,
+      "spell": 1252249,
+      "chance_percent_estimate": 1.38,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4832",
+      "wowhead_drops": 10,
+      "wowhead_kills": 14794,
+      "corroboration": "https://www.wowhead.com/forever/item=251352/plans-protectors-chain-helm"
+    },
+    {
+      "npc": 4829,
+      "item": 251350,
+      "spell": 1252247,
+      "chance_percent_estimate": 0.778,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4829",
+      "wowhead_drops": 3,
+      "wowhead_kills": 6662,
+      "corroboration": "https://www.wowhead.com/forever/item=251350/plans-veterans-chain-helm"
+    },
+    {
+      "npc": 4830,
+      "item": 251350,
+      "spell": 1252247,
+      "chance_percent_estimate": 0.238,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4830",
+      "wowhead_drops": 1,
+      "wowhead_kills": 4641,
+      "corroboration": "https://www.wowhead.com/forever/item=251350/plans-veterans-chain-helm"
+    },
+    {
+      "npc": 4832,
+      "item": 251350,
+      "spell": 1252247,
+      "chance_percent_estimate": 1.04,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4832",
+      "wowhead_drops": 1,
+      "wowhead_kills": 8743,
+      "corroboration": "https://www.wowhead.com/forever/item=251350/plans-veterans-chain-helm"
+    },
+    {
+      "npc": 12876,
+      "item": 251350,
+      "spell": 1252247,
+      "chance_percent_estimate": 0.714,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/12876",
+      "wowhead_drops": 1,
+      "wowhead_kills": 3079,
+      "corroboration": "https://www.wowhead.com/forever/item=251350/plans-veterans-chain-helm",
+      "summon": {
+        "object": 177964,
+        "event": 70,
+        "action": 12
+      }
+    },
+    {
+      "npc": 4829,
+      "item": 253980,
+      "spell": 1257415,
+      "chance_percent_estimate": 0.389,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4829",
+      "corroboration": "https://maxdps.com/forever/items/pattern-filigreed-flame-circlet"
+    },
+    {
+      "npc": 4832,
+      "item": 253980,
+      "spell": 1257415,
+      "chance_percent_estimate": 0.346,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4832",
+      "corroboration": "https://maxdps.com/forever/items/pattern-filigreed-flame-circlet"
+    },
+    {
+      "npc": 6243,
+      "item": 253980,
+      "spell": 1257415,
+      "chance_percent_estimate": 0.769,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/6243",
+      "corroboration": "https://maxdps.com/forever/items/pattern-filigreed-flame-circlet"
+    },
+    {
+      "npc": 4830,
+      "item": 252816,
+      "spell": 1255091,
+      "chance_percent_estimate": 0.713,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4830",
+      "source_note": "Icy Veins lists the exact pattern ID; the separate Wowhead finished armor record does not corroborate the recipe."
+    },
+    {
+      "npc": 4831,
+      "item": 252798,
+      "spell": 1255109,
+      "chance_percent_estimate": 0.062943,
+      "map": 48,
+      "rate_reference": "https://www.wowhead.com/forever/npc=4831/lady-sarevess",
+      "wowhead_drops": 4,
+      "wowhead_kills": 6355,
+      "corroboration": "https://github.com/ATTWoWAddon/AllTheThings/blob/0449c5e8b41e7bb393d2d9115a36c7084466f635/.contrib/.db/forever/dungeons%20%26%20raids/blackfathom%20deeps.lua#L250"
+    }
+  ]
+}

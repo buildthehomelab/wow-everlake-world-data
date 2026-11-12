@@ -1,0 +1,82 @@
+{
+  "dala_template": [],
+  "dala_spawns": [],
+  "ziri_templates": [
+    {
+      "entry": 82122,
+      "name": "Ziri'ak",
+      "npcflag": 17179869185
+    },
+    {
+      "entry": 88340,
+      "name": "Ziri'ak",
+      "npcflag": 0
+    },
+    {
+      "entry": 211858,
+      "name": "Queensguard Zirix",
+      "npcflag": 0
+    },
+    {
+      "entry": 212256,
+      "name": "Queensguard Zirix",
+      "npcflag": 0
+    },
+    {
+      "entry": 212755,
+      "name": "Queensguard Zirix",
+      "npcflag": 0
+    },
+    {
+      "entry": 216938,
+      "name": "Faithful of Zirix",
+      "npcflag": 0
+    },
+    {
+      "entry": 218643,
+      "name": "Queensguard Zirix",
+      "npcflag": 0
+    },
+    {
+      "entry": 219573,
+      "name": "[DNT] Kill Credit: Zirix Damaged",
+      "npcflag": 0
+    },
+    {
+      "entry": 219575,
+      "name": "[DNT] Kill Credit: Zirix Credit",
+      "npcflag": 0
+    },
+    {
+      "entry": 220242,
+      "name": "Faithful of Zirix",
+      "npcflag": 0
+    },
+    {
+      "entry": 221911,
+      "name": "Zirixi Swarmclaw",
+      "npcflag": 0
+    },
+    {
+      "entry": 222098,
+      "name": "[DNT] Kill Credit: Zirix Aggro",
+      "npcflag": 0
+    },
+    {
+      "entry": 223443,
+      "name": "Ziriak",
+      "npcflag": 0
+    },
+    {
+      "entry": 229318,
+      "name": "Queensguard Zirix",
+      "npcflag": 0
+    },
+    {
+      "entry": 230106,
+      "name": "Queensguard Zirix",
+      "npcflag": 0
+    }
+  ],
+  "target_vendor_rows": []
+}
