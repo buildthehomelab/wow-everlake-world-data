@@ -1,0 +1,215 @@
+{
+  "slice": "whimsyfin01",
+  "file": "2026_11_10_55_world_everlake_import_whimsyfin01.sql",
+  "world": "forever-tdb-2026-10-14 + core 343fe6fb + world-data 24a3b39e + prior drafts",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "icy-veins": "2026-11-10 item 251526"
+  },
+  "sha256": "dd3340bfc856ee50140addf88945f72df991bacf71910347f997fa3031812995",
+  "keys": {
+    "creature_loot_template": [
+      [
+        422,
+        0,
+        251526
+      ],
+      [
+        423,
+        0,
+        251526
+      ],
+      [
+        424,
+        0,
+        251526
+      ],
+      [
+        428,
+        0,
+        251526
+      ],
+      [
+        430,
+        0,
+        251526
+      ],
+      [
+        441,
+        0,
+        251526
+      ],
+      [
+        446,
+        0,
+        251526
+      ],
+      [
+        505,
+        0,
+        251526
+      ],
+      [
+        578,
+        0,
+        251526
+      ],
+      [
+        615,
+        0,
+        251526
+      ],
+      [
+        1083,
+        0,
+        251526
+      ],
+      [
+        4462,
+        0,
+        251526
+      ],
+      [
+        14269,
+        0,
+        251526
+      ],
+      [
+        14272,
+        0,
+        251526
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 14
+  },
+  "routes": [
+    {
+      "npc": 422,
+      "item": 251526,
+      "spell": 1252566,
+      "chance_percent_estimate": 0.038,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/251526",
+      "note": "Icy Veins estimate. Observation counts are unavailable."
+    },
+    {
+      "npc": 423,
+      "item": 251526,
+      "spell": 1252566,
+      "chance_percent_estimate": 0.027,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/251526",
+      "note": "Icy Veins estimate. Observation counts are unavailable."
+    },
+    {
+      "npc": 424,
+      "item": 251526,
+      "spell": 1252566,
+      "chance_percent_estimate": 0.056,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/251526",
+      "note": "Icy Veins estimate. Observation counts are unavailable."
+    },
+    {
+      "npc": 428,
+      "item": 251526,
+      "spell": 1252566,
+      "chance_percent_estimate": 0.021,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/251526",
+      "note": "Icy Veins estimate. Observation counts are unavailable."
+    },
+    {
+      "npc": 430,
+      "item": 251526,
+      "spell": 1252566,
+      "chance_percent_estimate": 0.029,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/251526",
+      "note": "Icy Veins estimate. Observation counts are unavailable."
+    },
+    {
+      "npc": 441,
+      "item": 251526,
+      "spell": 1252566,
+      "chance_percent_estimate": 0.032,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/251526",
+      "note": "Icy Veins estimate. Observation counts are unavailable."
+    },
+    {
+      "npc": 446,
+      "item": 251526,
+      "spell": 1252566,
+      "chance_percent_estimate": 0.023,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/251526",
+      "note": "Icy Veins estimate. Observation counts are unavailable."
+    },
+    {
+      "npc": 505,
+      "item": 251526,
+      "spell": 1252566,
+      "chance_percent_estimate": 0.044,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/251526",
+      "note": "Icy Veins estimate. Observation counts are unavailable."
+    },
+    {
+      "npc": 578,
+      "item": 251526,
+      "spell": 1252566,
+      "chance_percent_estimate": 0.059,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/251526",
+      "note": "Icy Veins estimate. Observation counts are unavailable."
+    },
+    {
+      "npc": 615,
+      "item": 251526,
+      "spell": 1252566,
+      "chance_percent_estimate": 0.102,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/251526",
+      "note": "Icy Veins estimate. Observation counts are unavailable."
+    },
+    {
+      "npc": 1083,
+      "item": 251526,
+      "spell": 1252566,
+      "chance_percent_estimate": 0.021,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/251526",
+      "note": "Icy Veins estimate. Observation counts are unavailable."
+    },
+    {
+      "npc": 4462,
+      "item": 251526,
+      "spell": 1252566,
+      "chance_percent_estimate": 0.126,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/251526",
+      "note": "Icy Veins estimate. Observation counts are unavailable."
+    },
+    {
+      "npc": 14269,
+      "item": 251526,
+      "spell": 1252566,
+      "chance_percent_estimate": 2.44,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/251526",
+      "note": "Icy Veins estimate. Observation counts are unavailable."
+    },
+    {
+      "npc": 14272,
+      "item": 251526,
+      "spell": 1252566,
+      "chance_percent_estimate": 2.13,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/251526",
+      "note": "Icy Veins estimate. Observation counts are unavailable."
+    }
+  ]
+}

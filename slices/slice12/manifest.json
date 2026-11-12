@@ -1,0 +1,25 @@
+{
+  "slice": "slice12",
+  "file": "2026_11_10_08_world_everlake_import_slice12.sql",
+  "world": "forever-tdb-2026-10-14 + core 029c5dd9 + world-data 24a3b39e",
+  "pins": {
+    "eg-link": "9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae"
+  },
+  "sha256": "361c97176177d91afb753bee0c9b468663964f1aa9a60b0580b7b4a68f9fc6ce",
+  "keys": {
+    "quest_request_items": [
+      [
+        92706
+      ]
+    ],
+    "quest_offer_reward": [
+      [
+        97485
+      ]
+    ]
+  },
+  "counts": {
+    "quest_request_items": 1,
+    "quest_offer_reward": 1
+  }
+}
