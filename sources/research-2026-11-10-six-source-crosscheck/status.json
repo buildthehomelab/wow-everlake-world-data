@@ -1,0 +1,44 @@
+[
+  {
+    "name": "NeedRoll",
+    "url": "https://www.curseforge.com/wow/addons/needroll/files/9539356",
+    "pin": "v1.5.0-forever",
+    "review": "Local text-only archive inspection. RecipeSources identifies CMaNGOS and Wowhead lineage; not independent confirmation.",
+    "archive_sha256": "0a5dd1fb347f0cc99817145400ca793e2e352c62e4b8ed45753c65bf6cff6c47",
+    "result": "57 unresolved candidates: two patched, three specific low-level leads held, 52 historical/later-level records held."
+  },
+  {
+    "name": "Mastercraft",
+    "url": "https://www.curseforge.com/wow/addons/mastercraft/files/9548027",
+    "pin": "1.9.4",
+    "review": "Public release/description only. Download permission declined; archive was not acquired. Wowhead-derived material data is not independent evidence.",
+    "result": "No exact new runtime rows verified."
+  },
+  {
+    "name": "Forever Guide (LFYZ)",
+    "url": "https://www.curseforge.com/wow/addons/forever-guide",
+    "pin": "1.39.7 file 9535585",
+    "review": "Public pages only. Distinct from Forever Guides (plural) by Wosande. No public observation feed verified.",
+    "result": "No exact new runtime rows verified."
+  },
+  {
+    "name": "ItemTree Era source compiler",
+    "url": "https://github.com/Rockjaw-Bonesnapper-Co/itemtree-era-sources",
+    "pin": "f1d9eabbf2b43e90c1ae123f418c8f7db8ce187c",
+    "review": "Public compiler is historical Classic CMaNGOS/pfQuest; proprietary Forever observations are absent.",
+    "result": "Baseline only; no new Forever runtime evidence."
+  },
+  {
+    "name": "OpenMap mirror",
+    "url": "https://github.com/fitzforge/wowforever-openmap",
+    "pin": "849bac460b6ebcb110ef80fc27a6b08565069c74",
+    "review": "FlightData explicitly uses Classic Era 1.15. All 69 flight node IDs already exist in 70862 client. Dungeon map assets mix other client builds; do not prove runtime spawns.",
+    "result": "69 nodes/274 paths are not new Forever flight-master proof."
+  },
+  {
+    "name": "Questing.wiki",
+    "url": "https://questing.wiki/wow-forever/professions/",
+    "review": "Iron Fists and SAF-T Bronze Bomb pages confirm recipe-learning identity but provide no NPC drop attribution. Other community vendor entries explicitly mix beta and Era.",
+    "result": "Identity cross-check only; not independent exact drop evidence."
+  }
+]

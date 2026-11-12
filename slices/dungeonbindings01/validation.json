@@ -1,0 +1,28 @@
+{
+  "schema": "codex_dungeonbindings_01a1c7e8",
+  "source": "world read-only consistent snapshot",
+  "copied": {
+    "smart_scripts": 300,
+    "instance_template": 3,
+    "creature_template": 2,
+    "creature": 1
+  },
+  "rows_changed": 1,
+  "unrelated_rows_changed": 0,
+  "replay_changed": 0,
+  "negative_guards": [
+    "other instance binding",
+    "other Mutanus AI",
+    "other Disciple script",
+    "existing row override",
+    "missing Disciple spawn"
+  ],
+  "parser_statements": 1,
+  "patched_action_parameters": [
+    5,
+    3,
+    0
+  ],
+  "sha256": "17edb9e73dd2ee3a6efb8ec25f43a72ba0d31ed109d9360494abf592734db696",
+  "in_game_test": false
+}

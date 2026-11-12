@@ -1,0 +1,130 @@
+{
+  "slice": "slice20",
+  "file": "2026_11_10_16_world_everlake_import_slice20.sql",
+  "world": "forever-tdb-2026-10-14 + core 029c5dd9 + world-data 24a3b39e",
+  "pins": {
+    "wago": "1.60.1.70862"
+  },
+  "sha256": "f3437db2139776a04d24ea442782e53fa6be109f6eb84529da9e2342bfea93ae",
+  "keys": {
+    "creature_loot_template": [
+      [
+        4829,
+        0,
+        251353
+      ],
+      [
+        4830,
+        0,
+        251353
+      ],
+      [
+        6243,
+        0,
+        251353
+      ],
+      [
+        4829,
+        0,
+        252815
+      ],
+      [
+        4830,
+        0,
+        252815
+      ],
+      [
+        4829,
+        0,
+        252817
+      ],
+      [
+        4830,
+        0,
+        252817
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 7
+  },
+  "routes": [
+    {
+      "npc": 4829,
+      "item": 251353,
+      "spell": 1252250,
+      "chance_percent_estimate": 0.584,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4829",
+      "corroboration": "https://www.wowhead.com/forever/item=251353/plans-acolytes-chain-helm",
+      "wowhead_drops": 8,
+      "wowhead_kills": 7514
+    },
+    {
+      "npc": 4830,
+      "item": 251353,
+      "spell": 1252250,
+      "chance_percent_estimate": 0.475,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4830",
+      "corroboration": "https://www.wowhead.com/forever/item=251353/plans-acolytes-chain-helm",
+      "wowhead_drops": 6,
+      "wowhead_kills": 5334
+    },
+    {
+      "npc": 6243,
+      "item": 251353,
+      "spell": 1252250,
+      "chance_percent_estimate": 0.769,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/6243",
+      "corroboration": "https://www.wowhead.com/forever/item=251353/plans-acolytes-chain-helm",
+      "wowhead_drops": 7,
+      "wowhead_kills": 7308
+    },
+    {
+      "npc": 4829,
+      "item": 252815,
+      "spell": 1255092,
+      "chance_percent_estimate": 0.389,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4829",
+      "corroboration": "https://www.wowhead.com/forever/item=252815/pattern-trappers-leather-helm",
+      "wowhead_drops": 6,
+      "wowhead_kills": 7514
+    },
+    {
+      "npc": 4830,
+      "item": 252815,
+      "spell": 1255092,
+      "chance_percent_estimate": 0.475,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4830",
+      "corroboration": "https://www.wowhead.com/forever/item=252815/pattern-trappers-leather-helm",
+      "wowhead_drops": 5,
+      "wowhead_kills": 5334
+    },
+    {
+      "npc": 4829,
+      "item": 252817,
+      "spell": 1255090,
+      "chance_percent_estimate": 1.17,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4829",
+      "corroboration": "https://www.wowhead.com/forever/item=252817/pattern-totemic-leather-helm",
+      "wowhead_drops": 2,
+      "wowhead_kills": 6662
+    },
+    {
+      "npc": 4830,
+      "item": 252817,
+      "spell": 1255090,
+      "chance_percent_estimate": 0.238,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4830",
+      "corroboration": "https://www.wowhead.com/forever/item=252817/pattern-totemic-leather-helm",
+      "wowhead_drops": 5,
+      "wowhead_kills": 4641
+    }
+  ]
+}
