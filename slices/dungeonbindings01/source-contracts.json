@@ -1,0 +1,41 @@
+{
+  "pin": "343fe6fb95076e09575156c8b88d155914003b78",
+  "sources": [
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/wailing_caverns/classic_wailing_caverns.h",
+      "url": "https://github.com/Karrz1/TrinityCore/blob/343fe6fb95076e09575156c8b88d155914003b78/src/server/scripts/Custom/Classic/instances/wailing_caverns/classic_wailing_caverns.h",
+      "sha256": "d286fbb1e82197df2f6194b98aa2e1db2d1ba513943bf1be6c6411463944de2d"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/wailing_caverns/classic_instance_wailing_caverns.cpp",
+      "url": "https://github.com/Karrz1/TrinityCore/blob/343fe6fb95076e09575156c8b88d155914003b78/src/server/scripts/Custom/Classic/instances/wailing_caverns/classic_instance_wailing_caverns.cpp",
+      "sha256": "1dfcae63d31a8024302699d90722839363c69541a3dd33ad93b4bc94ae48b46b"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/wailing_caverns/classic_wailing_caverns.cpp",
+      "url": "https://github.com/Karrz1/TrinityCore/blob/343fe6fb95076e09575156c8b88d155914003b78/src/server/scripts/Custom/Classic/instances/wailing_caverns/classic_wailing_caverns.cpp",
+      "sha256": "b88efa9a4e183647679c80ece22e3c7abd0e4bb7e443babe7688ad27b4500028"
+    },
+    {
+      "path": "src/server/game/AI/SmartScripts/SmartScript.cpp",
+      "url": "https://github.com/Karrz1/TrinityCore/blob/343fe6fb95076e09575156c8b88d155914003b78/src/server/game/AI/SmartScripts/SmartScript.cpp",
+      "sha256": "1e542185ab853575598316a1fa45b1091c259f4da5871e34bce4b8f2d196b542"
+    },
+    {
+      "path": "src/server/game/AI/SmartScripts/SmartScriptMgr.h",
+      "url": "https://github.com/Karrz1/TrinityCore/blob/343fe6fb95076e09575156c8b88d155914003b78/src/server/game/AI/SmartScripts/SmartScriptMgr.h",
+      "sha256": "0488b4831b643e9a6ec3a48f55b77440357c265df891ec31ee93ffb8a3dd268e"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/classic_dungeon_encounter_tracker.h",
+      "url": "https://github.com/Karrz1/TrinityCore/blob/343fe6fb95076e09575156c8b88d155914003b78/src/server/scripts/Custom/Classic/instances/classic_dungeon_encounter_tracker.h",
+      "sha256": "d24697066651eb7389945dd3b1b0d337355d48a85c14da5a702f36b904b3635d"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/classic_script_loader.cpp",
+      "url": "https://github.com/Karrz1/TrinityCore/blob/343fe6fb95076e09575156c8b88d155914003b78/src/server/scripts/Custom/Classic/classic_script_loader.cpp",
+      "sha256": "02d20994ea5d80ad6f4495f07812d2556ad62333f169a02fa92d1504f6b394e4"
+    }
+  ],
+  "live_runtime_verified": false
+}

@@ -1,6 +1,23 @@
 {
-  "updated_quests": 2,
-  "choices": 2,
-  "replay_changed_rows": 0,
-  "importer_rewrite": 2
+  "inserted": {
+    "quest_reward_display_spell": 210,
+    "quests": 177
+  },
+  "statements_passed_rewrite": 14,
+  "replay": "all affected table checksums unchanged",
+  "existing_display_rows": "preserved",
+  "quest_template": "checksum unchanged",
+  "negative_guards": [
+    "different reward",
+    "different title",
+    "missing quest",
+    "existing alternate-index display set"
+  ],
+  "sha256": "77635bcf10f06b93cfc887bc01de81f6e0c9a3d19147e19094be84e5400e3f9a",
+  "tracker_unlocks": 0,
+  "limitations": [
+    "Reward previews only; does not establish playable acquisition paths.",
+    "PlayerConditionID defaults to zero because captured displaySpells provides no condition ID.",
+    "Any existing display set or differing quest title/reward prevents insertion."
+  ]
 }

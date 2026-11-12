@@ -1,0 +1,13 @@
+{
+  "quest": 98223,
+  "objective": 477066,
+  "choices": [
+    281306,
+    281307
+  ],
+  "existing_reputation": {
+    "47": 75
+  },
+  "replay": "checksums matched",
+  "importer_rewrite_statements": 4
+}
