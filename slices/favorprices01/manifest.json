@@ -1,0 +1,2086 @@
+{
+  "slice": "favorprices01",
+  "file": "2026_11_10_28_world_everlake_cloth_leather_vendor_prices.sql",
+  "core": "343fe6fb95076e09575156c8b88d155914003b78",
+  "client": "1.60.1.70862",
+  "sha256": "20520e6eea3653ae6569e3f5abf72a44b1aec9975e71be90ce66082712a3d2e6",
+  "operation": "guarded correction of existing npc_vendor rows",
+  "expected_updates": 148,
+  "new_spell_unlocks": 0,
+  "source": "https://gearinsight.app/wow/en/forever/professions",
+  "source_html_sha256": "357d769db54830c5021afd62f60ffa847bf8f7b5b5c7f6e246b0e21fc0330608",
+  "rows": [
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252765,
+      "spells": [
+        1255142
+      ],
+      "extended_cost": 11864,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252765",
+      "tooltip_sha256": "d8822dd775fed0ebdc3e483382d99fb07e7dbc6edf69c315f60b9a64e912e0f9"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252766,
+      "spells": [
+        1255141
+      ],
+      "extended_cost": 11864,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252766",
+      "tooltip_sha256": "820a4accebe07ab6e432d787adf601f90c5a0af009df1b414b985722f4a88e8f"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252767,
+      "spells": [
+        1255140
+      ],
+      "extended_cost": 11864,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252767",
+      "tooltip_sha256": "7f4ea844df5b1630e16b28533bcdad2c2cd03ee6415255a0db5dcc12c0de613c"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252768,
+      "spells": [
+        1255139
+      ],
+      "extended_cost": 11864,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252768",
+      "tooltip_sha256": "bae0b53d9a71970484c1cd3ede1466e57b811a86a60e00ed9e45d01a1c7988fd"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252769,
+      "spells": [
+        1255138
+      ],
+      "extended_cost": 11864,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252769",
+      "tooltip_sha256": "f10d4c59420e52f6dde53a3b0f7be9ce913f06ec816023aa12e857f170033d0a"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252770,
+      "spells": [
+        1255137
+      ],
+      "extended_cost": 11864,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252770",
+      "tooltip_sha256": "d9a6f46abfed84049057d173525d9b31f35ec6e0eaaf788b9678e952feca2a79"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252777,
+      "spells": [
+        1255130
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252777",
+      "tooltip_sha256": "aa8e7f621c3bdefc0ce09a1426581cddc24de8f664e4ba3226d0d13297fb66ba"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252778,
+      "spells": [
+        1255129
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252778",
+      "tooltip_sha256": "fec9f099652c6c0fe3fffb2224117c7704dc42dd3dfb3b2500c15f277db4c6c1"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252779,
+      "spells": [
+        1255128
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252779",
+      "tooltip_sha256": "c7ba36b9097538c281e304fabed24017a3ff5a904ded8c801cf74c7e808a1d9e"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252780,
+      "spells": [
+        1255127
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252780",
+      "tooltip_sha256": "e57203735b1d32d9195283d11e92afb91922fc017c2fff475832d65c42dbbdf8"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252781,
+      "spells": [
+        1255126
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252781",
+      "tooltip_sha256": "3dc16f39f31d72c961ccc366969020c29329402c076a6fafd1caf9545dc70300"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252782,
+      "spells": [
+        1255125
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252782",
+      "tooltip_sha256": "95bf2ecc62ac6ae17ebef4f7c6f68160f46c2f7fe7d82691552d37608da40313"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252786,
+      "spells": [
+        1255121
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252786",
+      "tooltip_sha256": "24f6f6e68ef0e0dee358fc9aad5a4679638d37d14567a8babdfe76beca58e196"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252787,
+      "spells": [
+        1255120
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252787",
+      "tooltip_sha256": "8b25fd8ea40c016c1a4f98b074790af6427419c6915cfc2a3d380005f66ae0f6"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252788,
+      "spells": [
+        1255119
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252788",
+      "tooltip_sha256": "564dcb7ebfe7f806b37eb1cceab53f08fec3a7d86565ea30d087ae0d6008b6ed"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252789,
+      "spells": [
+        1255118
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252789",
+      "tooltip_sha256": "fd07f0f42abb06e18e48dd44ca76a4f7b427191df907ef3939741bc371191d65"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252790,
+      "spells": [
+        1255117
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252790",
+      "tooltip_sha256": "cdd945497c44f0108286c5eee7155ad7f9b7795aef09c62acf65a309a0c65bdd"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252791,
+      "spells": [
+        1255116
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252791",
+      "tooltip_sha256": "903c4f398a08fc98d048d3b4fa442992ad4af8a93ffbcb4c6ec3a4781eb7103e"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252798,
+      "spells": [
+        1255109
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252798",
+      "tooltip_sha256": "3ed922387fba7c6c43bd4dad9c06aafdbb41b1338ee76c8834307d3ec8123895"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252799,
+      "spells": [
+        1255108
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252799",
+      "tooltip_sha256": "9dfede8435c4d40b55302da3ceafdf75113974f39090b45f23083d3820931598"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252800,
+      "spells": [
+        1255107
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252800",
+      "tooltip_sha256": "c9ab6f1d30f555bc80283442a709c4ae473d0e70a45ee98e54813a0d521092c3"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252801,
+      "spells": [
+        1255106
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252801",
+      "tooltip_sha256": "ff31f37f4df4c2c714ab13af03401e23f43f895986c9e271d454e4ec527302a4"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252802,
+      "spells": [
+        1255105
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252802",
+      "tooltip_sha256": "6ca0dc02dcaa5a0be43be5f59a444cc956b170dad29a1e27a25922a656d22595"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252803,
+      "spells": [
+        1255104
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252803",
+      "tooltip_sha256": "8ad3ada081d3cbfcdd268c263d10e5965385a6ad1a884366510fbaf76a3dbdc9"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252805,
+      "spells": [
+        1255102
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252805",
+      "tooltip_sha256": "4c320f17c014785b6d6281383282c3f3c70977eafa0dec92119100bd8a9e77fc"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252806,
+      "spells": [
+        1255101
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252806",
+      "tooltip_sha256": "756b810d74be39930407cece1c4ef282c1b21cb665ba8da71a5940a1658b1ea1"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252807,
+      "spells": [
+        1255100
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252807",
+      "tooltip_sha256": "c9602f39a4e50ac24931964490a3e721a17595a3bd53d74457f605ca2443dbc9"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252808,
+      "spells": [
+        1255099
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252808",
+      "tooltip_sha256": "87a6542e6c1a146d49c99adc5d2919db4e5528d21b5fa77dedf7c13a2b528667"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252809,
+      "spells": [
+        1255098
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252809",
+      "tooltip_sha256": "17a6b659908c58b21dbe07b5164356e4478ca2fd40bc88fd9b9bf435b59cf9ed"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252810,
+      "spells": [
+        1255097
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252810",
+      "tooltip_sha256": "6d4477d4906e6126e127f1a52db0ab82534208be19365e84bec96b922570507b"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252820,
+      "spells": [
+        1255087
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252820",
+      "tooltip_sha256": "6f9382889aba92e559ccf27edefff84ecaf701c7268040bad005c8cf4ff1d3c6"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252821,
+      "spells": [
+        1255086
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252821",
+      "tooltip_sha256": "59e61d4fdb89a755b8bb2011ef60347c653a2125ee3803d38deffc86af05aee2"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252822,
+      "spells": [
+        1255085
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252822",
+      "tooltip_sha256": "fb77c3fea45b720e43905ae1a31cd9b65c3f090377eb1d15c4dc83dcd982ade7"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252823,
+      "spells": [
+        1255084
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252823",
+      "tooltip_sha256": "12a6e229972aea94ce3b65286929d89508d1b012fdb9227ba83147bcb2ac282f"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252824,
+      "spells": [
+        1255083
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252824",
+      "tooltip_sha256": "387b823bd28d907885389f7327ec6ae57e8a98185fabfd1bd8d358c458b6b57b"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252825,
+      "spells": [
+        1255082
+      ],
+      "extended_cost": 11865,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252825",
+      "tooltip_sha256": "49e60e79c72088b68e5efce8b6e2ea69c5fb4b4b39d0ad0bbaab28e133f15fc6"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252834,
+      "spells": [
+        1255073
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252834",
+      "tooltip_sha256": "1f485c7f24a5270fd9cdcb93d184b6a05acd8a09872541aeac71b98e9f2ec5ea"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252836,
+      "spells": [
+        1255071
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252836",
+      "tooltip_sha256": "1e4333937a0b61812614930bd3098f8ad1462b5bea5450d5d619cc2a5151c29d"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252837,
+      "spells": [
+        1255070
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252837",
+      "tooltip_sha256": "01f221934edc6b022653e1668920ce0b4c8c0a94ba6179ad03c886b79af516a9"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252838,
+      "spells": [
+        1255069
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252838",
+      "tooltip_sha256": "2507f9e63b3267f80d9e9f842e40d00cd9721d65be4c1f2b863221f109e38e32"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252839,
+      "spells": [
+        1255068
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252839",
+      "tooltip_sha256": "b784c23ba9887791c9dc5c8b381dc10bc8b259294cddb95690e237f9aba456e1"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252840,
+      "spells": [
+        1255067
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252840",
+      "tooltip_sha256": "1045ac7f624e014429e3ead8add2f99ea3b3d7f7c5fd7e8ce6832a44610e4cc1"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252841,
+      "spells": [
+        1255066
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252841",
+      "tooltip_sha256": "69f8eefa2a7b7ab9a2b819e695e11923024268b96d67d16e7e99c8fdbcdba616"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252842,
+      "spells": [
+        1255065
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252842",
+      "tooltip_sha256": "d25cac89ce528bbdbfe5f8903ef72f5958932d2ec25ab6e4c0d66217c74b59d1"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252848,
+      "spells": [
+        1255059
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252848",
+      "tooltip_sha256": "641c99329926f345c3687036d6df6892ba4685eb5d439f6f86ab92fa90154bcc"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252849,
+      "spells": [
+        1255058
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252849",
+      "tooltip_sha256": "023e6c9825ff147cf7577b2b0d8ca2e1aed557177dedd18321439cd0a7a36279"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252850,
+      "spells": [
+        1255057
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252850",
+      "tooltip_sha256": "65b9f472a651fd9a9bf41690d46d40699b852e5c5ae630c0573a676412189606"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252851,
+      "spells": [
+        1255056
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252851",
+      "tooltip_sha256": "5e574c09601fa5a286b5afb5a24554a7a4dcfb5de43c19c9481aa9e9058276aa"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252852,
+      "spells": [
+        1255055
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252852",
+      "tooltip_sha256": "a85aaec76f4e5e8f744218d6393c041778387c4a66a8b411189d9c237b918e88"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252853,
+      "spells": [
+        1255054
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252853",
+      "tooltip_sha256": "ce1f1d41894d9af4bd2bd33f1de797e84ec0d0269c37edce8328ce82f13448d2"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252854,
+      "spells": [
+        1255053
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252854",
+      "tooltip_sha256": "2f241a2519054113e8d4f4b81e1dfa7890147281c433a36416aed25af157ee88"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252855,
+      "spells": [
+        1255052
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252855",
+      "tooltip_sha256": "9625bd9ac1f542babba4b93006ddec1f75c4fcaa3f3f3e4b9f589e5f47b3532b"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252856,
+      "spells": [
+        1255051
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252856",
+      "tooltip_sha256": "590e50c2e3d3e9108190c1caf34f7a712c6600c8e3f5ca72d611ecd80260e9b8"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252857,
+      "spells": [
+        1255050
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252857",
+      "tooltip_sha256": "f3583c4e767af7f0777c4dea88225c466469135581bc4c9312e2e5901eeb953f"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252860,
+      "spells": [
+        1255047
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252860",
+      "tooltip_sha256": "8d50a20d32e2fd50213a6e7eb7cb0f2dfca2d41f3eef3d5e71ca30d918464265"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252861,
+      "spells": [
+        1255046
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252861",
+      "tooltip_sha256": "e4a3907a575fbf131ba835412076d44a25063dd728f4d1b89e37b88e79698b7a"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252862,
+      "spells": [
+        1255045
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252862",
+      "tooltip_sha256": "057998d68bf1c8ecd775b09561a03fc5ce1bf5bdc0d6a62c1962f6387eccdbb9"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252863,
+      "spells": [
+        1255044
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252863",
+      "tooltip_sha256": "d7ea5dca6b169c48188b2bf9a54f63b00c10563a5fde2d46527d0ce506f88a21"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252864,
+      "spells": [
+        1255043
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252864",
+      "tooltip_sha256": "5073c4f0dc9f0e354c54cdca463d06a08616f38349411ccbe356c5e7274d344b"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252872,
+      "spells": [
+        1255035
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252872",
+      "tooltip_sha256": "4da2b899b99f1e388dc1a8bcf18ce1353a477f7bd5f489b93f4b62a9e5bffd9d"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252873,
+      "spells": [
+        1255034
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252873",
+      "tooltip_sha256": "267f0082da9c972d0cdc7eb95a3f0019d53cd4365356f4c7501fcba28822e15e"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252874,
+      "spells": [
+        1255033
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252874",
+      "tooltip_sha256": "a758ba83663119708dc221e500c4c260ed095aa503ea330b07698a2cc8fa35fd"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252875,
+      "spells": [
+        1255032
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252875",
+      "tooltip_sha256": "7bb63645e448db26e70312dbb7c640a6e6b3ac00d32b1c1fd4b2385931330d8d"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252876,
+      "spells": [
+        1255031
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252876",
+      "tooltip_sha256": "39fcc3d129f7a27d0935899b2b1984572413912984dc04d51d77fa462912aa1b"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252900,
+      "spells": [
+        1255007
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252900",
+      "tooltip_sha256": "c617d1a11ac5a47e58352ac4c98bee65fcd2678c88da8e1960a3bd20f26f7cd7"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252901,
+      "spells": [
+        1255006
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252901",
+      "tooltip_sha256": "d2c58a1bd151a4d6320e9ba0c84985d704befe619e4094226d156b2f2f4a92f2"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252902,
+      "spells": [
+        1255005
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252902",
+      "tooltip_sha256": "a2182cab25d619f349b329ad2db409a8bdc087f9db3c5dfdaf915425ddb718f6"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252903,
+      "spells": [
+        1255004
+      ],
+      "extended_cost": 11866,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252903",
+      "tooltip_sha256": "ddebc95fc0fd077200b4205cf5a19e706fbc6aa8dcc5d42878ecf212d3d158a7"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252904,
+      "spells": [
+        1255003
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252904",
+      "tooltip_sha256": "34b987e9071dc3b6beb005c9abeac7ea67458a13b8044d43ed642a6ac159e1d2"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252905,
+      "spells": [
+        1255002
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252905",
+      "tooltip_sha256": "e0d3e15d1b29bc2036bb1bd84ebe06f920b455cd2341f59d6facfb8c02048eaa"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252906,
+      "spells": [
+        1255001
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252906",
+      "tooltip_sha256": "93e26f4dcdc0fc24b4a0a137c28ce45c79c50635edff3a96e331e86141a723df"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252907,
+      "spells": [
+        1255000
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252907",
+      "tooltip_sha256": "b0c07f44011bcea86507ca7de0233ac6bb7288d329779e171da6c3b44c374cb7"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252910,
+      "spells": [
+        1254997
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252910",
+      "tooltip_sha256": "7c2a4e73206553c3b04d493aab2e4c80c32dafa9d35bbddff8fdf02a511b9b0c"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252911,
+      "spells": [
+        1254996
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252911",
+      "tooltip_sha256": "f733e01db010862aaae512eed4ccffc66d4c930527bf7b124c9036842d3d6728"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252912,
+      "spells": [
+        1254995
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252912",
+      "tooltip_sha256": "120fd4683b3225627184a691826e74afc707435b8be0144b969687774af64dcd"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252913,
+      "spells": [
+        1254994
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252913",
+      "tooltip_sha256": "6e5ed84cc70744e174d9d012e589254760136246576f48c9b408f55a132f7181"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252922,
+      "spells": [
+        1254985
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252922",
+      "tooltip_sha256": "78ac082ce46d6e7b6df951678f18db11b4f7909a6af3739cbb0351da5059a11c"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252923,
+      "spells": [
+        1254984
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252923",
+      "tooltip_sha256": "ed65ec9fc5a245ddec2c2c1bc7331f3eb48ae40078623c0979a47e6186ac3612"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252924,
+      "spells": [
+        1254983
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252924",
+      "tooltip_sha256": "81b08a21378218ebf985b673a886e3f5c540337918e33cef4d09ff23946d766d"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252925,
+      "spells": [
+        1254982
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252925",
+      "tooltip_sha256": "d07657105c649b509f7481cd26b2c7efc70623bd7c357ee923c048cc2219d817"
+    },
+    {
+      "vendor": 256734,
+      "reference_vendor": 248201,
+      "item": 252941,
+      "spells": [
+        1254966
+      ],
+      "extended_cost": 11867,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/252941",
+      "tooltip_sha256": "3c2187d42e7e67b299eaed55fd83fbf3a56e460e118fc408706fb0822ce6e4fd"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253890,
+      "spells": [
+        1257370
+      ],
+      "extended_cost": 11869,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253890",
+      "tooltip_sha256": "ae7ab7317835ca71d8595eb168a761ee71575166c22f155afe31c3ea759fc85e"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253892,
+      "spells": [
+        1257371
+      ],
+      "extended_cost": 11869,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253892",
+      "tooltip_sha256": "6ee5285234071613a51b70f1a61408063f6b6bb574f4b4d6cbdecc7a4d916a0b"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253894,
+      "spells": [
+        1257372
+      ],
+      "extended_cost": 11869,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253894",
+      "tooltip_sha256": "3386e414dd03c7e1947e0cf82e4a7eec059d944236ebdeece332b227d0e6ed49"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253896,
+      "spells": [
+        1257373
+      ],
+      "extended_cost": 11869,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253896",
+      "tooltip_sha256": "648abc95961fd6271ea09c3a15ba0bde2c8462ac3499dedcb0dc77176b6ae2e7"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253898,
+      "spells": [
+        1257374
+      ],
+      "extended_cost": 11869,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253898",
+      "tooltip_sha256": "2941e765c708d64be38d6b4f86a9de5f19ba23e17c0f1895a200f0943c5289d9"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253900,
+      "spells": [
+        1257375
+      ],
+      "extended_cost": 11869,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253900",
+      "tooltip_sha256": "a62aea8e98a677508c35b855769ba252322eafe5c5994d8989451067f6468dcc"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253914,
+      "spells": [
+        1257382
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253914",
+      "tooltip_sha256": "56753f147464dfe3182ed2134b131350cdb6b94b032cb3009cab6b8650179c3f"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253916,
+      "spells": [
+        1257383
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253916",
+      "tooltip_sha256": "54adbe121187bcb1fda2937a704f639ccf3d9a90323d5e2be3c5c82bbc5468b6"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253918,
+      "spells": [
+        1257384
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253918",
+      "tooltip_sha256": "ac389ca2f5bc6775e13b5da659964b9aa87de003a126e61d1ecafbce389a5b7b"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253920,
+      "spells": [
+        1257385
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253920",
+      "tooltip_sha256": "d18174913a26a6fe0665c2b2229ce9798f7d44bab34a27781b90f1c018999db7"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253922,
+      "spells": [
+        1257386
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253922",
+      "tooltip_sha256": "a4896ce8712f8081158ed7ad1502c3f07ac8da860276b97bcba4c8dd634c398a"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253924,
+      "spells": [
+        1257387
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253924",
+      "tooltip_sha256": "a40b1ec98dbc482e0bf0b6fcd91a039ae81912f40cc8305e19498eae1cfb066a"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253926,
+      "spells": [
+        1257388
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253926",
+      "tooltip_sha256": "6d7722aa139e9df727d0c6ae2c1082efeb916c2534b6cb2a99f38d5fc6a8182b"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253928,
+      "spells": [
+        1257389
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253928",
+      "tooltip_sha256": "fdab594ab4a2accd261e6ca4b669a81f5723c7ae4db5f2120c00566fb5719cc2"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253930,
+      "spells": [
+        1257390
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253930",
+      "tooltip_sha256": "1f0a6c39d92a412662afb35e5301b7ad8c4b07f7dd820b1828fd5f9bb71972e0"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253932,
+      "spells": [
+        1257391
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253932",
+      "tooltip_sha256": "a8265bf6c809403cac7180c16ae99b63a9d14128c12df4ec2a1bfb1efbbf7b1c"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253934,
+      "spells": [
+        1257392
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253934",
+      "tooltip_sha256": "5c08e62e6b28eb50ffd3b876ff93807633541a64b578ac6a1e1f3bf95aed4432"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253936,
+      "spells": [
+        1257393
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253936",
+      "tooltip_sha256": "9343f08fa5988b5fe54e469e8324dc8ce45e835b6911287c909778969994dd24"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253950,
+      "spells": [
+        1257400
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253950",
+      "tooltip_sha256": "aa632d2e97a28a18e4a62be1373067263e2c90a2e237cde07c19ba9057b3cd8e"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253952,
+      "spells": [
+        1257401
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253952",
+      "tooltip_sha256": "7095cebc28d4aa646e5ac3e226a378b2a05e2ec2a9e2f6aa04cd774f2c3bc26f"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253954,
+      "spells": [
+        1257402
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253954",
+      "tooltip_sha256": "e8b0ef58da98ae7ed63d71cc977a022f76f342b62a56bc90ca3f56c006e5c38d"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253956,
+      "spells": [
+        1257403
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253956",
+      "tooltip_sha256": "faf85f2d127cecf2f4274e3fb079859254785c5107278a0db357a2352c8fced3"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253958,
+      "spells": [
+        1257404
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253958",
+      "tooltip_sha256": "2f03f56d0d540e4f861cb5a09dd0d680de0a20454346706a455d03e5b936c661"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253960,
+      "spells": [
+        1257405
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253960",
+      "tooltip_sha256": "20a1bb98860da2f0b66051f3963ba40dad374457eb240c9feb80a21f842f7923"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253962,
+      "spells": [
+        1257406
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253962",
+      "tooltip_sha256": "eb38ddbf29195c4eaa5b808f87887febbe43dd0a1c07b800cfa5e473fd41fd58"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253964,
+      "spells": [
+        1257407
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253964",
+      "tooltip_sha256": "f8578eee3dc573446b9cdf9f3e1477f5b2a181a13fd842a50e31ca67b86451ca"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253966,
+      "spells": [
+        1257408
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253966",
+      "tooltip_sha256": "09a8ff9307b4e54787f2978b440f178d284f89927721028c619ef8e689465526"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253968,
+      "spells": [
+        1257409
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253968",
+      "tooltip_sha256": "708a87412a5ec3c81bf37ad07ea74d501f97d6e2059912dc281d264478d6ed02"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253970,
+      "spells": [
+        1257410
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253970",
+      "tooltip_sha256": "9b312d3d1b1a2d8b088862016aa8001b4336da95f9c0ece5c93e3ea92a97dd05"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253972,
+      "spells": [
+        1257411
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253972",
+      "tooltip_sha256": "2d15eeac90e79b4a1aa7f4592d61546ff160a3a5a448edaf332b9278b0591dcf"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253988,
+      "spells": [
+        1257419
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253988",
+      "tooltip_sha256": "39b69a26de0a5f93e1f922102256095b23b63be72ab85df10fbefc662c81caf0"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253990,
+      "spells": [
+        1257420
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253990",
+      "tooltip_sha256": "d82ea972131f96ae486c0f4c4802be513e5c2a92413ca9021c0a627edd4ce990"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253992,
+      "spells": [
+        1257421
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253992",
+      "tooltip_sha256": "a573962ef06da9cf716792c518a51789a5842151e3321c15a67a370d0890de86"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253994,
+      "spells": [
+        1257422
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253994",
+      "tooltip_sha256": "8a448a1b369ee8991ad316821085541306fe5cae473b23b2ccfaf1954f300353"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253996,
+      "spells": [
+        1257423
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253996",
+      "tooltip_sha256": "aa52f506c73f4742bce0179167822f6f0eb7000fc9c2f4d2839a719ba97e50ac"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 253998,
+      "spells": [
+        1257424
+      ],
+      "extended_cost": 11870,
+      "condition": 0,
+      "favor": 30,
+      "reputation": null,
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/253998",
+      "tooltip_sha256": "98d0e1634f1c4ef3cca25fc294c1b714a41dc7ab295b3a924d39c23c0e4c97a9"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254024,
+      "spells": [
+        1257437
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254024",
+      "tooltip_sha256": "6c81f3d48e964dbb2ac85b5417f1b14c43acaa132bc2da8e7a1cfb512307a094"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254026,
+      "spells": [
+        1257438
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254026",
+      "tooltip_sha256": "c0463210efe9e5b5f8f753d6da9a15b1829f6de97230c3c63250bdf652051224"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254028,
+      "spells": [
+        1257439
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254028",
+      "tooltip_sha256": "2de66051f15a834f4a2f82d06f907e5add759c9d6380d6f9e2cfc4d15b4a8293"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254030,
+      "spells": [
+        1257440
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254030",
+      "tooltip_sha256": "6833f3165f82caf55639a43e0fc9d1ae44a04948e6749f46da681c90ebe0838c"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254032,
+      "spells": [
+        1257441
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254032",
+      "tooltip_sha256": "b986b0d4932dca058e1853f9aee5a0d51e58b0cc21cf855dccc8ab95ada1b9e6"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254036,
+      "spells": [
+        1257443
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254036",
+      "tooltip_sha256": "d6a31ddcac3367594a041239bccd3458c035c7eb01f0c432ae74391034548b72"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254050,
+      "spells": [
+        1257450
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254050",
+      "tooltip_sha256": "67b806f0302cf623dd4535d3a5e4ab1c05c8bed94f9dc1f6f3f313d98d35d5ac"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254052,
+      "spells": [
+        1257451
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254052",
+      "tooltip_sha256": "5ccdac615eb93641197955f115910fe1fb773e9115068d54d72dddf3dec2becb"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254054,
+      "spells": [
+        1257452
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254054",
+      "tooltip_sha256": "705720ebfb7f85c9f40a85a8da5ff105451794cdce29cf3fe8cb1c7bc61f872c"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254056,
+      "spells": [
+        1257453
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254056",
+      "tooltip_sha256": "08b8cf392640d20450b9e165ded91535b3ff3cc76069c5794684138b9f6a4bc3"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254058,
+      "spells": [
+        1257454
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254058",
+      "tooltip_sha256": "5b549122dece8f789feb1364192f954a753696ad7556228e828ebfaf6ea2d8e2"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254060,
+      "spells": [
+        1257455
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254060",
+      "tooltip_sha256": "c462142ba5f17977e7b03232e243037f55031b31755ecaf36700adf7a3fd2b2d"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254062,
+      "spells": [
+        1257456
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254062",
+      "tooltip_sha256": "75f661a035f3d766ab2236ea679ae5b8dd0c599366b40587a9a4905416855e4b"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254064,
+      "spells": [
+        1257457
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254064",
+      "tooltip_sha256": "38b814242ad0c6de1af65a248bb8a84cd3c69a624c1c3667313f3a642f2d5574"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254066,
+      "spells": [
+        1257458
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254066",
+      "tooltip_sha256": "8cd3b1cc5a50981b10a076fefef8c90d22873f2be0f421c5ac82b679566ac06a"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254068,
+      "spells": [
+        1257459
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254068",
+      "tooltip_sha256": "47cf33a08231616a88e0e8a46d5f5bc19747d6ea13532df132d1b8199bfee843"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254070,
+      "spells": [
+        1257460
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254070",
+      "tooltip_sha256": "babffaaff4404639e141b2e3d1ffd2c8b8372f6de45b54483b88081800baab17"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254072,
+      "spells": [
+        1257461
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254072",
+      "tooltip_sha256": "7d8693204b0fa70292da90128e245673a51950bd1fc0f600606bd4df74eb3417"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254080,
+      "spells": [
+        1257465
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254080",
+      "tooltip_sha256": "d5c1d55fd49679c2484acab88e10fb312d148c726a711ed44e336ae48f0a8011"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254082,
+      "spells": [
+        1257466
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254082",
+      "tooltip_sha256": "fa57a55e335e2b6569ddc0e538faea7ac6e6afb5e0c1ca85daf1ea30a0a1454d"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254084,
+      "spells": [
+        1257467
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254084",
+      "tooltip_sha256": "a22bb91d92662d3b0252c4a0cbf22d2ac696f4215c438744add1d637bc1ee8cd"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254086,
+      "spells": [
+        1257468
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254086",
+      "tooltip_sha256": "6a07249cd9450d1cdd32ff8a775b74e80149bce4c6b028beea7d68b7cf94b698"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254088,
+      "spells": [
+        1257469
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254088",
+      "tooltip_sha256": "e97aaa7d93d4c5d18ca0970a5426fbd2df4963bcb0e54bbd70d0c109005ba382"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254090,
+      "spells": [
+        1257470
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254090",
+      "tooltip_sha256": "6af900a2347a88b22aa17861ecd984291f8cdb80557b4de9605465a24b1a4e45"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254092,
+      "spells": [
+        1257471
+      ],
+      "extended_cost": 11871,
+      "condition": 163380,
+      "favor": 60,
+      "reputation": "Friendly",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254092",
+      "tooltip_sha256": "0707c6c9a46b1fdd0f4b0b3e9c7c032dbfdc4433bf9815f0bd144178fc8fff3e"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254108,
+      "spells": [
+        1257479
+      ],
+      "extended_cost": 11872,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254108",
+      "tooltip_sha256": "372d56f123196f5bb93f732a9244304451da8faef429b1b0a5c21b102cd6fd8b"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254110,
+      "spells": [
+        1257480
+      ],
+      "extended_cost": 11872,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254110",
+      "tooltip_sha256": "51eab7b695ae157cba55c560e55f7e89cc91b3c0c79c2efcba649b2177bb55b1"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254112,
+      "spells": [
+        1257481
+      ],
+      "extended_cost": 11872,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254112",
+      "tooltip_sha256": "93a50d94fafc70ef8bc4ca54c66f82ef81dfd16badf277e54d5d574782c69971"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254114,
+      "spells": [
+        1257482
+      ],
+      "extended_cost": 11872,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254114",
+      "tooltip_sha256": "c8a12fd7a7a3a7aa687ec5eec493f59302f605e31a8da09c06a38ffa464f9a7a"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254116,
+      "spells": [
+        1257483
+      ],
+      "extended_cost": 11872,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254116",
+      "tooltip_sha256": "c594189860b8d9d3668dc54cd7c059cf85a7d88f3f1dcb6df28049fabb417943"
+    },
+    {
+      "vendor": 256735,
+      "reference_vendor": 248202,
+      "item": 254118,
+      "spells": [
+        1257484
+      ],
+      "extended_cost": 11872,
+      "condition": 163433,
+      "favor": 90,
+      "reputation": "Honored",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/254118",
+      "tooltip_sha256": "0350abad69ff23074f119292b871ccf9207e3c926bfb9ece3997b325c19bcba9"
+    }
+  ]
+}

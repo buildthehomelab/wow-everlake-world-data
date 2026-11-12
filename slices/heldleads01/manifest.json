@@ -1,0 +1,37 @@
+{
+  "slice": "heldleads01",
+  "file": "2026_11_10_41_world_everlake_import_heldleads01.sql",
+  "world": "forever-tdb-2026-10-14 + core 343fe6fb + world-data 24a3b39e + prior drafts",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "needroll": "CurseForge file 9539356, v1.5.0-forever"
+  },
+  "sha256": "21c67fe13c73d301161854adcbdeb41057bb64e7c2ee6dd2d7c382cc5fb5b134",
+  "keys": {
+    "creature_loot_template": [
+      [
+        4151,
+        0,
+        251457
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 1
+  },
+  "routes": [
+    {
+      "npc": 4151,
+      "item": 251457,
+      "spell": 1252354,
+      "chance_percent_estimate": 0.03,
+      "map": 1,
+      "rate_reference": "https://www.wowhead.com/forever/item=251457/plans-steel-spear",
+      "needroll_release": "https://www.curseforge.com/wow/addons/needroll/files/9539356",
+      "needroll_percent_estimate": 0.0,
+      "icy_reference": "https://db.icy-veins.com/wow-forever/npcs/4151",
+      "icy_percent_estimate": 1.74,
+      "note": "Exact NPC/item pair on Wowhead and Icy. NeedRoll rounded zero is not a usable positive rate. Using inspected Wowhead estimate, not consensus or exact server truth."
+    }
+  ]
+}
