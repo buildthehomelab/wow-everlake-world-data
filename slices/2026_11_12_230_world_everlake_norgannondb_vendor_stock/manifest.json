@@ -1,0 +1,623 @@
+{
+ "adds": [
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 734,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 4500 copper): Corporal Bluth sells Star Wood",
+   "slot": 31,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 1250,
+   "incrtime": 0,
+   "item": 4536,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 25 copper): Drake Lindgren sells Shiny Red Apple",
+   "slot": 1018,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 2805,
+   "incrtime": 0,
+   "item": 8925,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 2500 copper): Deneb Walker sells Crystal Vial",
+   "slot": 21,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 3085,
+   "incrtime": 0,
+   "item": 10284,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 200 copper): Gloria Femmel sells Simple Flour",
+   "slot": 7,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 4170,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 4500 copper): Ellandrieth sells Star Wood",
+   "slot": 25,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 4223,
+   "incrtime": 0,
+   "item": 10284,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 200 copper): Fyldan sells Simple Flour",
+   "slot": 7,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 4896,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 4500 copper): Charity Mipsy sells Star Wood",
+   "slot": 21,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 5101,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 4500 copper): Bryllia Ironbrand sells Star Wood",
+   "slot": 21,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 5160,
+   "incrtime": 0,
+   "item": 10284,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 200 copper): Emrul Riknussun sells Simple Flour",
+   "slot": 7,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 5483,
+   "incrtime": 0,
+   "item": 10284,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 200 copper): Erika Tate sells Simple Flour",
+   "slot": 7,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28989,
+   "incrtime": 0,
+   "item": 2504,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 29 copper): Aemara sells Worn Shortbow",
+   "slot": 1,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28989,
+   "incrtime": 0,
+   "item": 2505,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 60 copper): Aemara sells Polished Shortbow",
+   "slot": 2,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28989,
+   "incrtime": 0,
+   "item": 2506,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 285 copper): Aemara sells Hornwood Recurve Bow",
+   "slot": 3,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28989,
+   "incrtime": 0,
+   "item": 2507,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 1751 copper): Aemara sells Laminated Recurve Bow",
+   "slot": 4,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28989,
+   "incrtime": 0,
+   "item": 2512,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 10 copper): Aemara sells Rough Arrow",
+   "slot": 5,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28989,
+   "incrtime": 0,
+   "item": 2515,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 50 copper): Aemara sells Sharp Arrow",
+   "slot": 6,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28989,
+   "incrtime": 0,
+   "item": 3026,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 3812 copper): Aemara sells Reinforced Bow",
+   "slot": 7,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28989,
+   "incrtime": 0,
+   "item": 3027,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 6349 copper): Aemara sells Heavy Recurve Bow",
+   "slot": 8,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28989,
+   "incrtime": 0,
+   "item": 3030,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 300 copper): Aemara sells Razor Arrow",
+   "slot": 9,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28989,
+   "incrtime": 0,
+   "item": 5439,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 100 copper): Aemara sells Small Quiver",
+   "slot": 10,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28989,
+   "incrtime": 0,
+   "item": 11362,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 1000 copper): Aemara sells Medium Quiver",
+   "slot": 11,
+   "type": 1
+  }
+ ],
+ "file": "2026_11_12_230_world_everlake_norgannondb_vendor_stock.sql",
+ "held_back": [
+  {
+   "item": 4536,
+   "item_name": "Shiny Red Apple",
+   "npc": 66,
+   "npc_name": "Tharynn Bouden",
+   "w": [
+    "eg-link",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_08_02_world_everlake_import_slice2.sql, 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 4470,
+   "item_name": "Simple Wood",
+   "npc": 2664,
+   "npc_name": "Kelsey Yance",
+   "w": [
+    "eg-link",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 4471,
+   "item_name": "Flint and Tinder",
+   "npc": 2664,
+   "npc_name": "Kelsey Yance",
+   "w": [
+    "eg-link",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 4536,
+   "item_name": "Shiny Red Apple",
+   "npc": 2664,
+   "npc_name": "Kelsey Yance",
+   "w": [
+    "eg-link",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 10284,
+   "item_name": "Simple Flour",
+   "npc": 2664,
+   "npc_name": "Kelsey Yance",
+   "w": [
+    "eg-link",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 11291,
+   "item_name": "Star Wood",
+   "npc": 2664,
+   "npc_name": "Kelsey Yance",
+   "w": [
+    "eg-link",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 14639,
+   "item_name": "Schematic: Minor Recombobulator",
+   "npc": 3495,
+   "npc_name": "Gagsprocket",
+   "w": [
+    "foreverdb-net"
+   ],
+   "why": "EG Link saw this vendor's stock on live Forever without it"
+  },
+  {
+   "item": 2320,
+   "item_name": "Coarse Thread",
+   "npc": 3605,
+   "npc_name": "Nadyia Maneweaver",
+   "w": [
+    "eg-link",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 4289,
+   "item_name": "Salt",
+   "npc": 3605,
+   "npc_name": "Nadyia Maneweaver",
+   "w": [
+    "eg-link",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 7005,
+   "item_name": "Skinning Knife",
+   "npc": 3605,
+   "npc_name": "Nadyia Maneweaver",
+   "w": [
+    "eg-link",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 4536,
+   "item_name": "Shiny Red Apple",
+   "npc": 3614,
+   "npc_name": "Narret Shadowgrove",
+   "w": [
+    "eg-link",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 11291,
+   "item_name": "Star Wood",
+   "npc": 4082,
+   "npc_name": "Grawnal",
+   "w": [
+    "eg-link",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 4470,
+   "item_name": "Simple Wood",
+   "npc": 4265,
+   "npc_name": "Nyoma",
+   "w": [
+    "eg-link",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 4471,
+   "item_name": "Flint and Tinder",
+   "npc": 4265,
+   "npc_name": "Nyoma",
+   "w": [
+    "eg-link",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 4536,
+   "item_name": "Shiny Red Apple",
+   "npc": 4265,
+   "npc_name": "Nyoma",
+   "w": [
+    "eg-link",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 10284,
+   "item_name": "Simple Flour",
+   "npc": 4265,
+   "npc_name": "Nyoma",
+   "w": [
+    "eg-link",
+    "foreverdb-net",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 11291,
+   "item_name": "Star Wood",
+   "npc": 4265,
+   "npc_name": "Nyoma",
+   "w": [
+    "eg-link",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 4603,
+   "item_name": "Raw Spotted Yellowtail",
+   "npc": 8931,
+   "npc_name": "Innkeeper Heather",
+   "w": [
+    "eg-link",
+    "foreverdb-net",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_13_world_everlake_innkeeper_fish.sql"
+  },
+  {
+   "item": 6289,
+   "item_name": "Raw Longjaw Mud Snapper",
+   "npc": 8931,
+   "npc_name": "Innkeeper Heather",
+   "w": [
+    "eg-link",
+    "foreverdb-net",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_13_world_everlake_innkeeper_fish.sql"
+  },
+  {
+   "item": 6303,
+   "item_name": "Raw Slitherskin Mackerel",
+   "npc": 8931,
+   "npc_name": "Innkeeper Heather",
+   "w": [
+    "eg-link",
+    "foreverdb-net",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_13_world_everlake_innkeeper_fish.sql"
+  },
+  {
+   "item": 6308,
+   "item_name": "Raw Bristle Whisker Catfish",
+   "npc": 8931,
+   "npc_name": "Innkeeper Heather",
+   "w": [
+    "eg-link",
+    "foreverdb-net",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_13_world_everlake_innkeeper_fish.sql"
+  },
+  {
+   "item": 6362,
+   "item_name": "Raw Rockscale Cod",
+   "npc": 8931,
+   "npc_name": "Innkeeper Heather",
+   "w": [
+    "eg-link",
+    "foreverdb-net",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_13_world_everlake_innkeeper_fish.sql"
+  },
+  {
+   "item": 8959,
+   "item_name": "Raw Spinefin Halibut",
+   "npc": 8931,
+   "npc_name": "Innkeeper Heather",
+   "w": [
+    "eg-link",
+    "foreverdb-net",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_13_world_everlake_innkeeper_fish.sql"
+  },
+  {
+   "item": 4536,
+   "item_name": "Shiny Red Apple",
+   "npc": 8934,
+   "npc_name": "Christopher Hewen",
+   "w": [
+    "eg-link",
+    "foreverdb-net",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
+  },
+  {
+   "item": 289560,
+   "item_name": "Formula: Enchant Boots - Speed",
+   "npc": 248199,
+   "npc_name": "Beneris",
+   "w": [
+    "foreverdb-net",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_15_world_everlake_import_slice19.sql"
+  },
+  {
+   "item": 277113,
+   "item_name": "Apprentice's Herb Pouch",
+   "npc": 254360,
+   "npc_name": "Belandiel Farflight",
+   "w": [
+    "foreverdb-net",
+    "icyveins"
+   ],
+   "why": "EG Link saw this vendor's stock on live Forever without it"
+  },
+  {
+   "item": 277114,
+   "item_name": "Apprentice's Skinning Satchel",
+   "npc": 254360,
+   "npc_name": "Belandiel Farflight",
+   "w": [
+    "foreverdb-net",
+    "icyveins"
+   ],
+   "why": "EG Link saw this vendor's stock on live Forever without it"
+  },
+  {
+   "item": 277115,
+   "item_name": "Apprentice's Mining Pack",
+   "npc": 254360,
+   "npc_name": "Belandiel Farflight",
+   "w": [
+    "foreverdb-net",
+    "icyveins"
+   ],
+   "why": "EG Link saw this vendor's stock on live Forever without it"
+  },
+  {
+   "item": 289560,
+   "item_name": "Formula: Enchant Boots - Speed",
+   "npc": 256732,
+   "npc_name": "Alynsia",
+   "w": [
+    "eg-link",
+    "foreverdb-net",
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_10_15_world_everlake_import_slice19.sql"
+  }
+ ],
+ "pins": {
+  "allthethings": "007a0073a43f4babfb7e24b0540e107fd6190e80",
+  "eg-link": "9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae",
+  "forever-db": "67bf2ef637063d1a3963a9650437e9d6123cece3",
+  "foreverdb-net": "2026-11-10.93d059be",
+  "item-history": "8672fdc896ead1073a49d256ffeb6da8213dd549",
+  "live-hotfixes": "70862-a1137766129c",
+  "norgannondb": "a2a5bcf1031019093a3ad8a355ddab63cb630c65",
+  "questiedb": "c0ce0c97ee449295ff1a8356f815a713ff9e463c",
+  "tc-release": "forever-tdb-2026-10-14+updates@134d3d8b17",
+  "wago": "1.60.1.70862",
+  "wowhead": "2026-11-10",
+  "wowhead-tooltips": "parts/2026-11-10T1332"
+ },
+ "rule": "only vendor rows NorgannonDB lists and ForeverDB.net shows for a vendor its players saw on Forever, where\nthe world's vendor (spawned, with the vendor flag) lacks the item at any price, no world-data file names the pair yet,\nEG Link's live windows of that vendor (if any) show the item, the stock is unlimited and the price is money. Loot is\nnot written: its rows need a chance, and the drops two independent sources back were already in world-data (2026-11-12).",
+ "world": "acore_world_dryrun.elstep_"
+}

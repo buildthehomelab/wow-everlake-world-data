@@ -24,7 +24,14 @@ dates) of every source it was made from.
 - **QuestieDB** (https://github.com/Questie/QuestieDB), including player-recorded QuestieTrace corrections: GPL-3.0.
   Changed: voted against the other sources and written as TrinityCore rows. Used for: quest givers and enders; loot
   drops players recorded (QuestieTrace item traces).
-- **ForeverDB.net** (https://foreverdb.net): Data from ForeverDB.net, GPL-3.0. Used in the vote on quest givers and enders.
+- **ForeverDB.net** (https://foreverdb.net): Data from ForeverDB.net, GPL-3.0. Used in the vote on quest givers and enders,
+  and as the second witness for vendor stock (`2026_11_12_230_world_everlake_norgannondb_vendor_stock.sql`: only vendors
+  its players saw on Forever).
+- **NorgannonDB** by Maro (https://github.com/zmarotrix/NorgannonDB), GPL-3.0. Changed: compared with the world and
+  ForeverDB.net, written as TrinityCore rows. Used for: vendor stock (`2026_11_12_230_world_everlake_norgannondb_vendor_stock.sql`).
+  NorgannonDB compiles QuestieDB (GPL-3.0), pfQuest by Shagu (https://github.com/shagu/pfQuest; MIT, Copyright (c)
+  2017-2021 Eric Mauser (Shagu)), DungeonJournal by Exehn (used with the author's permission, on condition of this
+  credit), cmangos classic-db (GPL-3.0) and its Collector players' recordings; its NOTICE.md lists them.
 - **TrinityCore `forever` branch** (https://github.com/advocaite/TrinityCore/tree/forever), GPL-2.0: the world
   the files are written against; its Forever beta sniffs vote too. Slice 5 takes a new NPC's faction, speeds and
   attack times from the fork's NPCs nearby, each row's note naming them.
