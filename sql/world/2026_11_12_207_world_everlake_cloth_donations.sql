@@ -14,6 +14,9 @@ INSERT INTO quest_template
 SELECT 99193,2,279,6130900294268439629,3,1,2779,15000,'A Donation of Mageweave','Donate 60 Mageweave Cloth.',70532 WHERE @alliance
 UNION ALL
 SELECT 99198,2,215,12261800583900083122,3,1,2778,15000,'A Donation of Mageweave','Donate 60 Mageweave Cloth.',70532 WHERE @horde;
+INSERT INTO everlake_import_rows (tbl,k1,file,note)
+SELECT 'quest_template',99193,'2026_11_12_207_world_everlake_cloth_donations.sql','Icy Veins Forever and QuestieDB Forever' WHERE @alliance
+UNION ALL SELECT 'quest_template',99198,'2026_11_12_207_world_everlake_cloth_donations.sql','Icy Veins Forever and QuestieDB Forever' WHERE @horde;
 INSERT INTO quest_classic_level (ID,QuestLevel,MinLevel,MaxLevel)
 SELECT 99193,60,40,0 WHERE @alliance UNION ALL SELECT 99198,60,40,0 WHERE @horde;
 INSERT INTO everlake_import_rows (tbl,k1,k2,file,note)
@@ -62,6 +65,9 @@ INSERT INTO quest_template
 SELECT 99194,2,279,6130900294268439629,5,1,2779,15000,'A Donation of Runecloth','Donate 60 Runecloth Cloth.',70532 WHERE @alliance
 UNION ALL
 SELECT 99199,2,215,12261800583900083122,5,1,2778,15000,'A Donation of Runecloth','Donate 60 Runecloth Cloth.',70532 WHERE @horde;
+INSERT INTO everlake_import_rows (tbl,k1,file,note)
+SELECT 'quest_template',99194,'2026_11_12_207_world_everlake_cloth_donations.sql','Icy Veins Forever and QuestieDB Forever' WHERE @alliance
+UNION ALL SELECT 'quest_template',99199,'2026_11_12_207_world_everlake_cloth_donations.sql','Icy Veins Forever and QuestieDB Forever' WHERE @horde;
 INSERT INTO quest_classic_level (ID,QuestLevel,MinLevel,MaxLevel)
 SELECT 99194,60,50,0 WHERE @alliance UNION ALL SELECT 99199,60,50,0 WHERE @horde;
 INSERT INTO everlake_import_rows (tbl,k1,k2,file,note)
@@ -118,6 +124,9 @@ INSERT INTO quest_template
 SELECT 99195,2,279,6130900294268439629,0,1,2779,5000,'Additional Runecloth','Donate 20 Runecloth.',70532 WHERE @alliance
 UNION ALL
 SELECT 99200,2,215,12261800583900083122,0,1,2778,5000,'Additional Runecloth','Donate 20 Runecloth.',70532 WHERE @horde;
+INSERT INTO everlake_import_rows (tbl,k1,file,note)
+SELECT 'quest_template',99195,'2026_11_12_207_world_everlake_cloth_donations.sql','Icy Veins Forever and QuestieDB Forever' WHERE @alliance
+UNION ALL SELECT 'quest_template',99200,'2026_11_12_207_world_everlake_cloth_donations.sql','Icy Veins Forever and QuestieDB Forever' WHERE @horde;
 INSERT INTO quest_classic_level (ID,QuestLevel,MinLevel,MaxLevel)
 SELECT 99195,60,50,0 WHERE @alliance UNION ALL SELECT 99200,60,50,0 WHERE @horde;
 INSERT INTO everlake_import_rows (tbl,k1,k2,file,note)
