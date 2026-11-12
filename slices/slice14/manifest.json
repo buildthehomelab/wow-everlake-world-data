@@ -1,0 +1,160 @@
+{
+  "slice": "slice14",
+  "file": "2026_11_10_10_world_everlake_import_slice14.sql",
+  "world": "forever-tdb-2026-10-14 + core 029c5dd9 + world-data 24a3b39e",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "norgannondb": "v1.4.7"
+  },
+  "sha256": "5e07e0299470102d3c6f79e73597fa078f501717b98243a8849e3c9a7f0cab81",
+  "keys": {
+    "creature_loot_template": [
+      [
+        3670,
+        0,
+        252792
+      ],
+      [
+        3673,
+        0,
+        251349
+      ],
+      [
+        3653,
+        0,
+        251344
+      ],
+      [
+        3671,
+        0,
+        253904
+      ],
+      [
+        3653,
+        0,
+        252775
+      ],
+      [
+        3673,
+        0,
+        252796
+      ],
+      [
+        5775,
+        0,
+        252797
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 7
+  },
+  "routes": [
+    {
+      "npc": 3670,
+      "item": 252792,
+      "spell": 1255115,
+      "chance_percent_estimate": 0.51,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/3670",
+      "corroboration": [
+        {
+          "source": 3670,
+          "drops": 2,
+          "windows": 8,
+          "reporters": 5
+        }
+      ]
+    },
+    {
+      "npc": 3673,
+      "item": 251349,
+      "spell": 1252246,
+      "chance_percent_estimate": 0.298,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/3673",
+      "corroboration": [
+        {
+          "source": 3673,
+          "drops": 1,
+          "windows": 7,
+          "reporters": 5
+        }
+      ]
+    },
+    {
+      "npc": 3653,
+      "item": 251344,
+      "spell": 1252241,
+      "chance_percent_estimate": 1.02,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/3653",
+      "corroboration": [
+        {
+          "source": 3653,
+          "drops": 1,
+          "windows": 10,
+          "reporters": 6
+        }
+      ]
+    },
+    {
+      "npc": 3671,
+      "item": 253904,
+      "spell": 1257377,
+      "chance_percent_estimate": 0.308,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/3671",
+      "corroboration": [
+        {
+          "source": 3671,
+          "drops": 1,
+          "windows": 8,
+          "reporters": 5
+        }
+      ]
+    },
+    {
+      "npc": 3653,
+      "item": 252775,
+      "spell": 1255132,
+      "chance_percent_estimate": 0.369,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/3653",
+      "corroboration": [
+        {
+          "source": 3653,
+          "drops": 1,
+          "windows": 10,
+          "reporters": 6
+        }
+      ]
+    },
+    {
+      "npc": 3673,
+      "item": 252796,
+      "spell": 1255111,
+      "chance_percent_estimate": 0.417,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/3673",
+      "corroboration": [
+        {
+          "source": 3673,
+          "drops": 1,
+          "windows": 7,
+          "reporters": 5
+        }
+      ]
+    },
+    {
+      "npc": 5775,
+      "item": 252797,
+      "spell": 1255110,
+      "chance_percent_estimate": 0.226,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/5775",
+      "corroboration": [
+        {
+          "source": 5775,
+          "drops": 1,
+          "windows": 6,
+          "reporters": 4
+        }
+      ]
+    }
+  ],
+  "everloot_attribution": "Data from Everloot (https://everloot.app), CC BY-SA 4.0. https://everloot.app/terms#licences"
+}

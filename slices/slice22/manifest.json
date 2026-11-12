@@ -1,0 +1,110 @@
+{
+  "slice": "slice22",
+  "world": "forever-tdb-2026-10-14 + core 029c5dd9 + world-data 24a3b39e",
+  "file": "2026_11_10_18_world_everlake_import_slice22.sql",
+  "pins": {
+    "wago": "1.60.1.70862"
+  },
+  "sha256": "4994faf348d37e4d8efad09b6d67e96fcc91fcc3376ad0f077f5ce5f0fafbe9e",
+  "counts": {
+    "npc_vendor": 4,
+    "creature_loot_template": 1
+  },
+  "keys": {
+    "npc_vendor": [
+      [
+        4730,
+        274706,
+        0,
+        1
+      ],
+      [
+        4731,
+        274799,
+        0,
+        1
+      ],
+      [
+        3685,
+        275993,
+        0,
+        1
+      ],
+      [
+        4731,
+        276063,
+        0,
+        1
+      ]
+    ],
+    "creature_loot_template": [
+      [
+        10758,
+        0,
+        251339
+      ]
+    ]
+  },
+  "vendors": [
+    {
+      "npc": 4730,
+      "item": 274706,
+      "spell": 1294897,
+      "stock": "unlimited",
+      "currency": "copper",
+      "client_buy_price": 200000,
+      "required_level": 40,
+      "required_riding_spell": 828,
+      "comparable_item": 8629,
+      "source": "https://www.wowhead.com/forever/guide/unlocking-riding-skill-mounts"
+    },
+    {
+      "npc": 4731,
+      "item": 274799,
+      "spell": 1295387,
+      "stock": "unlimited",
+      "currency": "copper",
+      "client_buy_price": 2000000,
+      "required_level": 60,
+      "required_riding_spell": 10906,
+      "comparable_item": 13334,
+      "source": "https://www.wowhead.com/forever/guide/unlocking-riding-skill-mounts"
+    },
+    {
+      "npc": 3685,
+      "item": 275993,
+      "spell": 1298450,
+      "stock": "unlimited",
+      "currency": "copper",
+      "client_buy_price": 200000,
+      "required_level": 40,
+      "required_riding_spell": 18995,
+      "comparable_item": 15277,
+      "source": "https://www.wowhead.com/forever/guide/unlocking-riding-skill-mounts"
+    },
+    {
+      "npc": 4731,
+      "item": 276063,
+      "spell": 1298496,
+      "stock": "unlimited",
+      "currency": "copper",
+      "client_buy_price": 200000,
+      "required_level": 40,
+      "required_riding_spell": 10906,
+      "comparable_item": 13331,
+      "source": "https://www.wowhead.com/forever/guide/unlocking-riding-skill-mounts"
+    }
+  ],
+  "loot": [
+    {
+      "npc": 10758,
+      "item": 251339,
+      "spell": 1252236,
+      "chance_percent_estimate": 0.11,
+      "source": "https://www.wowhead.com/forever/item=251339/plans-sterling-silver-breastplate",
+      "corroboration": "https://ahledger.com/wow-forever/npcs/10758-grimtotem-bandit",
+      "ahledger_windows": 49,
+      "ahledger_chance_percent": 4.1
+    }
+  ]
+}
