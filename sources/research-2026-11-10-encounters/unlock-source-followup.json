@@ -1,0 +1,88 @@
+{
+  "att_pin": "900bdbc397a23c5d6f8af605714582127bc19fd4",
+  "att_repo": "ATTWoWAddon/AllTheThings",
+  "att_metadata_license": "MIT",
+  "att_raw_source_redistributed": false,
+  "source_hashes": {
+    "world_drops": "20c344f0a33cfff56234673dea448686ee1e9e2e0d1fb41398b485b3280c7947",
+    "hyjal": "e14099012989037cec26ae7d9844dce339e139300fd069c3b0de6d254fd47f77"
+  },
+  "shoe_candidates": [
+    {
+      "item": 252845,
+      "spell": 1255062,
+      "att_creature_ids": [
+        4542,
+        6487,
+        7356
+      ]
+    },
+    {
+      "item": 252847,
+      "spell": 1255060,
+      "att_creature_ids": [
+        3975,
+        4542,
+        6487,
+        7354,
+        7356,
+        7358,
+        8567
+      ]
+    }
+  ],
+  "shoe_decision": "New exact-ID alternate source leads, not live verified drops. ATT gives no rate/sample/date per acquisition. Search cache of Wowhead Warden page lists Doan .01%, while fresh opened page omits source; preserve discrepancy. No runtime row generated. NeedRoll/ATT/Wowhead provenance independence not established.",
+  "dala": {
+    "npc": 256629,
+    "ui_coord": [
+      21.0,
+      78.6
+    ],
+    "zone": "Mount Hyjal",
+    "faction": 2747,
+    "currency_item": 263439,
+    "count_each": 10,
+    "equivalent_client_cost_ids": [
+      11562,
+      11564
+    ],
+    "offers": [
+      {
+        "item": 254134,
+        "spell": 1257492,
+        "rank": "Honored",
+        "player_condition": 156319
+      },
+      {
+        "item": 274415,
+        "spell": 1294014,
+        "rank": "Friendly",
+        "player_condition": 156318
+      },
+      {
+        "item": 274424,
+        "spell": 1294054,
+        "rank": "Honored",
+        "player_condition": 156319
+      }
+    ],
+    "status": "Purchase terms narrowed to exact client item/cost/condition IDs; no server spawn/template supplied. No runtime vendor route or unlock yet.",
+    "remaining": [
+      "Observed full server position including map, height, orientation and phase",
+      "Verified creature template/model/faction/stats and vendor flags",
+      "Current live stock observation and confirmation of complete purchase conditions"
+    ],
+    "corroboration": [
+      "https://www.wowhead.com/forever/item=274424/formula-enchant-gloves-lotus-claw",
+      "https://wowforever.judgehype.com/article/ou-trouver-les-formules-d-enchantement/",
+      "https://www.wowhead.com/forever/item=254134/pattern-mooncloth-reagent-bag"
+    ],
+    "warning": "Do not confuse Forever Deadwood Tribal Beads item263439 with Classic item21377. UI x/y alone cannot create a verified server spawn."
+  },
+  "ziri": {
+    "npc": 217689,
+    "status": "Historical stock lead; player Gnomeregan clear reports vendor absent. Do not import based on aggregate vendor listings.",
+    "source": "https://www.reddit.com/r/wowforever/comments/1wzh1my/has_anyone_cleared_gnomeregan/",
+    "limitation": "A single anecdotal absence report is not exhaustive permanent-unavailability proof. Search dated October6; opened page rendered relative3d: exact date not relied upon."
+  }
+}

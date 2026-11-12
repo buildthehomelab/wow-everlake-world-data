@@ -1,0 +1,30 @@
+{
+  "slice": "qia01",
+  "file": "2026_11_10_56_world_everlake_import_qia01.sql",
+  "world": "core 343fe6fb + world-data 24a3b39e + reviewed drafts",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "wow-professions": "Qia offer checked 2026-11-10"
+  },
+  "sha256": "1b897683c05db3e5545a342975a353c3100958703b0626fc2257132a4187600e",
+  "keys": {
+    "npc_vendor": [
+      [
+        11189,
+        250173,
+        0,
+        1
+      ]
+    ]
+  },
+  "counts": {
+    "npc_vendor": 1
+  },
+  "spell": 1250142,
+  "price_copper": 20000,
+  "stock": "provisional unlimited; live restock unknown",
+  "references": [
+    "https://www.wow-professions.com/forever/npc/qia",
+    "https://www.wowhead.com/forever/item=250173/recipe-savory-stag-sliders"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "updated_quests": {
+    "531": 270017,
+    "549": 276720,
+    "940": 281250
+  },
+  "quantity_each": 1,
+  "replay_changed_rows": 0,
+  "importer_rewrite": "passed",
+  "scope": "Database verification on pinned rebuild"
+}
