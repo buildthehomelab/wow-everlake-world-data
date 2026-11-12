@@ -1,0 +1,46 @@
+{
+  "slice": "questlearning01",
+  "file": "2026_11_10_50_world_everlake_quest_learning_rewards.sql",
+  "sha256": "46ae0849a8526228993289b2a2e85ca4c891d84b740bd9d2f30a3a4cd4f1cc63",
+  "keys": {
+    "quest_reward_display_spell": [
+      [
+        2203,
+        0
+      ],
+      [
+        2501,
+        0
+      ],
+      [
+        94971,
+        0
+      ]
+    ]
+  },
+  "counts": {
+    "quest_reward_display_spell": 3
+  },
+  "corrections": [
+    {
+      "quest": 2203,
+      "old_reward": 11522,
+      "new_reward": 366567
+    },
+    {
+      "quest": 2501,
+      "old_reward": 11522,
+      "new_reward": 366567
+    }
+  ],
+  "new_learning_spell": 1251744,
+  "reward_spell": 366567,
+  "client": "1.60.1.70862",
+  "core": "343fe6fb95076e09575156c8b88d155914003b78",
+  "source_pin": "9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae",
+  "references": [
+    "https://www.wowhead.com/forever/quest=2501/badlands-reagent-run-ii",
+    "https://github.com/buildthehomelab/wow-trinitycore-everlake/blob/343fe6fb95076e09575156c8b88d155914003b78/src/server/game/Quests/QuestDef.cpp",
+    "https://github.com/buildthehomelab/wow-trinitycore-everlake/blob/343fe6fb95076e09575156c8b88d155914003b78/src/server/scripts/EasternKingdoms/eastern_kingdoms.cpp"
+  ]
+}

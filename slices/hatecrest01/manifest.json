@@ -1,0 +1,36 @@
+{
+  "slice": "hatecrest01",
+  "file": "2026_11_10_54_world_everlake_import_hatecrest01.sql",
+  "world": "forever-tdb-2026-10-14 + core 343fe6fb + world-data 24a3b39e + prior drafts",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "wowhead": "2026-11-10 observed counts"
+  },
+  "sha256": "2c4070327960dc781756b864bd2ed488dfa5b3cf175bec1298a460aee22fdb3b",
+  "keys": {
+    "creature_loot_template": [
+      [
+        5336,
+        0,
+        249513
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 1
+  },
+  "routes": [
+    {
+      "npc": 5336,
+      "item": 249513,
+      "spell": 1248511,
+      "chance_percent_estimate": 0.00339097999321804,
+      "map": 1,
+      "rate_reference": "https://www.wowhead.com/forever/it/item=249513/formula-enchant-2h-weapon-lesser-strength",
+      "observed_drops": 2,
+      "observed_kills": 58980,
+      "english_reference": "https://www.wowhead.com/forever/item=249513/formula-enchant-2h-weapon-lesser-strength",
+      "note": "The English page rounds to 0.00%. The Italian result exposes the counts used for this estimate."
+    }
+  ]
+}
