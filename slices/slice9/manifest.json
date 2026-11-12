@@ -1,0 +1,88 @@
+{
+  "slice": "slice9",
+  "world": "forever-tdb-2026-10-14 + core 029c5dd9 + world-data 24a3b39e",
+  "pins": {
+    "eg-link": "9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae",
+    "questiedb": "c0ce0c97ee449295ff1a8356f815a713ff9e463c"
+  },
+  "file": "2026_11_10_04_world_everlake_import_slice9.sql",
+  "sha256": "01f5074a02a20ac8f81ed0f76f6e6b5570ce1f80da2238e3116cd1c410849338",
+  "counts": {
+    "quest_template": 1,
+    "quest_classic_level": 1,
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "creature_queststarter": 2,
+    "creature_questender": 2,
+    "gameobject_loot_template": 1,
+    "quest_request_items": 1,
+    "quest_offer_reward": 1
+  },
+  "keys": {
+    "quest_template": [
+      [
+        78143
+      ]
+    ],
+    "quest_classic_level": [
+      [
+        78143
+      ]
+    ],
+    "quest_classic_money": [
+      [
+        78143
+      ]
+    ],
+    "quest_objectives": [
+      [
+        443982
+      ]
+    ],
+    "creature_queststarter": [
+      [
+        211022,
+        78143
+      ],
+      [
+        211033,
+        78143
+      ]
+    ],
+    "creature_questender": [
+      [
+        211022,
+        78143
+      ],
+      [
+        211033,
+        78143
+      ]
+    ],
+    "gameobject_loot_template": [
+      [
+        119761,
+        0,
+        209846
+      ]
+    ],
+    "quest_request_items": [
+      [
+        78143
+      ]
+    ],
+    "quest_offer_reward": [
+      [
+        78143
+      ]
+    ]
+  },
+  "acquisition_reference": "https://www.warcrafttavern.com/forever/guides/library-books",
+  "quest_reference": "https://www.wowhead.com/forever/quest=78143/secrets-of-the-dreamers",
+  "reward_item": 211779,
+  "faction": "Both",
+  "quest": 78143,
+  "chest": 409692,
+  "item": 209846,
+  "research_access_condition_already_present": 97286
+}

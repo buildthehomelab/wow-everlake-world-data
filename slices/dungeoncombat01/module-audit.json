@@ -1,0 +1,563 @@
+{
+  "module_pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+  "modules": [
+    {
+      "path": "DBM-Party-Vanilla/Classic/BlackfathomDeeps/Akumai.lua",
+      "npc_ids": [
+        4829
+      ],
+      "smart_cast_ids": [
+        3490,
+        3815
+      ],
+      "bindings": [
+        [
+          4829,
+          "SmartAI",
+          ""
+        ]
+      ],
+      "not_in_smart": [],
+      "module_spell_ids": [
+        3490,
+        3815
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "No missing announced spell in direct SmartAI comparison; not a full combat certification"
+    },
+    {
+      "path": "DBM-Party-Vanilla/Classic/BlackfathomDeeps/Gelihast.lua",
+      "npc_ids": [
+        6243
+      ],
+      "smart_cast_ids": [
+        12024
+      ],
+      "bindings": [
+        [
+          6243,
+          "SmartAI",
+          ""
+        ]
+      ],
+      "not_in_smart": [
+        6533
+      ],
+      "module_spell_ids": [
+        6533
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "Existing spell variant differs; no replacement without variant/trigger analysis; issue47"
+    },
+    {
+      "path": "DBM-Party-Vanilla/Classic/BlackfathomDeeps/GhamooRa.lua",
+      "npc_ids": [
+        4887
+      ],
+      "smart_cast_ids": [
+        5568
+      ],
+      "bindings": [
+        [
+          4887,
+          "SmartAI",
+          ""
+        ]
+      ],
+      "not_in_smart": [],
+      "module_spell_ids": [
+        5568
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "No missing announced spell in direct SmartAI comparison; not a full combat certification"
+    },
+    {
+      "path": "DBM-Party-Vanilla/Classic/BlackfathomDeeps/LadySerevess.lua",
+      "npc_ids": [
+        4831
+      ],
+      "smart_cast_ids": [
+        246,
+        865,
+        6660,
+        8435
+      ],
+      "bindings": [
+        [
+          4831,
+          "SmartAI",
+          ""
+        ]
+      ],
+      "not_in_smart": [],
+      "module_spell_ids": [
+        246
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "No missing announced spell in direct SmartAI comparison; not a full combat certification"
+    },
+    {
+      "path": "DBM-Party-Vanilla/Classic/BlackfathomDeeps/OldSerrakis.lua",
+      "npc_ids": [
+        4830
+      ],
+      "smart_cast_ids": [],
+      "bindings": [
+        [
+          4830,
+          "",
+          ""
+        ]
+      ],
+      "not_in_smart": [],
+      "module_spell_ids": [],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "Leech Pulse8434 already in creature_template_addon; no duplicate"
+    },
+    {
+      "path": "DBM-Party-Vanilla/Classic/BlackfathomDeeps/TwilightLordKelris.lua",
+      "npc_ids": [
+        4832
+      ],
+      "smart_cast_ids": [
+        8399,
+        15587
+      ],
+      "bindings": [
+        [
+          4832,
+          "SmartAI",
+          ""
+        ]
+      ],
+      "not_in_smart": [],
+      "module_spell_ids": [
+        8399
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "No missing announced spell in direct SmartAI comparison; not a full combat certification"
+    },
+    {
+      "path": "DBM-Party-Vanilla/Shared/ScarletMonastery_Old/ArcanistDoan.lua",
+      "npc_ids": [
+        6487
+      ],
+      "smart_cast_ids": [],
+      "bindings": [
+        [
+          6487,
+          "",
+          "classic_boss_arcanist_doan"
+        ]
+      ],
+      "not_in_smart": [
+        8988,
+        9433,
+        9435,
+        13323
+      ],
+      "module_spell_ids": [
+        8988,
+        9433,
+        9435,
+        13323
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "Covered by actual bound C++ source; no added SmartAI rotation",
+      "unmatched_after_cpp_check": []
+    },
+    {
+      "path": "DBM-Party-Vanilla/Shared/ScarletMonastery_Old/BloodmageThalnos.lua",
+      "npc_ids": [
+        4543
+      ],
+      "smart_cast_ids": [
+        8053,
+        8814,
+        9613,
+        12470
+      ],
+      "bindings": [
+        [
+          4543,
+          "SmartAI",
+          ""
+        ]
+      ],
+      "not_in_smart": [],
+      "module_spell_ids": [
+        8814,
+        12470
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "No missing announced spell in direct SmartAI comparison; not a full combat certification"
+    },
+    {
+      "path": "DBM-Party-Vanilla/Shared/ScarletMonastery_Old/Herod.lua",
+      "npc_ids": [
+        3975
+      ],
+      "smart_cast_ids": [],
+      "bindings": [
+        [
+          3975,
+          "",
+          "classic_boss_herod"
+        ]
+      ],
+      "not_in_smart": [
+        8269,
+        8989
+      ],
+      "module_spell_ids": [
+        8269,
+        8989
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "Covered by actual bound C++ source; no added SmartAI rotation",
+      "unmatched_after_cpp_check": []
+    },
+    {
+      "path": "DBM-Party-Vanilla/Shared/ScarletMonastery_Old/HighInquisitorFairbanks.lua",
+      "npc_ids": [
+        4542
+      ],
+      "smart_cast_ids": [],
+      "bindings": [
+        [
+          4542,
+          "",
+          "classic_boss_high_inquisitor_fairbanks"
+        ]
+      ],
+      "not_in_smart": [
+        8282
+      ],
+      "module_spell_ids": [
+        8282
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "Covered by actual bound C++ source; no added SmartAI rotation",
+      "unmatched_after_cpp_check": []
+    },
+    {
+      "path": "DBM-Party-Vanilla/Shared/ScarletMonastery_Old/HoundmasterLoksey.lua",
+      "npc_ids": [
+        3974
+      ],
+      "smart_cast_ids": [],
+      "bindings": [
+        [
+          3974,
+          "",
+          "classic_boss_houndmaster_loksey"
+        ]
+      ],
+      "not_in_smart": [
+        6742
+      ],
+      "module_spell_ids": [
+        6742
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "Covered by actual bound C++ source; no added SmartAI rotation",
+      "unmatched_after_cpp_check": []
+    },
+    {
+      "path": "DBM-Party-Vanilla/Shared/ScarletMonastery_Old/InterrogatorVishas.lua",
+      "npc_ids": [
+        3983
+      ],
+      "smart_cast_ids": [],
+      "bindings": [
+        [
+          3983,
+          "",
+          "classic_boss_interrogator_vishas"
+        ]
+      ],
+      "not_in_smart": [
+        9034
+      ],
+      "module_spell_ids": [
+        9034
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "Bound C++ uses Shadow Word: Pain2767 instead of module9034; variant research issue47; no duplicate SmartAI rotation",
+      "unmatched_after_cpp_check": [
+        9034
+      ]
+    },
+    {
+      "path": "DBM-Party-Vanilla/Shared/ScarletMonastery_Old/Mograine_and_Whitemane.lua",
+      "npc_ids": [
+        3977,
+        3976,
+        99999
+      ],
+      "smart_cast_ids": [
+        1020,
+        5589,
+        8990,
+        9232,
+        9256,
+        9481,
+        12039,
+        14515,
+        14518,
+        22187
+      ],
+      "bindings": [
+        [
+          3976,
+          "SmartAI",
+          ""
+        ],
+        [
+          3977,
+          "SmartAI",
+          ""
+        ],
+        [
+          99999,
+          "",
+          ""
+        ]
+      ],
+      "not_in_smart": [],
+      "module_spell_ids": [
+        9256,
+        12039
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "No missing announced spell in direct SmartAI comparison; not a full combat certification"
+    },
+    {
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/DeviateFaerieDragon.lua",
+      "npc_ids": [
+        5912
+      ],
+      "smart_cast_ids": [],
+      "bindings": [
+        [
+          5912,
+          "",
+          ""
+        ]
+      ],
+      "not_in_smart": [
+        8040
+      ],
+      "module_spell_ids": [
+        8040
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "Missing path lead; no source cadence available; issue46"
+    },
+    {
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/Kresh.lua",
+      "npc_ids": [
+        3653
+      ],
+      "smart_cast_ids": [],
+      "bindings": [
+        [
+          3653,
+          "",
+          ""
+        ]
+      ],
+      "not_in_smart": [],
+      "module_spell_ids": [],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "No module spell announcements; ACID NSR; blank script not automatically a defect"
+    },
+    {
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/LadyAnacondra.lua",
+      "npc_ids": [
+        3671
+      ],
+      "smart_cast_ids": [
+        700,
+        5187,
+        8148,
+        9532,
+        13236
+      ],
+      "bindings": [
+        [
+          3671,
+          "SmartAI",
+          ""
+        ]
+      ],
+      "not_in_smart": [
+        8040,
+        23381
+      ],
+      "module_spell_ids": [
+        8040,
+        23381
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "Existing spell variant differs; no replacement without variant/trigger analysis; issue47"
+    },
+    {
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/LordCobrahn.lua",
+      "npc_ids": [
+        3669
+      ],
+      "smart_cast_ids": [
+        7965,
+        8040,
+        9532
+      ],
+      "bindings": [
+        [
+          3669,
+          "SmartAI",
+          ""
+        ]
+      ],
+      "not_in_smart": [
+        17330,
+        23381
+      ],
+      "module_spell_ids": [
+        7965,
+        8040,
+        17330,
+        23381
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "Existing spell variant differs; no replacement without variant/trigger analysis; issue47"
+    },
+    {
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/LordPythas.lua",
+      "npc_ids": [
+        3670
+      ],
+      "smart_cast_ids": [
+        700,
+        5187,
+        8147,
+        9532
+      ],
+      "bindings": [
+        [
+          3670,
+          "SmartAI",
+          ""
+        ]
+      ],
+      "not_in_smart": [
+        8040,
+        23381
+      ],
+      "module_spell_ids": [
+        8040,
+        23381
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "Existing spell variant differs; no replacement without variant/trigger analysis; issue47"
+    },
+    {
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/LordSerpentis.lua",
+      "npc_ids": [
+        3673
+      ],
+      "smart_cast_ids": [
+        700,
+        6778,
+        9532
+      ],
+      "bindings": [
+        [
+          3673,
+          "SmartAI",
+          ""
+        ]
+      ],
+      "not_in_smart": [
+        8040,
+        23381
+      ],
+      "module_spell_ids": [
+        8040,
+        23381
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "Existing spell variant differs; no replacement without variant/trigger analysis; issue47"
+    },
+    {
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/MutanustheDevourer.lua",
+      "npc_ids": [
+        3654
+      ],
+      "smart_cast_ids": [],
+      "bindings": [
+        [
+          3654,
+          "SmartAI",
+          ""
+        ]
+      ],
+      "not_in_smart": [
+        7399,
+        7967,
+        8150
+      ],
+      "module_spell_ids": [
+        7399,
+        7967,
+        8150
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "Three missing cast rows restored as provisional Classic ACID fallback; issue48 remains open"
+    },
+    {
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/Skum.lua",
+      "npc_ids": [
+        3674
+      ],
+      "smart_cast_ids": [
+        6254
+      ],
+      "bindings": [
+        [
+          3674,
+          "SmartAI",
+          ""
+        ]
+      ],
+      "not_in_smart": [],
+      "module_spell_ids": [
+        6254
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "No missing announced spell in direct SmartAI comparison; not a full combat certification"
+    },
+    {
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/VerantheEverliving.lua",
+      "npc_ids": [
+        5775
+      ],
+      "smart_cast_ids": [
+        8142
+      ],
+      "bindings": [
+        [
+          5775,
+          "SmartAI",
+          ""
+        ]
+      ],
+      "not_in_smart": [],
+      "module_spell_ids": [
+        8142
+      ],
+      "source_kind": "Shared addon announcement definitions; not live combat telemetry",
+      "disposition": "No missing announced spell in direct SmartAI comparison; not a full combat certification"
+    }
+  ]
+}

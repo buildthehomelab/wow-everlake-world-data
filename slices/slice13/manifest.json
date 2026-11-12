@@ -1,0 +1,43 @@
+{
+  "slice": "slice13",
+  "file": "2026_11_10_09_world_everlake_import_slice13.sql",
+  "world": "forever-tdb-2026-10-14 + core 029c5dd9 + world-data 24a3b39e",
+  "pins": {
+    "eg-link": "9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae"
+  },
+  "sha256": "ed483a5897edbf29b119c6fe4c517073826c710843534a2bf2fc77f4a882f7d4",
+  "keys": {
+    "quest_template": [
+      [
+        95141
+      ]
+    ],
+    "quest_classic_level": [
+      [
+        95141
+      ]
+    ],
+    "creature_queststarter": [
+      [
+        2464,
+        95141
+      ]
+    ],
+    "creature_questender": [
+      [
+        256418,
+        95141
+      ]
+    ]
+  },
+  "counts": {
+    "quest_template": 1,
+    "quest_classic_level": 1,
+    "creature_queststarter": 1,
+    "creature_questender": 1
+  },
+  "references": [
+    "https://www.wowhead.com/forever/quest=95141/report-to-rogmar",
+    "https://ahledger.com/wow-forever/quests/95141-report-to-rogmar"
+  ]
+}
