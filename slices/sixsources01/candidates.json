@@ -1,0 +1,1264 @@
+[
+  {
+    "item": 227899,
+    "spell": 461645,
+    "name": "Pattern: Honed Blue Dragonscale Shoulders",
+    "drops": [
+      {
+        "npc": 6146,
+        "name": "Cliff Breaker",
+        "chance_percent": 9.520000000000001
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 227903,
+    "spell": 461657,
+    "name": "Pattern: Hardened Black Dragonscale Leggings",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Anvilrage Captain",
+        "chance_percent": 1.16
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 227904,
+    "spell": 461659,
+    "name": "Pattern: Hardened Black Dragonscale Shoulders",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Anvilrage Marshal",
+        "chance_percent": 2.08
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 227905,
+    "spell": 461647,
+    "name": "Plans: Skyrider's Masterwork Stormhammer",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Onyxia",
+        "chance_percent": 1.09
+      },
+      {
+        "npc": 6109,
+        "name": "Azuregos",
+        "chance_percent": 1.0
+      },
+      {
+        "npc": null,
+        "name": "Lord Kazzak",
+        "chance_percent": 0.95
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 227906,
+    "spell": 461661,
+    "name": "Pattern: Masterwork Volcanic Breastplate",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Firebrand Grunt",
+        "chance_percent": 2.23
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 227907,
+    "spell": 461663,
+    "name": "Pattern: Masterwork Volcanic Shoulders",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Firebrand Legionnaire",
+        "chance_percent": 4.08
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 227908,
+    "spell": 461665,
+    "name": "Pattern: Masterwork Volcanic Leggings",
+    "drops": [
+      {
+        "npc": 7035,
+        "name": "Firegut Brute",
+        "chance_percent": 6.15
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 228114,
+    "spell": 461675,
+    "name": "Plans: Refined Arcanite Reaper",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Onyxia",
+        "chance_percent": 0.96
+      },
+      {
+        "npc": 6109,
+        "name": "Azuregos",
+        "chance_percent": 0.95
+      },
+      {
+        "npc": null,
+        "name": "Lord Kazzak",
+        "chance_percent": 0.5700000000000001
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 228117,
+    "spell": 461669,
+    "name": "Plans: Refined Arcanite Champion",
+    "drops": [
+      {
+        "npc": 6109,
+        "name": "Azuregos",
+        "chance_percent": 0.95
+      },
+      {
+        "npc": null,
+        "name": "Lord Kazzak",
+        "chance_percent": 0.66
+      },
+      {
+        "npc": null,
+        "name": "Onyxia",
+        "chance_percent": 0.48
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 228119,
+    "spell": 461722,
+    "name": "Pattern: Devilcore Gauntlets",
+    "drops": [
+      {
+        "npc": 6584,
+        "name": "King Mosh",
+        "chance_percent": 45.45
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 228120,
+    "spell": 461724,
+    "name": "Pattern: Devilcore Leggings",
+    "drops": [
+      {
+        "npc": 6584,
+        "name": "King Mosh",
+        "chance_percent": 100.0
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 228250,
+    "spell": 461671,
+    "name": "Plans: Stronger-hold Gauntlets",
+    "drops": [
+      {
+        "npc": 228969,
+        "name": "Lord Gazzran",
+        "chance_percent": 3.16
+      },
+      {
+        "npc": 228970,
+        "name": "Galenges",
+        "chance_percent": 3.1199999999999997
+      },
+      {
+        "npc": 228721,
+        "name": "Lieutenant Skarresh",
+        "chance_percent": 3.0300000000000002
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 228310,
+    "spell": 461730,
+    "name": "Plans: Hardened Frostguard",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Onyxia",
+        "chance_percent": 0.96
+      },
+      {
+        "npc": 6109,
+        "name": "Azuregos",
+        "chance_percent": 0.58
+      },
+      {
+        "npc": null,
+        "name": "Lord Kazzak",
+        "chance_percent": 0.5700000000000001
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 228312,
+    "spell": 461735,
+    "name": "Plans: Invincible Mail",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Goraluk Anvilcrack",
+        "chance_percent": 3.1199999999999997
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 228314,
+    "spell": 461739,
+    "name": "Plans: Warcrest of the Great Chief",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Emeriss",
+        "chance_percent": 6.819999999999999
+      },
+      {
+        "npc": null,
+        "name": "Taerar",
+        "chance_percent": 6.02
+      },
+      {
+        "npc": null,
+        "name": "Lethon",
+        "chance_percent": 2.3800000000000003
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 228315,
+    "spell": 461743,
+    "name": "Plans: Sageblade of the Archmagus",
+    "drops": [
+      {
+        "npc": 228728,
+        "name": "Flamebringer Kelris",
+        "chance_percent": 8.33
+      },
+      {
+        "npc": 228970,
+        "name": "Galenges",
+        "chance_percent": 3.1199999999999997
+      },
+      {
+        "npc": null,
+        "name": "Emeriss",
+        "chance_percent": 2.86
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 228316,
+    "spell": 461747,
+    "name": "Pattern: Incandescent Mooncloth Vest",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Taerar",
+        "chance_percent": 6.02
+      },
+      {
+        "npc": null,
+        "name": "Emeriss",
+        "chance_percent": 4.55
+      },
+      {
+        "npc": null,
+        "name": "Lethon",
+        "chance_percent": 4.44
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 228317,
+    "spell": 461750,
+    "name": "Pattern: Incandescent Mooncloth Circlet",
+    "drops": [
+      {
+        "npc": 228970,
+        "name": "Galenges",
+        "chance_percent": 9.379999999999999
+      },
+      {
+        "npc": null,
+        "name": "Fallen Praetorian",
+        "chance_percent": 4.17
+      },
+      {
+        "npc": 228969,
+        "name": "Lord Gazzran",
+        "chance_percent": 2.3800000000000003
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 228318,
+    "spell": 461752,
+    "name": "Pattern: Incandescent Mooncloth Leggings",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Emeriss",
+        "chance_percent": 4.55
+      },
+      {
+        "npc": 6109,
+        "name": "Azuregos",
+        "chance_percent": 2.69
+      },
+      {
+        "npc": 228969,
+        "name": "Lord Gazzran",
+        "chance_percent": 2.3800000000000003
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 228993,
+    "spell": 463972,
+    "name": "Pattern: Bottomless Bag",
+    "drops": [
+      {
+        "npc": 228970,
+        "name": "Galenges",
+        "chance_percent": 3.1199999999999997
+      },
+      {
+        "npc": null,
+        "name": "Taerar",
+        "chance_percent": 2.41
+      },
+      {
+        "npc": null,
+        "name": "Emeriss",
+        "chance_percent": 2.27
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238298,
+    "spell": 1224607,
+    "name": "Pattern: Scarlet Augur's Hood",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Grand Crusader Caldoran",
+        "chance_percent": 7.670000000000001
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238299,
+    "spell": 1224608,
+    "name": "Pattern: Scarlet Augur's Mantle",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Alexei the Beastlord",
+        "chance_percent": 38.78
+      },
+      {
+        "npc": null,
+        "name": "Grand Crusader Caldoran",
+        "chance_percent": 7.380000000000001
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238300,
+    "spell": 1224609,
+    "name": "Pattern: Scarlet Augur's Vestments",
+    "drops": [
+      {
+        "npc": null,
+        "name": "High Commander Beatrix",
+        "chance_percent": 35.64
+      },
+      {
+        "npc": null,
+        "name": "Grand Crusader Caldoran",
+        "chance_percent": 6.959999999999999
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238301,
+    "spell": 1224610,
+    "name": "Pattern: Scarlet Augur's Cuffs",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Knight-Captain Fratley",
+        "chance_percent": 5.0
+      },
+      {
+        "npc": null,
+        "name": "Cannon Mistress Lind",
+        "chance_percent": 2.94
+      },
+      {
+        "npc": null,
+        "name": "Cardinal Stiltz",
+        "chance_percent": 1.3
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238302,
+    "spell": 1224611,
+    "name": "Pattern: Scarlet Augur's Mitts",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Sentry",
+        "chance_percent": 2.63
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Cavalier",
+        "chance_percent": 1.2
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Priest",
+        "chance_percent": 1.15
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238303,
+    "spell": 1224612,
+    "name": "Pattern: Scarlet Augur's Strap",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Artillery",
+        "chance_percent": 3.85
+      },
+      {
+        "npc": null,
+        "name": "Cannon Mistress Lind",
+        "chance_percent": 2.94
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Medic",
+        "chance_percent": 2.56
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238304,
+    "spell": 1224613,
+    "name": "Pattern: Scarlet Augur's Leggings",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Mage",
+        "chance_percent": 5.71
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Cavalry",
+        "chance_percent": 2.22
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Infantry",
+        "chance_percent": 1.78
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238305,
+    "spell": 1224614,
+    "name": "Pattern: Scarlet Augur's Soles",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Sentry",
+        "chance_percent": 2.63
+      },
+      {
+        "npc": null,
+        "name": "Knight-Captain Fratley",
+        "chance_percent": 2.5
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Cavalry",
+        "chance_percent": 2.22
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238306,
+    "spell": 1224615,
+    "name": "Pattern: Scarlet Infiltrator's Bandana",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Grand Crusader Caldoran",
+        "chance_percent": 6.32
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238307,
+    "spell": 1224616,
+    "name": "Pattern: Scarlet Infiltrator's Shoulderpads",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Alexei the Beastlord",
+        "chance_percent": 36.809999999999995
+      },
+      {
+        "npc": null,
+        "name": "Grand Crusader Caldoran",
+        "chance_percent": 6.03
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238308,
+    "spell": 1224617,
+    "name": "Pattern: Scarlet Infiltrator's Vest",
+    "drops": [
+      {
+        "npc": null,
+        "name": "High Commander Beatrix",
+        "chance_percent": 34.9
+      },
+      {
+        "npc": null,
+        "name": "Grand Crusader Caldoran",
+        "chance_percent": 5.06
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238309,
+    "spell": 1224618,
+    "name": "Pattern: Scarlet Infiltrator's Bracers",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Cavalry",
+        "chance_percent": 4.44
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Artillery",
+        "chance_percent": 3.85
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Curate",
+        "chance_percent": 3.49
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238310,
+    "spell": 1224619,
+    "name": "Pattern: Scarlet Infiltrator's Gloves",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Sentry",
+        "chance_percent": 5.26
+      },
+      {
+        "npc": null,
+        "name": "Bowmaster Puck",
+        "chance_percent": 4.760000000000001
+      },
+      {
+        "npc": null,
+        "name": "Arcanist Hilda",
+        "chance_percent": 4.35
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238311,
+    "spell": 1224620,
+    "name": "Pattern: Scarlet Infiltrator's Belt",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Paladin",
+        "chance_percent": 33.33
+      },
+      {
+        "npc": null,
+        "name": "Eastsea Handler",
+        "chance_percent": 7.6899999999999995
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Cavalry",
+        "chance_percent": 3.1199999999999997
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238312,
+    "spell": 1224621,
+    "name": "Pattern: Scarlet Infiltrator's Trousers",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Archer",
+        "chance_percent": 1.44
+      },
+      {
+        "npc": null,
+        "name": "Eastsea Swashbuckler",
+        "chance_percent": 1.39
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Infantry",
+        "chance_percent": 1.37
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238313,
+    "spell": 1224622,
+    "name": "Pattern: Scarlet Infiltrator's Shoes",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Cavalry",
+        "chance_percent": 3.2300000000000004
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Executioner",
+        "chance_percent": 1.83
+      },
+      {
+        "npc": 242757,
+        "name": "New Avalon Councilman",
+        "chance_percent": 1.23
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238314,
+    "spell": 1224623,
+    "name": "Pattern: Scarlet Huntsman's Coif",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Grand Crusader Caldoran",
+        "chance_percent": 7.46
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238315,
+    "spell": 1224624,
+    "name": "Pattern: Scarlet Huntsman's Pauldrons",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Alexei the Beastlord",
+        "chance_percent": 37.32
+      },
+      {
+        "npc": null,
+        "name": "Grand Crusader Caldoran",
+        "chance_percent": 6.16
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238316,
+    "spell": 1224625,
+    "name": "Pattern: Scarlet Huntsman's Chain",
+    "drops": [
+      {
+        "npc": null,
+        "name": "High Commander Beatrix",
+        "chance_percent": 34.12
+      },
+      {
+        "npc": null,
+        "name": "Grand Crusader Caldoran",
+        "chance_percent": 6.660000000000001
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238317,
+    "spell": 1224626,
+    "name": "Pattern: Scarlet Huntsman's Wristguards",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Cavalry",
+        "chance_percent": 5.56
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Archmage",
+        "chance_percent": 4.760000000000001
+      },
+      {
+        "npc": null,
+        "name": "Cannon Mistress Lind",
+        "chance_percent": 2.94
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238318,
+    "spell": 1224627,
+    "name": "Pattern: Scarlet Huntsman's Handguards",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Sentry",
+        "chance_percent": 2.63
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Cavalry",
+        "chance_percent": 2.22
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Thaumaturgist",
+        "chance_percent": 2.08
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238319,
+    "spell": 1224628,
+    "name": "Pattern: Scarlet Huntsman's Clasp",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Mage",
+        "chance_percent": 2.63
+      },
+      {
+        "npc": 242757,
+        "name": "New Avalon Councilman",
+        "chance_percent": 1.8499999999999999
+      },
+      {
+        "npc": null,
+        "name": "Eastsea Buccaneer",
+        "chance_percent": 1.63
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238320,
+    "spell": 1224629,
+    "name": "Pattern: Scarlet Huntsman's Legguards",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Eastsea Buccaneer",
+        "chance_percent": 4.88
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Priest",
+        "chance_percent": 2.3
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Cavalry",
+        "chance_percent": 1.6099999999999999
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238321,
+    "spell": 1224630,
+    "name": "Pattern: Scarlet Huntsman's Boots",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Artillery",
+        "chance_percent": 5.56
+      },
+      {
+        "npc": 242757,
+        "name": "New Avalon Councilman",
+        "chance_percent": 2.4699999999999998
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Infantry",
+        "chance_percent": 1.78
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238322,
+    "spell": 1224631,
+    "name": "Plans: Scarlet Soldier's Helmet",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Grand Crusader Caldoran",
+        "chance_percent": 7.380000000000001
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238323,
+    "spell": 1224632,
+    "name": "Plans: Scarlet Soldier's Spaulders",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Alexei the Beastlord",
+        "chance_percent": 37.44
+      },
+      {
+        "npc": null,
+        "name": "Grand Crusader Caldoran",
+        "chance_percent": 5.6899999999999995
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238324,
+    "spell": 1224633,
+    "name": "Plans: Scarlet Soldier's Chestplate",
+    "drops": [
+      {
+        "npc": null,
+        "name": "High Commander Beatrix",
+        "chance_percent": 35.11
+      },
+      {
+        "npc": null,
+        "name": "Grand Crusader Caldoran",
+        "chance_percent": 5.99
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238325,
+    "spell": 1224635,
+    "name": "Plans: Scarlet Soldier's Protectors",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Cavalry",
+        "chance_percent": 2.22
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Priest",
+        "chance_percent": 1.41
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Infantry",
+        "chance_percent": 1.34
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238326,
+    "spell": 1224636,
+    "name": "Plans: Scarlet Soldier's Grips",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Artillery",
+        "chance_percent": 3.85
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Executioner",
+        "chance_percent": 1.38
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Infantry",
+        "chance_percent": 1.34
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238327,
+    "spell": 1224637,
+    "name": "Plans: Scarlet Soldier's Waistguard",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Archmage",
+        "chance_percent": 4.760000000000001
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Artillery",
+        "chance_percent": 4.760000000000001
+      },
+      {
+        "npc": null,
+        "name": "Knight-Captain Fratley",
+        "chance_percent": 2.5
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238328,
+    "spell": 1224638,
+    "name": "Plans: Scarlet Soldier's Legplates",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Cavalry",
+        "chance_percent": 4.44
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Armorer",
+        "chance_percent": 2.44
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Priest",
+        "chance_percent": 1.67
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 238329,
+    "spell": 1224639,
+    "name": "Plans: Scarlet Soldier's Stompers",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Scarlet Cavalry",
+        "chance_percent": 11.110000000000001
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Mage",
+        "chance_percent": 2.86
+      },
+      {
+        "npc": null,
+        "name": "Scarlet Artillery",
+        "chance_percent": 1.97
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Historical/SoD or later-level retained record: current availability and exact source remain unverified."
+  },
+  {
+    "item": 251456,
+    "spell": 1252353,
+    "name": "Plans: Iron Fists",
+    "drops": [
+      {
+        "npc": 3771,
+        "name": "Bleakheart Hellcaller",
+        "chance_percent": 0.02
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "patch",
+    "reason": "Exact NPC/item pair confirmed on current Wowhead and Icy; rates disagree."
+  },
+  {
+    "item": 251457,
+    "spell": 1252354,
+    "name": "Plans: Steel Spear",
+    "drops": [
+      {
+        "npc": 4151,
+        "name": "Saltstone Crystalhide",
+        "chance_percent": 0.0
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Zero rounded drop estimate; no independently verified positive current acquisition."
+  },
+  {
+    "item": 252845,
+    "spell": 1255062,
+    "name": "Pattern: Warden's Leather Shoes",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Arcanist Doan",
+        "chance_percent": 0.01
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Doan lead lacks sufficient exact current acquisition corroboration."
+  },
+  {
+    "item": 252847,
+    "spell": 1255060,
+    "name": "Pattern: Mender's Leather Shoes",
+    "drops": [
+      {
+        "npc": null,
+        "name": "Arcanist Doan",
+        "chance_percent": 0.01
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "hold",
+    "reason": "Doan lead lacks sufficient exact current acquisition corroboration."
+  },
+  {
+    "item": 264207,
+    "spell": 1266910,
+    "name": "Schematic: SAF-T Bronze Bomb",
+    "drops": [
+      {
+        "npc": 4281,
+        "name": "Scarlet Scout",
+        "chance_percent": 0.01
+      }
+    ],
+    "vendors": [],
+    "file": "RecipeSources.lua",
+    "disposition": "patch",
+    "reason": "Exact NPC/item pair confirmed on current Wowhead; NeedRoll shares Wowhead lineage."
+  }
+]
