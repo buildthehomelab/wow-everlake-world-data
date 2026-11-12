@@ -5,12 +5,38 @@
    "IgnoreFiltering": 0,
    "PlayerConditionID": 0,
    "VerifiedBuild": 0,
+   "entry": 227,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Mabel Solaj sells Star Wood",
+   "slot": 16,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
    "entry": 734,
    "incrtime": 0,
    "item": 11291,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 4500 copper): Corporal Bluth sells Star Wood",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 4500 copper: Corporal Bluth sells Star Wood",
    "slot": 31,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 1149,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Uthok sells Star Wood",
+   "slot": 22,
    "type": 1
   },
   {
@@ -22,8 +48,138 @@
    "incrtime": 0,
    "item": 4536,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 25 copper): Drake Lindgren sells Shiny Red Apple",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 25 copper: Drake Lindgren sells Shiny Red Apple",
    "slot": 1018,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 1448,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Neal Allen sells Star Wood",
+   "slot": 353,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 1452,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Gruham Rumdnul sells Star Wood",
+   "slot": 16,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 1650,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Terry Palin sells Star Wood",
+   "slot": 3,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 2381,
+   "incrtime": 0,
+   "item": 4470,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 38 copper: Micha Yance sells Simple Wood",
+   "slot": 850,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 2381,
+   "incrtime": 0,
+   "item": 4471,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 135 copper: Micha Yance sells Flint and Tinder",
+   "slot": 851,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 2381,
+   "incrtime": 0,
+   "item": 4536,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 25 copper: Micha Yance sells Shiny Red Apple",
+   "slot": 852,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 2381,
+   "incrtime": 0,
+   "item": 10284,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 200 copper: Micha Yance sells Simple Flour",
+   "slot": 853,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 2381,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Micha Yance sells Star Wood",
+   "slot": 854,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 2805,
+   "incrtime": 0,
+   "item": 3371,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 20 copper: Deneb Walker sells Empty Vial",
+   "slot": 21,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 2805,
+   "incrtime": 0,
+   "item": 3372,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 200 copper: Deneb Walker sells Leaded Vial",
+   "slot": 22,
    "type": 1
   },
   {
@@ -35,8 +191,99 @@
    "incrtime": 0,
    "item": 8925,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 2500 copper): Deneb Walker sells Crystal Vial",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 2500 copper: Deneb Walker sells Crystal Vial",
+   "slot": 23,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 2806,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Bale sells Star Wood",
+   "slot": 23,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 2808,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Vikki Lonsav sells Star Wood",
    "slot": 21,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 2820,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Graud sells Star Wood",
+   "slot": 21,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 2908,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Grawl sells Star Wood",
+   "slot": 21,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 3085,
+   "incrtime": 0,
+   "item": 4470,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 38 copper: Gloria Femmel sells Simple Wood",
+   "slot": 7,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 3085,
+   "incrtime": 0,
+   "item": 4471,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 135 copper: Gloria Femmel sells Flint and Tinder",
+   "slot": 8,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 3085,
+   "incrtime": 0,
+   "item": 4536,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 25 copper: Gloria Femmel sells Shiny Red Apple",
+   "slot": 9,
    "type": 1
   },
   {
@@ -48,8 +295,73 @@
    "incrtime": 0,
    "item": 10284,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 200 copper): Gloria Femmel sells Simple Flour",
-   "slot": 7,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 200 copper: Gloria Femmel sells Simple Flour",
+   "slot": 10,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 3085,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Gloria Femmel sells Star Wood",
+   "slot": 11,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 3541,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Sarah Raycroft sells Star Wood",
+   "slot": 22,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 3587,
+   "incrtime": 0,
+   "item": 2901,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 10 copper: Lyrai sells Mining Pick",
+   "slot": 12,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 3587,
+   "incrtime": 0,
+   "item": 7005,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 10 copper: Lyrai sells Skinning Knife",
+   "slot": 13,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 4084,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Chylina sells Star Wood",
+   "slot": 23,
    "type": 1
   },
   {
@@ -61,8 +373,47 @@
    "incrtime": 0,
    "item": 11291,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 4500 copper): Ellandrieth sells Star Wood",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 4500 copper: Ellandrieth sells Star Wood",
    "slot": 25,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 4223,
+   "incrtime": 0,
+   "item": 4470,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 38 copper: Fyldan sells Simple Wood",
+   "slot": 7,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 4223,
+   "incrtime": 0,
+   "item": 4471,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 135 copper: Fyldan sells Flint and Tinder",
+   "slot": 8,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 4223,
+   "incrtime": 0,
+   "item": 4536,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 25 copper: Fyldan sells Shiny Red Apple",
+   "slot": 9,
    "type": 1
   },
   {
@@ -74,8 +425,21 @@
    "incrtime": 0,
    "item": 10284,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 200 copper): Fyldan sells Simple Flour",
-   "slot": 7,
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 200 copper: Fyldan sells Simple Flour",
+   "slot": 10,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 4223,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Fyldan sells Star Wood",
+   "slot": 11,
    "type": 1
   },
   {
@@ -87,7 +451,7 @@
    "incrtime": 0,
    "item": 11291,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 4500 copper): Charity Mipsy sells Star Wood",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 4500 copper: Charity Mipsy sells Star Wood",
    "slot": 21,
    "type": 1
   },
@@ -100,8 +464,47 @@
    "incrtime": 0,
    "item": 11291,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 4500 copper): Bryllia Ironbrand sells Star Wood",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 4500 copper: Bryllia Ironbrand sells Star Wood",
    "slot": 21,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 5160,
+   "incrtime": 0,
+   "item": 4470,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 38 copper: Emrul Riknussun sells Simple Wood",
+   "slot": 7,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 5160,
+   "incrtime": 0,
+   "item": 4471,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 135 copper: Emrul Riknussun sells Flint and Tinder",
+   "slot": 8,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 5160,
+   "incrtime": 0,
+   "item": 4536,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 25 copper: Emrul Riknussun sells Shiny Red Apple",
+   "slot": 9,
    "type": 1
   },
   {
@@ -113,8 +516,60 @@
    "incrtime": 0,
    "item": 10284,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 200 copper): Emrul Riknussun sells Simple Flour",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 200 copper: Emrul Riknussun sells Simple Flour",
+   "slot": 10,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 5160,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Emrul Riknussun sells Star Wood",
+   "slot": 11,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 5483,
+   "incrtime": 0,
+   "item": 4470,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 38 copper: Erika Tate sells Simple Wood",
    "slot": 7,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 5483,
+   "incrtime": 0,
+   "item": 4471,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 135 copper: Erika Tate sells Flint and Tinder",
+   "slot": 8,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 5483,
+   "incrtime": 0,
+   "item": 4536,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 25 copper: Erika Tate sells Shiny Red Apple",
+   "slot": 9,
    "type": 1
   },
   {
@@ -126,8 +581,255 @@
    "incrtime": 0,
    "item": 10284,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 200 copper): Erika Tate sells Simple Flour",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 200 copper: Erika Tate sells Simple Flour",
+   "slot": 10,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 5483,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Erika Tate sells Star Wood",
+   "slot": 11,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 7942,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4050 copper: Faralorn sells Star Wood",
+   "slot": 28,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 8139,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Jabbey sells Star Wood",
+   "slot": 34,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 11038,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Caretaker Alen sells Star Wood",
+   "slot": 31,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 12033,
+   "incrtime": 0,
+   "item": 4470,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 38 copper: Wulan sells Simple Wood",
+   "slot": 10,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 12033,
+   "incrtime": 0,
+   "item": 4471,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 135 copper: Wulan sells Flint and Tinder",
+   "slot": 11,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 12033,
+   "incrtime": 0,
+   "item": 4536,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 25 copper: Wulan sells Shiny Red Apple",
+   "slot": 12,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 12033,
+   "incrtime": 0,
+   "item": 10284,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 200 copper: Wulan sells Simple Flour",
+   "slot": 13,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 12033,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Wulan sells Star Wood",
+   "slot": 14,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 12246,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Super-Seller 680 sells Star Wood",
+   "slot": 33,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 12246,
+   "incrtime": 0,
+   "item": 13308,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 1800 copper: Super-Seller 680 sells Schematic: Ice Deflector",
+   "slot": 34,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 12959,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Nergal sells Star Wood",
+   "slot": 34,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 12960,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Christi Galvanis sells Star Wood",
+   "slot": 28,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 14738,
+   "incrtime": 0,
+   "item": 4470,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 38 copper: Otho Moji'ko sells Simple Wood",
    "slot": 7,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 14738,
+   "incrtime": 0,
+   "item": 4471,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 135 copper: Otho Moji'ko sells Flint and Tinder",
+   "slot": 8,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 14738,
+   "incrtime": 0,
+   "item": 4536,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 25 copper: Otho Moji'ko sells Shiny Red Apple",
+   "slot": 9,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 14738,
+   "incrtime": 0,
+   "item": 10284,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 200 copper: Otho Moji'ko sells Simple Flour",
+   "slot": 10,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 14738,
+   "incrtime": 0,
+   "item": 11291,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4500 copper: Otho Moji'ko sells Star Wood",
+   "slot": 11,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 14740,
+   "incrtime": 0,
+   "item": 273636,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 300 copper: Katoom the Angler sells Chef's Knife",
+   "slot": 151,
    "type": 1
   },
   {
@@ -139,7 +841,7 @@
    "incrtime": 0,
    "item": 2504,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 29 copper): Aemara sells Worn Shortbow",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 29 copper: Aemara sells Worn Shortbow",
    "slot": 1,
    "type": 1
   },
@@ -152,7 +854,7 @@
    "incrtime": 0,
    "item": 2505,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 60 copper): Aemara sells Polished Shortbow",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 60 copper: Aemara sells Polished Shortbow",
    "slot": 2,
    "type": 1
   },
@@ -165,7 +867,7 @@
    "incrtime": 0,
    "item": 2506,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 285 copper): Aemara sells Hornwood Recurve Bow",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 285 copper: Aemara sells Hornwood Recurve Bow",
    "slot": 3,
    "type": 1
   },
@@ -178,7 +880,7 @@
    "incrtime": 0,
    "item": 2507,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 1751 copper): Aemara sells Laminated Recurve Bow",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 1751 copper: Aemara sells Laminated Recurve Bow",
    "slot": 4,
    "type": 1
   },
@@ -191,7 +893,7 @@
    "incrtime": 0,
    "item": 2512,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 10 copper): Aemara sells Rough Arrow",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 10 copper: Aemara sells Rough Arrow",
    "slot": 5,
    "type": 1
   },
@@ -204,7 +906,7 @@
    "incrtime": 0,
    "item": 2515,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 50 copper): Aemara sells Sharp Arrow",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 50 copper: Aemara sells Sharp Arrow",
    "slot": 6,
    "type": 1
   },
@@ -217,7 +919,7 @@
    "incrtime": 0,
    "item": 3026,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 3812 copper): Aemara sells Reinforced Bow",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 3812 copper: Aemara sells Reinforced Bow",
    "slot": 7,
    "type": 1
   },
@@ -230,7 +932,7 @@
    "incrtime": 0,
    "item": 3027,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 6349 copper): Aemara sells Heavy Recurve Bow",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 6349 copper: Aemara sells Heavy Recurve Bow",
    "slot": 8,
    "type": 1
   },
@@ -243,7 +945,7 @@
    "incrtime": 0,
    "item": 3030,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 300 copper): Aemara sells Razor Arrow",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 300 copper: Aemara sells Razor Arrow",
    "slot": 9,
    "type": 1
   },
@@ -256,7 +958,7 @@
    "incrtime": 0,
    "item": 5439,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 100 copper): Aemara sells Small Quiver",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 100 copper: Aemara sells Small Quiver",
    "slot": 10,
    "type": 1
   },
@@ -269,8 +971,398 @@
    "incrtime": 0,
    "item": 11362,
    "maxcount": 0,
-   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever, 1000 copper): Aemara sells Medium Quiver",
+   "note": "NorgannonDB a2a5bcf103 + ForeverDB.net (seen on Forever) + Icy Veins, 1000 copper: Aemara sells Medium Quiver",
    "slot": 11,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28990,
+   "incrtime": 0,
+   "item": 2445,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 3433 copper: Anthony Durain sells Large Metal Shield",
+   "slot": 1,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28990,
+   "incrtime": 0,
+   "item": 2446,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 6182 copper: Anthony Durain sells Kite Shield",
+   "slot": 2,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28990,
+   "incrtime": 0,
+   "item": 2448,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 16158 copper: Anthony Durain sells Heavy Pavise",
+   "slot": 3,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28990,
+   "incrtime": 0,
+   "item": 2451,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 43629 copper: Anthony Durain sells Crested Heater Shield",
+   "slot": 4,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28990,
+   "incrtime": 0,
+   "item": 17188,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 2265 copper: Anthony Durain sells Ringed Buckler",
+   "slot": 5,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28990,
+   "incrtime": 0,
+   "item": 17189,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 12043 copper: Anthony Durain sells Metal Buckler",
+   "slot": 6,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28990,
+   "incrtime": 0,
+   "item": 17190,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 34609 copper: Anthony Durain sells Ornate Buckler",
+   "slot": 7,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 28990,
+   "incrtime": 0,
+   "item": 17192,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4399 copper: Anthony Durain sells Reinforced Targe",
+   "slot": 8,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 29049,
+   "incrtime": 0,
+   "item": 1179,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 125 copper: Arille Azuregaze sells Ice Cold Milk",
+   "slot": 7,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 29049,
+   "incrtime": 0,
+   "item": 1205,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 500 copper: Arille Azuregaze sells Melon Juice",
+   "slot": 8,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 29049,
+   "incrtime": 0,
+   "item": 1645,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 2000 copper: Arille Azuregaze sells Moonberry Juice",
+   "slot": 9,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 29049,
+   "incrtime": 0,
+   "item": 1708,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 1000 copper: Arille Azuregaze sells Sweet Nectar",
+   "slot": 10,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 29049,
+   "incrtime": 0,
+   "item": 2593,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 150 copper: Arille Azuregaze sells Flask of Port",
+   "slot": 11,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 29049,
+   "incrtime": 0,
+   "item": 2594,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 1500 copper: Arille Azuregaze sells Flagon of Mead",
+   "slot": 12,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 29049,
+   "incrtime": 0,
+   "item": 2595,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 2000 copper: Arille Azuregaze sells Jug of Bourbon",
+   "slot": 13,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 29049,
+   "incrtime": 0,
+   "item": 2596,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 120 copper: Arille Azuregaze sells Skin of Dwarven Stout",
+   "slot": 14,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 29049,
+   "incrtime": 0,
+   "item": 2723,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 50 copper: Arille Azuregaze sells Bottle of Pinot Noir",
+   "slot": 15,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 29049,
+   "incrtime": 0,
+   "item": 8766,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4000 copper: Arille Azuregaze sells Morning Glory Dew",
+   "slot": 16,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 29491,
+   "incrtime": 0,
+   "item": 3426,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 4000 copper: Karandonna sells Bold Yellow Shirt",
+   "slot": 16,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 29491,
+   "incrtime": 0,
+   "item": 3427,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 6000 copper: Karandonna sells Stylish Black Shirt",
+   "slot": 17,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 29491,
+   "incrtime": 0,
+   "item": 3428,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 400 copper: Karandonna sells Common Gray Shirt",
+   "slot": 18,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 32337,
+   "incrtime": 0,
+   "item": 4595,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 300 copper: Christi Stockton sells Junglevine Wine",
+   "slot": 9,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 32403,
+   "incrtime": 0,
+   "item": 1707,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 1000 copper: Sandra Bartan sells Stormwind Brie",
+   "slot": 1,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 32403,
+   "incrtime": 0,
+   "item": 2593,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 150 copper: Sandra Bartan sells Flask of Port",
+   "slot": 2,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 32403,
+   "incrtime": 0,
+   "item": 2594,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 1500 copper: Sandra Bartan sells Flagon of Mead",
+   "slot": 3,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 32403,
+   "incrtime": 0,
+   "item": 2595,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 2000 copper: Sandra Bartan sells Jug of Bourbon",
+   "slot": 4,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 32403,
+   "incrtime": 0,
+   "item": 2596,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 120 copper: Sandra Bartan sells Skin of Dwarven Stout",
+   "slot": 5,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 32403,
+   "incrtime": 0,
+   "item": 2723,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 50 copper: Sandra Bartan sells Bottle of Pinot Noir",
+   "slot": 6,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 32403,
+   "incrtime": 0,
+   "item": 3771,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 1000 copper: Sandra Bartan sells Wild Hog Shank",
+   "slot": 7,
+   "type": 1
+  },
+  {
+   "ExtendedCost": 0,
+   "IgnoreFiltering": 0,
+   "PlayerConditionID": 0,
+   "VerifiedBuild": 0,
+   "entry": 32403,
+   "incrtime": 0,
+   "item": 4544,
+   "maxcount": 0,
+   "note": "NorgannonDB a2a5bcf103 + Icy Veins, 1000 copper: Sandra Bartan sells Mulgore Spice Bread",
+   "slot": 8,
    "type": 1
   }
  ],
@@ -464,6 +1556,17 @@
    "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
   },
   {
+   "item": 1710,
+   "item_name": "Greater Healing Potion",
+   "npc": 4899,
+   "npc_name": "Uma Bartulm",
+   "w": [
+    "foreverdb-net classic",
+    "icyveins"
+   ],
+   "why": "limited stock (no restock time recorded)"
+  },
+  {
    "item": 4603,
    "item_name": "Raw Spotted Yellowtail",
    "npc": 8931,
@@ -548,6 +1651,26 @@
    "why": "a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql"
   },
   {
+   "item": 3385,
+   "item_name": "Lesser Mana Potion",
+   "npc": 29537,
+   "npc_name": "Darahir",
+   "w": [
+    "icyveins"
+   ],
+   "why": "limited stock (no restock time recorded)"
+  },
+  {
+   "item": 3827,
+   "item_name": "Mana Potion",
+   "npc": 29537,
+   "npc_name": "Darahir",
+   "w": [
+    "icyveins"
+   ],
+   "why": "limited stock (no restock time recorded)"
+  },
+  {
    "item": 289560,
    "item_name": "Formula: Enchant Boots - Speed",
    "npc": 248199,
@@ -557,6 +1680,36 @@
     "icyveins"
    ],
    "why": "a world-data file already names the vendor and item: 2026_11_10_15_world_everlake_import_slice19.sql"
+  },
+  {
+   "item": 277113,
+   "item_name": "Apprentice's Herb Pouch",
+   "npc": 252449,
+   "npc_name": "Iallion Featherfall",
+   "w": [
+    "icyveins"
+   ],
+   "why": "EG Link saw this vendor's stock on live Forever without it"
+  },
+  {
+   "item": 277114,
+   "item_name": "Apprentice's Skinning Satchel",
+   "npc": 252449,
+   "npc_name": "Iallion Featherfall",
+   "w": [
+    "icyveins"
+   ],
+   "why": "EG Link saw this vendor's stock on live Forever without it"
+  },
+  {
+   "item": 277115,
+   "item_name": "Apprentice's Mining Pack",
+   "npc": 252449,
+   "npc_name": "Iallion Featherfall",
+   "w": [
+    "icyveins"
+   ],
+   "why": "EG Link saw this vendor's stock on live Forever without it"
   },
   {
    "item": 277113,
@@ -592,6 +1745,16 @@
    "why": "EG Link saw this vendor's stock on live Forever without it"
   },
   {
+   "item": 250996,
+   "item_name": "Recipe: Disorienting Smog Potion",
+   "npc": 256729,
+   "npc_name": "Nina Surefire",
+   "w": [
+    "icyveins"
+   ],
+   "why": "Icy Veins: no longer sold"
+  },
+  {
    "item": 289560,
    "item_name": "Formula: Enchant Boots - Speed",
    "npc": 256732,
@@ -602,6 +1765,156 @@
     "icyveins"
    ],
    "why": "a world-data file already names the vendor and item: 2026_11_10_15_world_everlake_import_slice19.sql"
+  },
+  {
+   "item": 6365,
+   "item_name": "Strong Fishing Pole",
+   "npc": 257008,
+   "npc_name": "Baelann Swiftcurrent",
+   "w": [
+    "icyveins"
+   ],
+   "why": "EG Link saw this vendor's stock on live Forever without it"
+  },
+  {
+   "item": 12363,
+   "item_name": "Arcane Crystal",
+   "npc": 263384,
+   "npc_name": "Mister Graphed",
+   "w": [
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql"
+  },
+  {
+   "item": 13468,
+   "item_name": "Black Lotus",
+   "npc": 263384,
+   "npc_name": "Mister Graphed",
+   "w": [
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql"
+  },
+  {
+   "item": 248819,
+   "item_name": "Fel Crystal",
+   "npc": 263384,
+   "npc_name": "Mister Graphed",
+   "w": [
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_18_world_everlake_fel_crystal.sql"
+  },
+  {
+   "item": 248820,
+   "item_name": "Torbernite",
+   "npc": 263384,
+   "npc_name": "Mister Graphed",
+   "w": [
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_21_world_everlake_graphed_torbernite.sql"
+  },
+  {
+   "item": 248822,
+   "item_name": "Death Lotus",
+   "npc": 263384,
+   "npc_name": "Mister Graphed",
+   "w": [
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql"
+  },
+  {
+   "item": 249274,
+   "item_name": "Stranglevine",
+   "npc": 263384,
+   "npc_name": "Mister Graphed",
+   "w": [
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql"
+  },
+  {
+   "item": 249391,
+   "item_name": "Pyrite",
+   "npc": 263384,
+   "npc_name": "Mister Graphed",
+   "w": [
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_20_world_everlake_graphed_hide_pyrite.sql"
+  },
+  {
+   "item": 249399,
+   "item_name": "Frilled Lichen",
+   "npc": 263384,
+   "npc_name": "Mister Graphed",
+   "w": [
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql"
+  },
+  {
+   "item": 249424,
+   "item_name": "Rosecap",
+   "npc": 263384,
+   "npc_name": "Mister Graphed",
+   "w": [
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql"
+  },
+  {
+   "item": 249425,
+   "item_name": "Bauxite",
+   "npc": 263384,
+   "npc_name": "Mister Graphed",
+   "w": [
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql"
+  },
+  {
+   "item": 249426,
+   "item_name": "Pitchblende",
+   "npc": 263384,
+   "npc_name": "Mister Graphed",
+   "w": [
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql"
+  },
+  {
+   "item": 249427,
+   "item_name": "Pristine Leather",
+   "npc": 263384,
+   "npc_name": "Mister Graphed",
+   "w": [
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql"
+  },
+  {
+   "item": 249428,
+   "item_name": "Pristine Hide",
+   "npc": 263384,
+   "npc_name": "Mister Graphed",
+   "w": [
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_20_world_everlake_graphed_hide_pyrite.sql"
+  },
+  {
+   "item": 249429,
+   "item_name": "Pristine Scale",
+   "npc": 263384,
+   "npc_name": "Mister Graphed",
+   "w": [
+    "icyveins"
+   ],
+   "why": "a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql"
   }
  ],
  "pins": {
@@ -609,6 +1922,7 @@
   "eg-link": "9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae",
   "forever-db": "67bf2ef637063d1a3963a9650437e9d6123cece3",
   "foreverdb-net": "2026-11-10.93d059be",
+  "icyveins": "parts/2026-11-10T1922",
   "item-history": "8672fdc896ead1073a49d256ffeb6da8213dd549",
   "live-hotfixes": "70862-a1137766129c",
   "norgannondb": "a2a5bcf1031019093a3ad8a355ddab63cb630c65",
@@ -618,6 +1932,6 @@
   "wowhead": "2026-11-10",
   "wowhead-tooltips": "parts/2026-11-10T1332"
  },
- "rule": "only vendor rows NorgannonDB lists and ForeverDB.net shows for a vendor its players saw on Forever, where\nthe world's vendor (spawned, with the vendor flag) lacks the item at any price, no world-data file names the pair yet,\nEG Link's live windows of that vendor (if any) show the item, the stock is unlimited and the price is money. Loot is\nnot written: its rows need a chance, and the drops two independent sources back were already in world-data (2026-11-12).",
+ "rule": "only vendor rows NorgannonDB lists and ForeverDB.net shows for a vendor its players saw on Forever, where\nthe world's vendor (spawned, with the vendor flag) lacks the item at any price, no world-data file names the pair yet,\nEG Link's live windows of that vendor (if any) show the item, the stock is unlimited and the price is money. With\n--icy-veins (the user's decision of 2026-11-12) Icy Veins counts as that second source too, its price and stock flags\napply, and drops are written as well: a NorgannonDB drop of an item the world has no source for, that Icy Veins\nrecorded on the same NPC over at least MIN_KILLS kills, at Icy Veins' chance, while the NPC is spawned and alone on its\nown loot table; quest drops and stacks are held back.",
  "world": "acore_world_dryrun.elstep_"
 }
