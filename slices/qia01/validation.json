@@ -1,0 +1,17 @@
+{
+  "inserted": {
+    "npc_vendor": [
+      [
+        11189,
+        250173,
+        0,
+        1
+      ]
+    ]
+  },
+  "spell": 1250142,
+  "price_copper": 20000,
+  "stock": "provisional unlimited; live restock unknown",
+  "statements_passed_rewrite": 10,
+  "replay": "vendor and provenance checksums match"
+}

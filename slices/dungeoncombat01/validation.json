@@ -1,0 +1,27 @@
+{
+  "schema": "codex_dungeoncombat_01a1c7e8",
+  "source": "read-only consistent snapshot of world",
+  "copied": {
+    "smart_scripts": 39,
+    "creature_template": 2,
+    "creature": 1,
+    "instance_template": 1,
+    "everlake_import_rows": 0
+  },
+  "rows_added": 3,
+  "existing_rows_preserved": true,
+  "death_row_unchanged_by_placeholder": true,
+  "replay": "unchanged",
+  "order_with_PR44": "both orders converge; replay unchanged",
+  "negative_guards": [
+    "other Mutanus script",
+    "other instance binding",
+    "missing escort spawn",
+    "existing partial rotation",
+    "unknown death dispatch"
+  ],
+  "sql_rewrite_statements": 10,
+  "sha256": "60c8d1978ec980b9452ef776d9d3af04fe388975b9c02583232e3b1b60f84286",
+  "source_confidence": "provisional historical rotation; no live combat or full-core test",
+  "new_spell_unlocks": 0
+}
