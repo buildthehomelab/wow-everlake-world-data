@@ -1,0 +1,83 @@
+{
+  "slice": "warhorse01",
+  "file": "2026_11_10_29_world_everlake_paladin_warhorse.sql",
+  "sha256": "0775f4d8640dbf1b1a1778abcdbdd6199930f8a06c7b210b5a5f7c7bdc134e90",
+  "keys": {
+    "quest_template": [
+      [
+        97022
+      ],
+      [
+        94971
+      ]
+    ],
+    "quest_classic_level": [
+      [
+        97022
+      ],
+      [
+        94971
+      ]
+    ],
+    "quest_template_addon": [
+      [
+        97022
+      ],
+      [
+        94971
+      ]
+    ],
+    "quest_offer_reward": [
+      [
+        97022
+      ],
+      [
+        94971
+      ]
+    ],
+    "creature_questender": [
+      [
+        246378,
+        97022
+      ],
+      [
+        246378,
+        94971
+      ]
+    ],
+    "creature_queststarter": [
+      [
+        246344,
+        97022
+      ],
+      [
+        260093,
+        97022
+      ],
+      [
+        246378,
+        94971
+      ]
+    ]
+  },
+  "counts": {
+    "quest_template": 2,
+    "quest_classic_level": 2,
+    "quest_template_addon": 2,
+    "quest_offer_reward": 2,
+    "creature_questender": 2,
+    "creature_queststarter": 3
+  },
+  "spell": 1279399,
+  "reward_spell": 1279400,
+  "also_teaches": 33388,
+  "source_pin": "9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae",
+  "client": "1.60.1.70862",
+  "references": [
+    "https://db.icy-veins.com/wow-forever/quests/94971",
+    "https://db.icy-veins.com/wow-forever/quests/97022",
+    "https://www.wowhead.com/forever/quest=94971/a-paladins-steed",
+    "https://www.wowhead.com/forever/quest=97022/report-to-danitha"
+  ],
+  "prerequisite_note": "Observed courier nextQuestId is encoded as RewardNextQuest. No strict previous-completion requirement is inferred from a displayed chain alone."
+}

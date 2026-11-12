@@ -1,0 +1,220 @@
+{
+  "slice": "slice17",
+  "file": "2026_11_10_13_world_everlake_import_slice17.sql",
+  "world": "forever-tdb-2026-10-14 + core 029c5dd9 + world-data 24a3b39e",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "questiedb": "c0ce0c97ee449295ff1a8356f815a713ff9e463c"
+  },
+  "sha256": "1ec666e148553306583d2c3d8ce2566954474dad9623c6edd9481a7f8cbfd5eb",
+  "keys": {
+    "creature_loot_template": [
+      [
+        4830,
+        0,
+        252814
+      ],
+      [
+        1663,
+        0,
+        251354
+      ],
+      [
+        1717,
+        0,
+        253984
+      ],
+      [
+        1716,
+        0,
+        253976
+      ],
+      [
+        4832,
+        0,
+        253982
+      ],
+      [
+        1663,
+        0,
+        253986
+      ],
+      [
+        1663,
+        0,
+        251351
+      ],
+      [
+        646,
+        0,
+        251341
+      ],
+      [
+        643,
+        0,
+        273092
+      ],
+      [
+        6243,
+        0,
+        252818
+      ],
+      [
+        1663,
+        0,
+        252819
+      ],
+      [
+        910,
+        0,
+        255724
+      ],
+      [
+        4022,
+        0,
+        250382
+      ],
+      [
+        760,
+        0,
+        255728
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 14
+  },
+  "summoned_source": {
+    "npc": 643,
+    "spawned_npc": 642,
+    "death_spell": 5141
+  },
+  "routes": [
+    {
+      "npc": 4830,
+      "item": 252814,
+      "spell": 1255093,
+      "chance_percent_estimate": 0.238,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4830",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 1663,
+      "item": 251354,
+      "spell": 1252251,
+      "chance_percent_estimate": 0.318,
+      "map": 34,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/251354",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 1717,
+      "item": 253984,
+      "spell": 1257417,
+      "chance_percent_estimate": 0.559,
+      "map": 34,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/1717",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 1716,
+      "item": 253976,
+      "spell": 1257413,
+      "chance_percent_estimate": 1.04,
+      "map": 34,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/1716",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 4832,
+      "item": 253982,
+      "spell": 1257416,
+      "chance_percent_estimate": 0.346,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4832",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 1663,
+      "item": 253986,
+      "spell": 1257418,
+      "chance_percent_estimate": 0.5,
+      "map": 34,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/1663",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 1663,
+      "item": 251351,
+      "spell": 1252248,
+      "chance_percent_estimate": 1.0,
+      "map": 34,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/1663",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 646,
+      "item": 251341,
+      "spell": 1252238,
+      "chance_percent_estimate": 0.836,
+      "map": 36,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/646",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 643,
+      "item": 273092,
+      "spell": 1263034,
+      "chance_percent_estimate": 9.96,
+      "map": 36,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/273092",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 6243,
+      "item": 252818,
+      "spell": 1255089,
+      "chance_percent_estimate": 0.385,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/6243",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 1663,
+      "item": 252819,
+      "spell": 1255088,
+      "chance_percent_estimate": 0.5,
+      "map": 34,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/1663",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 910,
+      "item": 255724,
+      "spell": 1259343,
+      "chance_percent_estimate": 10.8,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/255724",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 4022,
+      "item": 250382,
+      "spell": 1250795,
+      "chance_percent_estimate": 0.838,
+      "map": 1,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/250382",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 760,
+      "item": 255728,
+      "spell": 1259341,
+      "chance_percent_estimate": 8.51,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/items/255728",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    }
+  ]
+}

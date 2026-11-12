@@ -1,0 +1,216 @@
+{
+  "sources": [
+    {
+      "repo": "cmangos/classic-db",
+      "pin": "c33f90b8eeb3f8bacb53d5cbfee45075c80b416c",
+      "path": "ACID/acid_classic.sql",
+      "sha256": "eacd8045ead3eedaf5e07ed434f367a236114b8fdc571f707e1e4ad219b79cb9",
+      "role": "Provisional target/timer source rows365402/365403/365404",
+      "license": "ACID per-file GPL-2.0-or-later (2008\u20132016), not repository-wide license inference"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Classic/BlackfathomDeeps/Akumai.lua",
+      "sha256": "eafb6d6f1b59c62e176738b3ed863c376d348a8006808233c50111eb4c291b38",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Classic/BlackfathomDeeps/Gelihast.lua",
+      "sha256": "0702005628eabc5bf4f086fa6eb754f083e1e7e11b8e0441934341f6ee8b6616",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Classic/BlackfathomDeeps/GhamooRa.lua",
+      "sha256": "070dc19d8809887998c917fb2aefba2b99e36fa249493f3ca5a394baf6f0799a",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Classic/BlackfathomDeeps/LadySerevess.lua",
+      "sha256": "4ae12ffc4e8a5eaacfc5947cc2f918e0c43387ddfc39daedf6a726d76a53ba5c",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Classic/BlackfathomDeeps/OldSerrakis.lua",
+      "sha256": "e6110267b751d07f17f7bce9036a5bb30458f9e940d728b2364e0d8dcc986635",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Classic/BlackfathomDeeps/TwilightLordKelris.lua",
+      "sha256": "f7ac67cef8545b8ce98491d70c39396301a5d108bd88168ad6dbeec60dac6095",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Shared/ScarletMonastery_Old/ArcanistDoan.lua",
+      "sha256": "878621bb6c8faa455d14c1d39cd369011aa9105c5a03f0d4487425c0cc87c092",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Shared/ScarletMonastery_Old/BloodmageThalnos.lua",
+      "sha256": "93d50a0adc1079e815669d2949046f57d9333f980355ce90bfd9d2895d6dd9e6",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Shared/ScarletMonastery_Old/Herod.lua",
+      "sha256": "3d7d541a4d05251cddb3116cfa4cebec4796b270e8831d69350e1ef3d5fdf995",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Shared/ScarletMonastery_Old/HighInquisitorFairbanks.lua",
+      "sha256": "019119291c6acd383b3d437eba1271ef181605c83321a07d344f886221a81e21",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Shared/ScarletMonastery_Old/HoundmasterLoksey.lua",
+      "sha256": "f7c1c991d5ff823db8150604f8bf5100637fec504a201d9b948431dd55ba6f62",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Shared/ScarletMonastery_Old/InterrogatorVishas.lua",
+      "sha256": "974f788cbe9291c770be3b01e7a06b3f3e5ca2adc07982c3bb49cdcdf1947634",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Shared/ScarletMonastery_Old/Mograine_and_Whitemane.lua",
+      "sha256": "f41528d4d17ee500a6b20eb70003ff2bdc3e8827bdd5966751beb753872008b3",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/DeviateFaerieDragon.lua",
+      "sha256": "d2e0c144ab5dfffd2c6b7ba94e93d64071ae155d3d8cb9b35d7f10b85efd0969",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/Kresh.lua",
+      "sha256": "8fbc5ca62e14d04d5604f11333605ba4614db1322f2211ec7caaf106d17c80ec",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/LadyAnacondra.lua",
+      "sha256": "72bfc41b1de94fe09ea279ecb0ecba39ae255a85b6f6df432a5da4fe02ea0292",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/LordCobrahn.lua",
+      "sha256": "34bce2c26a725f97f14a4ff5bb89bb7c65bac2f179cd47815a9a4f4090de8c19",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/LordPythas.lua",
+      "sha256": "293129cbe2e7e71b0ac6dad4f3b07b6760439eb5d7c5e483d20f2ab130c67e19",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/LordSerpentis.lua",
+      "sha256": "3a8bd89ccfa5f1426ececd5e5cc53d6a228d0b234e32af034600c27a0cc269db",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/MutanustheDevourer.lua",
+      "sha256": "a64983200b48f5b74ebed1d964b3785a13d3eca88453fcdbdbb49f539478dec6",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/Skum.lua",
+      "sha256": "e8b13a436ad16ff1994906a9829ae4bb0fbb7e14612abe44817e658dd7e5fd81",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Dungeons",
+      "pin": "357d46968f65db6be8d16d0be6d5da531380b555",
+      "path": "DBM-Party-Vanilla/Shared/WailingCaverns/VerantheEverliving.lua",
+      "sha256": "effa79d985949d5e32a9f246191ce245c6ff1feda44ceb27b1ce2fa6cf9d27c2",
+      "role": "Factual spell/creature mapping cross-check only; addon source not redistributed"
+    },
+    {
+      "repo": "Karrz1/TrinityCore",
+      "pin": "343fe6fb95076e09575156c8b88d155914003b78",
+      "path": "src/server/game/AI/SmartScripts/SmartAI.cpp",
+      "sha256": "e9cdce4e33859005d3714bf522291118c7e9a541a1d71a7c399e2b5c695dd56a",
+      "role": "SmartAI inherits CreatureAI; no CombatAI spell-slot rotation in inspected UpdateAI"
+    },
+    {
+      "repo": "Karrz1/TrinityCore",
+      "pin": "343fe6fb95076e09575156c8b88d155914003b78",
+      "path": "src/server/game/AI/SmartScripts/SmartAI.h",
+      "sha256": "28532606caea70eca4b73cba1eef1cd8e3d9bc2f0dae3339aa6bf80738f3a4c0",
+      "role": "SmartAI inherits CreatureAI; no CombatAI spell-slot rotation in inspected UpdateAI"
+    }
+  ],
+  "sod_candidate_mappings": [
+    {
+      "repo": "DeadlyBossMods/DBM-Vanilla",
+      "pin": "d053cb37e5ba5d56af4fae20213dce8aae038a9e",
+      "path": "DBM-Raids-Vanilla/VanillaSoD_BFD/Akumai.lua",
+      "sha256": "ee22c93d693e0dd480cfc4dfd576f813df9eb86764cc85e7b08ece63eaf895e7",
+      "sod_npc": 213334,
+      "sod_encounter": 2891,
+      "existing_dungeon_npc": 4829,
+      "enabled": false,
+      "reason": "Explicit SeasonOfDiscovery-only module for a distinct raid NPC/encounter. Not applied over an existing five-player boss without evidence that its behavior is missing and intended for Forever."
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Vanilla",
+      "pin": "d053cb37e5ba5d56af4fae20213dce8aae038a9e",
+      "path": "DBM-Raids-Vanilla/VanillaSoD_BFD/Ghamoora.lua",
+      "sha256": "011f6dcf65eb6b11dcdae31920a1d06f6cca25ad01cfbf289ec2a04b784849ae",
+      "sod_npc": 201722,
+      "sod_encounter": 2697,
+      "existing_dungeon_npc": 4887,
+      "enabled": false,
+      "reason": "Explicit SeasonOfDiscovery-only module for a distinct raid NPC/encounter. Not applied over an existing five-player boss without evidence that its behavior is missing and intended for Forever."
+    },
+    {
+      "repo": "DeadlyBossMods/DBM-Vanilla",
+      "pin": "d053cb37e5ba5d56af4fae20213dce8aae038a9e",
+      "path": "DBM-Raids-Vanilla/VanillaSoD_BFD/TwilightLordKelris.lua",
+      "sha256": "317a840cbe83ca43a0bcc47db426797397d0adbb597a774c5b07ae962e0dca44",
+      "sod_npc": 209678,
+      "sod_encounter": 2825,
+      "existing_dungeon_npc": 4832,
+      "enabled": false,
+      "reason": "Explicit SeasonOfDiscovery-only module for a distinct raid NPC/encounter. Not applied over an existing five-player boss without evidence that its behavior is missing and intended for Forever."
+    }
+  ],
+  "limitations": "Addon mappings are not independent live observation evidence. No addon code redistributed. SoD is allowed as provisional evidence, not automatic ID equivalence."
+}
