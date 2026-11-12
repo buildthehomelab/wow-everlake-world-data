@@ -1,0 +1,49 @@
+{
+  "slice": "addon06",
+  "file": "2026_11_10_26_world_everlake_import_addon06.sql",
+  "world": "forever-tdb-2026-10-14 + core 343fe6fb + world-data 24a3b39e + prior drafts",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "core": "343fe6fb95076e09575156c8b88d155914003b78"
+  },
+  "sha256": "6ca073a0b4769774934f98f1d79bb1d6b8d88d89516209dc29f190d183d6d274",
+  "keys": {
+    "creature_loot_template": [
+      [
+        5254,
+        0,
+        249882
+      ],
+      [
+        4421,
+        0,
+        273103
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 2
+  },
+  "routes": [
+    {
+      "npc": 5254,
+      "item": 249882,
+      "spell": 1249960,
+      "chance_percent_estimate": 0.01,
+      "map": 1,
+      "rate_reference": "https://www.wowhead.com/forever/item=249882/recipe-triage-tea",
+      "tracker_flagged": true,
+      "note": "Wowhead collected loot names Woodpaw Mystic and gives a rounded rate estimate."
+    },
+    {
+      "npc": 4421,
+      "item": 273103,
+      "spell": 1263056,
+      "chance_percent_estimate": 6.0,
+      "map": 47,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4421",
+      "tracker_flagged": false,
+      "note": "Icy Veins lists the exact Charlga Razorflank blueprint drop with an estimated rate. This learning spell is outside the Tracker export."
+    }
+  ]
+}

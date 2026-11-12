@@ -1,0 +1,12 @@
+{
+  "result": "old row marks Skum and leaves ritual pending; SQL-corrected row completes Mutanus ritual without marking Skum",
+  "actual_source_methods_compiled": [
+    "SmartScript.cpp SMART_ACTION_SET_INST_DATA case",
+    "classic_instance_wailing_caverns SetData",
+    "classic_instance_wailing_caverns GetData"
+  ],
+  "input": "action parameters from applied SQL in isolated MySQL schema",
+  "unrelated_world_operations": "stubbed",
+  "full_core_or_in_game_test": false,
+  "harness_sha256": "923952f3244f754b16878608ca071713a64e0751aa1f1f31f41be9de9c725643"
+}
