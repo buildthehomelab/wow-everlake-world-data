@@ -1,0 +1,31 @@
+{
+  "slice": "slice11",
+  "world": "forever-tdb-2026-10-14 + core 029c5dd9 + world-data 24a3b39e",
+  "pins": {
+    "eg-link": "9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae",
+    "wago": "1.60.1.70862"
+  },
+  "files": {
+    "2026_11_10_06_world_everlake_import_slice11.sql": "98b27bd03b24e0ff4d6b5d40469d33b0dcde014cebc8ceeac17fb8916e693e7d",
+    "2026_11_10_07_world_everlake_import_slice11_corrections.sql": "8b1fea0336b051216a96ccc0b9601ff92cdf680b982c93cf9c5bb7c21e5d9e1b"
+  },
+  "trainer_link": {
+    "CreatureID": 3191,
+    "TrainerID": 36,
+    "MenuID": 5854,
+    "OptionID": 0,
+    "note": "EG Link live 70790/70840 Cook Torka and 70862 Duhng; matching menu and lessons"
+  },
+  "flags_before": 2,
+  "flags_after": 83,
+  "live_trainer_builds": {
+    "3191": [
+      70790,
+      70840
+    ],
+    "8306": [
+      70862
+    ]
+  },
+  "spell_effect_sha256": "cc8f167fe246b495294b560196f6c59439f703e8f937ddb6acd81157bd5f8b9c"
+}

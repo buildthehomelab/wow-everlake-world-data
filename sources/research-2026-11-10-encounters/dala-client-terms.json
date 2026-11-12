@@ -1,0 +1,128 @@
+{
+  "PlayerCondition": [
+    {
+      "ID": "156318",
+      "Failure_description_lang": "Requires Barkskin Burrow - Friendly",
+      "MinFactionID_0": "2747",
+      "MinReputation_0": "4"
+    },
+    {
+      "ID": "156319",
+      "Failure_description_lang": "Requires Barkskin Burrow - Honored",
+      "MinFactionID_0": "2747",
+      "MinReputation_0": "5"
+    },
+    {
+      "ID": "156320",
+      "Failure_description_lang": "Requires Barkskin Burrow - Revered",
+      "MinFactionID_0": "2747",
+      "MinReputation_0": "6"
+    },
+    {
+      "ID": "156321",
+      "Failure_description_lang": "Requires Barkskin Burrow - Exalted",
+      "MinFactionID_0": "2747",
+      "MinReputation_0": "7"
+    }
+  ],
+  "ItemExtendedCost": [
+    {
+      "ID": "11562",
+      "Money": "0",
+      "RequiredArenaRating": "0",
+      "ArenaBracket": "0",
+      "Flags": "0",
+      "MinFactionID": "0",
+      "MinReputation": "0",
+      "RequiredAchievement": "0",
+      "ItemID_0": "263439",
+      "ItemID_1": "0",
+      "ItemID_2": "0",
+      "ItemID_3": "0",
+      "ItemID_4": "0",
+      "ItemCount_0": "10",
+      "ItemCount_1": "0",
+      "ItemCount_2": "0",
+      "ItemCount_3": "0",
+      "ItemCount_4": "0",
+      "CurrencyID_0": "0",
+      "CurrencyID_1": "0",
+      "CurrencyID_2": "0",
+      "CurrencyID_3": "0",
+      "CurrencyID_4": "0",
+      "CurrencyCount_0": "0",
+      "CurrencyCount_1": "0",
+      "CurrencyCount_2": "0",
+      "CurrencyCount_3": "0",
+      "CurrencyCount_4": "0"
+    },
+    {
+      "ID": "11564",
+      "Money": "0",
+      "RequiredArenaRating": "0",
+      "ArenaBracket": "0",
+      "Flags": "0",
+      "MinFactionID": "0",
+      "MinReputation": "0",
+      "RequiredAchievement": "0",
+      "ItemID_0": "263439",
+      "ItemID_1": "0",
+      "ItemID_2": "0",
+      "ItemID_3": "0",
+      "ItemID_4": "0",
+      "ItemCount_0": "10",
+      "ItemCount_1": "0",
+      "ItemCount_2": "0",
+      "ItemCount_3": "0",
+      "ItemCount_4": "0",
+      "CurrencyID_0": "0",
+      "CurrencyID_1": "0",
+      "CurrencyID_2": "0",
+      "CurrencyID_3": "0",
+      "CurrencyID_4": "0",
+      "CurrencyCount_0": "0",
+      "CurrencyCount_1": "0",
+      "CurrencyCount_2": "0",
+      "CurrencyCount_3": "0",
+      "CurrencyCount_4": "0"
+    }
+  ],
+  "ItemSparse": [
+    {
+      "ID": "254134",
+      "Display_lang": "Pattern: Mooncloth Reagent Bag",
+      "BuyPrice": "0",
+      "OppositeFactionItemID": "0",
+      "MinFactionID": "0",
+      "RequiredSkillRank": "255",
+      "RequiredPVPRank": "0"
+    },
+    {
+      "ID": "263439",
+      "Display_lang": "Deadwood Tribal Beads",
+      "BuyPrice": "800",
+      "OppositeFactionItemID": "0",
+      "MinFactionID": "0",
+      "RequiredSkillRank": "0",
+      "RequiredPVPRank": "0"
+    },
+    {
+      "ID": "274415",
+      "Display_lang": "Recipe: Sweetpaw Jam",
+      "BuyPrice": "5000",
+      "OppositeFactionItemID": "0",
+      "MinFactionID": "0",
+      "RequiredSkillRank": "275",
+      "RequiredPVPRank": "0"
+    },
+    {
+      "ID": "274424",
+      "Display_lang": "Formula: Enchant Gloves - Lotus Claw",
+      "BuyPrice": "5000",
+      "OppositeFactionItemID": "0",
+      "MinFactionID": "0",
+      "RequiredSkillRank": "295",
+      "RequiredPVPRank": "0"
+    }
+  ]
+}

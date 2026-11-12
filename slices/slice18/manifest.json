@@ -1,0 +1,97 @@
+{
+  "slice": "slice18",
+  "file": "2026_11_10_14_world_everlake_import_slice18.sql",
+  "world": "forever-tdb-2026-10-14 + core 029c5dd9 + world-data 24a3b39e",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "questiedb": "c0ce0c97ee449295ff1a8356f815a713ff9e463c"
+  },
+  "sha256": "3ae91db5ff40d331c6b8d9431b8af2888fe9e254807908380bedb8b1aa4c80e5",
+  "keys": {
+    "creature_loot_template": [
+      [
+        3727,
+        0,
+        251455
+      ],
+      [
+        3725,
+        0,
+        249475
+      ],
+      [
+        2893,
+        0,
+        251461
+      ],
+      [
+        4362,
+        0,
+        251459
+      ],
+      [
+        2376,
+        0,
+        249881
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 5
+  },
+  "routes": [
+    {
+      "npc": 3727,
+      "item": 251455,
+      "spell": 1252352,
+      "chance_percent_estimate": 0.21,
+      "map": 1,
+      "rate_reference": "https://www.wowhead.com/forever/item=251455",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 3725,
+      "item": 249475,
+      "spell": 1248459,
+      "chance_percent_estimate": 0.06,
+      "map": 1,
+      "rate_reference": "https://www.wowhead.com/forever/item=249475",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 2893,
+      "item": 251461,
+      "spell": 1252358,
+      "chance_percent_estimate": 0.01,
+      "map": 0,
+      "rate_reference": "https://www.wowhead.com/forever/item=251461",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 4362,
+      "item": 251459,
+      "spell": 1252356,
+      "chance_percent_estimate": 0.003285,
+      "map": 1,
+      "rate_reference": "https://www.wowhead.com/forever/item=251459",
+      "corroboration": "QuestieTrace foreverItemTraces.lua",
+      "rate_sample": {
+        "drops": 2,
+        "windows": 60875
+      }
+    },
+    {
+      "npc": 2376,
+      "item": 249881,
+      "spell": 1249959,
+      "chance_percent_estimate": 0.036514,
+      "map": 0,
+      "rate_reference": "https://www.wowhead.com/forever/item=249881",
+      "corroboration": "QuestieTrace foreverItemTraces.lua",
+      "rate_sample": {
+        "drops": 31,
+        "windows": 84900
+      }
+    }
+  ]
+}
