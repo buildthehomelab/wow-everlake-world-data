@@ -1,0 +1,905 @@
+# 2026_11_12_231_world_everlake_norgannondb_drops.sql: held back
+
+- 205 Nightbane Dark Runner: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 206 Nightbane Vile Fang: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 533 Nightbane Shadow Weaver: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 588 Bloodscalp Scout: 277957 Primitive Key: a quest drop (needs the quest that asks for it)
+- 595 Bloodscalp Hunter: 277957 Primitive Key: a quest drop (needs the quest that asks for it)
+- 597 Bloodscalp Berserker: 277957 Primitive Key: a quest drop (needs the quest that asks for it)
+- 639 Edwin VanCleef: 251345 Plans: Veteran's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_33_world_everlake_vancleef_recipes.sql
+- 639 Edwin VanCleef: 251346 Plans: Guard's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_33_world_everlake_vancleef_recipes.sql
+- 639 Edwin VanCleef: 251347 Plans: Protector's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_33_world_everlake_vancleef_recipes.sql
+- 639 Edwin VanCleef: 251348 Plans: Acolyte's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_33_world_everlake_vancleef_recipes.sql
+- 639 Edwin VanCleef: 251349 Plans: Crusader's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_33_world_everlake_vancleef_recipes.sql
+- 639 Edwin VanCleef: 252792 Pattern: Brawler's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_33_world_everlake_vancleef_recipes.sql
+- 639 Edwin VanCleef: 252793 Pattern: Trapper's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_33_world_everlake_vancleef_recipes.sql
+- 639 Edwin VanCleef: 252794 Pattern: Defender's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_33_world_everlake_vancleef_recipes.sql
+- 639 Edwin VanCleef: 252795 Pattern: Totemic Leather Pants: a world-data file already names the NPC and item: 2026_11_11_33_world_everlake_vancleef_recipes.sql
+- 639 Edwin VanCleef: 252796 Pattern: Stormrider's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_33_world_everlake_vancleef_recipes.sql
+- 639 Edwin VanCleef: 252797 Pattern: Wisdom's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_33_world_everlake_vancleef_recipes.sql
+- 639 Edwin VanCleef: 253938 Pattern: Filigreed Pristine Leggings: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql
+- 639 Edwin VanCleef: 253940 Pattern: Filigreed Silky Leggings: a world-data file already names the NPC and item: 2026_11_11_33_world_everlake_vancleef_recipes.sql
+- 639 Edwin VanCleef: 253942 Pattern: Filigreed Flame Leggings: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_33_world_everlake_vancleef_recipes.sql
+- 639 Edwin VanCleef: 253944 Pattern: Filigreed Shadow Leggings: a world-data file already names the NPC and item: 2026_11_11_33_world_everlake_vancleef_recipes.sql
+- 639 Edwin VanCleef: 253946 Pattern: Filigreed Pearly Leggings: a world-data file already names the NPC and item: 2026_11_11_33_world_everlake_vancleef_recipes.sql
+- 639 Edwin VanCleef: 253948 Pattern: Filigreed Shining Leggings: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql
+- 644 Rhahk'Zor: 251340 Plans: Veteran's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_32_world_everlake_rhahkzor_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 644 Rhahk'Zor: 251341 Plans: Guard's Chain Shirt: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_32_world_everlake_rhahkzor_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 644 Rhahk'Zor: 251342 Plans: Protector's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_32_world_everlake_rhahkzor_recipes.sql
+- 644 Rhahk'Zor: 251343 Plans: Acolyte's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_32_world_everlake_rhahkzor_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 644 Rhahk'Zor: 251344 Plans: Crusader's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_32_world_everlake_rhahkzor_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 644 Rhahk'Zor: 252771 Pattern: Brawler's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_32_world_everlake_rhahkzor_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 644 Rhahk'Zor: 252772 Pattern: Trapper's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_32_world_everlake_rhahkzor_recipes.sql
+- 644 Rhahk'Zor: 252773 Pattern: Defender's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_32_world_everlake_rhahkzor_recipes.sql
+- 644 Rhahk'Zor: 252774 Pattern: Totemic Leather Armor: a world-data file already names the NPC and item: 2026_11_11_32_world_everlake_rhahkzor_recipes.sql
+- 644 Rhahk'Zor: 252775 Pattern: Stormrider's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_32_world_everlake_rhahkzor_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 644 Rhahk'Zor: 252776 Pattern: Wisdom's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_32_world_everlake_rhahkzor_recipes.sql
+- 644 Rhahk'Zor: 253902 Pattern: Filigreed Pristine Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_32_world_everlake_rhahkzor_recipes.sql
+- 644 Rhahk'Zor: 253904 Pattern: Filigreed Silky Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_32_world_everlake_rhahkzor_recipes.sql
+- 644 Rhahk'Zor: 253906 Pattern: Filigreed Flame Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 644 Rhahk'Zor: 253908 Pattern: Filigreed Shadow Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_32_world_everlake_rhahkzor_recipes.sql
+- 644 Rhahk'Zor: 253910 Pattern: Filigreed Pearly Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_32_world_everlake_rhahkzor_recipes.sql
+- 644 Rhahk'Zor: 253912 Pattern: Filigreed Shining Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_32_world_everlake_rhahkzor_recipes.sql
+- 645 Cookie: 251340 Plans: Veteran's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_31_world_everlake_cookie_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 645 Cookie: 251341 Plans: Guard's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_31_world_everlake_cookie_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 645 Cookie: 251342 Plans: Protector's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_31_world_everlake_cookie_recipes.sql
+- 645 Cookie: 251343 Plans: Acolyte's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_31_world_everlake_cookie_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 645 Cookie: 251344 Plans: Crusader's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_31_world_everlake_cookie_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 645 Cookie: 252771 Pattern: Brawler's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_31_world_everlake_cookie_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 645 Cookie: 252772 Pattern: Trapper's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_31_world_everlake_cookie_recipes.sql
+- 645 Cookie: 252773 Pattern: Defender's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_31_world_everlake_cookie_recipes.sql
+- 645 Cookie: 252774 Pattern: Totemic Leather Armor: a world-data file already names the NPC and item: 2026_11_11_31_world_everlake_cookie_recipes.sql
+- 645 Cookie: 252775 Pattern: Stormrider's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_31_world_everlake_cookie_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 645 Cookie: 252776 Pattern: Wisdom's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_31_world_everlake_cookie_recipes.sql
+- 645 Cookie: 253902 Pattern: Filigreed Pristine Gown: a world-data file already names the NPC and item: 2026_11_11_31_world_everlake_cookie_recipes.sql
+- 645 Cookie: 253904 Pattern: Filigreed Silky Gown: a world-data file already names the NPC and item: 2026_11_11_31_world_everlake_cookie_recipes.sql
+- 645 Cookie: 253906 Pattern: Filigreed Flame Gown: a world-data file already names the NPC and item: 2026_11_11_31_world_everlake_cookie_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 645 Cookie: 253908 Pattern: Filigreed Shadow Gown: a world-data file already names the NPC and item: 2026_11_11_31_world_everlake_cookie_recipes.sql
+- 645 Cookie: 253910 Pattern: Filigreed Pearly Gown: a world-data file already names the NPC and item: 2026_11_10_21_world_everlake_import_addon01.sql
+- 645 Cookie: 253912 Pattern: Filigreed Shining Gown: a world-data file already names the NPC and item: 2026_11_10_21_world_everlake_import_addon01.sql
+- 646 Mr. Smite: 251340 Plans: Veteran's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_34_world_everlake_smite_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 646 Mr. Smite: 251341 Plans: Guard's Chain Shirt: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 646 Mr. Smite: 251342 Plans: Protector's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_34_world_everlake_smite_recipes.sql
+- 646 Mr. Smite: 251343 Plans: Acolyte's Chain Shirt: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_34_world_everlake_smite_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 646 Mr. Smite: 251344 Plans: Crusader's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_34_world_everlake_smite_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 646 Mr. Smite: 252771 Pattern: Brawler's Leather Armor: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_34_world_everlake_smite_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 646 Mr. Smite: 252772 Pattern: Trapper's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_34_world_everlake_smite_recipes.sql
+- 646 Mr. Smite: 252773 Pattern: Defender's Leather Armor: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_34_world_everlake_smite_recipes.sql
+- 646 Mr. Smite: 252774 Pattern: Totemic Leather Armor: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_34_world_everlake_smite_recipes.sql
+- 646 Mr. Smite: 252775 Pattern: Stormrider's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_34_world_everlake_smite_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 646 Mr. Smite: 252776 Pattern: Wisdom's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_34_world_everlake_smite_recipes.sql
+- 646 Mr. Smite: 253902 Pattern: Filigreed Pristine Gown: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_34_world_everlake_smite_recipes.sql
+- 646 Mr. Smite: 253904 Pattern: Filigreed Silky Gown: a world-data file already names the NPC and item: 2026_11_11_34_world_everlake_smite_recipes.sql
+- 646 Mr. Smite: 253906 Pattern: Filigreed Flame Gown: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_34_world_everlake_smite_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 646 Mr. Smite: 253908 Pattern: Filigreed Shadow Gown: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_34_world_everlake_smite_recipes.sql
+- 646 Mr. Smite: 253910 Pattern: Filigreed Pearly Gown: a world-data file already names the NPC and item: 2026_11_11_34_world_everlake_smite_recipes.sql
+- 646 Mr. Smite: 253912 Pattern: Filigreed Shining Gown: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_34_world_everlake_smite_recipes.sql
+- 647 Captain Greenskin: 251340 Plans: Veteran's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 647 Captain Greenskin: 251341 Plans: Guard's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 647 Captain Greenskin: 251342 Plans: Protector's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 647 Captain Greenskin: 251343 Plans: Acolyte's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 647 Captain Greenskin: 251344 Plans: Crusader's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 647 Captain Greenskin: 252771 Pattern: Brawler's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 647 Captain Greenskin: 252772 Pattern: Trapper's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 647 Captain Greenskin: 252773 Pattern: Defender's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 647 Captain Greenskin: 252774 Pattern: Totemic Leather Armor: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 647 Captain Greenskin: 252775 Pattern: Stormrider's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 647 Captain Greenskin: 252776 Pattern: Wisdom's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 647 Captain Greenskin: 253902 Pattern: Filigreed Pristine Gown: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 647 Captain Greenskin: 253904 Pattern: Filigreed Silky Gown: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 647 Captain Greenskin: 253906 Pattern: Filigreed Flame Gown: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 647 Captain Greenskin: 253908 Pattern: Filigreed Shadow Gown: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 647 Captain Greenskin: 253910 Pattern: Filigreed Pearly Gown: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 647 Captain Greenskin: 253912 Pattern: Filigreed Shining Gown: a world-data file already names the NPC and item: 2026_11_11_35_world_everlake_greenskin_recipes.sql
+- 660 Bloodscalp Witch Doctor: 277957 Primitive Key: a quest drop (needs the quest that asks for it)
+- 671 Bloodscalp Headhunter: 277957 Primitive Key: a quest drop (needs the quest that asks for it)
+- 681 Young Stranglethorn Tiger: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 682 Stranglethorn Tiger: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 683 Young Panther: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 685 Stranglethorn Raptor: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 686 Lashtail Raptor: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 687 Jungle Stalker: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 689 Crystal Spine Basilisk: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 699 Bloodscalp Beastmaster: 277957 Primitive Key: a quest drop (needs the quest that asks for it)
+- 701 Bloodscalp Mystic: 254018 Pattern: Earthen Silk Gloves: a world-data file already names the NPC and item: 2026_11_10_23_world_everlake_import_addon03.sql
+- 701 Bloodscalp Mystic: 277957 Primitive Key: a quest drop (needs the quest that asks for it)
+- 736 Panther: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 741 Dreaming Whelp: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 760 Lost One Muckdweller: 255728 Manual: Potent Anti-Venom: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql
+- 769 Deathstrike Tarantula: 213529 Viscous Venom: no Icy Veins chance
+- 772 Stranglethorn Tigress: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 780 Skullsplitter Mystic: 213127 Partial Mystical Notes: a quest drop (needs the quest that asks for it)
+- 813 Colonel Kurzen: 216616 Compound Cage Key: Icy Veins saw 6 kills, fewer than 10
+- 855 Young Stranglethorn Raptor: 249428 Pristine Hide: no Icy Veins chance
+- 873 Saltscale Oracle: 254022 Pattern: Gilded Handwraps: a world-data file already names the NPC and item: 2026_11_10_23_world_everlake_import_addon03.sql
+- 898 Nightbane Worgen: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 910 Defias Enchanter: 255724 Manual: Clever Poultice: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql
+- 920 Nightbane Tainted One: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 937 Kurzen Jungle Fighter: 251388 Plans: Hard Gold Leggings: a world-data file already names the NPC and item: 2026_11_10_22_world_everlake_import_addon02.sql
+- 939 Kurzen Elite: 216616 Compound Cage Key: a quest drop (needs the quest that asks for it)
+- 978 Kurzen Subchief: 216616 Compound Cage Key: a quest drop (needs the quest that asks for it)
+- 1018 Highland Razormaw: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 1019 Elder Razormaw: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 1023 Mottled Razormaw: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 1037 Dragonmaw Battlemaster: 282658 Dragonmaw Battle Shroud: no Icy Veins chance
+- 1054 Dark Iron Demolitionist: 264208 Schematic: SAF-T Jumbo Dynamite: a world-data file already names the NPC and item: 2026_11_12_125_world_everlake_saf_t_jumbo_dynamite.sql
+- 1084 Young Sawtooth Crocolisk: 249428 Pristine Hide: no Icy Veins chance
+- 1085 Elder Stranglethorn Tiger: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 1150 River Crocolisk: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 1152 Snapjaw Crocolisk: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 1564 Bloodsail Warlock: 217161 Torn Mystical Scroll: no Icy Veins chance
+- 1663 Dextren Ward: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1663 Dextren Ward: 251351 Plans: Guard's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1663 Dextren Ward: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1663 Dextren Ward: 251353 Plans: Acolyte's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1663 Dextren Ward: 251354 Plans: Crusader's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1663 Dextren Ward: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1663 Dextren Ward: 252816 Pattern: Defender's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1663 Dextren Ward: 252817 Pattern: Totemic Leather Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1663 Dextren Ward: 252818 Pattern: Stormrider's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1663 Dextren Ward: 252819 Pattern: Wisdom's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1663 Dextren Ward: 253976 Pattern: Filigreed Pristine Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1663 Dextren Ward: 253978 Pattern: Filigreed Silky Circlet: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1663 Dextren Ward: 253980 Pattern: Filigreed Flame Circlet: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1663 Dextren Ward: 253984 Pattern: Filigreed Pearly Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1663 Dextren Ward: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 251351 Plans: Guard's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 251353 Plans: Acolyte's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 251354 Plans: Crusader's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 252816 Pattern: Defender's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 252817 Pattern: Totemic Leather Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 252818 Pattern: Stormrider's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 252819 Pattern: Wisdom's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 253976 Pattern: Filigreed Pristine Circlet: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 253978 Pattern: Filigreed Silky Circlet: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 253980 Pattern: Filigreed Flame Circlet: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 253982 Pattern: Filigreed Shadow Circlet: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 253984 Pattern: Filigreed Pearly Circlet: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1666 Kam Deepfury: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1696 Targorr the Dread: 251345 Plans: Veteran's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_54_world_everlake_targorr_recipes.sql
+- 1696 Targorr the Dread: 251346 Plans: Guard's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_54_world_everlake_targorr_recipes.sql
+- 1696 Targorr the Dread: 251347 Plans: Protector's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_54_world_everlake_targorr_recipes.sql
+- 1696 Targorr the Dread: 251349 Plans: Crusader's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_54_world_everlake_targorr_recipes.sql
+- 1696 Targorr the Dread: 252793 Pattern: Trapper's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_54_world_everlake_targorr_recipes.sql
+- 1696 Targorr the Dread: 252794 Pattern: Defender's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_54_world_everlake_targorr_recipes.sql
+- 1696 Targorr the Dread: 252797 Pattern: Wisdom's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_54_world_everlake_targorr_recipes.sql
+- 1696 Targorr the Dread: 253938 Pattern: Filigreed Pristine Leggings: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql
+- 1696 Targorr the Dread: 253942 Pattern: Filigreed Flame Leggings: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql
+- 1716 Bazil Thredd: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1716 Bazil Thredd: 251351 Plans: Guard's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1716 Bazil Thredd: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1716 Bazil Thredd: 251353 Plans: Acolyte's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1716 Bazil Thredd: 251354 Plans: Crusader's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1716 Bazil Thredd: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1716 Bazil Thredd: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1716 Bazil Thredd: 252816 Pattern: Defender's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1716 Bazil Thredd: 252817 Pattern: Totemic Leather Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1716 Bazil Thredd: 252818 Pattern: Stormrider's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1716 Bazil Thredd: 252819 Pattern: Wisdom's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1716 Bazil Thredd: 253976 Pattern: Filigreed Pristine Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1716 Bazil Thredd: 253978 Pattern: Filigreed Silky Circlet: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1716 Bazil Thredd: 253980 Pattern: Filigreed Flame Circlet: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1716 Bazil Thredd: 253982 Pattern: Filigreed Shadow Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1716 Bazil Thredd: 253984 Pattern: Filigreed Pearly Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1716 Bazil Thredd: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 251351 Plans: Guard's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 251353 Plans: Acolyte's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 251354 Plans: Crusader's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 252816 Pattern: Defender's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 252817 Pattern: Totemic Leather Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 252818 Pattern: Stormrider's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 252819 Pattern: Wisdom's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 253976 Pattern: Filigreed Pristine Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 253978 Pattern: Filigreed Silky Circlet: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 253980 Pattern: Filigreed Flame Circlet: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 253982 Pattern: Filigreed Shadow Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 253984 Pattern: Filigreed Pearly Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1717 Hamhock: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1720 Bruegal Ironknuckle: 251354 Plans: Crusader's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1720 Bruegal Ironknuckle: 253984 Pattern: Filigreed Pearly Circlet: a world-data file already names the NPC and item: 2026_11_11_53_world_everlake_stockade_recipes.sql
+- 1763 Gilnid: 251340 Plans: Veteran's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_36_world_everlake_gilnid_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 1763 Gilnid: 251341 Plans: Guard's Chain Shirt: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_36_world_everlake_gilnid_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 1763 Gilnid: 251342 Plans: Protector's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_36_world_everlake_gilnid_recipes.sql
+- 1763 Gilnid: 251343 Plans: Acolyte's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_36_world_everlake_gilnid_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 1763 Gilnid: 251344 Plans: Crusader's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_36_world_everlake_gilnid_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 1763 Gilnid: 252771 Pattern: Brawler's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_36_world_everlake_gilnid_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 1763 Gilnid: 252772 Pattern: Trapper's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_36_world_everlake_gilnid_recipes.sql
+- 1763 Gilnid: 252773 Pattern: Defender's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_36_world_everlake_gilnid_recipes.sql
+- 1763 Gilnid: 252774 Pattern: Totemic Leather Armor: a world-data file already names the NPC and item: 2026_11_11_36_world_everlake_gilnid_recipes.sql
+- 1763 Gilnid: 252775 Pattern: Stormrider's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_36_world_everlake_gilnid_recipes.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 1763 Gilnid: 252776 Pattern: Wisdom's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_36_world_everlake_gilnid_recipes.sql
+- 1763 Gilnid: 253902 Pattern: Filigreed Pristine Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_36_world_everlake_gilnid_recipes.sql
+- 1763 Gilnid: 253904 Pattern: Filigreed Silky Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql
+- 1763 Gilnid: 253906 Pattern: Filigreed Flame Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_12_04_world_everlake_deadmines_observed_recipes.sql
+- 1763 Gilnid: 253908 Pattern: Filigreed Shadow Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_36_world_everlake_gilnid_recipes.sql
+- 1763 Gilnid: 253910 Pattern: Filigreed Pearly Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_36_world_everlake_gilnid_recipes.sql
+- 1763 Gilnid: 253912 Pattern: Filigreed Shining Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_36_world_everlake_gilnid_recipes.sql
+- 2243 Syndicate Sentry: 255727 Manual: Superior Poultice: a world-data file already names the NPC and item: 2026_11_10_23_world_everlake_import_addon03.sql
+- 2248 Cave Yeti: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 2249 Ferocious Yeti: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 2250 Mountain Yeti: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 2251 Giant Yeti: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 2252 Crushridge Ogre: 251391 Plans: Hard Gold Pauldrons: a world-data file already names the NPC and item: 2026_11_10_22_world_everlake_import_addon02.sql
+- 2347 Wild Gryphon: 213526 Hybrid Haunch: no Icy Veins chance
+- 2376 Torn Fin Oracle: 249881 Recipe: Root Tea: a world-data file already names the NPC and item: 2026_11_10_14_world_everlake_import_slice18.sql
+- 2385 Feral Mountain Lion: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 2406 Mountain Lion: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 2407 Hulking Mountain Lion: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 2408 Snapjaw: 249428 Pristine Hide: a world-data file already names the NPC and item: 2026_11_11_25_world_everlake_snapjaw_hide.sql
+- 2559 Highland Strider: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 2560 Highland Thrasher: 249428 Pristine Hide: no Icy Veins chance
+- 2561 Highland Fleshstalker: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 2586 Syndicate Highwayman: 251386 Plans: Hard Gold Boots: a world-data file already names the NPC and item: 2026_11_10_22_world_everlake_import_addon02.sql
+- 2589 Syndicate Mercenary: 255723 Manual: Greater Healing Potion: a world-data file already names the NPC and item: 2026_11_10_22_world_everlake_import_addon02.sql
+- 2701 Dustbelcher Ogre: 278515 Mus'hale's Stolen Supplies: Icy Veins saw 6 kills, fewer than 10
+- 2715 Dustbelcher Brute: 278515 Mus'hale's Stolen Supplies: Icy Veins saw 5 kills, fewer than 10
+- 2727 Crag Coyote: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 2729 Elder Crag Coyote: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 2739 Shadowforge Tunneler: 255726 Manual: Leather Tourniquet: a world-data file already names the NPC and item: 2026_11_10_25_world_everlake_import_addon05.sql
+- 2739 Shadowforge Tunneler: 278402 Unstudied Artifact: Icy Veins saw 8 kills, fewer than 10
+- 2740 Shadowforge Darkweaver: 278402 Unstudied Artifact: Icy Veins saw 3 kills, fewer than 10
+- 2748 Archaedas: 274432 Stone Keeper Spire: no Icy Veins chance
+- 2894 Stonevault Shaman: 251394 Plans: Shining Mithril Boots: a world-data file already names the NPC and item: 2026_11_10_15_world_everlake_import_slice19.sql
+- 3476 Isha Awak: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 3653 Kresh: 251340 Plans: Veteran's Chain Shirt: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_39_world_everlake_kresh_recipes.sql
+- 3653 Kresh: 251341 Plans: Guard's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_39_world_everlake_kresh_recipes.sql
+- 3653 Kresh: 251342 Plans: Protector's Chain Shirt: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql
+- 3653 Kresh: 251343 Plans: Acolyte's Chain Shirt: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql
+- 3653 Kresh: 251344 Plans: Crusader's Chain Shirt: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql
+- 3653 Kresh: 252771 Pattern: Brawler's Leather Armor: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql
+- 3653 Kresh: 252772 Pattern: Trapper's Leather Armor: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql
+- 3653 Kresh: 252773 Pattern: Defender's Leather Armor: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql
+- 3653 Kresh: 252774 Pattern: Totemic Leather Armor: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql
+- 3653 Kresh: 252775 Pattern: Stormrider's Leather Armor: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql
+- 3653 Kresh: 252776 Pattern: Wisdom's Leather Armor: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_39_world_everlake_kresh_recipes.sql
+- 3653 Kresh: 253902 Pattern: Filigreed Pristine Gown: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql
+- 3653 Kresh: 253904 Pattern: Filigreed Silky Gown: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql, 2026_11_11_39_world_everlake_kresh_recipes.sql
+- 3653 Kresh: 253906 Pattern: Filigreed Flame Gown: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_39_world_everlake_kresh_recipes.sql
+- 3653 Kresh: 253908 Pattern: Filigreed Shadow Gown: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql
+- 3653 Kresh: 253910 Pattern: Filigreed Pearly Gown: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql
+- 3653 Kresh: 253912 Pattern: Filigreed Shining Gown: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql
+- 3660 Athrikus Narassin: 282406 Azsharan Key: no Icy Veins chance
+- 3669 Lord Cobrahn: 251340 Plans: Veteran's Chain Shirt: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_40_world_everlake_cobrahn_recipes.sql
+- 3669 Lord Cobrahn: 251341 Plans: Guard's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_40_world_everlake_cobrahn_recipes.sql
+- 3669 Lord Cobrahn: 251342 Plans: Protector's Chain Shirt: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_40_world_everlake_cobrahn_recipes.sql
+- 3669 Lord Cobrahn: 251343 Plans: Acolyte's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_40_world_everlake_cobrahn_recipes.sql
+- 3669 Lord Cobrahn: 251344 Plans: Crusader's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_40_world_everlake_cobrahn_recipes.sql
+- 3669 Lord Cobrahn: 252771 Pattern: Brawler's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_40_world_everlake_cobrahn_recipes.sql
+- 3669 Lord Cobrahn: 252772 Pattern: Trapper's Leather Armor: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_40_world_everlake_cobrahn_recipes.sql
+- 3669 Lord Cobrahn: 252773 Pattern: Defender's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_40_world_everlake_cobrahn_recipes.sql
+- 3669 Lord Cobrahn: 252774 Pattern: Totemic Leather Armor: a world-data file already names the NPC and item: 2026_11_11_40_world_everlake_cobrahn_recipes.sql
+- 3669 Lord Cobrahn: 252775 Pattern: Stormrider's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_40_world_everlake_cobrahn_recipes.sql
+- 3669 Lord Cobrahn: 252776 Pattern: Wisdom's Leather Armor: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql
+- 3669 Lord Cobrahn: 253902 Pattern: Filigreed Pristine Gown: a world-data file already names the NPC and item: 2026_11_11_40_world_everlake_cobrahn_recipes.sql
+- 3669 Lord Cobrahn: 253904 Pattern: Filigreed Silky Gown: a world-data file already names the NPC and item: 2026_11_11_40_world_everlake_cobrahn_recipes.sql
+- 3669 Lord Cobrahn: 253906 Pattern: Filigreed Flame Gown: a world-data file already names the NPC and item: 2026_11_11_40_world_everlake_cobrahn_recipes.sql
+- 3669 Lord Cobrahn: 253908 Pattern: Filigreed Shadow Gown: a world-data file already names the NPC and item: 2026_11_11_40_world_everlake_cobrahn_recipes.sql
+- 3669 Lord Cobrahn: 253910 Pattern: Filigreed Pearly Gown: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_40_world_everlake_cobrahn_recipes.sql
+- 3669 Lord Cobrahn: 253912 Pattern: Filigreed Shining Gown: a world-data file already names the NPC and item: 2026_11_11_40_world_everlake_cobrahn_recipes.sql
+- 3670 Lord Pythas: 251345 Plans: Veteran's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_41_world_everlake_pythas_recipes.sql
+- 3670 Lord Pythas: 251346 Plans: Guard's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_41_world_everlake_pythas_recipes.sql
+- 3670 Lord Pythas: 251347 Plans: Protector's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_41_world_everlake_pythas_recipes.sql
+- 3670 Lord Pythas: 251348 Plans: Acolyte's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_41_world_everlake_pythas_recipes.sql
+- 3670 Lord Pythas: 251349 Plans: Crusader's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql, 2026_11_11_41_world_everlake_pythas_recipes.sql
+- 3670 Lord Pythas: 252792 Pattern: Brawler's Leather Pants: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql
+- 3670 Lord Pythas: 252793 Pattern: Trapper's Leather Pants: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_41_world_everlake_pythas_recipes.sql
+- 3670 Lord Pythas: 252794 Pattern: Defender's Leather Pants: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_41_world_everlake_pythas_recipes.sql
+- 3670 Lord Pythas: 252795 Pattern: Totemic Leather Pants: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql
+- 3670 Lord Pythas: 252796 Pattern: Stormrider's Leather Pants: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql, 2026_11_11_41_world_everlake_pythas_recipes.sql
+- 3670 Lord Pythas: 252797 Pattern: Wisdom's Leather Pants: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql, 2026_11_11_41_world_everlake_pythas_recipes.sql
+- 3670 Lord Pythas: 253938 Pattern: Filigreed Pristine Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql
+- 3670 Lord Pythas: 253940 Pattern: Filigreed Silky Leggings: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql
+- 3670 Lord Pythas: 253942 Pattern: Filigreed Flame Leggings: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql
+- 3670 Lord Pythas: 253944 Pattern: Filigreed Shadow Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql
+- 3670 Lord Pythas: 253946 Pattern: Filigreed Pearly Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_41_world_everlake_pythas_recipes.sql
+- 3670 Lord Pythas: 253948 Pattern: Filigreed Shining Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_41_world_everlake_pythas_recipes.sql
+- 3671 Lady Anacondra: 251340 Plans: Veteran's Chain Shirt: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql
+- 3671 Lady Anacondra: 251341 Plans: Guard's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_38_world_everlake_anacondra_recipes.sql
+- 3671 Lady Anacondra: 251342 Plans: Protector's Chain Shirt: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_38_world_everlake_anacondra_recipes.sql
+- 3671 Lady Anacondra: 251343 Plans: Acolyte's Chain Shirt: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_38_world_everlake_anacondra_recipes.sql
+- 3671 Lady Anacondra: 251344 Plans: Crusader's Chain Shirt: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql, 2026_11_11_38_world_everlake_anacondra_recipes.sql
+- 3671 Lady Anacondra: 252771 Pattern: Brawler's Leather Armor: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_38_world_everlake_anacondra_recipes.sql
+- 3671 Lady Anacondra: 252772 Pattern: Trapper's Leather Armor: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_38_world_everlake_anacondra_recipes.sql
+- 3671 Lady Anacondra: 252773 Pattern: Defender's Leather Armor: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_38_world_everlake_anacondra_recipes.sql
+- 3671 Lady Anacondra: 252774 Pattern: Totemic Leather Armor: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_38_world_everlake_anacondra_recipes.sql
+- 3671 Lady Anacondra: 252775 Pattern: Stormrider's Leather Armor: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql, 2026_11_11_38_world_everlake_anacondra_recipes.sql
+- 3671 Lady Anacondra: 252776 Pattern: Wisdom's Leather Armor: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_38_world_everlake_anacondra_recipes.sql
+- 3671 Lady Anacondra: 253902 Pattern: Filigreed Pristine Gown: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_38_world_everlake_anacondra_recipes.sql
+- 3671 Lady Anacondra: 253904 Pattern: Filigreed Silky Gown: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql
+- 3671 Lady Anacondra: 253906 Pattern: Filigreed Flame Gown: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql
+- 3671 Lady Anacondra: 253908 Pattern: Filigreed Shadow Gown: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_38_world_everlake_anacondra_recipes.sql
+- 3671 Lady Anacondra: 253910 Pattern: Filigreed Pearly Gown: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_38_world_everlake_anacondra_recipes.sql
+- 3671 Lady Anacondra: 253912 Pattern: Filigreed Shining Gown: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_38_world_everlake_anacondra_recipes.sql
+- 3673 Lord Serpentis: 251345 Plans: Veteran's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql
+- 3673 Lord Serpentis: 251346 Plans: Guard's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_42_world_everlake_serpentis_recipes.sql
+- 3673 Lord Serpentis: 251347 Plans: Protector's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql
+- 3673 Lord Serpentis: 251348 Plans: Acolyte's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql
+- 3673 Lord Serpentis: 251349 Plans: Crusader's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql
+- 3673 Lord Serpentis: 252792 Pattern: Brawler's Leather Pants: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql, 2026_11_11_42_world_everlake_serpentis_recipes.sql
+- 3673 Lord Serpentis: 252793 Pattern: Trapper's Leather Pants: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_42_world_everlake_serpentis_recipes.sql
+- 3673 Lord Serpentis: 252794 Pattern: Defender's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_42_world_everlake_serpentis_recipes.sql
+- 3673 Lord Serpentis: 252795 Pattern: Totemic Leather Pants: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_42_world_everlake_serpentis_recipes.sql
+- 3673 Lord Serpentis: 252796 Pattern: Stormrider's Leather Pants: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql
+- 3673 Lord Serpentis: 252797 Pattern: Wisdom's Leather Pants: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql, 2026_11_11_42_world_everlake_serpentis_recipes.sql
+- 3673 Lord Serpentis: 253938 Pattern: Filigreed Pristine Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_42_world_everlake_serpentis_recipes.sql
+- 3673 Lord Serpentis: 253940 Pattern: Filigreed Silky Leggings: a world-data file already names the NPC and item: 2026_11_11_42_world_everlake_serpentis_recipes.sql
+- 3673 Lord Serpentis: 253942 Pattern: Filigreed Flame Leggings: a world-data file already names the NPC and item: 2026_11_11_42_world_everlake_serpentis_recipes.sql
+- 3673 Lord Serpentis: 253944 Pattern: Filigreed Shadow Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_42_world_everlake_serpentis_recipes.sql
+- 3673 Lord Serpentis: 253946 Pattern: Filigreed Pearly Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_42_world_everlake_serpentis_recipes.sql
+- 3673 Lord Serpentis: 253948 Pattern: Filigreed Shining Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql
+- 3674 Skum: 251345 Plans: Veteran's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_43_world_everlake_skum_recipes.sql
+- 3674 Skum: 251346 Plans: Guard's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql
+- 3674 Skum: 251347 Plans: Protector's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_43_world_everlake_skum_recipes.sql
+- 3674 Skum: 251348 Plans: Acolyte's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_43_world_everlake_skum_recipes.sql
+- 3674 Skum: 251349 Plans: Crusader's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_43_world_everlake_skum_recipes.sql
+- 3674 Skum: 252792 Pattern: Brawler's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_43_world_everlake_skum_recipes.sql
+- 3674 Skum: 252793 Pattern: Trapper's Leather Pants: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql
+- 3674 Skum: 252794 Pattern: Defender's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_43_world_everlake_skum_recipes.sql
+- 3674 Skum: 252795 Pattern: Totemic Leather Pants: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_43_world_everlake_skum_recipes.sql
+- 3674 Skum: 252796 Pattern: Stormrider's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_43_world_everlake_skum_recipes.sql
+- 3674 Skum: 252797 Pattern: Wisdom's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_43_world_everlake_skum_recipes.sql
+- 3674 Skum: 253938 Pattern: Filigreed Pristine Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_43_world_everlake_skum_recipes.sql
+- 3674 Skum: 253940 Pattern: Filigreed Silky Leggings: a world-data file already names the NPC and item: 2026_11_11_43_world_everlake_skum_recipes.sql
+- 3674 Skum: 253942 Pattern: Filigreed Flame Leggings: a world-data file already names the NPC and item: 2026_11_11_43_world_everlake_skum_recipes.sql
+- 3674 Skum: 253944 Pattern: Filigreed Shadow Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_43_world_everlake_skum_recipes.sql
+- 3674 Skum: 253946 Pattern: Filigreed Pearly Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_43_world_everlake_skum_recipes.sql
+- 3674 Skum: 253948 Pattern: Filigreed Shining Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_43_world_everlake_skum_recipes.sql
+- 3711 Wrathtail Myrmidon: 251337 Plans: Sterling Silver Gauntlet: a world-data file already names the NPC and item: 2026_11_10_15_world_everlake_import_slice19.sql
+- 3725 Dark Strand Cultist: 249475 Formula: Enchant Bracer - Minor Healing Power: a world-data file already names the NPC and item: 2026_11_10_14_world_everlake_import_slice18.sql
+- 3727 Dark Strand Enforcer: 251455 Plans: Bronze Dory: a world-data file already names the NPC and item: 2026_11_10_14_world_everlake_import_slice18.sql
+- 3771 Bleakheart Hellcaller: 251456 Plans: Iron Fists: a world-data file already names the NPC and item: 2026_11_10_40_world_everlake_import_sixsources01.sql
+- 3864 Fel Steed: 251340 Plans: Veteran's Chain Shirt: a world-data file already names the NPC and item: 2026_11_12_01_world_everlake_fel_steed_recipes.sql
+- 3864 Fel Steed: 251341 Plans: Guard's Chain Shirt: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql
+- 3864 Fel Steed: 251342 Plans: Protector's Chain Shirt: a world-data file already names the NPC and item: 2026_11_12_01_world_everlake_fel_steed_recipes.sql
+- 3864 Fel Steed: 251343 Plans: Acolyte's Chain Shirt: a world-data file already names the NPC and item: 2026_11_12_01_world_everlake_fel_steed_recipes.sql
+- 3864 Fel Steed: 251344 Plans: Crusader's Chain Shirt: a world-data file already names the NPC and item: 2026_11_12_01_world_everlake_fel_steed_recipes.sql
+- 3864 Fel Steed: 252771 Pattern: Brawler's Leather Armor: a world-data file already names the NPC and item: 2026_11_12_01_world_everlake_fel_steed_recipes.sql
+- 3864 Fel Steed: 252772 Pattern: Trapper's Leather Armor: a world-data file already names the NPC and item: 2026_11_12_01_world_everlake_fel_steed_recipes.sql
+- 3864 Fel Steed: 252773 Pattern: Defender's Leather Armor: a world-data file already names the NPC and item: 2026_11_12_01_world_everlake_fel_steed_recipes.sql
+- 3864 Fel Steed: 252774 Pattern: Totemic Leather Armor: a world-data file already names the NPC and item: 2026_11_12_01_world_everlake_fel_steed_recipes.sql
+- 3864 Fel Steed: 252775 Pattern: Stormrider's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_58_world_everlake_corroborated_recipe_drops.sql
+- 3864 Fel Steed: 252776 Pattern: Wisdom's Leather Armor: a world-data file already names the NPC and item: 2026_11_12_01_world_everlake_fel_steed_recipes.sql
+- 3864 Fel Steed: 253902 Pattern: Filigreed Pristine Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql
+- 3864 Fel Steed: 253904 Pattern: Filigreed Silky Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql
+- 3864 Fel Steed: 253906 Pattern: Filigreed Flame Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql
+- 3864 Fel Steed: 253908 Pattern: Filigreed Shadow Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql
+- 3864 Fel Steed: 253910 Pattern: Filigreed Pearly Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql
+- 3864 Fel Steed: 253912 Pattern: Filigreed Shining Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql
+- 3872 Deathsworn Captain: 251348 Plans: Acolyte's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3872 Deathsworn Captain: 252793 Pattern: Trapper's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3872 Deathsworn Captain: 252794 Pattern: Defender's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3872 Deathsworn Captain: 252795 Pattern: Totemic Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3872 Deathsworn Captain: 252797 Pattern: Wisdom's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3872 Deathsworn Captain: 253940 Pattern: Filigreed Silky Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3886 Razorclaw the Butcher: 251345 Plans: Veteran's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3886 Razorclaw the Butcher: 251346 Plans: Guard's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3886 Razorclaw the Butcher: 251347 Plans: Protector's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3886 Razorclaw the Butcher: 251348 Plans: Acolyte's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3886 Razorclaw the Butcher: 251349 Plans: Crusader's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3886 Razorclaw the Butcher: 252792 Pattern: Brawler's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3886 Razorclaw the Butcher: 252793 Pattern: Trapper's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3886 Razorclaw the Butcher: 252794 Pattern: Defender's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3886 Razorclaw the Butcher: 252795 Pattern: Totemic Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3886 Razorclaw the Butcher: 252796 Pattern: Stormrider's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3886 Razorclaw the Butcher: 252797 Pattern: Wisdom's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3886 Razorclaw the Butcher: 253938 Pattern: Filigreed Pristine Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3886 Razorclaw the Butcher: 253940 Pattern: Filigreed Silky Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3886 Razorclaw the Butcher: 253942 Pattern: Filigreed Flame Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3886 Razorclaw the Butcher: 253944 Pattern: Filigreed Shadow Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql, 2026_11_12_06_world_everlake_shadowfang_observed_recipes.sql
+- 3886 Razorclaw the Butcher: 253946 Pattern: Filigreed Pearly Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3886 Razorclaw the Butcher: 253948 Pattern: Filigreed Shining Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 251345 Plans: Veteran's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 251346 Plans: Guard's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 251347 Plans: Protector's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 251348 Plans: Acolyte's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 251349 Plans: Crusader's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 252792 Pattern: Brawler's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 252793 Pattern: Trapper's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 252794 Pattern: Defender's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 252795 Pattern: Totemic Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 252796 Pattern: Stormrider's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 252797 Pattern: Wisdom's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 253938 Pattern: Filigreed Pristine Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 253940 Pattern: Filigreed Silky Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 253942 Pattern: Filigreed Flame Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 253944 Pattern: Filigreed Shadow Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 253946 Pattern: Filigreed Pearly Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3887 Baron Silverlaine: 253948 Pattern: Filigreed Shining Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 3914 Rethilgore: 251340 Plans: Veteran's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3914 Rethilgore: 251341 Plans: Guard's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3914 Rethilgore: 251342 Plans: Protector's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3914 Rethilgore: 251343 Plans: Acolyte's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3914 Rethilgore: 251344 Plans: Crusader's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3914 Rethilgore: 252771 Pattern: Brawler's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3914 Rethilgore: 252772 Pattern: Trapper's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3914 Rethilgore: 252773 Pattern: Defender's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3914 Rethilgore: 252774 Pattern: Totemic Leather Armor: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3914 Rethilgore: 252775 Pattern: Stormrider's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3914 Rethilgore: 252776 Pattern: Wisdom's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3914 Rethilgore: 253902 Pattern: Filigreed Pristine Gown: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3914 Rethilgore: 253904 Pattern: Filigreed Silky Gown: a world-data file already names the NPC and item: 2026_11_12_06_world_everlake_shadowfang_observed_recipes.sql
+- 3914 Rethilgore: 253906 Pattern: Filigreed Flame Gown: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3914 Rethilgore: 253908 Pattern: Filigreed Shadow Gown: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3914 Rethilgore: 253910 Pattern: Filigreed Pearly Gown: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3914 Rethilgore: 253912 Pattern: Filigreed Shining Gown: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 3931 Shadethicket Oracle: 250385 Recipe: Elixir of Strength: a world-data file already names the NPC and item: 2026_11_12_124_world_everlake_alchemy_recipe_drops.sql
+- 3974 Houndmaster Loksey: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_57_world_everlake_scarlet_recipes.sql, 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 3974 Houndmaster Loksey: 251354 Plans: Crusader's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_57_world_everlake_scarlet_recipes.sql, 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 3974 Houndmaster Loksey: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_57_world_everlake_scarlet_recipes.sql, 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 3974 Houndmaster Loksey: 253976 Pattern: Filigreed Pristine Circlet: a world-data file already names the NPC and item: 2026_11_11_57_world_everlake_scarlet_recipes.sql
+- 3974 Houndmaster Loksey: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_11_57_world_everlake_scarlet_recipes.sql, 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 3975 Herod: 252845 Pattern: Warden's Leather Shoes: a world-data file already names the NPC and item: 2026_11_11_57_world_everlake_scarlet_recipes.sql
+- 3975 Herod: 252897 Pattern: Skycaller's Mail Boots: a world-data file already names the NPC and item: 2026_11_11_57_world_everlake_scarlet_recipes.sql, 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 3975 Herod: 254044 Pattern: Black Cord: a world-data file already names the NPC and item: 2026_11_11_57_world_everlake_scarlet_recipes.sql, 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 3976 Scarlet Commander Mograine: 252896 Pattern: Stalker's Mail Boots: a world-data file already names the NPC and item: 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 3977 High Inquisitor Whitemane: 252899 Pattern: Mender's Mail Boots: a world-data file already names the NPC and item: 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 3977 High Inquisitor Whitemane: 254040 Pattern: Frothing Cord: a world-data file already names the NPC and item: 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 3983 Interrogator Vishas: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_59_world_everlake_vishas_recipes.sql
+- 3983 Interrogator Vishas: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_59_world_everlake_vishas_recipes.sql
+- 3983 Interrogator Vishas: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_59_world_everlake_vishas_recipes.sql
+- 3983 Interrogator Vishas: 252817 Pattern: Totemic Leather Helm: a world-data file already names the NPC and item: 2026_11_11_59_world_everlake_vishas_recipes.sql
+- 3983 Interrogator Vishas: 253980 Pattern: Filigreed Flame Circlet: a world-data file already names the NPC and item: 2026_11_11_59_world_everlake_vishas_recipes.sql
+- 3983 Interrogator Vishas: 253984 Pattern: Filigreed Pearly Circlet: a world-data file already names the NPC and item: 2026_11_11_59_world_everlake_vishas_recipes.sql
+- 4022 Bloodfury Harpy: 250382 Recipe: Elixir of Spirit: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql
+- 4041 Scorched Basilisk: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4095 Galak Mauler: 250389 Recipe: Elixir of Intellect: a world-data file already names the NPC and item: 2026_11_10_23_world_everlake_import_addon03.sql
+- 4101 Screeching Roguefeather: 251385 Plans: Hard Gold Cuirass: a world-data file already names the NPC and item: 2026_11_10_15_world_everlake_import_slice19.sql
+- 4107 Highperch Wyvern: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4109 Highperch Consort: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4116 Gravelsnout Surveyor: 254000 Pattern: Earthen Leggings: a world-data file already names the NPC and item: 2026_11_10_15_world_everlake_import_slice19.sql
+- 4118 Venomous Cloud Serpent: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4119 Elder Cloud Serpent: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4124 Needles Cougar: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4139 Scorpid Terror: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4140 Scorpid Reaver: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4142 Sparkleshell Tortoise: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4143 Sparkleshell Snapper: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4147 Saltstone Basilisk: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4150 Saltstone Gazer: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4151 Saltstone Crystalhide: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4151 Saltstone Crystalhide: 251457 Plans: Steel Spear: a world-data file already names the NPC and item: 2026_11_10_41_world_everlake_import_heldleads01.sql
+- 4248 Pesterhide Hyena: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4249 Pesterhide Snarler: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4274 Fenrus the Devourer: 251345 Plans: Veteran's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4274 Fenrus the Devourer: 251346 Plans: Guard's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4274 Fenrus the Devourer: 251347 Plans: Protector's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4274 Fenrus the Devourer: 251348 Plans: Acolyte's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4274 Fenrus the Devourer: 251349 Plans: Crusader's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4274 Fenrus the Devourer: 252792 Pattern: Brawler's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4274 Fenrus the Devourer: 252793 Pattern: Trapper's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4274 Fenrus the Devourer: 252794 Pattern: Defender's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4274 Fenrus the Devourer: 252795 Pattern: Totemic Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4274 Fenrus the Devourer: 252796 Pattern: Stormrider's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4274 Fenrus the Devourer: 252797 Pattern: Wisdom's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4274 Fenrus the Devourer: 253938 Pattern: Filigreed Pristine Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4274 Fenrus the Devourer: 253940 Pattern: Filigreed Silky Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4274 Fenrus the Devourer: 253942 Pattern: Filigreed Flame Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4274 Fenrus the Devourer: 253944 Pattern: Filigreed Shadow Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4274 Fenrus the Devourer: 253946 Pattern: Filigreed Pearly Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4274 Fenrus the Devourer: 253948 Pattern: Filigreed Shining Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4275 Archmage Arugal: 251345 Plans: Veteran's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4275 Archmage Arugal: 251346 Plans: Guard's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4275 Archmage Arugal: 251347 Plans: Protector's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4275 Archmage Arugal: 251348 Plans: Acolyte's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4275 Archmage Arugal: 251349 Plans: Crusader's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4275 Archmage Arugal: 252792 Pattern: Brawler's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4275 Archmage Arugal: 252793 Pattern: Trapper's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4275 Archmage Arugal: 252794 Pattern: Defender's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4275 Archmage Arugal: 252795 Pattern: Totemic Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4275 Archmage Arugal: 252796 Pattern: Stormrider's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4275 Archmage Arugal: 252797 Pattern: Wisdom's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4275 Archmage Arugal: 253938 Pattern: Filigreed Pristine Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4275 Archmage Arugal: 253940 Pattern: Filigreed Silky Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4275 Archmage Arugal: 253942 Pattern: Filigreed Flame Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4275 Archmage Arugal: 253944 Pattern: Filigreed Shadow Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql, 2026_11_12_06_world_everlake_shadowfang_observed_recipes.sql
+- 4275 Archmage Arugal: 253946 Pattern: Filigreed Pearly Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4275 Archmage Arugal: 253948 Pattern: Filigreed Shining Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4278 Commander Springvale: 251345 Plans: Veteran's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4278 Commander Springvale: 251346 Plans: Guard's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4278 Commander Springvale: 251347 Plans: Protector's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4278 Commander Springvale: 251348 Plans: Acolyte's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4278 Commander Springvale: 251349 Plans: Crusader's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4278 Commander Springvale: 252792 Pattern: Brawler's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4278 Commander Springvale: 252793 Pattern: Trapper's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4278 Commander Springvale: 252794 Pattern: Defender's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4278 Commander Springvale: 252795 Pattern: Totemic Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4278 Commander Springvale: 252796 Pattern: Stormrider's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4278 Commander Springvale: 252797 Pattern: Wisdom's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4278 Commander Springvale: 253938 Pattern: Filigreed Pristine Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4278 Commander Springvale: 253940 Pattern: Filigreed Silky Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4278 Commander Springvale: 253942 Pattern: Filigreed Flame Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4278 Commander Springvale: 253944 Pattern: Filigreed Shadow Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql, 2026_11_12_06_world_everlake_shadowfang_observed_recipes.sql
+- 4278 Commander Springvale: 253946 Pattern: Filigreed Pearly Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4278 Commander Springvale: 253948 Pattern: Filigreed Shining Leggings: a world-data file already names the NPC and item: 2026_11_11_51_world_everlake_shadowfang_remaining_recipes.sql
+- 4279 Odo the Blindwatcher: 251345 Plans: Veteran's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4279 Odo the Blindwatcher: 251346 Plans: Guard's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4279 Odo the Blindwatcher: 251347 Plans: Protector's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4279 Odo the Blindwatcher: 251348 Plans: Acolyte's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4279 Odo the Blindwatcher: 251349 Plans: Crusader's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4279 Odo the Blindwatcher: 252792 Pattern: Brawler's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4279 Odo the Blindwatcher: 252793 Pattern: Trapper's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4279 Odo the Blindwatcher: 252794 Pattern: Defender's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4279 Odo the Blindwatcher: 252795 Pattern: Totemic Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4279 Odo the Blindwatcher: 252796 Pattern: Stormrider's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4279 Odo the Blindwatcher: 252797 Pattern: Wisdom's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4279 Odo the Blindwatcher: 253938 Pattern: Filigreed Pristine Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4279 Odo the Blindwatcher: 253940 Pattern: Filigreed Silky Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4279 Odo the Blindwatcher: 253942 Pattern: Filigreed Flame Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4279 Odo the Blindwatcher: 253944 Pattern: Filigreed Shadow Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4279 Odo the Blindwatcher: 253946 Pattern: Filigreed Pearly Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4279 Odo the Blindwatcher: 253948 Pattern: Filigreed Shining Leggings: a world-data file already names the NPC and item: 2026_11_11_50_world_everlake_shadowfang_recipes.sql
+- 4281 Scarlet Scout: 264207 Schematic: SAF-T Bronze Bomb: a world-data file already names the NPC and item: 2026_11_10_40_world_everlake_import_sixsources01.sql
+- 4304 Scarlet Tracking Hound: 249428 Pristine Hide: no Icy Veins chance
+- 4323 Searing Hatchling: 279934 Shed Dark Dragonscale: a quest drop (needs the quest that asks for it)
+- 4324 Searing Whelp: 279934 Shed Dark Dragonscale: a quest drop (needs the quest that asks for it)
+- 4329 Firemane Scout: 249511 Formula: Enchant 2H Weapon - Lesser Agility: a world-data file already names the NPC and item: 2026_11_12_119_world_everlake_enchanting_formula_drops.sql
+- 4329 Firemane Scout: 279934 Shed Dark Dragonscale: Icy Veins saw 7 kills, fewer than 10
+- 4331 Firemane Ash Tail: 279934 Shed Dark Dragonscale: Icy Veins saw 6 kills, fewer than 10
+- 4342 Drywallow Vicejaw: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4355 Bloodfen Scytheclaw: 249428 Pristine Hide: no Icy Veins chance
+- 4356 Bloodfen Razormaw: 279601 Intact Raptor Hide: no Icy Veins chance
+- 4357 Bloodfen Lashtail: 250184 Recipe: Raptor Rouladen: a world-data file already names the NPC and item: 2026_11_10_23_world_everlake_import_addon03.sql
+- 4357 Bloodfen Lashtail: 279601 Intact Raptor Hide: a quest drop (needs the quest that asks for it)
+- 4359 Mirefin Murloc: 254020 Pattern: Earthen Silk Cuffs: a world-data file already names the NPC and item: 2026_11_10_23_world_everlake_import_addon03.sql
+- 4362 Mirefin Coastrunner: 251459 Plans: Mithril Shortsword: a world-data file already names the NPC and item: 2026_11_10_14_world_everlake_import_slice18.sql
+- 4420 Overlord Ramtusk: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4420 Overlord Ramtusk: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4420 Overlord Ramtusk: 251353 Plans: Acolyte's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4420 Overlord Ramtusk: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4420 Overlord Ramtusk: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4420 Overlord Ramtusk: 252816 Pattern: Defender's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4420 Overlord Ramtusk: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4421 Charlga Razorflank: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4421 Charlga Razorflank: 251351 Plans: Guard's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4421 Charlga Razorflank: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4421 Charlga Razorflank: 251353 Plans: Acolyte's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4421 Charlga Razorflank: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4421 Charlga Razorflank: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4421 Charlga Razorflank: 252816 Pattern: Defender's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4421 Charlga Razorflank: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4422 Agathelos the Raging: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4422 Agathelos the Raging: 251351 Plans: Guard's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4422 Agathelos the Raging: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4422 Agathelos the Raging: 251353 Plans: Acolyte's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4422 Agathelos the Raging: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4422 Agathelos the Raging: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4422 Agathelos the Raging: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4424 Aggem Thorncurse: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4424 Aggem Thorncurse: 251353 Plans: Acolyte's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4424 Aggem Thorncurse: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4424 Aggem Thorncurse: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4424 Aggem Thorncurse: 252816 Pattern: Defender's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4424 Aggem Thorncurse: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4428 Death Speaker Jargba: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4428 Death Speaker Jargba: 251351 Plans: Guard's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4428 Death Speaker Jargba: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4428 Death Speaker Jargba: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4428 Death Speaker Jargba: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4428 Death Speaker Jargba: 252816 Pattern: Defender's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4428 Death Speaker Jargba: 253976 Pattern: Filigreed Pristine Circlet: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4428 Death Speaker Jargba: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_11_55_world_everlake_razorfen_kraul_recipes.sql
+- 4512 Rotting Agam'ar: 249428 Pristine Hide: no Icy Veins chance
+- 4538 Kraul Bat: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4539 Greater Kraul Bat: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4542 High Inquisitor Fairbanks: 252847 Pattern: Mender's Leather Shoes: a world-data file already names the NPC and item: 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 4542 High Inquisitor Fairbanks: 252897 Pattern: Skycaller's Mail Boots: a world-data file already names the NPC and item: 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 4543 Bloodmage Thalnos: 251351 Plans: Guard's Chain Helm: a world-data file already names the NPC and item: 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 4543 Bloodmage Thalnos: 251354 Plans: Crusader's Chain Helm: a world-data file already names the NPC and item: 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 4543 Bloodmage Thalnos: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 4543 Bloodmage Thalnos: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 4543 Bloodmage Thalnos: 252817 Pattern: Totemic Leather Helm: a world-data file already names the NPC and item: 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 4543 Bloodmage Thalnos: 252819 Pattern: Wisdom's Leather Helm: a world-data file already names the NPC and item: 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 4543 Bloodmage Thalnos: 253980 Pattern: Filigreed Flame Circlet: a world-data file already names the NPC and item: 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 4543 Bloodmage Thalnos: 253982 Pattern: Filigreed Shadow Circlet: a world-data file already names the NPC and item: 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 4543 Bloodmage Thalnos: 253984 Pattern: Filigreed Pearly Circlet: a world-data file already names the NPC and item: 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 4632 Kolkar Centaur: 250370 Recipe: Elixir of Fortitude: a world-data file already names the NPC and item: 2026_11_12_124_world_everlake_alchemy_recipe_drops.sql
+- 4663 Burning Blade Augur: 211247 Pattern: Phoenix Bindings: a world-data file already names the NPC and item: 2026_11_12_120_world_everlake_phoenix_bindings_golden_cord.sql
+- 4711 Slitherblade Naga: 251387 Plans: Hard Gold Bracers: a world-data file already names the NPC and item: 2026_11_10_25_world_everlake_import_addon05.sql
+- 4719 Slitherblade Sea Witch: 254016 Pattern: Earthen Silk Hood: a world-data file already names the NPC and item: 2026_11_10_24_world_everlake_import_addon04.sql
+- 4825 Aku'mai Snapjaw: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4829 Aku'mai: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 4829 Aku'mai: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_17_world_everlake_import_slice21.sql
+- 4829 Aku'mai: 251351 Plans: Guard's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4829 Aku'mai: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_17_world_everlake_import_slice21.sql
+- 4829 Aku'mai: 251353 Plans: Acolyte's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_16_world_everlake_import_slice20.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4829 Aku'mai: 251354 Plans: Crusader's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4829 Aku'mai: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4829 Aku'mai: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_16_world_everlake_import_slice20.sql, 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4829 Aku'mai: 252816 Pattern: Defender's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_17_world_everlake_import_slice21.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4829 Aku'mai: 252817 Pattern: Totemic Leather Helm: a world-data file already names the NPC and item: 2026_11_10_16_world_everlake_import_slice20.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4829 Aku'mai: 252818 Pattern: Stormrider's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4829 Aku'mai: 252819 Pattern: Wisdom's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4829 Aku'mai: 253976 Pattern: Filigreed Pristine Circlet: a world-data file already names the NPC and item: 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4829 Aku'mai: 253978 Pattern: Filigreed Silky Circlet: a world-data file already names the NPC and item: 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4829 Aku'mai: 253980 Pattern: Filigreed Flame Circlet: a world-data file already names the NPC and item: 2026_11_10_17_world_everlake_import_slice21.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4829 Aku'mai: 253982 Pattern: Filigreed Shadow Circlet: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4829 Aku'mai: 253984 Pattern: Filigreed Pearly Circlet: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4829 Aku'mai: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4830 Old Serra'kis: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_17_world_everlake_import_slice21.sql
+- 4830 Old Serra'kis: 251351 Plans: Guard's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4830 Old Serra'kis: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_17_world_everlake_import_slice21.sql
+- 4830 Old Serra'kis: 251353 Plans: Acolyte's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_16_world_everlake_import_slice20.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4830 Old Serra'kis: 251354 Plans: Crusader's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4830 Old Serra'kis: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4830 Old Serra'kis: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_16_world_everlake_import_slice20.sql, 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4830 Old Serra'kis: 252816 Pattern: Defender's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_17_world_everlake_import_slice21.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4830 Old Serra'kis: 252817 Pattern: Totemic Leather Helm: a world-data file already names the NPC and item: 2026_11_10_16_world_everlake_import_slice20.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4830 Old Serra'kis: 252818 Pattern: Stormrider's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4830 Old Serra'kis: 252819 Pattern: Wisdom's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4830 Old Serra'kis: 253976 Pattern: Filigreed Pristine Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4830 Old Serra'kis: 253978 Pattern: Filigreed Silky Circlet: a world-data file already names the NPC and item: 2026_11_10_15_world_everlake_import_slice19.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4830 Old Serra'kis: 253980 Pattern: Filigreed Flame Circlet: a world-data file already names the NPC and item: 2026_11_10_17_world_everlake_import_slice21.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4830 Old Serra'kis: 253982 Pattern: Filigreed Shadow Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4830 Old Serra'kis: 253984 Pattern: Filigreed Pearly Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4830 Old Serra'kis: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4831 Lady Sarevess: 251345 Plans: Veteran's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_47_world_everlake_sarevess_recipes.sql
+- 4831 Lady Sarevess: 251346 Plans: Guard's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_47_world_everlake_sarevess_recipes.sql
+- 4831 Lady Sarevess: 251347 Plans: Protector's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_47_world_everlake_sarevess_recipes.sql
+- 4831 Lady Sarevess: 251348 Plans: Acolyte's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_47_world_everlake_sarevess_recipes.sql
+- 4831 Lady Sarevess: 251349 Plans: Crusader's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_47_world_everlake_sarevess_recipes.sql
+- 4831 Lady Sarevess: 252792 Pattern: Brawler's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_47_world_everlake_sarevess_recipes.sql
+- 4831 Lady Sarevess: 252793 Pattern: Trapper's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_47_world_everlake_sarevess_recipes.sql
+- 4831 Lady Sarevess: 252794 Pattern: Defender's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_47_world_everlake_sarevess_recipes.sql
+- 4831 Lady Sarevess: 252795 Pattern: Totemic Leather Pants: a world-data file already names the NPC and item: 2026_11_11_47_world_everlake_sarevess_recipes.sql
+- 4831 Lady Sarevess: 252796 Pattern: Stormrider's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_47_world_everlake_sarevess_recipes.sql
+- 4831 Lady Sarevess: 252797 Pattern: Wisdom's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_47_world_everlake_sarevess_recipes.sql
+- 4831 Lady Sarevess: 253938 Pattern: Filigreed Pristine Leggings: a world-data file already names the NPC and item: 2026_11_11_47_world_everlake_sarevess_recipes.sql
+- 4831 Lady Sarevess: 253940 Pattern: Filigreed Silky Leggings: a world-data file already names the NPC and item: 2026_11_10_21_world_everlake_import_addon01.sql, 2026_11_11_47_world_everlake_sarevess_recipes.sql
+- 4831 Lady Sarevess: 253942 Pattern: Filigreed Flame Leggings: a world-data file already names the NPC and item: 2026_11_10_21_world_everlake_import_addon01.sql, 2026_11_11_47_world_everlake_sarevess_recipes.sql
+- 4831 Lady Sarevess: 253944 Pattern: Filigreed Shadow Leggings: a world-data file already names the NPC and item: 2026_11_10_21_world_everlake_import_addon01.sql
+- 4831 Lady Sarevess: 253946 Pattern: Filigreed Pearly Leggings: a world-data file already names the NPC and item: 2026_11_11_47_world_everlake_sarevess_recipes.sql
+- 4832 Twilight Lord Kelris: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_17_world_everlake_import_slice21.sql
+- 4832 Twilight Lord Kelris: 251351 Plans: Guard's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4832 Twilight Lord Kelris: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_17_world_everlake_import_slice21.sql
+- 4832 Twilight Lord Kelris: 251353 Plans: Acolyte's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4832 Twilight Lord Kelris: 251354 Plans: Crusader's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4832 Twilight Lord Kelris: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4832 Twilight Lord Kelris: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4832 Twilight Lord Kelris: 252816 Pattern: Defender's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_17_world_everlake_import_slice21.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4832 Twilight Lord Kelris: 252817 Pattern: Totemic Leather Helm: a world-data file already names the NPC and item: 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4832 Twilight Lord Kelris: 252818 Pattern: Stormrider's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4832 Twilight Lord Kelris: 252819 Pattern: Wisdom's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4832 Twilight Lord Kelris: 253976 Pattern: Filigreed Pristine Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4832 Twilight Lord Kelris: 253978 Pattern: Filigreed Silky Circlet: a world-data file already names the NPC and item: 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4832 Twilight Lord Kelris: 253980 Pattern: Filigreed Flame Circlet: a world-data file already names the NPC and item: 2026_11_10_17_world_everlake_import_slice21.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4832 Twilight Lord Kelris: 253982 Pattern: Filigreed Shadow Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4832 Twilight Lord Kelris: 253984 Pattern: Filigreed Pearly Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4832 Twilight Lord Kelris: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 4842 Earthcaller Halmgar: 253984 Pattern: Filigreed Pearly Circlet: a world-data file already names the NPC and item: 2026_11_12_09_world_everlake_razorfen_kraul_observed_recipes.sql
+- 4887 Ghamoo-ra: 251345 Plans: Veteran's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_48_world_everlake_ghamoo_ra_recipes.sql
+- 4887 Ghamoo-ra: 251346 Plans: Guard's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_48_world_everlake_ghamoo_ra_recipes.sql
+- 4887 Ghamoo-ra: 251347 Plans: Protector's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_48_world_everlake_ghamoo_ra_recipes.sql
+- 4887 Ghamoo-ra: 251348 Plans: Acolyte's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_48_world_everlake_ghamoo_ra_recipes.sql
+- 4887 Ghamoo-ra: 251349 Plans: Crusader's Chain Leggings: a world-data file already names the NPC and item: 2026_11_11_48_world_everlake_ghamoo_ra_recipes.sql
+- 4887 Ghamoo-ra: 252792 Pattern: Brawler's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_48_world_everlake_ghamoo_ra_recipes.sql
+- 4887 Ghamoo-ra: 252793 Pattern: Trapper's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_48_world_everlake_ghamoo_ra_recipes.sql
+- 4887 Ghamoo-ra: 252794 Pattern: Defender's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_48_world_everlake_ghamoo_ra_recipes.sql
+- 4887 Ghamoo-ra: 252795 Pattern: Totemic Leather Pants: a world-data file already names the NPC and item: 2026_11_11_48_world_everlake_ghamoo_ra_recipes.sql
+- 4887 Ghamoo-ra: 252796 Pattern: Stormrider's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_48_world_everlake_ghamoo_ra_recipes.sql
+- 4887 Ghamoo-ra: 252797 Pattern: Wisdom's Leather Pants: a world-data file already names the NPC and item: 2026_11_11_48_world_everlake_ghamoo_ra_recipes.sql
+- 4887 Ghamoo-ra: 253938 Pattern: Filigreed Pristine Leggings: a world-data file already names the NPC and item: 2026_11_11_48_world_everlake_ghamoo_ra_recipes.sql
+- 4887 Ghamoo-ra: 253940 Pattern: Filigreed Silky Leggings: a world-data file already names the NPC and item: 2026_11_10_21_world_everlake_import_addon01.sql
+- 4887 Ghamoo-ra: 253942 Pattern: Filigreed Flame Leggings: a world-data file already names the NPC and item: 2026_11_10_21_world_everlake_import_addon01.sql
+- 4887 Ghamoo-ra: 253944 Pattern: Filigreed Shadow Leggings: a world-data file already names the NPC and item: 2026_11_10_21_world_everlake_import_addon01.sql, 2026_11_11_48_world_everlake_ghamoo_ra_recipes.sql
+- 4887 Ghamoo-ra: 253946 Pattern: Filigreed Pearly Leggings: a world-data file already names the NPC and item: 2026_11_11_48_world_everlake_ghamoo_ra_recipes.sql
+- 4887 Ghamoo-ra: 253948 Pattern: Filigreed Shining Leggings: a world-data file already names the NPC and item: 2026_11_11_48_world_everlake_ghamoo_ra_recipes.sql
+- 5236 Gordunni Shaman: 255725 Manual: Superior Healing Potion: a world-data file already names the NPC and item: 2026_11_10_25_world_everlake_import_addon05.sql
+- 5249 Woodpaw Mongrel: 251462 Plans: Mithril Claymore: a world-data file already names the NPC and item: 2026_11_12_127_world_everlake_smithing_leatherworking_recipe_drops.sql
+- 5300 Frayfeather Hippogryph: 249428 Pristine Hide: no Icy Veins chance
+- 5775 Verdan the Everliving: 251345 Plans: Veteran's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_45_world_everlake_verdan_recipes.sql
+- 5775 Verdan the Everliving: 251346 Plans: Guard's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_45_world_everlake_verdan_recipes.sql
+- 5775 Verdan the Everliving: 251347 Plans: Protector's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_45_world_everlake_verdan_recipes.sql
+- 5775 Verdan the Everliving: 251348 Plans: Acolyte's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_45_world_everlake_verdan_recipes.sql
+- 5775 Verdan the Everliving: 251349 Plans: Crusader's Chain Leggings: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql, 2026_11_11_45_world_everlake_verdan_recipes.sql
+- 5775 Verdan the Everliving: 252792 Pattern: Brawler's Leather Pants: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql, 2026_11_11_45_world_everlake_verdan_recipes.sql
+- 5775 Verdan the Everliving: 252793 Pattern: Trapper's Leather Pants: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_45_world_everlake_verdan_recipes.sql
+- 5775 Verdan the Everliving: 252794 Pattern: Defender's Leather Pants: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql
+- 5775 Verdan the Everliving: 252795 Pattern: Totemic Leather Pants: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_45_world_everlake_verdan_recipes.sql
+- 5775 Verdan the Everliving: 252796 Pattern: Stormrider's Leather Pants: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql, 2026_11_11_45_world_everlake_verdan_recipes.sql
+- 5775 Verdan the Everliving: 252797 Pattern: Wisdom's Leather Pants: a world-data file already names the NPC and item: 2026_11_10_10_world_everlake_import_slice14.sql
+- 5775 Verdan the Everliving: 253938 Pattern: Filigreed Pristine Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_45_world_everlake_verdan_recipes.sql
+- 5775 Verdan the Everliving: 253940 Pattern: Filigreed Silky Leggings: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_45_world_everlake_verdan_recipes.sql
+- 5775 Verdan the Everliving: 253942 Pattern: Filigreed Flame Leggings: a world-data file already names the NPC and item: 2026_11_10_12_world_everlake_import_slice16.sql, 2026_11_11_45_world_everlake_verdan_recipes.sql
+- 5775 Verdan the Everliving: 253944 Pattern: Filigreed Shadow Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_45_world_everlake_verdan_recipes.sql
+- 5775 Verdan the Everliving: 253946 Pattern: Filigreed Pearly Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql
+- 5775 Verdan the Everliving: 253948 Pattern: Filigreed Shining Leggings: a world-data file already names the NPC and item: 2026_11_10_11_world_everlake_import_slice15.sql, 2026_11_11_45_world_everlake_verdan_recipes.sql
+- 5912 Deviate Faerie Dragon: 251342 Plans: Protector's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_46_world_everlake_faerie_dragon_recipes.sql
+- 5912 Deviate Faerie Dragon: 251343 Plans: Acolyte's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_46_world_everlake_faerie_dragon_recipes.sql
+- 5912 Deviate Faerie Dragon: 252773 Pattern: Defender's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_46_world_everlake_faerie_dragon_recipes.sql
+- 5912 Deviate Faerie Dragon: 252774 Pattern: Totemic Leather Armor: a world-data file already names the NPC and item: 2026_11_11_46_world_everlake_faerie_dragon_recipes.sql
+- 5912 Deviate Faerie Dragon: 253904 Pattern: Filigreed Silky Gown: a world-data file already names the NPC and item: 2026_11_11_46_world_everlake_faerie_dragon_recipes.sql
+- 5915 Brother Ravenoak: 284459 Dendweller's Hammer: no Icy Veins chance
+- 5928 Sorrow Wing: 284401 Sorrow's Shroud: no Icy Veins chance
+- 5930 Sister Riven: 284399 Seared Grove Shoulderpads: no Icy Veins chance
+- 5933 Achellios the Banished: 285191 Banished Centaur's Pauldrons: no Icy Veins chance
+- 6168 Roogug: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_12_09_world_everlake_razorfen_kraul_observed_recipes.sql
+- 6168 Roogug: 251353 Plans: Acolyte's Chain Helm: a world-data file already names the NPC and item: 2026_11_12_09_world_everlake_razorfen_kraul_observed_recipes.sql
+- 6168 Roogug: 252816 Pattern: Defender's Leather Helm: a world-data file already names the NPC and item: 2026_11_12_09_world_everlake_razorfen_kraul_observed_recipes.sql
+- 6168 Roogug: 252817 Pattern: Totemic Leather Helm: a world-data file already names the NPC and item: 2026_11_12_09_world_everlake_razorfen_kraul_observed_recipes.sql
+- 6168 Roogug: 253978 Pattern: Filigreed Silky Circlet: a world-data file already names the NPC and item: 2026_11_12_09_world_everlake_razorfen_kraul_observed_recipes.sql
+- 6168 Roogug: 253980 Pattern: Filigreed Flame Circlet: a world-data file already names the NPC and item: 2026_11_12_09_world_everlake_razorfen_kraul_observed_recipes.sql
+- 6170 Gutspill: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 6229 Crowd Pummeler 9-60: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6229 Crowd Pummeler 9-60: 251351 Plans: Guard's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6229 Crowd Pummeler 9-60: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6229 Crowd Pummeler 9-60: 251354 Plans: Crusader's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6229 Crowd Pummeler 9-60: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6229 Crowd Pummeler 9-60: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6229 Crowd Pummeler 9-60: 252817 Pattern: Totemic Leather Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6229 Crowd Pummeler 9-60: 253978 Pattern: Filigreed Silky Circlet: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6229 Crowd Pummeler 9-60: 253980 Pattern: Filigreed Flame Circlet: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6229 Crowd Pummeler 9-60: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6235 Electrocutioner 6000: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6235 Electrocutioner 6000: 251351 Plans: Guard's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6235 Electrocutioner 6000: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6235 Electrocutioner 6000: 251354 Plans: Crusader's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6235 Electrocutioner 6000: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6235 Electrocutioner 6000: 252816 Pattern: Defender's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6235 Electrocutioner 6000: 252817 Pattern: Totemic Leather Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6235 Electrocutioner 6000: 252818 Pattern: Stormrider's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6235 Electrocutioner 6000: 253982 Pattern: Filigreed Shadow Circlet: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6235 Electrocutioner 6000: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 6243 Gelihast: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_17_world_everlake_import_slice21.sql
+- 6243 Gelihast: 251351 Plans: Guard's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 6243 Gelihast: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_17_world_everlake_import_slice21.sql
+- 6243 Gelihast: 251353 Plans: Acolyte's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_16_world_everlake_import_slice20.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 6243 Gelihast: 251354 Plans: Crusader's Chain Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 6243 Gelihast: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 6243 Gelihast: 252816 Pattern: Defender's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_17_world_everlake_import_slice21.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 6243 Gelihast: 252817 Pattern: Totemic Leather Helm: a world-data file already names the NPC and item: 2026_11_10_16_world_everlake_import_slice20.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 6243 Gelihast: 252818 Pattern: Stormrider's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 6243 Gelihast: 252819 Pattern: Wisdom's Leather Helm: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 6243 Gelihast: 253976 Pattern: Filigreed Pristine Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 6243 Gelihast: 253978 Pattern: Filigreed Silky Circlet: a world-data file already names the NPC and item: 2026_11_10_15_world_everlake_import_slice19.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 6243 Gelihast: 253980 Pattern: Filigreed Flame Circlet: a world-data file already names the NPC and item: 2026_11_10_17_world_everlake_import_slice21.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 6243 Gelihast: 253982 Pattern: Filigreed Shadow Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 6243 Gelihast: 253984 Pattern: Filigreed Pearly Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 6243 Gelihast: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_10_13_world_everlake_import_slice17.sql, 2026_11_11_49_world_everlake_blackfathom_recipes.sql
+- 6487 Arcanist Doan: 251399 Plans: Sentinel's Boots: a world-data file already names the NPC and item: 2026_11_10_24_world_everlake_import_addon04.sql, 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 6487 Arcanist Doan: 251401 Plans: Prefect's Boots: a world-data file already names the NPC and item: 2026_11_11_57_world_everlake_scarlet_recipes.sql, 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 6487 Arcanist Doan: 251402 Plans: Justicar's Boots: a world-data file already names the NPC and item: 2026_11_10_24_world_everlake_import_addon04.sql, 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 6487 Arcanist Doan: 252844 Pattern: Skulker's Leather Shoes: a world-data file already names the NPC and item: 2026_11_10_24_world_everlake_import_addon04.sql, 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 6487 Arcanist Doan: 252845 Pattern: Warden's Leather Shoes: a world-data file already names the NPC and item: 2026_11_11_57_world_everlake_scarlet_recipes.sql
+- 6487 Arcanist Doan: 252846 Pattern: Skycaller's Leather Shoes: a world-data file already names the NPC and item: 2026_11_10_22_world_everlake_import_addon02.sql, 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 6487 Arcanist Doan: 252897 Pattern: Skycaller's Mail Boots: a world-data file already names the NPC and item: 2026_11_10_24_world_everlake_import_addon04.sql, 2026_11_11_57_world_everlake_scarlet_recipes.sql, 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 6487 Arcanist Doan: 252898 Pattern: Skirmisher's Mail Boots: a world-data file already names the NPC and item: 2026_11_11_57_world_everlake_scarlet_recipes.sql, 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 6487 Arcanist Doan: 252899 Pattern: Mender's Mail Boots: a world-data file already names the NPC and item: 2026_11_10_22_world_everlake_import_addon02.sql, 2026_11_12_11_world_everlake_scarlet_observed_recipes.sql
+- 6487 Arcanist Doan: 254038 Pattern: Gilded Cord: a world-data file already names the NPC and item: 2026_11_10_24_world_everlake_import_addon04.sql
+- 6487 Arcanist Doan: 254048 Pattern: Radiant Cord: a world-data file already names the NPC and item: 2026_11_10_24_world_everlake_import_addon04.sql
+- 7023 Obsidian Sentinel: 252896 Pattern: Stalker's Mail Boots: no Icy Veins chance
+- 7023 Obsidian Sentinel: 274425 White Obsidian Wand: no Icy Veins chance
+- 7023 Obsidian Sentinel: 274428 Dark Golem Breastplate: no Icy Veins chance
+- 7023 Obsidian Sentinel: 274430 Rock Sentinel Slicer: no Icy Veins chance
+- 7079 Viscous Fallout: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 7079 Viscous Fallout: 252814 Pattern: Brawler's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 7079 Viscous Fallout: 252815 Pattern: Trapper's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 7079 Viscous Fallout: 252816 Pattern: Defender's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 7079 Viscous Fallout: 252817 Pattern: Totemic Leather Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 7079 Viscous Fallout: 253978 Pattern: Filigreed Silky Circlet: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 7079 Viscous Fallout: 253980 Pattern: Filigreed Flame Circlet: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 7079 Viscous Fallout: 253982 Pattern: Filigreed Shadow Circlet: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 7079 Viscous Fallout: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 7206 Ancient Stone Keeper: 274431 Sandstorm Staff: no Icy Veins chance
+- 7228 Ironaya: 274484 Axe of Inevitable Ruin: no Icy Veins chance
+- 7271 Witch Doctor Zum'rah: 274642 Blood Ritual Ring: no Icy Veins chance
+- 7272 Theka the Martyr: 274638 Sandfury Pauldrons: no Icy Veins chance
+- 7272 Theka the Martyr: 274639 Sacrificial Chain Vest: no Icy Veins chance
+- 7272 Theka the Martyr: 274641 Theka's Last Breath: no Icy Veins chance
+- 7357 Mordresh Fire Eye: 251400 Plans: Warder's Boots: a world-data file already names the NPC and item: 2026_11_12_127_world_everlake_smithing_leatherworking_recipe_drops.sql
+- 7604 Sergeant Bly: 274646 Arch of the Covenant: no Icy Veins chance
+- 7795 Hydromancer Velratha: 274651 Zealot Plate: no Icy Veins chance
+- 7795 Hydromancer Velratha: 274652 Wall of Water: no Icy Veins chance
+- 7795 Hydromancer Velratha: 274653 Deep Ritual Girdle: no Icy Veins chance
+- 7797 Ruuzlu: 274654 Sandfury Guillotine: no Icy Veins chance
+- 7800 Mekgineer Thermaplugg: 251350 Plans: Veteran's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 7800 Mekgineer Thermaplugg: 251351 Plans: Guard's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 7800 Mekgineer Thermaplugg: 251352 Plans: Protector's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 7800 Mekgineer Thermaplugg: 251354 Plans: Crusader's Chain Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 7800 Mekgineer Thermaplugg: 252818 Pattern: Stormrider's Leather Helm: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 7800 Mekgineer Thermaplugg: 253978 Pattern: Filigreed Silky Circlet: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 7800 Mekgineer Thermaplugg: 253982 Pattern: Filigreed Shadow Circlet: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 7800 Mekgineer Thermaplugg: 253986 Pattern: Filigreed Shining Circlet: a world-data file already names the NPC and item: 2026_11_11_56_world_everlake_gnomeregan_recipes.sql
+- 8567 Glutton: 252843 Pattern: Prowler's Leather Shoes: a world-data file already names the NPC and item: 2026_11_12_127_world_everlake_smithing_leatherworking_recipe_drops.sql
+- 10080 Sandarr Dunereaver: 274660 Sandarr's Shoulders: no Icy Veins chance
+- 10082 Zerillis: 274658 Dune Hacker: no Icy Veins chance
+- 10758 Grimtotem Bandit: 251339 Plans: Sterling Silver Breastplate: a world-data file already names the NPC and item: 2026_11_10_18_world_everlake_import_slice22.sql
+- 11517 Oggleflint: 251340 Plans: Veteran's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11517 Oggleflint: 251341 Plans: Guard's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11517 Oggleflint: 251342 Plans: Protector's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11517 Oggleflint: 251343 Plans: Acolyte's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11517 Oggleflint: 251344 Plans: Crusader's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11517 Oggleflint: 252771 Pattern: Brawler's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11517 Oggleflint: 252772 Pattern: Trapper's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11517 Oggleflint: 252773 Pattern: Defender's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11517 Oggleflint: 252774 Pattern: Totemic Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11517 Oggleflint: 252775 Pattern: Stormrider's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11517 Oggleflint: 252776 Pattern: Wisdom's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11517 Oggleflint: 253902 Pattern: Filigreed Pristine Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11517 Oggleflint: 253904 Pattern: Filigreed Silky Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11517 Oggleflint: 253906 Pattern: Filigreed Flame Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11517 Oggleflint: 253908 Pattern: Filigreed Shadow Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11517 Oggleflint: 253910 Pattern: Filigreed Pearly Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11517 Oggleflint: 253912 Pattern: Filigreed Shining Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 251340 Plans: Veteran's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 251341 Plans: Guard's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 251342 Plans: Protector's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 251343 Plans: Acolyte's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 251344 Plans: Crusader's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 252771 Pattern: Brawler's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 252772 Pattern: Trapper's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 252773 Pattern: Defender's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 252774 Pattern: Totemic Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 252775 Pattern: Stormrider's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 252776 Pattern: Wisdom's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 253902 Pattern: Filigreed Pristine Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 253904 Pattern: Filigreed Silky Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 253906 Pattern: Filigreed Flame Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 253908 Pattern: Filigreed Shadow Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 253910 Pattern: Filigreed Pearly Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11518 Jergosh the Invoker: 253912 Pattern: Filigreed Shining Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 251340 Plans: Veteran's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 251341 Plans: Guard's Chain Shirt: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 251342 Plans: Protector's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 251343 Plans: Acolyte's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 251344 Plans: Crusader's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 252771 Pattern: Brawler's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 252772 Pattern: Trapper's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 252773 Pattern: Defender's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 252774 Pattern: Totemic Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 252775 Pattern: Stormrider's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 252776 Pattern: Wisdom's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 253902 Pattern: Filigreed Pristine Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 253904 Pattern: Filigreed Silky Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 253906 Pattern: Filigreed Flame Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 253908 Pattern: Filigreed Shadow Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 253910 Pattern: Filigreed Pearly Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11519 Bazzalan: 253912 Pattern: Filigreed Shining Gown: a world-data file already names the NPC and item: 2026_11_10_30_world_everlake_import_spyglass01.sql, 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 251340 Plans: Veteran's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 251341 Plans: Guard's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 251342 Plans: Protector's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 251343 Plans: Acolyte's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 251344 Plans: Crusader's Chain Shirt: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 252771 Pattern: Brawler's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 252772 Pattern: Trapper's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 252773 Pattern: Defender's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 252774 Pattern: Totemic Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 252775 Pattern: Stormrider's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 252776 Pattern: Wisdom's Leather Armor: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 253902 Pattern: Filigreed Pristine Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 253904 Pattern: Filigreed Silky Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 253906 Pattern: Filigreed Flame Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 253908 Pattern: Filigreed Shadow Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 253910 Pattern: Filigreed Pearly Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11520 Taragaman the Hungerer: 253912 Pattern: Filigreed Shining Gown: a world-data file already names the NPC and item: 2026_11_11_52_world_everlake_ragefire_recipes.sql
+- 11559 Outcast Necromancer: 251392 Plans: Shining Mithril Breastplate: a world-data file already names the NPC and item: 2026_11_12_126_world_everlake_armor_recipe_drops.sql
+- 12677 Shadumbra: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 12902 Lorgus Jett: 253978 Pattern: Filigreed Silky Circlet: a world-data file already names the NPC and item: 2026_11_12_139_world_everlake_lorgus_jett_recipes.sql
+- 12902 Lorgus Jett: 253982 Pattern: Filigreed Shadow Circlet: a world-data file already names the NPC and item: 2026_11_12_139_world_everlake_lorgus_jett_recipes.sql
+- 14221 Gravis Slipknot: 283255 Syndicate Executioner's Slicer: no Icy Veins chance
+- 14225 Prince Kellen: 284717 Royal Satyr Slicer: no Icy Veins chance
+- 14226 Kaskk: 284708 Demonstrike Emblem: no Icy Veins chance
+- 14232 Dart: 285100 Serrated Raptor Teeth: no Icy Veins chance
+- 14273 Boulderheart: 281927 Boulderheart Band: no Icy Veins chance
+- 14280 Big Samras: 282717 Durable Bearhide Pauldrons: no Icy Veins chance
+- 14281 Jimmy the Bleeder: 282713 Bloodstained Pants: no Icy Veins chance
+- 14427 Gibblesnik: 285192 Kobold Firestarter: no Icy Veins chance
+- 260322 Saltspine: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 260325 Shadetooth: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 260796 Marsh Crocolisk: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 260798 Young Crocolisk: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 260799 Young Riptooth: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 260800 Thicket Lurker: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 260801 Thicket Hunter: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 260802 Thicket Matriarch: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 260810 Highland Snapper: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 270094 Stormheart: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 271334 Maddened Rotclaw: 249428 Pristine Hide: drops in stacks (no stack range recorded)
+- 274715 Marsh Skulker: 249428 Pristine Hide: drops in stacks (no stack range recorded)

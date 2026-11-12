@@ -1,0 +1,53 @@
+# 2026_11_12_230_world_everlake_norgannondb_vendor_stock.sql: held back
+
+- 66 Tharynn Bouden: 4536 Shiny Red Apple: a world-data file already names the vendor and item: 2026_11_08_02_world_everlake_import_slice2.sql, 2026_11_10_02_world_everlake_import_slice7.sql
+- 2664 Kelsey Yance: 4470 Simple Wood: a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql
+- 2664 Kelsey Yance: 4471 Flint and Tinder: a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql
+- 2664 Kelsey Yance: 4536 Shiny Red Apple: a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql
+- 2664 Kelsey Yance: 10284 Simple Flour: a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql
+- 2664 Kelsey Yance: 11291 Star Wood: a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql
+- 3495 Gagsprocket: 14639 Schematic: Minor Recombobulator: EG Link saw this vendor's stock on live Forever without it
+- 3605 Nadyia Maneweaver: 2320 Coarse Thread: a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql
+- 3605 Nadyia Maneweaver: 4289 Salt: a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql
+- 3605 Nadyia Maneweaver: 7005 Skinning Knife: a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql
+- 3614 Narret Shadowgrove: 4536 Shiny Red Apple: a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql
+- 4082 Grawnal: 11291 Star Wood: a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql
+- 4265 Nyoma: 4470 Simple Wood: a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql
+- 4265 Nyoma: 4471 Flint and Tinder: a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql
+- 4265 Nyoma: 4536 Shiny Red Apple: a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql
+- 4265 Nyoma: 10284 Simple Flour: a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql
+- 4265 Nyoma: 11291 Star Wood: a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql
+- 4899 Uma Bartulm: 1710 Greater Healing Potion: limited stock (no restock time recorded)
+- 8931 Innkeeper Heather: 4603 Raw Spotted Yellowtail: a world-data file already names the vendor and item: 2026_11_11_13_world_everlake_innkeeper_fish.sql
+- 8931 Innkeeper Heather: 6289 Raw Longjaw Mud Snapper: a world-data file already names the vendor and item: 2026_11_11_13_world_everlake_innkeeper_fish.sql
+- 8931 Innkeeper Heather: 6303 Raw Slitherskin Mackerel: a world-data file already names the vendor and item: 2026_11_11_13_world_everlake_innkeeper_fish.sql
+- 8931 Innkeeper Heather: 6308 Raw Bristle Whisker Catfish: a world-data file already names the vendor and item: 2026_11_11_13_world_everlake_innkeeper_fish.sql
+- 8931 Innkeeper Heather: 6362 Raw Rockscale Cod: a world-data file already names the vendor and item: 2026_11_11_13_world_everlake_innkeeper_fish.sql
+- 8931 Innkeeper Heather: 8959 Raw Spinefin Halibut: a world-data file already names the vendor and item: 2026_11_11_13_world_everlake_innkeeper_fish.sql
+- 8934 Christopher Hewen: 4536 Shiny Red Apple: a world-data file already names the vendor and item: 2026_11_10_02_world_everlake_import_slice7.sql
+- 29537 Darahir: 3385 Lesser Mana Potion: limited stock (no restock time recorded)
+- 29537 Darahir: 3827 Mana Potion: limited stock (no restock time recorded)
+- 248199 Beneris: 289560 Formula: Enchant Boots - Speed: a world-data file already names the vendor and item: 2026_11_10_15_world_everlake_import_slice19.sql
+- 252449 Iallion Featherfall: 277113 Apprentice's Herb Pouch: EG Link saw this vendor's stock on live Forever without it
+- 252449 Iallion Featherfall: 277114 Apprentice's Skinning Satchel: EG Link saw this vendor's stock on live Forever without it
+- 252449 Iallion Featherfall: 277115 Apprentice's Mining Pack: EG Link saw this vendor's stock on live Forever without it
+- 254360 Belandiel Farflight: 277113 Apprentice's Herb Pouch: EG Link saw this vendor's stock on live Forever without it
+- 254360 Belandiel Farflight: 277114 Apprentice's Skinning Satchel: EG Link saw this vendor's stock on live Forever without it
+- 254360 Belandiel Farflight: 277115 Apprentice's Mining Pack: EG Link saw this vendor's stock on live Forever without it
+- 256729 Nina Surefire: 250996 Recipe: Disorienting Smog Potion: Icy Veins: no longer sold
+- 256732 Alynsia: 289560 Formula: Enchant Boots - Speed: a world-data file already names the vendor and item: 2026_11_10_15_world_everlake_import_slice19.sql
+- 257008 Baelann Swiftcurrent: 6365 Strong Fishing Pole: EG Link saw this vendor's stock on live Forever without it
+- 263384 Mister Graphed: 12363 Arcane Crystal: a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql
+- 263384 Mister Graphed: 13468 Black Lotus: a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql
+- 263384 Mister Graphed: 248819 Fel Crystal: a world-data file already names the vendor and item: 2026_11_11_18_world_everlake_fel_crystal.sql
+- 263384 Mister Graphed: 248820 Torbernite: a world-data file already names the vendor and item: 2026_11_11_21_world_everlake_graphed_torbernite.sql
+- 263384 Mister Graphed: 248822 Death Lotus: a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql
+- 263384 Mister Graphed: 249274 Stranglevine: a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql
+- 263384 Mister Graphed: 249391 Pyrite: a world-data file already names the vendor and item: 2026_11_11_20_world_everlake_graphed_hide_pyrite.sql
+- 263384 Mister Graphed: 249399 Frilled Lichen: a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql
+- 263384 Mister Graphed: 249424 Rosecap: a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql
+- 263384 Mister Graphed: 249425 Bauxite: a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql
+- 263384 Mister Graphed: 249426 Pitchblende: a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql
+- 263384 Mister Graphed: 249427 Pristine Leather: a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql
+- 263384 Mister Graphed: 249428 Pristine Hide: a world-data file already names the vendor and item: 2026_11_11_20_world_everlake_graphed_hide_pyrite.sql
+- 263384 Mister Graphed: 249429 Pristine Scale: a world-data file already names the vendor and item: 2026_11_11_19_world_everlake_graphed_reagents.sql
