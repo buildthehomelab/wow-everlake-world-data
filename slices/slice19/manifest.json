@@ -1,0 +1,145 @@
+{
+  "slice": "slice19",
+  "file": "2026_11_10_15_world_everlake_import_slice19.sql",
+  "world": "forever-tdb-2026-10-14 + core 029c5dd9 + world-data 24a3b39e",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "questiedb": "c0ce0c97ee449295ff1a8356f815a713ff9e463c",
+    "eg-link": "9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae"
+  },
+  "sha256": "0aef9e9c041b5e5a0952aab605eb80e8fb95ae229ac14a1734b68b66ef5bdb83",
+  "keys": {
+    "creature_loot_template": [
+      [
+        4116,
+        0,
+        254000
+      ],
+      [
+        4101,
+        0,
+        251385
+      ],
+      [
+        2894,
+        0,
+        251394
+      ],
+      [
+        3711,
+        0,
+        251337
+      ],
+      [
+        4830,
+        0,
+        253978
+      ],
+      [
+        6243,
+        0,
+        253978
+      ]
+    ],
+    "npc_vendor": [
+      [
+        256732,
+        289560,
+        11842,
+        1
+      ],
+      [
+        248199,
+        289560,
+        11857,
+        1
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 6,
+    "npc_vendor": 2
+  },
+  "routes": [
+    {
+      "npc": 4116,
+      "item": 254000,
+      "spell": 1257425,
+      "chance_percent_estimate": 0.05,
+      "map": 1,
+      "rate_reference": "https://www.wowhead.com/forever/item=254000",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 4101,
+      "item": 251385,
+      "spell": 1252282,
+      "chance_percent_estimate": 0.05,
+      "map": 1,
+      "rate_reference": "https://www.wowhead.com/forever/item=251385",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 2894,
+      "item": 251394,
+      "spell": 1252291,
+      "chance_percent_estimate": 0.01,
+      "map": 0,
+      "rate_reference": "https://www.wowhead.com/forever/item=251394",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 3711,
+      "item": 251337,
+      "spell": 1252234,
+      "chance_percent_estimate": 0.12,
+      "map": 1,
+      "rate_reference": "https://www.wowhead.com/forever/item=251337",
+      "corroboration": "QuestieTrace foreverItemTraces.lua"
+    },
+    {
+      "npc": 4830,
+      "item": 253978,
+      "spell": 1257414,
+      "chance_percent_estimate": 0.713,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4830",
+      "corroboration": "https://www.wowhead.com/forever/item=253978"
+    },
+    {
+      "npc": 6243,
+      "item": 253978,
+      "spell": 1257414,
+      "chance_percent_estimate": 1.15,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/6243",
+      "corroboration": "https://www.wowhead.com/forever/item=253978"
+    }
+  ],
+  "vendors": [
+    {
+      "npc": 256732,
+      "map": 0,
+      "item": 289560,
+      "spell": 1328948,
+      "extended_cost": 11842,
+      "currency": 3402,
+      "quantity": 180,
+      "player_condition": 163433,
+      "reference": "https://www.wowhead.com/forever/item=289560",
+      "observation": "Efficient Games build 70862"
+    },
+    {
+      "npc": 248199,
+      "map": 1,
+      "item": 289560,
+      "spell": 1328948,
+      "extended_cost": 11857,
+      "currency": 3402,
+      "quantity": 180,
+      "player_condition": 163433,
+      "reference": "https://www.wowhead.com/forever/item=289560",
+      "observation": "Wowhead Forever sold-by listing"
+    }
+  ]
+}

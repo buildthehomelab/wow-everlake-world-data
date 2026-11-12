@@ -1,0 +1,28 @@
+[
+  {
+    "item": 251457,
+    "spell": 1252354,
+    "decision": "patch",
+    "npc": 4151,
+    "source": "https://www.wowhead.com/forever/item=251457/plans-steel-spear",
+    "corroboration": "https://db.icy-veins.com/wow-forever/npcs/4151",
+    "rates_percent": {
+      "wowhead": 0.03,
+      "icy": 1.74,
+      "needroll_rounded": 0.0
+    },
+    "note": "Use current positive Wowhead estimate; zero rounding is not absence. No independence assumed between aggregators."
+  },
+  {
+    "item": 252845,
+    "spell": 1255062,
+    "decision": "hold",
+    "note": "NeedRoll names Doan at .01%; fresh Wowhead item page has no source attribution; Icy Doan list lacks this item; ForeverDB says source unknown. Absence is not proof it cannot drop, but no sufficient exact current observation."
+  },
+  {
+    "item": 252847,
+    "spell": 1255060,
+    "decision": "hold",
+    "note": "NeedRoll names Doan at .01%; exact Wowhead page timed out. Hearthproof repeats a BETA rate-unknown lead and links aggregate sources; no observation provenance established. Undrwrldcub search excerpt repeats .01% but labels broader data Mastercraft/Wowhead; no independence established. Icy Doan list lacks the item. Retain pending exact current drop record."
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "slice": "slice6",
+  "world": {
+    "release": "forever-tdb-2026-10-14",
+    "core": "029c5dd9caee8521eb27dbee2bd1fe515b31331e",
+    "world_data": "24a3b39ef0bb507088e7f72ab8313ad490602572"
+  },
+  "pins": {
+    "eg-link": "9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae",
+    "client": "1.60.1.70862"
+  },
+  "files_sha256": {
+    "2026_11_10_00_world_everlake_import_slice6.sql": "2beb6e94245861e0f2a18e14bbddf75bc20e9f5e094790012cef345581866fe4",
+    "2026_11_10_01_world_everlake_import_slice6_corrections.sql": "0104b848a62b3317360e251a12e7a929270f62002db67025af25d637343fcbe0"
+  },
+  "quests": [
+    {
+      "id": 93786,
+      "starter": 256418,
+      "ender": 256418,
+      "objective": 467473,
+      "target": 256383,
+      "count": 12,
+      "relations_reference": "https://www.wowhead.com/forever/quest=93786/a-message-in-blood",
+      "held_next_quest": 93787
+    },
+    {
+      "id": 95603,
+      "starter": 262031,
+      "ender": 262031,
+      "objective": 471025,
+      "target": 262037,
+      "count": 5,
+      "reputation": {
+        "faction": 2826,
+        "tier": 5
+      },
+      "relations_reference": "https://www.wowhead.com/forever/quest=95603/bats-in-the-belfry"
+    }
+  ],
+  "objective_flag_defaults": [
+    32,
+    0
+  ],
+  "row_provenance": "EG Link quest fields; quest pages corroborate the giver and turn-in. SQL changes only observed fields and the repository's objective flag defaults."
+}

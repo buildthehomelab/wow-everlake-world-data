@@ -1,0 +1,163 @@
+{
+  "slice": "addon03",
+  "file": "2026_11_10_23_world_everlake_import_addon03.sql",
+  "world": "forever-tdb-2026-10-14 + core 343fe6fb + world-data 24a3b39e + prior drafts",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "recipe_registry": "b452ad295a387800e1a767098af1e55bdc09628a"
+  },
+  "sha256": "85bd3b39ef84ba9007f3cffd1bda16695ff324c10f7f1122a20ca4beeb435c00",
+  "keys": {
+    "creature_loot_template": [
+      [
+        2243,
+        0,
+        255727
+      ],
+      [
+        2906,
+        0,
+        251389
+      ],
+      [
+        4357,
+        0,
+        250184
+      ],
+      [
+        4095,
+        0,
+        250389
+      ],
+      [
+        759,
+        0,
+        251463
+      ],
+      [
+        701,
+        0,
+        254018
+      ],
+      [
+        4359,
+        0,
+        254020
+      ],
+      [
+        873,
+        0,
+        254022
+      ],
+      [
+        2907,
+        0,
+        254034
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 9
+  },
+  "routes": [
+    {
+      "npc": 2243,
+      "item": 255727,
+      "spell": 1259344,
+      "chance_percent_estimate": 0.29,
+      "map": 0,
+      "rate_reference": "https://www.wowhead.com/forever/item=255727/manual-superior-poultice",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "registry_source": "https://github.com/colettamattia91-cloud/Recipe-Registry/blob/b452ad295a387800e1a767098af1e55bdc09628a/RecipeRegistry_Forever/Data/Metadata/RecipeMetadata_Generated.lua",
+      "note": "Recipe Registry names this creature. Wowhead collected loot supplies the item-source pair and rounded rate estimate. Shared provenance is possible."
+    },
+    {
+      "npc": 2906,
+      "item": 251389,
+      "spell": 1252286,
+      "chance_percent_estimate": 0.01,
+      "map": 0,
+      "rate_reference": "https://www.wowhead.com/forever/item=251389/plans-hard-gold-coif",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "registry_source": "https://github.com/colettamattia91-cloud/Recipe-Registry/blob/b452ad295a387800e1a767098af1e55bdc09628a/RecipeRegistry_Forever/Data/Metadata/RecipeMetadata_Generated.lua",
+      "note": "Recipe Registry names this creature. Wowhead collected loot supplies the item-source pair and rounded rate estimate. Shared provenance is possible."
+    },
+    {
+      "npc": 4357,
+      "item": 250184,
+      "spell": 1250153,
+      "chance_percent_estimate": 0.03,
+      "map": 1,
+      "rate_reference": "https://www.wowhead.com/forever/item=250184/recipe-raptor-rouladen",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "registry_source": "https://github.com/colettamattia91-cloud/Recipe-Registry/blob/b452ad295a387800e1a767098af1e55bdc09628a/RecipeRegistry_Forever/Data/Metadata/RecipeMetadata_Generated.lua",
+      "note": "Recipe Registry names this creature. Wowhead collected loot supplies the item-source pair and rounded rate estimate. Shared provenance is possible."
+    },
+    {
+      "npc": 4095,
+      "item": 250389,
+      "spell": 1250802,
+      "chance_percent_estimate": 0.07,
+      "map": 1,
+      "rate_reference": "https://www.wowhead.com/forever/item=250389/recipe-elixir-of-intellect",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "registry_source": "https://github.com/colettamattia91-cloud/Recipe-Registry/blob/b452ad295a387800e1a767098af1e55bdc09628a/RecipeRegistry_Forever/Data/Metadata/RecipeMetadata_Generated.lua",
+      "note": "Recipe Registry names this creature. Wowhead collected loot supplies the item-source pair and rounded rate estimate. Shared provenance is possible."
+    },
+    {
+      "npc": 759,
+      "item": 251463,
+      "spell": 1252360,
+      "chance_percent_estimate": 0.01,
+      "map": 0,
+      "rate_reference": "https://www.wowhead.com/forever/item=251463/plans-mithril-stiletto",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "registry_source": "https://github.com/colettamattia91-cloud/Recipe-Registry/blob/b452ad295a387800e1a767098af1e55bdc09628a/RecipeRegistry_Forever/Data/Metadata/RecipeMetadata_Generated.lua",
+      "note": "Recipe Registry names this creature. Wowhead collected loot supplies the item-source pair and rounded rate estimate. Shared provenance is possible."
+    },
+    {
+      "npc": 701,
+      "item": 254018,
+      "spell": 1257434,
+      "chance_percent_estimate": 0.03,
+      "map": 0,
+      "rate_reference": "https://www.wowhead.com/forever/item=254018/pattern-earthen-silk-gloves",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "registry_source": "https://github.com/colettamattia91-cloud/Recipe-Registry/blob/b452ad295a387800e1a767098af1e55bdc09628a/RecipeRegistry_Forever/Data/Metadata/RecipeMetadata_Generated.lua",
+      "note": "Recipe Registry names this creature. Wowhead collected loot supplies the item-source pair and rounded rate estimate. Shared provenance is possible."
+    },
+    {
+      "npc": 4359,
+      "item": 254020,
+      "spell": 1257435,
+      "chance_percent_estimate": 0.02,
+      "map": 1,
+      "rate_reference": "https://www.wowhead.com/forever/item=254020/pattern-earthen-silk-cuffs",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "registry_source": "https://github.com/colettamattia91-cloud/Recipe-Registry/blob/b452ad295a387800e1a767098af1e55bdc09628a/RecipeRegistry_Forever/Data/Metadata/RecipeMetadata_Generated.lua",
+      "note": "Recipe Registry names this creature. Wowhead collected loot supplies the item-source pair and rounded rate estimate. Shared provenance is possible."
+    },
+    {
+      "npc": 873,
+      "item": 254022,
+      "spell": 1257436,
+      "chance_percent_estimate": 0.03,
+      "map": 0,
+      "rate_reference": "https://www.wowhead.com/forever/item=254022/pattern-gilded-handwraps",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "registry_source": "https://github.com/colettamattia91-cloud/Recipe-Registry/blob/b452ad295a387800e1a767098af1e55bdc09628a/RecipeRegistry_Forever/Data/Metadata/RecipeMetadata_Generated.lua",
+      "note": "Recipe Registry names this creature. Wowhead collected loot supplies the item-source pair and rounded rate estimate. Shared provenance is possible."
+    },
+    {
+      "npc": 2907,
+      "item": 254034,
+      "spell": 1257442,
+      "chance_percent_estimate": 0.02,
+      "map": 0,
+      "rate_reference": "https://www.wowhead.com/forever/item=254034/pattern-earthen-silk-shoulders",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "registry_source": "https://github.com/colettamattia91-cloud/Recipe-Registry/blob/b452ad295a387800e1a767098af1e55bdc09628a/RecipeRegistry_Forever/Data/Metadata/RecipeMetadata_Generated.lua",
+      "note": "Recipe Registry names this creature. Wowhead collected loot supplies the item-source pair and rounded rate estimate. Shared provenance is possible."
+    }
+  ]
+}
