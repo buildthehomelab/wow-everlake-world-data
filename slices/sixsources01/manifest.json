@@ -1,0 +1,57 @@
+{
+  "slice": "sixsources01",
+  "file": "2026_11_10_40_world_everlake_import_sixsources01.sql",
+  "world": "forever-tdb-2026-10-14 + core 343fe6fb + world-data 24a3b39e + prior drafts",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "needroll": "CurseForge file 9539356, v1.5.0-forever"
+  },
+  "sha256": "f7648fb4c3fd57e1c661d380bb7a11fdc762775914b2c0526bd547ddd4b3f2cc",
+  "keys": {
+    "creature_loot_template": [
+      [
+        3771,
+        0,
+        251456
+      ],
+      [
+        4281,
+        0,
+        264207
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 2
+  },
+  "routes": [
+    {
+      "npc": 3771,
+      "item": 251456,
+      "spell": 1252353,
+      "chance_percent_estimate": 0.04,
+      "map": 1,
+      "rate_reference": "https://www.wowhead.com/forever/item=251456/plans-iron-fists",
+      "needroll_release": "https://www.curseforge.com/wow/addons/needroll/files/9539356",
+      "needroll_file": "NeedRoll/Data/RecipeSources.lua",
+      "needroll_percent_estimate": 0.02,
+      "icy_reference": "https://db.icy-veins.com/wow-forever/npcs/3771",
+      "icy_percent_estimate": 1.23,
+      "note": "Exact source pair confirmed by Wowhead. NeedRoll derives these records from Wowhead, so is not an independent vote. Rates vary; use the inspected Wowhead estimate."
+    },
+    {
+      "npc": 4281,
+      "item": 264207,
+      "spell": 1266910,
+      "chance_percent_estimate": 0.01,
+      "map": 0,
+      "rate_reference": "https://www.wowhead.com/forever/item=264207/schematic-saf-t-bronze-bomb",
+      "needroll_release": "https://www.curseforge.com/wow/addons/needroll/files/9539356",
+      "needroll_file": "NeedRoll/Data/RecipeSources.lua",
+      "needroll_percent_estimate": 0.01,
+      "icy_reference": null,
+      "icy_percent_estimate": null,
+      "note": "Exact source pair confirmed by Wowhead. NeedRoll derives these records from Wowhead, so is not an independent vote. Rates vary; use the inspected Wowhead estimate."
+    }
+  ]
+}

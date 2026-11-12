@@ -1,0 +1,100 @@
+{
+  "slice": "slice24",
+  "world": "forever-tdb-2026-10-14 + core 343fe6fb + world-data 24a3b39e + verified drafts",
+  "file": "2026_11_10_20_world_everlake_import_slice24.sql",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "foreverdb-net": "2026-11-10.b4ea7b1d"
+  },
+  "sha256": "b57714bb69c853d4465a56c2992f3bf102be913af76755ccedc70d78f8b1ab21",
+  "counts": {
+    "npc_vendor": 6
+  },
+  "keys": {
+    "npc_vendor": [
+      [
+        248197,
+        285289,
+        11844,
+        1
+      ],
+      [
+        248197,
+        285290,
+        11846,
+        1
+      ],
+      [
+        248197,
+        285291,
+        11847,
+        1
+      ],
+      [
+        256730,
+        285289,
+        11844,
+        1
+      ],
+      [
+        256730,
+        285290,
+        11846,
+        1
+      ],
+      [
+        256730,
+        285291,
+        11847,
+        1
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "item": 285289,
+      "spell": 1317962,
+      "currency": 3402,
+      "price": 30,
+      "extended_cost": 11844,
+      "player_condition": 0,
+      "npcs": [
+        248197,
+        256730
+      ],
+      "primary_price_source": "https://db.icy-veins.com/wow-forever/npcs/248197",
+      "alliance_reference": "https://guildloot.de/loot.html?item=285289&lang=en&v=forever",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/285289"
+    },
+    {
+      "item": 285290,
+      "spell": 1317963,
+      "currency": 3402,
+      "price": 60,
+      "extended_cost": 11846,
+      "player_condition": 163380,
+      "npcs": [
+        248197,
+        256730
+      ],
+      "primary_price_source": "https://db.icy-veins.com/wow-forever/npcs/248197",
+      "alliance_reference": "https://guildloot.de/loot.html?item=285290&lang=en&v=forever",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/285290"
+    },
+    {
+      "item": 285291,
+      "spell": 1317964,
+      "currency": 3402,
+      "price": 90,
+      "extended_cost": 11847,
+      "player_condition": 163433,
+      "npcs": [
+        248197,
+        256730
+      ],
+      "primary_price_source": "https://db.icy-veins.com/wow-forever/npcs/248197",
+      "alliance_reference": "https://guildloot.de/loot.html?item=285291&lang=en&v=forever",
+      "tooltip_source": "https://nether.wowhead.com/forever/tooltip/item/285291"
+    }
+  ]
+}
