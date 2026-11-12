@@ -1,0 +1,64 @@
+{
+  "checked_local_date": "2026-11-10",
+  "sources": [
+    {
+      "id": "needroll",
+      "url": "https://www.curseforge.com/wow/addons/needroll",
+      "version": "v1.5.0-forever",
+      "license": "All Rights Reserved",
+      "role": "lookup candidate",
+      "adds": "Boss loot, dungeon quests, faction and profession acquisition references.",
+      "next": "Compare exact missing recipe IDs; establish row provenance and export/reuse terms before bulk use.",
+      "overlap": "Independence from existing loot databases unverified."
+    },
+    {
+      "id": "mastercraft",
+      "url": "https://www.curseforge.com/wow/addons/mastercraft",
+      "license": "All Rights Reserved",
+      "role": "lookup candidate",
+      "adds": "Profession learning, Favor purchase and camping references.",
+      "next": "Check missing vendor requirements against direct observations; no bulk source imported.",
+      "overlap": "Underlying data lineage unverified."
+    },
+    {
+      "id": "forever-guide",
+      "url": "https://www.curseforge.com/wow/addons/forever-guide",
+      "version": "1.39.7",
+      "license": "All Rights Reserved",
+      "role": "lookup/collector candidate",
+      "adds": "Dungeon loot, quest chains, library books; author documents locally remembered loot.",
+      "next": "Establish whether user-recorded loot exports preserve exact NPC IDs and build.",
+      "overlap": "Bundled database provenance unverified."
+    },
+    {
+      "id": "itemtree-era-sources",
+      "url": "https://github.com/Rockjaw-Bonesnapper-Co/itemtree-era-sources",
+      "commit": "f1d9eabbf2b43e90c1ae123f418c8f7db8ce187c",
+      "license": "GPL-3.0",
+      "role": "historical baseline and deduplication",
+      "adds": "Public compiler for Classic Era item/creature/object source tables.",
+      "next": "Use only to identify inherited Classic facts; public repository does not contain ItemTree Forever observations.",
+      "overlap": "CMaNGOS Classic database and pfQuest; not an independent Forever vote."
+    },
+    {
+      "id": "openmap-mirror",
+      "url": "https://github.com/fitzforge/wowforever-openmap",
+      "commit": "849bac460b6ebcb110ef80fc27a6b08565069c74",
+      "license": "MIT for code/data; game art separate",
+      "role": "client travel/map candidate",
+      "adds": "Dungeon entrances, flight network and boat route tables.",
+      "next": "Compare OpenMap/Data/FlightData.lua and DungeonMaps.lua against pinned taxi/map tables. Client routes do not prove live flight-master spawns.",
+      "overlap": "Client tables and Questie; archived mirror, not fresh live observations."
+    },
+    {
+      "id": "questing-wiki",
+      "url": "https://questing.wiki/wow-forever/professions/",
+      "license": "Bulk reuse terms unverified",
+      "role": "cross-check candidate",
+      "adds": "Recipe source and vendor stock references.",
+      "next": "Validate exact IDs, dates and observation provenance; several vendor listings conflict with unavailable items.",
+      "overlap": "Pages explicitly mix historical and Forever reports; do not count as independent confirmation."
+    }
+  ],
+  "runtime_rows_imported_from_these_sources": 0
+}

@@ -1,0 +1,3805 @@
+{
+  "slice": "previews01",
+  "file": "2026_11_10_53_world_everlake_quest_reward_previews.sql",
+  "sha256": "77635bcf10f06b93cfc887bc01de81f6e0c9a3d19147e19094be84e5400e3f9a",
+  "counts": {
+    "quest_reward_display_spell": 210,
+    "quests": 177
+  },
+  "keys": {
+    "quest_reward_display_spell": [
+      [
+        31,
+        0
+      ],
+      [
+        889,
+        0
+      ],
+      [
+        1471,
+        0
+      ],
+      [
+        1498,
+        0
+      ],
+      [
+        1498,
+        1
+      ],
+      [
+        1498,
+        2
+      ],
+      [
+        1518,
+        0
+      ],
+      [
+        1527,
+        0
+      ],
+      [
+        1661,
+        0
+      ],
+      [
+        1665,
+        0
+      ],
+      [
+        1665,
+        1
+      ],
+      [
+        1665,
+        2
+      ],
+      [
+        1678,
+        0
+      ],
+      [
+        1678,
+        1
+      ],
+      [
+        1678,
+        2
+      ],
+      [
+        1683,
+        0
+      ],
+      [
+        1683,
+        1
+      ],
+      [
+        1683,
+        2
+      ],
+      [
+        1689,
+        0
+      ],
+      [
+        1719,
+        0
+      ],
+      [
+        1719,
+        1
+      ],
+      [
+        1739,
+        0
+      ],
+      [
+        1785,
+        0
+      ],
+      [
+        1788,
+        0
+      ],
+      [
+        1795,
+        0
+      ],
+      [
+        1819,
+        0
+      ],
+      [
+        1819,
+        1
+      ],
+      [
+        1819,
+        2
+      ],
+      [
+        2480,
+        0
+      ],
+      [
+        2756,
+        0
+      ],
+      [
+        4490,
+        0
+      ],
+      [
+        5042,
+        0
+      ],
+      [
+        5043,
+        0
+      ],
+      [
+        5044,
+        0
+      ],
+      [
+        5045,
+        0
+      ],
+      [
+        5046,
+        0
+      ],
+      [
+        5061,
+        0
+      ],
+      [
+        5144,
+        0
+      ],
+      [
+        5146,
+        0
+      ],
+      [
+        5284,
+        0
+      ],
+      [
+        5302,
+        0
+      ],
+      [
+        5627,
+        0
+      ],
+      [
+        5628,
+        0
+      ],
+      [
+        5629,
+        0
+      ],
+      [
+        5630,
+        0
+      ],
+      [
+        5631,
+        0
+      ],
+      [
+        5632,
+        0
+      ],
+      [
+        5633,
+        0
+      ],
+      [
+        5634,
+        0
+      ],
+      [
+        5635,
+        0
+      ],
+      [
+        5636,
+        0
+      ],
+      [
+        5637,
+        0
+      ],
+      [
+        5639,
+        0
+      ],
+      [
+        5642,
+        0
+      ],
+      [
+        5643,
+        0
+      ],
+      [
+        5652,
+        0
+      ],
+      [
+        5654,
+        0
+      ],
+      [
+        5655,
+        0
+      ],
+      [
+        5656,
+        0
+      ],
+      [
+        5657,
+        0
+      ],
+      [
+        5658,
+        0
+      ],
+      [
+        5660,
+        0
+      ],
+      [
+        5661,
+        0
+      ],
+      [
+        5662,
+        0
+      ],
+      [
+        5663,
+        0
+      ],
+      [
+        5672,
+        0
+      ],
+      [
+        5673,
+        0
+      ],
+      [
+        5674,
+        0
+      ],
+      [
+        5675,
+        0
+      ],
+      [
+        5676,
+        0
+      ],
+      [
+        5677,
+        0
+      ],
+      [
+        5678,
+        0
+      ],
+      [
+        5680,
+        0
+      ],
+      [
+        6001,
+        0
+      ],
+      [
+        6001,
+        1
+      ],
+      [
+        6001,
+        2
+      ],
+      [
+        6002,
+        0
+      ],
+      [
+        6002,
+        1
+      ],
+      [
+        6002,
+        2
+      ],
+      [
+        6085,
+        0
+      ],
+      [
+        6085,
+        1
+      ],
+      [
+        6085,
+        2
+      ],
+      [
+        6086,
+        0
+      ],
+      [
+        6086,
+        1
+      ],
+      [
+        6086,
+        2
+      ],
+      [
+        6125,
+        0
+      ],
+      [
+        6130,
+        0
+      ],
+      [
+        6607,
+        0
+      ],
+      [
+        6622,
+        0
+      ],
+      [
+        6624,
+        0
+      ],
+      [
+        7463,
+        0
+      ],
+      [
+        65597,
+        0
+      ],
+      [
+        65603,
+        0
+      ],
+      [
+        65604,
+        0
+      ],
+      [
+        90902,
+        0
+      ],
+      [
+        92468,
+        0
+      ],
+      [
+        93128,
+        0
+      ],
+      [
+        94003,
+        0
+      ],
+      [
+        94003,
+        1
+      ],
+      [
+        94003,
+        2
+      ],
+      [
+        94013,
+        0
+      ],
+      [
+        94013,
+        1
+      ],
+      [
+        94013,
+        2
+      ],
+      [
+        94050,
+        0
+      ],
+      [
+        94050,
+        1
+      ],
+      [
+        94050,
+        2
+      ],
+      [
+        94375,
+        0
+      ],
+      [
+        94441,
+        0
+      ],
+      [
+        94468,
+        0
+      ],
+      [
+        94505,
+        0
+      ],
+      [
+        94638,
+        0
+      ],
+      [
+        94638,
+        1
+      ],
+      [
+        94638,
+        2
+      ],
+      [
+        94773,
+        0
+      ],
+      [
+        94773,
+        1
+      ],
+      [
+        94774,
+        0
+      ],
+      [
+        94793,
+        0
+      ],
+      [
+        94817,
+        0
+      ],
+      [
+        94817,
+        1
+      ],
+      [
+        94818,
+        0
+      ],
+      [
+        94818,
+        1
+      ],
+      [
+        94819,
+        0
+      ],
+      [
+        94821,
+        0
+      ],
+      [
+        94822,
+        0
+      ],
+      [
+        94824,
+        0
+      ],
+      [
+        94864,
+        0
+      ],
+      [
+        94864,
+        1
+      ],
+      [
+        94864,
+        2
+      ],
+      [
+        94864,
+        3
+      ],
+      [
+        96031,
+        0
+      ],
+      [
+        96044,
+        0
+      ],
+      [
+        96045,
+        0
+      ],
+      [
+        96046,
+        0
+      ],
+      [
+        96047,
+        0
+      ],
+      [
+        96050,
+        0
+      ],
+      [
+        96055,
+        0
+      ],
+      [
+        96056,
+        0
+      ],
+      [
+        96057,
+        0
+      ],
+      [
+        96058,
+        0
+      ],
+      [
+        96059,
+        0
+      ],
+      [
+        96102,
+        0
+      ],
+      [
+        97257,
+        0
+      ],
+      [
+        97899,
+        0
+      ],
+      [
+        97900,
+        0
+      ],
+      [
+        97901,
+        0
+      ],
+      [
+        97902,
+        0
+      ],
+      [
+        97903,
+        0
+      ],
+      [
+        97904,
+        0
+      ],
+      [
+        97905,
+        0
+      ],
+      [
+        97906,
+        0
+      ],
+      [
+        97907,
+        0
+      ],
+      [
+        97908,
+        0
+      ],
+      [
+        97915,
+        0
+      ],
+      [
+        97916,
+        0
+      ],
+      [
+        97917,
+        0
+      ],
+      [
+        97918,
+        0
+      ],
+      [
+        97919,
+        0
+      ],
+      [
+        97920,
+        0
+      ],
+      [
+        97921,
+        0
+      ],
+      [
+        97922,
+        0
+      ],
+      [
+        97923,
+        0
+      ],
+      [
+        97924,
+        0
+      ],
+      [
+        97925,
+        0
+      ],
+      [
+        97927,
+        0
+      ],
+      [
+        97928,
+        0
+      ],
+      [
+        97929,
+        0
+      ],
+      [
+        97931,
+        0
+      ],
+      [
+        97932,
+        0
+      ],
+      [
+        97933,
+        0
+      ],
+      [
+        97934,
+        0
+      ],
+      [
+        97935,
+        0
+      ],
+      [
+        97936,
+        0
+      ],
+      [
+        97937,
+        0
+      ],
+      [
+        97938,
+        0
+      ],
+      [
+        97939,
+        0
+      ],
+      [
+        97940,
+        0
+      ],
+      [
+        97941,
+        0
+      ],
+      [
+        97942,
+        0
+      ],
+      [
+        97943,
+        0
+      ],
+      [
+        97944,
+        0
+      ],
+      [
+        97946,
+        0
+      ],
+      [
+        97948,
+        0
+      ],
+      [
+        97949,
+        0
+      ],
+      [
+        97950,
+        0
+      ],
+      [
+        97951,
+        0
+      ],
+      [
+        97952,
+        0
+      ],
+      [
+        97953,
+        0
+      ],
+      [
+        97954,
+        0
+      ],
+      [
+        97955,
+        0
+      ],
+      [
+        97956,
+        0
+      ],
+      [
+        97957,
+        0
+      ],
+      [
+        97958,
+        0
+      ],
+      [
+        97959,
+        0
+      ],
+      [
+        97960,
+        0
+      ],
+      [
+        97961,
+        0
+      ],
+      [
+        97963,
+        0
+      ],
+      [
+        97964,
+        0
+      ],
+      [
+        97965,
+        0
+      ],
+      [
+        97967,
+        0
+      ],
+      [
+        97968,
+        0
+      ],
+      [
+        97969,
+        0
+      ],
+      [
+        97970,
+        0
+      ],
+      [
+        97971,
+        0
+      ],
+      [
+        97972,
+        0
+      ],
+      [
+        97973,
+        0
+      ],
+      [
+        98284,
+        0
+      ],
+      [
+        98285,
+        0
+      ],
+      [
+        98286,
+        0
+      ],
+      [
+        98362,
+        0
+      ],
+      [
+        98397,
+        0
+      ]
+    ]
+  },
+  "rows": [
+    {
+      "QuestID": 31,
+      "Idx": 0,
+      "SpellID": 1066,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 889,
+      "Idx": 0,
+      "SpellID": 16618,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1471,
+      "Idx": 0,
+      "SpellID": 697,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1498,
+      "Idx": 0,
+      "SpellID": 71,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1498,
+      "Idx": 1,
+      "SpellID": 7386,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1498,
+      "Idx": 2,
+      "SpellID": 355,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1518,
+      "Idx": 0,
+      "SpellID": 8071,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1527,
+      "Idx": 0,
+      "SpellID": 3599,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1661,
+      "Idx": 0,
+      "SpellID": 13819,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1665,
+      "Idx": 0,
+      "SpellID": 71,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1665,
+      "Idx": 1,
+      "SpellID": 7386,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1665,
+      "Idx": 2,
+      "SpellID": 355,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1678,
+      "Idx": 0,
+      "SpellID": 71,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1678,
+      "Idx": 1,
+      "SpellID": 7386,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1678,
+      "Idx": 2,
+      "SpellID": 355,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1683,
+      "Idx": 0,
+      "SpellID": 71,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1683,
+      "Idx": 1,
+      "SpellID": 7386,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1683,
+      "Idx": 2,
+      "SpellID": 355,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1689,
+      "Idx": 0,
+      "SpellID": 697,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1719,
+      "Idx": 0,
+      "SpellID": 2458,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1719,
+      "Idx": 1,
+      "SpellID": 20252,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1739,
+      "Idx": 0,
+      "SpellID": 712,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1785,
+      "Idx": 0,
+      "SpellID": 7328,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1788,
+      "Idx": 0,
+      "SpellID": 7328,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1795,
+      "Idx": 0,
+      "SpellID": 691,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1819,
+      "Idx": 0,
+      "SpellID": 71,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1819,
+      "Idx": 1,
+      "SpellID": 7386,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 1819,
+      "Idx": 2,
+      "SpellID": 355,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 2480,
+      "Idx": 0,
+      "SpellID": 2842,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 2756,
+      "Idx": 0,
+      "SpellID": 9957,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 4490,
+      "Idx": 0,
+      "SpellID": 5784,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5042,
+      "Idx": 0,
+      "SpellID": 16612,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5043,
+      "Idx": 0,
+      "SpellID": 17013,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5044,
+      "Idx": 0,
+      "SpellID": 7764,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5045,
+      "Idx": 0,
+      "SpellID": 10767,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5046,
+      "Idx": 0,
+      "SpellID": 16610,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5061,
+      "Idx": 0,
+      "SpellID": 1066,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5144,
+      "Idx": 0,
+      "SpellID": 10658,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5146,
+      "Idx": 0,
+      "SpellID": 10658,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5284,
+      "Idx": 0,
+      "SpellID": 9787,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5302,
+      "Idx": 0,
+      "SpellID": 9787,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5627,
+      "Idx": 0,
+      "SpellID": 10797,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5628,
+      "Idx": 0,
+      "SpellID": 10797,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5629,
+      "Idx": 0,
+      "SpellID": 10797,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5630,
+      "Idx": 0,
+      "SpellID": 10797,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5631,
+      "Idx": 0,
+      "SpellID": 10797,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5632,
+      "Idx": 0,
+      "SpellID": 10797,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5633,
+      "Idx": 0,
+      "SpellID": 10797,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5634,
+      "Idx": 0,
+      "SpellID": 13908,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5635,
+      "Idx": 0,
+      "SpellID": 13908,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5636,
+      "Idx": 0,
+      "SpellID": 13908,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5637,
+      "Idx": 0,
+      "SpellID": 13908,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5639,
+      "Idx": 0,
+      "SpellID": 13908,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5642,
+      "Idx": 0,
+      "SpellID": 18137,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5643,
+      "Idx": 0,
+      "SpellID": 18137,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5652,
+      "Idx": 0,
+      "SpellID": 9035,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5654,
+      "Idx": 0,
+      "SpellID": 9035,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5655,
+      "Idx": 0,
+      "SpellID": 9035,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5656,
+      "Idx": 0,
+      "SpellID": 9035,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5657,
+      "Idx": 0,
+      "SpellID": 9035,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5658,
+      "Idx": 0,
+      "SpellID": 2652,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5660,
+      "Idx": 0,
+      "SpellID": 2652,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5661,
+      "Idx": 0,
+      "SpellID": 2652,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5662,
+      "Idx": 0,
+      "SpellID": 2652,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5663,
+      "Idx": 0,
+      "SpellID": 2652,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5672,
+      "Idx": 0,
+      "SpellID": 2651,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5673,
+      "Idx": 0,
+      "SpellID": 2651,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5674,
+      "Idx": 0,
+      "SpellID": 2651,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5675,
+      "Idx": 0,
+      "SpellID": 2651,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5676,
+      "Idx": 0,
+      "SpellID": 13896,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5677,
+      "Idx": 0,
+      "SpellID": 13896,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5678,
+      "Idx": 0,
+      "SpellID": 13896,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 5680,
+      "Idx": 0,
+      "SpellID": 18137,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6001,
+      "Idx": 0,
+      "SpellID": 5487,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6001,
+      "Idx": 1,
+      "SpellID": 6795,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6001,
+      "Idx": 2,
+      "SpellID": 6807,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6002,
+      "Idx": 0,
+      "SpellID": 5487,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6002,
+      "Idx": 1,
+      "SpellID": 6795,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6002,
+      "Idx": 2,
+      "SpellID": 6807,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6085,
+      "Idx": 0,
+      "SpellID": 1515,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6085,
+      "Idx": 1,
+      "SpellID": 883,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6085,
+      "Idx": 2,
+      "SpellID": 2641,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6086,
+      "Idx": 0,
+      "SpellID": 5149,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6086,
+      "Idx": 1,
+      "SpellID": 6991,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6086,
+      "Idx": 2,
+      "SpellID": 982,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6125,
+      "Idx": 0,
+      "SpellID": 8946,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6130,
+      "Idx": 0,
+      "SpellID": 8946,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6607,
+      "Idx": 0,
+      "SpellID": 18248,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6622,
+      "Idx": 0,
+      "SpellID": 10846,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 6624,
+      "Idx": 0,
+      "SpellID": 10846,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 7463,
+      "Idx": 0,
+      "SpellID": 10140,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 65597,
+      "Idx": 0,
+      "SpellID": 713,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 65603,
+      "Idx": 0,
+      "SpellID": 713,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 65604,
+      "Idx": 0,
+      "SpellID": 713,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 90902,
+      "Idx": 0,
+      "SpellID": 635,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 92468,
+      "Idx": 0,
+      "SpellID": 8071,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 93128,
+      "Idx": 0,
+      "SpellID": 1261774,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94003,
+      "Idx": 0,
+      "SpellID": 71,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94003,
+      "Idx": 1,
+      "SpellID": 7386,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94003,
+      "Idx": 2,
+      "SpellID": 355,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94013,
+      "Idx": 0,
+      "SpellID": 1515,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94013,
+      "Idx": 1,
+      "SpellID": 883,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94013,
+      "Idx": 2,
+      "SpellID": 2641,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94050,
+      "Idx": 0,
+      "SpellID": 5149,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94050,
+      "Idx": 1,
+      "SpellID": 6991,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94050,
+      "Idx": 2,
+      "SpellID": 982,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94375,
+      "Idx": 0,
+      "SpellID": 8071,
+      "PlayerConditionID": 0,
+      "Type": 5,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94441,
+      "Idx": 0,
+      "SpellID": 7328,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94468,
+      "Idx": 0,
+      "SpellID": 3599,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94505,
+      "Idx": 0,
+      "SpellID": 5394,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94638,
+      "Idx": 0,
+      "SpellID": 5487,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94638,
+      "Idx": 1,
+      "SpellID": 6795,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94638,
+      "Idx": 2,
+      "SpellID": 6807,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94773,
+      "Idx": 0,
+      "SpellID": 1277370,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94773,
+      "Idx": 1,
+      "SpellID": 1277370,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94774,
+      "Idx": 0,
+      "SpellID": 1277370,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94793,
+      "Idx": 0,
+      "SpellID": 23357,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94817,
+      "Idx": 0,
+      "SpellID": 1277455,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94817,
+      "Idx": 1,
+      "SpellID": 1277455,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94818,
+      "Idx": 0,
+      "SpellID": 1277462,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94818,
+      "Idx": 1,
+      "SpellID": 1277462,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94819,
+      "Idx": 0,
+      "SpellID": 1277462,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94821,
+      "Idx": 0,
+      "SpellID": 1277455,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94822,
+      "Idx": 0,
+      "SpellID": 1277455,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94824,
+      "Idx": 0,
+      "SpellID": 1277455,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94864,
+      "Idx": 0,
+      "SpellID": 23356,
+      "PlayerConditionID": 0,
+      "Type": 0,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94864,
+      "Idx": 1,
+      "SpellID": 1515,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94864,
+      "Idx": 2,
+      "SpellID": 883,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 94864,
+      "Idx": 3,
+      "SpellID": 2641,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 96031,
+      "Idx": 0,
+      "SpellID": 1229432,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 96044,
+      "Idx": 0,
+      "SpellID": 1255257,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 96045,
+      "Idx": 0,
+      "SpellID": 1230564,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 96046,
+      "Idx": 0,
+      "SpellID": 1230161,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 96047,
+      "Idx": 0,
+      "SpellID": 1230117,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 96050,
+      "Idx": 0,
+      "SpellID": 1229745,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 96055,
+      "Idx": 0,
+      "SpellID": 1229705,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 96056,
+      "Idx": 0,
+      "SpellID": 1229517,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 96057,
+      "Idx": 0,
+      "SpellID": 1263425,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 96058,
+      "Idx": 0,
+      "SpellID": 1230656,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 96059,
+      "Idx": 0,
+      "SpellID": 1230643,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 96102,
+      "Idx": 0,
+      "SpellID": 1229504,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97257,
+      "Idx": 0,
+      "SpellID": 3599,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97899,
+      "Idx": 0,
+      "SpellID": 1230564,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97900,
+      "Idx": 0,
+      "SpellID": 1255257,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97901,
+      "Idx": 0,
+      "SpellID": 1230643,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97902,
+      "Idx": 0,
+      "SpellID": 1230656,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97903,
+      "Idx": 0,
+      "SpellID": 1230117,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97904,
+      "Idx": 0,
+      "SpellID": 1229745,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97905,
+      "Idx": 0,
+      "SpellID": 1229705,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97906,
+      "Idx": 0,
+      "SpellID": 1229432,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97907,
+      "Idx": 0,
+      "SpellID": 1230161,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97908,
+      "Idx": 0,
+      "SpellID": 1229517,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97915,
+      "Idx": 0,
+      "SpellID": 1230564,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97916,
+      "Idx": 0,
+      "SpellID": 1255257,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97917,
+      "Idx": 0,
+      "SpellID": 1230643,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97918,
+      "Idx": 0,
+      "SpellID": 1230656,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97919,
+      "Idx": 0,
+      "SpellID": 1230117,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97920,
+      "Idx": 0,
+      "SpellID": 1229745,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97921,
+      "Idx": 0,
+      "SpellID": 1229705,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97922,
+      "Idx": 0,
+      "SpellID": 1229432,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97923,
+      "Idx": 0,
+      "SpellID": 1230161,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97924,
+      "Idx": 0,
+      "SpellID": 1229517,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97925,
+      "Idx": 0,
+      "SpellID": 1263425,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97927,
+      "Idx": 0,
+      "SpellID": 1230564,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97928,
+      "Idx": 0,
+      "SpellID": 1255257,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97929,
+      "Idx": 0,
+      "SpellID": 1230643,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97931,
+      "Idx": 0,
+      "SpellID": 1230117,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97932,
+      "Idx": 0,
+      "SpellID": 1229745,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97933,
+      "Idx": 0,
+      "SpellID": 1229705,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97934,
+      "Idx": 0,
+      "SpellID": 1229432,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97935,
+      "Idx": 0,
+      "SpellID": 1230161,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97936,
+      "Idx": 0,
+      "SpellID": 1229517,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97937,
+      "Idx": 0,
+      "SpellID": 1229504,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97938,
+      "Idx": 0,
+      "SpellID": 1230564,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97939,
+      "Idx": 0,
+      "SpellID": 1255257,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97940,
+      "Idx": 0,
+      "SpellID": 1230643,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97941,
+      "Idx": 0,
+      "SpellID": 1230656,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97942,
+      "Idx": 0,
+      "SpellID": 1230117,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97943,
+      "Idx": 0,
+      "SpellID": 1229745,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97944,
+      "Idx": 0,
+      "SpellID": 1229705,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97946,
+      "Idx": 0,
+      "SpellID": 1229432,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97948,
+      "Idx": 0,
+      "SpellID": 1230161,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97949,
+      "Idx": 0,
+      "SpellID": 1229517,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97950,
+      "Idx": 0,
+      "SpellID": 1263425,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97951,
+      "Idx": 0,
+      "SpellID": 1230564,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97952,
+      "Idx": 0,
+      "SpellID": 1255257,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97953,
+      "Idx": 0,
+      "SpellID": 1230643,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97954,
+      "Idx": 0,
+      "SpellID": 1230656,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97955,
+      "Idx": 0,
+      "SpellID": 1230117,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97956,
+      "Idx": 0,
+      "SpellID": 1229745,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97957,
+      "Idx": 0,
+      "SpellID": 1229705,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97958,
+      "Idx": 0,
+      "SpellID": 1229432,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97959,
+      "Idx": 0,
+      "SpellID": 1230161,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97960,
+      "Idx": 0,
+      "SpellID": 1229517,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97961,
+      "Idx": 0,
+      "SpellID": 1229504,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97963,
+      "Idx": 0,
+      "SpellID": 1230564,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97964,
+      "Idx": 0,
+      "SpellID": 1255257,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97965,
+      "Idx": 0,
+      "SpellID": 1230117,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97967,
+      "Idx": 0,
+      "SpellID": 1229745,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97968,
+      "Idx": 0,
+      "SpellID": 1229705,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97969,
+      "Idx": 0,
+      "SpellID": 1229432,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97970,
+      "Idx": 0,
+      "SpellID": 1230161,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97971,
+      "Idx": 0,
+      "SpellID": 1229517,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97972,
+      "Idx": 0,
+      "SpellID": 1229504,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 97973,
+      "Idx": 0,
+      "SpellID": 1263425,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 98284,
+      "Idx": 0,
+      "SpellID": 1230643,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 98285,
+      "Idx": 0,
+      "SpellID": 1230656,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 98286,
+      "Idx": 0,
+      "SpellID": 1230643,
+      "PlayerConditionID": 0,
+      "Type": 2,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 98362,
+      "Idx": 0,
+      "SpellID": 768,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    },
+    {
+      "QuestID": 98397,
+      "Idx": 0,
+      "SpellID": 768,
+      "PlayerConditionID": 0,
+      "Type": 3,
+      "VerifiedBuild": 0,
+      "note": "EG Link 70862 captured displaySpells; preview only"
+    }
+  ],
+  "held": [
+    {
+      "quest": 5641,
+      "title": "Chastise",
+      "index": 0,
+      "spell": 1277331,
+      "spell_name": "Chastise",
+      "type": 3,
+      "expected_reward_spell": 19337
+    },
+    {
+      "quest": 5644,
+      "title": "Dark Sacrifice",
+      "index": 0,
+      "spell": 1277324,
+      "spell_name": "Dark Sacrifice",
+      "type": 3,
+      "expected_reward_spell": 2946
+    },
+    {
+      "quest": 5645,
+      "title": "Chastise",
+      "index": 0,
+      "spell": 1277331,
+      "spell_name": "Chastise",
+      "type": 3,
+      "expected_reward_spell": 19337
+    },
+    {
+      "quest": 5646,
+      "title": "Dark Sacrifice",
+      "index": 0,
+      "spell": 1277324,
+      "spell_name": "Dark Sacrifice",
+      "type": 3,
+      "expected_reward_spell": 2946
+    },
+    {
+      "quest": 5647,
+      "title": "Chastise",
+      "index": 0,
+      "spell": 1277331,
+      "spell_name": "Chastise",
+      "type": 3,
+      "expected_reward_spell": 19337
+    },
+    {
+      "quest": 5679,
+      "title": "Dark Sacrifice",
+      "index": 0,
+      "spell": 1277324,
+      "spell_name": "Dark Sacrifice",
+      "type": 3,
+      "expected_reward_spell": 2946
+    },
+    {
+      "quest": 6081,
+      "title": "Training the Beast",
+      "index": 1,
+      "spell": 6991,
+      "spell_name": "Feed Pet",
+      "type": 3,
+      "expected_reward_spell": 5300
+    },
+    {
+      "quest": 6081,
+      "title": "Training the Beast",
+      "index": 2,
+      "spell": 982,
+      "spell_name": "Revive Pet",
+      "type": 3,
+      "expected_reward_spell": 5300
+    },
+    {
+      "quest": 6082,
+      "title": "Taming the Beast",
+      "index": 1,
+      "spell": 883,
+      "spell_name": "Call Pet",
+      "type": 3,
+      "expected_reward_spell": 1579
+    },
+    {
+      "quest": 6082,
+      "title": "Taming the Beast",
+      "index": 2,
+      "spell": 2641,
+      "spell_name": "Dismiss Pet",
+      "type": 3,
+      "expected_reward_spell": 1579
+    },
+    {
+      "quest": 6088,
+      "title": "Taming the Beast",
+      "index": 1,
+      "spell": 883,
+      "spell_name": "Call Pet",
+      "type": 3,
+      "expected_reward_spell": 1579
+    },
+    {
+      "quest": 6088,
+      "title": "Taming the Beast",
+      "index": 2,
+      "spell": 2641,
+      "spell_name": "Dismiss Pet",
+      "type": 3,
+      "expected_reward_spell": 1579
+    },
+    {
+      "quest": 6089,
+      "title": "Training the Beast",
+      "index": 1,
+      "spell": 6991,
+      "spell_name": "Feed Pet",
+      "type": 3,
+      "expected_reward_spell": 5300
+    },
+    {
+      "quest": 6089,
+      "title": "Training the Beast",
+      "index": 2,
+      "spell": 982,
+      "spell_name": "Revive Pet",
+      "type": 3,
+      "expected_reward_spell": 5300
+    },
+    {
+      "quest": 6102,
+      "title": "Taming the Beast",
+      "index": 1,
+      "spell": 883,
+      "spell_name": "Call Pet",
+      "type": 3,
+      "expected_reward_spell": 1579
+    },
+    {
+      "quest": 6102,
+      "title": "Taming the Beast",
+      "index": 2,
+      "spell": 2641,
+      "spell_name": "Dismiss Pet",
+      "type": 3,
+      "expected_reward_spell": 1579
+    },
+    {
+      "quest": 6103,
+      "title": "Training the Beast",
+      "index": 1,
+      "spell": 6991,
+      "spell_name": "Feed Pet",
+      "type": 3,
+      "expected_reward_spell": 5300
+    },
+    {
+      "quest": 6103,
+      "title": "Training the Beast",
+      "index": 2,
+      "spell": 982,
+      "spell_name": "Revive Pet",
+      "type": 3,
+      "expected_reward_spell": 5300
+    }
+  ],
+  "guards": [
+    [
+      31,
+      "Aquatic Form",
+      1446
+    ],
+    [
+      889,
+      "Spirit of the Wind",
+      16618
+    ],
+    [
+      1471,
+      "The Binding",
+      11520
+    ],
+    [
+      1498,
+      "Path of Defense",
+      8121
+    ],
+    [
+      1518,
+      "Call of Earth",
+      8073
+    ],
+    [
+      1527,
+      "Call of Fire",
+      2075
+    ],
+    [
+      1661,
+      "The Tome of Nobility",
+      13820
+    ],
+    [
+      1665,
+      "Bartleby's Mug",
+      8121
+    ],
+    [
+      1678,
+      "Vejrek",
+      8121
+    ],
+    [
+      1683,
+      "Vorlus Vilehoof",
+      8121
+    ],
+    [
+      1689,
+      "The Binding",
+      11520
+    ],
+    [
+      1719,
+      "The Affray",
+      8616
+    ],
+    [
+      1739,
+      "The Binding",
+      11519
+    ],
+    [
+      1785,
+      "The Tome of Divinity",
+      7329
+    ],
+    [
+      1788,
+      "The Tome of Divinity",
+      7329
+    ],
+    [
+      1795,
+      "The Binding",
+      1373
+    ],
+    [
+      1819,
+      "Ulag the Cleaver",
+      8121
+    ],
+    [
+      2480,
+      "Hinott's Assistance",
+      2995
+    ],
+    [
+      2756,
+      "The Old Ways",
+      11132
+    ],
+    [
+      4490,
+      "Summon Felsteed",
+      5785
+    ],
+    [
+      5042,
+      "Agamaggan's Strength",
+      16612
+    ],
+    [
+      5043,
+      "Agamaggan's Agility",
+      17013
+    ],
+    [
+      5044,
+      "Wisdom of Agamaggan",
+      7764
+    ],
+    [
+      5045,
+      "Rising Spirit",
+      10767
+    ],
+    [
+      5046,
+      "Razorhide",
+      16610
+    ],
+    [
+      5061,
+      "Aquatic Form",
+      1446
+    ],
+    [
+      5144,
+      "Elemental Leatherworking",
+      10659
+    ],
+    [
+      5146,
+      "Elemental Leatherworking",
+      10659
+    ],
+    [
+      5284,
+      "The Way of the Weaponsmith",
+      9789
+    ],
+    [
+      5302,
+      "The Way of the Weaponsmith",
+      9789
+    ],
+    [
+      5627,
+      "Stars of Elune",
+      19350
+    ],
+    [
+      5628,
+      "Returning Home",
+      19350
+    ],
+    [
+      5629,
+      "Returning Home",
+      19350
+    ],
+    [
+      5630,
+      "Returning Home",
+      19350
+    ],
+    [
+      5631,
+      "Returning Home",
+      19350
+    ],
+    [
+      5632,
+      "Returning Home",
+      19350
+    ],
+    [
+      5633,
+      "Returning Home",
+      19350
+    ],
+    [
+      5634,
+      "Desperate Prayer",
+      19338
+    ],
+    [
+      5635,
+      "Desperate Prayer",
+      19338
+    ],
+    [
+      5636,
+      "Desperate Prayer",
+      19338
+    ],
+    [
+      5637,
+      "Desperate Prayer",
+      19338
+    ],
+    [
+      5639,
+      "Desperate Prayer",
+      19338
+    ],
+    [
+      5642,
+      "Shadowguard",
+      19331
+    ],
+    [
+      5643,
+      "Shadowguard",
+      19331
+    ],
+    [
+      5652,
+      "Hex of Weakness",
+      19325
+    ],
+    [
+      5654,
+      "Hex of Weakness",
+      19325
+    ],
+    [
+      5655,
+      "Hex of Weakness",
+      19325
+    ],
+    [
+      5656,
+      "Hex of Weakness",
+      19325
+    ],
+    [
+      5657,
+      "Hex of Weakness",
+      19325
+    ],
+    [
+      5658,
+      "Touch of Weakness",
+      19318
+    ],
+    [
+      5660,
+      "Touch of Weakness",
+      19318
+    ],
+    [
+      5661,
+      "Touch of Weakness",
+      19318
+    ],
+    [
+      5662,
+      "Touch of Weakness",
+      19318
+    ],
+    [
+      5663,
+      "Touch of Weakness",
+      19318
+    ],
+    [
+      5672,
+      "Elune's Grace",
+      19357
+    ],
+    [
+      5673,
+      "Elune's Grace",
+      19357
+    ],
+    [
+      5674,
+      "Elune's Grace",
+      19357
+    ],
+    [
+      5675,
+      "Elune's Grace",
+      19357
+    ],
+    [
+      5676,
+      "Arcane Feedback",
+      19345
+    ],
+    [
+      5677,
+      "Arcane Feedback",
+      19345
+    ],
+    [
+      5678,
+      "Arcane Feedback",
+      19345
+    ],
+    [
+      5680,
+      "Shadowguard",
+      19331
+    ],
+    [
+      6001,
+      "Body and Heart",
+      19179
+    ],
+    [
+      6002,
+      "Body and Heart",
+      19179
+    ],
+    [
+      6085,
+      "Taming the Beast",
+      1579
+    ],
+    [
+      6086,
+      "Training the Beast",
+      5300
+    ],
+    [
+      6125,
+      "Power over Poison",
+      8947
+    ],
+    [
+      6130,
+      "Power over Poison",
+      8947
+    ],
+    [
+      6607,
+      "Nat Pagle, Angler Extreme",
+      18249
+    ],
+    [
+      6622,
+      "Triage",
+      10847
+    ],
+    [
+      6624,
+      "Triage",
+      10847
+    ],
+    [
+      7463,
+      "Arcane Refreshment",
+      10143
+    ],
+    [
+      65597,
+      "The Binding",
+      366815
+    ],
+    [
+      65603,
+      "The Binding",
+      366815
+    ],
+    [
+      65604,
+      "The Binding",
+      366815
+    ],
+    [
+      90902,
+      "Rediscovering the Light",
+      1240331
+    ],
+    [
+      92468,
+      "Call of Earth",
+      8073
+    ],
+    [
+      93128,
+      "Khan Jehn",
+      0
+    ],
+    [
+      94003,
+      "The Skybreaker Bulwark",
+      8121
+    ],
+    [
+      94013,
+      "Taming the Beast",
+      1579
+    ],
+    [
+      94050,
+      "Training the Beast",
+      5300
+    ],
+    [
+      94375,
+      "Call of Earth",
+      8073
+    ],
+    [
+      94441,
+      "A Lesson in Divinity",
+      7329
+    ],
+    [
+      94468,
+      "Call of Fire",
+      2075
+    ],
+    [
+      94505,
+      "Call of Water",
+      1277349
+    ],
+    [
+      94638,
+      "Strength and Mercy",
+      19179
+    ],
+    [
+      94773,
+      "Divine Grace",
+      1277387
+    ],
+    [
+      94774,
+      "Divine Grace",
+      1277387
+    ],
+    [
+      94793,
+      "Training the Beast",
+      5300
+    ],
+    [
+      94817,
+      "Confounding Flash",
+      1277662
+    ],
+    [
+      94818,
+      "Contingency Plan",
+      1277663
+    ],
+    [
+      94819,
+      "Contingency Plan",
+      1277663
+    ],
+    [
+      94821,
+      "Confounding Flash",
+      1277662
+    ],
+    [
+      94822,
+      "Confounding Flash",
+      1277662
+    ],
+    [
+      94824,
+      "Confounding Flash",
+      1277662
+    ],
+    [
+      94864,
+      "Taming the Beast",
+      1579
+    ],
+    [
+      96031,
+      "Camping 101: Leatherworking",
+      1255248
+    ],
+    [
+      96044,
+      "Camping 101: Blacksmithing",
+      1255257
+    ],
+    [
+      96045,
+      "Camping 101: Alchemy",
+      1255259
+    ],
+    [
+      96046,
+      "Camping 101: Mining",
+      1255256
+    ],
+    [
+      96047,
+      "Camping 101: First Aid",
+      1255255
+    ],
+    [
+      96050,
+      "Camping 101: Fishing",
+      1255254
+    ],
+    [
+      96055,
+      "Camping 101: Herbalism",
+      1255251
+    ],
+    [
+      96056,
+      "Camping 101: Skinning",
+      1255250
+    ],
+    [
+      96057,
+      "Camping 101: Tailoring",
+      1255249
+    ],
+    [
+      96058,
+      "Camping 101: Engineering",
+      1255261
+    ],
+    [
+      96059,
+      "Camping 101: Enchanting",
+      1255260
+    ],
+    [
+      96102,
+      "Camping 101: Tailoring",
+      1290398
+    ],
+    [
+      97257,
+      "Call of Fire",
+      2075
+    ],
+    [
+      97899,
+      "Camping 101: Alchemy",
+      1255259
+    ],
+    [
+      97900,
+      "Camping 101: Blacksmithing",
+      1255257
+    ],
+    [
+      97901,
+      "Camping 101: Enchanting",
+      1255260
+    ],
+    [
+      97902,
+      "Camping 101: Engineering",
+      1255261
+    ],
+    [
+      97903,
+      "Camping 101: First Aid",
+      1255255
+    ],
+    [
+      97904,
+      "Camping 101: Fishing",
+      1255254
+    ],
+    [
+      97905,
+      "Camping 101: Herbalism",
+      1255251
+    ],
+    [
+      97906,
+      "Camping 101: Leatherworking",
+      1255248
+    ],
+    [
+      97907,
+      "Camping 101: Mining",
+      1255256
+    ],
+    [
+      97908,
+      "Camping 101: Skinning",
+      1255250
+    ],
+    [
+      97915,
+      "Camping 101: Alchemy",
+      1255259
+    ],
+    [
+      97916,
+      "Camping 101: Blacksmithing",
+      1255257
+    ],
+    [
+      97917,
+      "Camping 101: Enchanting",
+      1255260
+    ],
+    [
+      97918,
+      "Camping 101: Engineering",
+      1255261
+    ],
+    [
+      97919,
+      "Camping 101: First Aid",
+      1255255
+    ],
+    [
+      97920,
+      "Camping 101: Fishing",
+      1255254
+    ],
+    [
+      97921,
+      "Camping 101: Herbalism",
+      1255251
+    ],
+    [
+      97922,
+      "Camping 101: Leatherworking",
+      1255248
+    ],
+    [
+      97923,
+      "Camping 101: Mining",
+      1255256
+    ],
+    [
+      97924,
+      "Camping 101: Skinning",
+      1255250
+    ],
+    [
+      97925,
+      "Camping 101: Tailoring",
+      1255249
+    ],
+    [
+      97927,
+      "Camping 101: Alchemy",
+      1255259
+    ],
+    [
+      97928,
+      "Camping 101: Blacksmithing",
+      1255257
+    ],
+    [
+      97929,
+      "Camping 101: Enchanting",
+      1255260
+    ],
+    [
+      97931,
+      "Camping 101: First Aid",
+      1255255
+    ],
+    [
+      97932,
+      "Camping 101: Fishing",
+      1255254
+    ],
+    [
+      97933,
+      "Camping 101: Herbalism",
+      1255251
+    ],
+    [
+      97934,
+      "Camping 101: Leatherworking",
+      1255248
+    ],
+    [
+      97935,
+      "Camping 101: Mining",
+      1255256
+    ],
+    [
+      97936,
+      "Camping 101: Skinning",
+      1255250
+    ],
+    [
+      97937,
+      "Camping 101: Tailoring",
+      1290398
+    ],
+    [
+      97938,
+      "Camping 101: Alchemy",
+      1255259
+    ],
+    [
+      97939,
+      "Camping 101: Blacksmithing",
+      1255257
+    ],
+    [
+      97940,
+      "Camping 101: Enchanting",
+      1255260
+    ],
+    [
+      97941,
+      "Camping 101: Engineering",
+      1255261
+    ],
+    [
+      97942,
+      "Camping 101: First Aid",
+      1255255
+    ],
+    [
+      97943,
+      "Camping 101: Fishing",
+      1255254
+    ],
+    [
+      97944,
+      "Camping 101: Herbalism",
+      1255251
+    ],
+    [
+      97946,
+      "Camping 101: Leatherworking",
+      1255248
+    ],
+    [
+      97948,
+      "Camping 101: Mining",
+      1255256
+    ],
+    [
+      97949,
+      "Camping 101: Skinning",
+      1255250
+    ],
+    [
+      97950,
+      "Camping 101: Tailoring",
+      1255249
+    ],
+    [
+      97951,
+      "Camping 101: Alchemy",
+      1255259
+    ],
+    [
+      97952,
+      "Camping 101: Blacksmithing",
+      1255257
+    ],
+    [
+      97953,
+      "Camping 101: Enchanting",
+      1255260
+    ],
+    [
+      97954,
+      "Camping 101: Engineering",
+      1255261
+    ],
+    [
+      97955,
+      "Camping 101: First Aid",
+      1255255
+    ],
+    [
+      97956,
+      "Camping 101: Fishing",
+      1255254
+    ],
+    [
+      97957,
+      "Camping 101: Herbalism",
+      1255251
+    ],
+    [
+      97958,
+      "Camping 101: Leatherworking",
+      1255248
+    ],
+    [
+      97959,
+      "Camping 101: Mining",
+      1255256
+    ],
+    [
+      97960,
+      "Camping 101: Skinning",
+      1255250
+    ],
+    [
+      97961,
+      "Camping 101: Tailoring",
+      1290398
+    ],
+    [
+      97963,
+      "Camping 101: Alchemy",
+      1255259
+    ],
+    [
+      97964,
+      "Camping 101: Blacksmithing",
+      1255257
+    ],
+    [
+      97965,
+      "Camping 101: First Aid",
+      1255255
+    ],
+    [
+      97967,
+      "Camping 101: Fishing",
+      1255254
+    ],
+    [
+      97968,
+      "Camping 101: Herbalism",
+      1255251
+    ],
+    [
+      97969,
+      "Camping 101: Leatherworking",
+      1255248
+    ],
+    [
+      97970,
+      "Camping 101: Mining",
+      1255256
+    ],
+    [
+      97971,
+      "Camping 101: Skinning",
+      1255250
+    ],
+    [
+      97972,
+      "Camping 101: Tailoring",
+      1290398
+    ],
+    [
+      97973,
+      "Camping 101: Tailoring",
+      1255249
+    ],
+    [
+      98284,
+      "Camping 101: Enchanting",
+      1255260
+    ],
+    [
+      98285,
+      "Camping 101: Engineering",
+      1255261
+    ],
+    [
+      98286,
+      "Camping 101: Enchanting",
+      1255260
+    ],
+    [
+      98362,
+      "To Thunder Bluff",
+      1309050
+    ],
+    [
+      98397,
+      "To Darnassus",
+      1309050
+    ]
+  ],
+  "source_pin": "9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae",
+  "client": "1.60.1.70862",
+  "core": "343fe6fb95076e09575156c8b88d155914003b78",
+  "tracker_unlocks": 0,
+  "limitations": [
+    "Reward previews only; does not establish playable acquisition paths.",
+    "PlayerConditionID defaults to zero because captured displaySpells provides no condition ID.",
+    "Any existing display set or differing quest title/reward prevents insertion."
+  ]
+}
