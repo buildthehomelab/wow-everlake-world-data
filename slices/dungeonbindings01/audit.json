@@ -1,0 +1,431 @@
+{
+  "core_pin": "343fe6fb95076e09575156c8b88d155914003b78",
+  "scope": "First-pass static registration/database-binding and critical encounter-state dependency audit, not full combat or live runtime certification.",
+  "world_source": "read-only local rebuilt world with draft overlay",
+  "instances": [
+    {
+      "map": 43,
+      "parent": 1,
+      "script": "classic_instance_wailing_caverns"
+    },
+    {
+      "map": 48,
+      "parent": 1,
+      "script": "classic_instance_blackfathom_deeps"
+    },
+    {
+      "map": 189,
+      "parent": 0,
+      "script": "classic_instance_scarlet_monastery"
+    }
+  ],
+  "counts": {
+    "spawned_distinct_creature_templates": 93,
+    "spawned_distinct_gameobject_templates": 132,
+    "registered_ai_bindings_checked": 10,
+    "critical_summon_templates": 13
+  },
+  "registered_ai": [
+    {
+      "kind": "Creature",
+      "name": "classic_boss_arcanist_doan",
+      "source": "classic_boss_arcanist_doan.cpp",
+      "bound_entries": [
+        6487
+      ]
+    },
+    {
+      "kind": "Creature",
+      "name": "classic_boss_herod",
+      "source": "classic_boss_herod.cpp",
+      "bound_entries": [
+        3975
+      ]
+    },
+    {
+      "kind": "Creature",
+      "name": "classic_mob_scarlet_trainee",
+      "source": "classic_boss_herod.cpp",
+      "bound_entries": [
+        6575
+      ]
+    },
+    {
+      "kind": "GameObject",
+      "name": "classic_go_herod_lever",
+      "source": "classic_boss_herod.cpp",
+      "bound_entries": [
+        101855
+      ]
+    },
+    {
+      "kind": "Creature",
+      "name": "classic_boss_high_inquisitor_fairbanks",
+      "source": "classic_boss_high_inquisitor_fairbanks.cpp",
+      "bound_entries": [
+        4542
+      ]
+    },
+    {
+      "kind": "Creature",
+      "name": "classic_boss_houndmaster_loksey",
+      "source": "classic_boss_houndmaster_loksey.cpp",
+      "bound_entries": [
+        3974
+      ]
+    },
+    {
+      "kind": "Creature",
+      "name": "classic_boss_interrogator_vishas",
+      "source": "classic_boss_interrogator_vishas.cpp",
+      "bound_entries": [
+        3983
+      ]
+    },
+    {
+      "kind": "GameObject",
+      "name": "classic_go_fire_of_akumai",
+      "source": "classic_instance_blackfathom_deeps.cpp",
+      "bound_entries": [
+        21118,
+        21119,
+        21120,
+        21121
+      ]
+    },
+    {
+      "kind": "Creature",
+      "name": "classic_npc_evolving_ectoplasm",
+      "source": "classic_wailing_caverns.cpp",
+      "bound_entries": [
+        3640,
+        5776,
+        5777,
+        5778
+      ]
+    },
+    {
+      "kind": "Creature",
+      "name": "classic_npc_disciple_of_naralex",
+      "source": "classic_wailing_caverns.cpp",
+      "bound_entries": [
+        3678
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scarlet_monastery/classic_boss_arcanist_doan.cpp",
+      "sha256": "6aae2b7125c31cc0674f2d27f97b3bf5b556090e1c536202580981e39842cba2",
+      "addsc_functions": [
+        "AddSC_classic_boss_arcanist_doan"
+      ]
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scarlet_monastery/classic_boss_herod.cpp",
+      "sha256": "f1b4cc0dfd21a058ca7db86fa48c78cb7a4769c906d6b01ce510c208e3eb69aa",
+      "addsc_functions": [
+        "AddSC_classic_boss_herod"
+      ]
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scarlet_monastery/classic_boss_high_inquisitor_fairbanks.cpp",
+      "sha256": "3fea3ebc93516e4d962664eeae08070c2862d63120ca34fc5439077494a11e80",
+      "addsc_functions": [
+        "AddSC_classic_boss_high_inquisitor_fairbanks"
+      ]
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scarlet_monastery/classic_boss_houndmaster_loksey.cpp",
+      "sha256": "9980e2e8d270479944c45c354fa947ae64f1fc5f50cbc1cbf5a243fd70489285",
+      "addsc_functions": [
+        "AddSC_classic_boss_houndmaster_loksey"
+      ]
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scarlet_monastery/classic_boss_interrogator_vishas.cpp",
+      "sha256": "550f4334d279ce1efc9fc1aae8aaec34f0eb0c5460213d9c4c76cf6a6901dbe9",
+      "addsc_functions": [
+        "AddSC_classic_boss_interrogator_vishas"
+      ]
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackfathom_deeps/classic_instance_blackfathom_deeps.cpp",
+      "sha256": "702d4d5e79890d3e7164752060b9a214b972163550ac114be3e900c3106810ca",
+      "addsc_functions": [
+        "AddSC_classic_instance_blackfathom_deeps"
+      ]
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scarlet_monastery/classic_instance_scarlet_monastery.cpp",
+      "sha256": "53a765201c8b27f49a6149e3546000358a5b8bee6d14064e69d5d1ea308dd195",
+      "addsc_functions": [
+        "AddSC_classic_instance_scarlet_monastery"
+      ]
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/wailing_caverns/classic_instance_wailing_caverns.cpp",
+      "sha256": "1dfcae63d31a8024302699d90722839363c69541a3dd33ad93b4bc94ae48b46b",
+      "addsc_functions": [
+        "AddSC_classic_instance_wailing_caverns"
+      ]
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/wailing_caverns/classic_wailing_caverns.cpp",
+      "sha256": "b88efa9a4e183647679c80ece22e3c7abd0e4bb7e443babe7688ad27b4500028",
+      "addsc_functions": [
+        "AddSC_classic_wailing_caverns"
+      ]
+    }
+  ],
+  "spawn_script_overrides": [],
+  "summon_templates": [
+    {
+      "entry": 3636,
+      "name": "Deviate Ravager",
+      "AIName": "SmartAI",
+      "ScriptName": ""
+    },
+    {
+      "entry": 3654,
+      "name": "Mutanus the Devourer",
+      "AIName": "SmartAI",
+      "ScriptName": ""
+    },
+    {
+      "entry": 4295,
+      "name": "Scarlet Myrmidon",
+      "AIName": "SmartAI",
+      "ScriptName": ""
+    },
+    {
+      "entry": 4815,
+      "name": "Murkshallow Snapclaw",
+      "AIName": "SmartAI",
+      "ScriptName": ""
+    },
+    {
+      "entry": 4825,
+      "name": "Aku'mai Snapjaw",
+      "AIName": "SmartAI",
+      "ScriptName": ""
+    },
+    {
+      "entry": 4977,
+      "name": "Murkshallow Softshell",
+      "AIName": "SmartAI",
+      "ScriptName": ""
+    },
+    {
+      "entry": 4978,
+      "name": "Aku'mai Servant",
+      "AIName": "SmartAI",
+      "ScriptName": ""
+    },
+    {
+      "entry": 5755,
+      "name": "Deviate Viper",
+      "AIName": "SmartAI",
+      "ScriptName": ""
+    },
+    {
+      "entry": 5762,
+      "name": "Deviate Moccasin",
+      "AIName": "",
+      "ScriptName": ""
+    },
+    {
+      "entry": 5763,
+      "name": "Nightmare Ectoplasm",
+      "AIName": "",
+      "ScriptName": ""
+    },
+    {
+      "entry": 6729,
+      "name": "Morridune",
+      "AIName": "SmartAI",
+      "ScriptName": ""
+    },
+    {
+      "entry": 12876,
+      "name": "Baron Aquanis",
+      "AIName": "SmartAI",
+      "ScriptName": ""
+    },
+    {
+      "entry": 16062,
+      "name": "Highlord Mograine",
+      "AIName": "",
+      "ScriptName": "classic_boss_highlord_mograine"
+    }
+  ],
+  "instance_state_rows": [
+    {
+      "entryorguid": 3654,
+      "id": 0,
+      "action_param1": 4,
+      "action_param2": 3,
+      "action_param3": 1
+    },
+    {
+      "entryorguid": 3669,
+      "id": 6,
+      "action_param1": 1,
+      "action_param2": 0,
+      "action_param3": 0
+    },
+    {
+      "entryorguid": 3669,
+      "id": 7,
+      "action_param1": 1,
+      "action_param2": 1,
+      "action_param3": 0
+    },
+    {
+      "entryorguid": 3669,
+      "id": 8,
+      "action_param1": 1,
+      "action_param2": 3,
+      "action_param3": 0
+    },
+    {
+      "entryorguid": 3670,
+      "id": 1,
+      "action_param1": 2,
+      "action_param2": 0,
+      "action_param3": 0
+    },
+    {
+      "entryorguid": 3670,
+      "id": 2,
+      "action_param1": 2,
+      "action_param2": 1,
+      "action_param3": 0
+    },
+    {
+      "entryorguid": 3670,
+      "id": 3,
+      "action_param1": 2,
+      "action_param2": 3,
+      "action_param3": 0
+    },
+    {
+      "entryorguid": 3671,
+      "id": 2,
+      "action_param1": 0,
+      "action_param2": 0,
+      "action_param3": 0
+    },
+    {
+      "entryorguid": 3671,
+      "id": 3,
+      "action_param1": 0,
+      "action_param2": 4,
+      "action_param3": 0
+    },
+    {
+      "entryorguid": 3671,
+      "id": 4,
+      "action_param1": 0,
+      "action_param2": 3,
+      "action_param3": 0
+    },
+    {
+      "entryorguid": 3673,
+      "id": 1,
+      "action_param1": 3,
+      "action_param2": 0,
+      "action_param3": 0
+    },
+    {
+      "entryorguid": 3673,
+      "id": 2,
+      "action_param1": 3,
+      "action_param2": 1,
+      "action_param3": 0
+    },
+    {
+      "entryorguid": 3673,
+      "id": 3,
+      "action_param1": 3,
+      "action_param2": 3,
+      "action_param3": 0
+    },
+    {
+      "entryorguid": 3976,
+      "id": 1,
+      "action_param1": 1,
+      "action_param2": 1,
+      "action_param3": 0
+    },
+    {
+      "entryorguid": 3976,
+      "id": 5,
+      "action_param1": 1,
+      "action_param2": 0,
+      "action_param3": 0
+    },
+    {
+      "entryorguid": 3976,
+      "id": 17,
+      "action_param1": 1,
+      "action_param2": 2,
+      "action_param3": 0
+    },
+    {
+      "entryorguid": 3977,
+      "id": 10,
+      "action_param1": 1,
+      "action_param2": 0,
+      "action_param3": 0
+    },
+    {
+      "entryorguid": 4832,
+      "id": 4,
+      "action_param1": 10,
+      "action_param2": 3,
+      "action_param3": 0
+    }
+  ],
+  "dungeons": [
+    {
+      "map": 189,
+      "name": "Scarlet Monastery",
+      "finding": "Classic instance, five compiled-AI source bindings, Herod lever and Ashbringer area-trigger4089 are present. Mograine/Whitemane use SmartAI with instance state1; no missing binding verified in this pass.",
+      "runtime_test": false
+    },
+    {
+      "map": 48,
+      "name": "Blackfathom Deeps",
+      "finding": "Classic instance and four fire GO bindings present; Kelris death writes SetData(10,DONE), matching Classic header; Fathom Stone uses SmartGameObjectAI and summons Aquanis; all four shrine-wave templates exist. No missing binding verified in this pass.",
+      "runtime_test": false
+    },
+    {
+      "map": 43,
+      "name": "Wailing Caverns",
+      "finding": "Classic instance, Disciple and Evolving Ectoplasm bindings, ritual menu202 and summon templates present. Four fang bosses use matching Classic SetData keys0\u20133. Mutanus death dispatch is mismatched; one guarded correction prepared.",
+      "runtime_test": false
+    }
+  ],
+  "verified_fix": {
+    "row_key": [
+      3654,
+      0,
+      0
+    ],
+    "old_action": [
+      34,
+      4,
+      3,
+      1
+    ],
+    "new_action": [
+      34,
+      5,
+      3,
+      0
+    ],
+    "meaning": "SetData(TYPE_MUTANUS=5,DONE=3), instead of SetBossState(boss4=Skum,DONE). Tracker separately completes Mutanus boss7.",
+    "patch": "sql/world/2026_11_10_42_world_everlake_mutanus_instance_state.sql"
+  }
+}

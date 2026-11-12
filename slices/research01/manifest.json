@@ -1,0 +1,29 @@
+{
+  "slice": "research01",
+  "file": "2026_11_10_52_world_everlake_research_access_fields.sql",
+  "sha256": "e2012723912630f2e372c31e3103c304039923c96bb902198ad320bc1440eca0",
+  "source_pin": "9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae",
+  "client": "1.60.1.70862",
+  "core": "343fe6fb95076e09575156c8b88d155914003b78",
+  "quest": 97286,
+  "baseline": {
+    "QuestType": 2,
+    "Flags": 0,
+    "AllowableRaces": 12884902143,
+    "MinLevel": 20
+  },
+  "captured": {
+    "QuestType": 0,
+    "Flags": 35651840,
+    "AllowableRaces": 18446744073709551615,
+    "MinLevel": 1
+  },
+  "preserved": {
+    "class_mask": 128,
+    "book_prerequisite_alternatives": 40,
+    "quest_level": 20,
+    "reward_spell": 1302696
+  },
+  "dependency": "RewardSpell1302696 from the class quest teaching reward correction",
+  "runtime": "In-game book donation, quest activation and Study behavior remain untested. These field changes reproduce captured data; no automatic book-count trigger is invented."
+}

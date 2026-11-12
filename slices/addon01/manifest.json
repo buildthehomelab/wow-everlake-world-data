@@ -1,0 +1,100 @@
+{
+  "slice": "addon01",
+  "file": "2026_11_10_21_world_everlake_import_addon01.sql",
+  "world": "forever-tdb-2026-10-14 + core 343fe6fb + world-data 24a3b39e + prior drafts",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "spyglass": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+    "recipe_registry": "b452ad295a387800e1a767098af1e55bdc09628a"
+  },
+  "sha256": "21a445500f0596786fca3d755c646bbf8691c8256c67b326b3bd826b9a308cb1",
+  "keys": {
+    "creature_loot_template": [
+      [
+        4887,
+        0,
+        253940
+      ],
+      [
+        4887,
+        0,
+        253942
+      ],
+      [
+        4831,
+        0,
+        253944
+      ],
+      [
+        645,
+        0,
+        253910
+      ],
+      [
+        645,
+        0,
+        253912
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 5
+  },
+  "routes": [
+    {
+      "npc": 4887,
+      "item": 253940,
+      "spell": 1257395,
+      "chance_percent_estimate": 0.547,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4887",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Both addons list this named source; independence unproven. Icy Veins supplies the estimate."
+    },
+    {
+      "npc": 4887,
+      "item": 253942,
+      "spell": 1257396,
+      "chance_percent_estimate": 0.912,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4887",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Both addons list this named source; independence unproven. Icy Veins supplies the estimate."
+    },
+    {
+      "npc": 4831,
+      "item": 253944,
+      "spell": 1257397,
+      "chance_percent_estimate": 1.49,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4831",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Both addons list this named source; independence unproven. Icy Veins supplies the estimate."
+    },
+    {
+      "npc": 645,
+      "item": 253910,
+      "spell": 1257380,
+      "chance_percent_estimate": 0.467,
+      "map": 36,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/645",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Both addons list this named source; independence unproven. Icy Veins supplies the estimate."
+    },
+    {
+      "npc": 645,
+      "item": 253912,
+      "spell": 1257381,
+      "chance_percent_estimate": 0.312,
+      "map": 36,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/645",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Both addons list this named source; independence unproven. Icy Veins supplies the estimate."
+    }
+  ]
+}

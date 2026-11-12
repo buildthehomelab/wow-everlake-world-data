@@ -1,0 +1,299 @@
+{
+  "SpellName": [
+    {
+      "ID": "700",
+      "Name_lang": "Sleep"
+    },
+    {
+      "ID": "6533",
+      "Name_lang": "Net"
+    },
+    {
+      "ID": "7965",
+      "Name_lang": "Cobrahn Serpent Form"
+    },
+    {
+      "ID": "8040",
+      "Name_lang": "Druid's Slumber"
+    },
+    {
+      "ID": "17330",
+      "Name_lang": "Hanging Thread"
+    },
+    {
+      "ID": "9034",
+      "Name_lang": "Immolate"
+    },
+    {
+      "ID": "2767",
+      "Name_lang": "Shadow Word: Pain"
+    },
+    {
+      "ID": "5187",
+      "Name_lang": "Healing Touch"
+    },
+    {
+      "ID": "6778",
+      "Name_lang": "Healing Touch"
+    },
+    {
+      "ID": "23381",
+      "Name_lang": "Healing Touch"
+    },
+    {
+      "ID": "12024",
+      "Name_lang": "Net"
+    }
+  ],
+  "SpellMisc": [
+    {
+      "ID": "314403",
+      "CastingTimeIndex": "16",
+      "DurationIndex": "18",
+      "RangeIndex": "4",
+      "SpellID": "700"
+    },
+    {
+      "ID": "315885",
+      "CastingTimeIndex": "1",
+      "DurationIndex": "85",
+      "RangeIndex": "4",
+      "SpellID": "2767"
+    },
+    {
+      "ID": "317322",
+      "CastingTimeIndex": "20",
+      "DurationIndex": "0",
+      "RangeIndex": "5",
+      "SpellID": "5187"
+    },
+    {
+      "ID": "319243",
+      "CastingTimeIndex": "1",
+      "DurationIndex": "28",
+      "RangeIndex": "3",
+      "SpellID": "12024"
+    },
+    {
+      "ID": "319503",
+      "CastingTimeIndex": "22",
+      "DurationIndex": "0",
+      "RangeIndex": "5",
+      "SpellID": "6778"
+    },
+    {
+      "ID": "320465",
+      "CastingTimeIndex": "1",
+      "DurationIndex": "1",
+      "RangeIndex": "3",
+      "SpellID": "6533"
+    },
+    {
+      "ID": "320721",
+      "CastingTimeIndex": "1",
+      "DurationIndex": "5",
+      "RangeIndex": "1",
+      "SpellID": "7965"
+    },
+    {
+      "ID": "321233",
+      "CastingTimeIndex": "19",
+      "DurationIndex": "8",
+      "RangeIndex": "4",
+      "SpellID": "8040"
+    },
+    {
+      "ID": "322206",
+      "CastingTimeIndex": "1",
+      "DurationIndex": "86",
+      "RangeIndex": "4",
+      "SpellID": "9034"
+    },
+    {
+      "ID": "326284",
+      "CastingTimeIndex": "1",
+      "DurationIndex": "1",
+      "RangeIndex": "1",
+      "SpellID": "17330"
+    },
+    {
+      "ID": "331748",
+      "CastingTimeIndex": "14",
+      "DurationIndex": "0",
+      "RangeIndex": "5",
+      "SpellID": "23381"
+    }
+  ],
+  "spell-effect": [
+    {
+      "ID": "679304",
+      "EffectAura": "12",
+      "EffectIndex": "0",
+      "Effect": "6",
+      "EffectTriggerSpell": "0",
+      "ImplicitTarget_0": "6",
+      "ImplicitTarget_1": "0",
+      "SpellID": "700"
+    },
+    {
+      "ID": "680965",
+      "EffectAura": "3",
+      "EffectIndex": "0",
+      "Effect": "6",
+      "EffectTriggerSpell": "0",
+      "ImplicitTarget_0": "6",
+      "ImplicitTarget_1": "0",
+      "SpellID": "2767"
+    },
+    {
+      "ID": "682568",
+      "EffectAura": "0",
+      "EffectIndex": "0",
+      "Effect": "10",
+      "EffectTriggerSpell": "0",
+      "ImplicitTarget_0": "21",
+      "ImplicitTarget_1": "0",
+      "SpellID": "5187"
+    },
+    {
+      "ID": "684794",
+      "EffectAura": "26",
+      "EffectIndex": "0",
+      "Effect": "6",
+      "EffectTriggerSpell": "0",
+      "ImplicitTarget_0": "6",
+      "ImplicitTarget_1": "0",
+      "SpellID": "12024"
+    },
+    {
+      "ID": "684795",
+      "EffectAura": "0",
+      "EffectIndex": "1",
+      "Effect": "64",
+      "EffectTriggerSpell": "11920",
+      "ImplicitTarget_0": "6",
+      "ImplicitTarget_1": "0",
+      "SpellID": "12024"
+    },
+    {
+      "ID": "685089",
+      "EffectAura": "0",
+      "EffectIndex": "0",
+      "Effect": "10",
+      "EffectTriggerSpell": "0",
+      "ImplicitTarget_0": "21",
+      "ImplicitTarget_1": "0",
+      "SpellID": "6778"
+    },
+    {
+      "ID": "686197",
+      "EffectAura": "26",
+      "EffectIndex": "0",
+      "Effect": "6",
+      "EffectTriggerSpell": "0",
+      "ImplicitTarget_0": "6",
+      "ImplicitTarget_1": "0",
+      "SpellID": "6533"
+    },
+    {
+      "ID": "686198",
+      "EffectAura": "0",
+      "EffectIndex": "1",
+      "Effect": "64",
+      "EffectTriggerSpell": "11920",
+      "ImplicitTarget_0": "6",
+      "ImplicitTarget_1": "0",
+      "SpellID": "6533"
+    },
+    {
+      "ID": "686526",
+      "EffectAura": "56",
+      "EffectIndex": "0",
+      "Effect": "6",
+      "EffectTriggerSpell": "0",
+      "ImplicitTarget_0": "1",
+      "ImplicitTarget_1": "0",
+      "SpellID": "7965"
+    },
+    {
+      "ID": "686527",
+      "EffectAura": "13",
+      "EffectIndex": "1",
+      "Effect": "6",
+      "EffectTriggerSpell": "0",
+      "ImplicitTarget_0": "1",
+      "ImplicitTarget_1": "0",
+      "SpellID": "7965"
+    },
+    {
+      "ID": "686528",
+      "EffectAura": "319",
+      "EffectIndex": "2",
+      "Effect": "6",
+      "EffectTriggerSpell": "0",
+      "ImplicitTarget_0": "1",
+      "ImplicitTarget_1": "0",
+      "SpellID": "7965"
+    },
+    {
+      "ID": "687148",
+      "EffectAura": "12",
+      "EffectIndex": "0",
+      "Effect": "6",
+      "EffectTriggerSpell": "0",
+      "ImplicitTarget_0": "6",
+      "ImplicitTarget_1": "0",
+      "SpellID": "8040"
+    },
+    {
+      "ID": "688360",
+      "EffectAura": "3",
+      "EffectIndex": "0",
+      "Effect": "6",
+      "EffectTriggerSpell": "0",
+      "ImplicitTarget_0": "6",
+      "ImplicitTarget_1": "0",
+      "SpellID": "9034"
+    },
+    {
+      "ID": "688361",
+      "EffectAura": "0",
+      "EffectIndex": "1",
+      "Effect": "2",
+      "EffectTriggerSpell": "0",
+      "ImplicitTarget_0": "6",
+      "ImplicitTarget_1": "0",
+      "SpellID": "9034"
+    },
+    {
+      "ID": "693219",
+      "EffectAura": "37",
+      "EffectIndex": "0",
+      "Effect": "6",
+      "EffectTriggerSpell": "0",
+      "ImplicitTarget_0": "1",
+      "ImplicitTarget_1": "0",
+      "SpellID": "17330"
+    },
+    {
+      "ID": "700035",
+      "EffectAura": "0",
+      "EffectIndex": "0",
+      "Effect": "10",
+      "EffectTriggerSpell": "0",
+      "ImplicitTarget_0": "21",
+      "ImplicitTarget_1": "0",
+      "SpellID": "23381"
+    },
+    {
+      "ID": "1326219",
+      "EffectAura": "406",
+      "EffectIndex": "1",
+      "Effect": "6",
+      "EffectTriggerSpell": "0",
+      "ImplicitTarget_0": "1",
+      "ImplicitTarget_1": "0",
+      "SpellID": "17330"
+    }
+  ]
+}

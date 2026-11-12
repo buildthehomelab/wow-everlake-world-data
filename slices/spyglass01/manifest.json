@@ -1,0 +1,324 @@
+{
+  "slice": "spyglass01",
+  "file": "2026_11_10_30_world_everlake_import_spyglass01.sql",
+  "world": "forever-tdb-2026-10-14 + core 343fe6fb + world-data 24a3b39e + prior drafts",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "spyglass": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+    "recipe_registry": "b452ad295a387800e1a767098af1e55bdc09628a"
+  },
+  "sha256": "68e86c7e02f8ae5d3ba9f652072228c6110c89b726aaf6e79e14019895bc9003",
+  "keys": {
+    "creature_loot_template": [
+      [
+        4830,
+        0,
+        253982
+      ],
+      [
+        4829,
+        0,
+        253984
+      ],
+      [
+        644,
+        0,
+        253906
+      ],
+      [
+        643,
+        0,
+        253902
+      ],
+      [
+        1763,
+        0,
+        253904
+      ],
+      [
+        1763,
+        0,
+        253906
+      ],
+      [
+        639,
+        0,
+        253938
+      ],
+      [
+        639,
+        0,
+        253948
+      ],
+      [
+        11519,
+        0,
+        253908
+      ],
+      [
+        11519,
+        0,
+        253910
+      ],
+      [
+        3864,
+        0,
+        251341
+      ],
+      [
+        3864,
+        0,
+        253902
+      ],
+      [
+        3864,
+        0,
+        253904
+      ],
+      [
+        3864,
+        0,
+        253906
+      ],
+      [
+        3864,
+        0,
+        253908
+      ],
+      [
+        3864,
+        0,
+        253910
+      ],
+      [
+        3864,
+        0,
+        253912
+      ],
+      [
+        1696,
+        0,
+        253942
+      ],
+      [
+        1666,
+        0,
+        252815
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 19
+  },
+  "routes": [
+    {
+      "npc": 4830,
+      "item": 253982,
+      "spell": 1257416,
+      "chance_percent_estimate": 0.997,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4830",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 4829,
+      "item": 253984,
+      "spell": 1257417,
+      "chance_percent_estimate": 0.584,
+      "map": 48,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/4829",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 644,
+      "item": 253906,
+      "spell": 1257378,
+      "chance_percent_estimate": 0.494,
+      "map": 36,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/644",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 643,
+      "item": 253902,
+      "spell": 1257376,
+      "chance_percent_estimate": 0.61,
+      "map": 36,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/643",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 1763,
+      "item": 253904,
+      "spell": 1257377,
+      "chance_percent_estimate": 0.517,
+      "map": 36,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/1763",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 1763,
+      "item": 253906,
+      "spell": 1257378,
+      "chance_percent_estimate": 0.517,
+      "map": 36,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/1763",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 639,
+      "item": 253938,
+      "spell": 1257394,
+      "chance_percent_estimate": 0.438,
+      "map": 36,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/639",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 639,
+      "item": 253948,
+      "spell": 1257399,
+      "chance_percent_estimate": 0.313,
+      "map": 36,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/639",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 11519,
+      "item": 253908,
+      "spell": 1257379,
+      "chance_percent_estimate": 0.461,
+      "map": 389,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/11519",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 11519,
+      "item": 253910,
+      "spell": 1257380,
+      "chance_percent_estimate": 0.544,
+      "map": 389,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/11519",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 3864,
+      "item": 251341,
+      "spell": 1252238,
+      "chance_percent_estimate": 1.71,
+      "map": 33,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/3864",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 3864,
+      "item": 253902,
+      "spell": 1257376,
+      "chance_percent_estimate": 1.71,
+      "map": 33,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/3864",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 3864,
+      "item": 253904,
+      "spell": 1257377,
+      "chance_percent_estimate": 1.71,
+      "map": 33,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/3864",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 3864,
+      "item": 253906,
+      "spell": 1257378,
+      "chance_percent_estimate": 1.9,
+      "map": 33,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/3864",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 3864,
+      "item": 253908,
+      "spell": 1257379,
+      "chance_percent_estimate": 0.951,
+      "map": 33,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/3864",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 3864,
+      "item": 253910,
+      "spell": 1257380,
+      "chance_percent_estimate": 1.71,
+      "map": 33,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/3864",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 3864,
+      "item": 253912,
+      "spell": 1257381,
+      "chance_percent_estimate": 1.9,
+      "map": 33,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/3864",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 1696,
+      "item": 253942,
+      "spell": 1257396,
+      "chance_percent_estimate": 0.397,
+      "map": 34,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/1696",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    },
+    {
+      "npc": 1666,
+      "item": 252815,
+      "spell": 1255092,
+      "chance_percent_estimate": 1.02,
+      "map": 34,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/1666",
+      "spyglass_pin": "8b39cef2456b88227c4c09b3ae7b406e2c92d152",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "note": "Spyglass lists this exact boss-item pair. Icy Veins supplies the estimate; Registry corroboration varies by row."
+    }
+  ]
+}
