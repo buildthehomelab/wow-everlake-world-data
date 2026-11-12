@@ -1,0 +1,74 @@
+{
+  "slice": "classlearning01",
+  "file": "2026_11_10_51_world_everlake_class_quest_learning.sql",
+  "sha256": "b8d3b3534ccffa5d9c5d271ffc609077ecd6f2b5c6bdd14572b1f909dd45ce77",
+  "keys": {
+    "quest_reward_display_spell": [
+      [
+        94775,
+        0
+      ],
+      [
+        94776,
+        0
+      ],
+      [
+        94777,
+        0
+      ],
+      [
+        94820,
+        0
+      ],
+      [
+        97286,
+        0
+      ]
+    ]
+  },
+  "counts": {
+    "quest_reward_display_spell": 5
+  },
+  "corrections": [
+    {
+      "quest": 94775,
+      "old_reward": 0,
+      "new_reward": 1277387,
+      "learned_spell": 1277370
+    },
+    {
+      "quest": 94776,
+      "old_reward": 0,
+      "new_reward": 1277387,
+      "learned_spell": 1277370
+    },
+    {
+      "quest": 94777,
+      "old_reward": 0,
+      "new_reward": 1277387,
+      "learned_spell": 1277370
+    },
+    {
+      "quest": 94820,
+      "old_reward": 0,
+      "new_reward": 1277663,
+      "learned_spell": 1277462
+    },
+    {
+      "quest": 97286,
+      "old_reward": 0,
+      "new_reward": 1302696,
+      "learned_spell": 1302508
+    }
+  ],
+  "client": "1.60.1.70862",
+  "core": "343fe6fb95076e09575156c8b88d155914003b78",
+  "source_pin": "9fcae73cc74fea4f1c4f2f09df9ca811b0f893ae",
+  "new_tracker_unlocks": 0,
+  "limitations": "These three learned spells are outside the Tracker export. In-game priest ability behavior and Research Access hidden activation remain unverified.",
+  "references": [
+    "https://db.icy-veins.com/wow-forever/quests/94775",
+    "https://db.icy-veins.com/wow-forever/quests/94820",
+    "https://www.wowhead.com/forever/quest=97286/research-access"
+  ]
+}
