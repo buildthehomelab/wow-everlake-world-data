@@ -1,0 +1,13 @@
+# Restore Lord Cobrahn's observed heal
+
+Refs #47; exact timing and other boss variants remain open. In one 28-second ForeverDB combat sample, Lord Cobrahn casts Healing Touch at about seven seconds. The event links exact spell5188, which is present as a heal in client70862. Local NPC3669 SmartAI contains 12 rows and no healing cast. ACID366906 independently supplies the same spell with an18–24s repeat and40-yard target radius.
+
+Add one heal row for the known humanoid phase1 only. Preserve the existing Serpent Form7965 and phase2/3 transition. The current core's event74 measures friendly health percentage rather than ACID's absolute missing-HP gate. The patch uses the existing Fang-boss threshold (up to60%) and core target7 to select the injured friendly unit. Those choices and cadence remain **provisional**; the single observation does not establish an exact timer or HP threshold. Row comments and provenance record that distinction.
+
+Sources: [observed WC fight](https://foreverdb.net/dungeon/43-wailing-caverns), [spell5188](https://foreverdb.net/spell/5188), [Classic ACID pin](https://github.com/cmangos/classic-db/blob/c33f90b8eeb3f8bacb53d5cbfee45075c80b416c/ACID/acid_classic.sql), [core event74 dispatch](https://github.com/buildthehomelab/wow-trinitycore-everlake/blob/343fe6fb95076e09575156c8b88d155914003b78/src/server/game/AI/SmartScripts/SmartScript.cpp). The live log sample is aggregated by ForeverDB; its source limits are kept in the manifest.
+
+Private MySQL validation added one row and preserved all38 copied rows and phase dependencies. Replay did nothing. Guards passed for altered scripts, absent expected spawn, altered serpent phase, existing heal, and occupied row key. All10 SQL parser statements passed. No shared database writes or in-game test.
+
+The related Faerie Dragon candidate was closed (#46): the DBM warning accepts Slumber from any hostile in the pull, while the [Forever guide](https://www.method.gg/wow-forever/dungeons/wailing-caverns) attributes it to accompanying Druids. Existing Pythas Sleep700/Healing Touch5187 match the published combat sample. Cobrahn17330 is Hanging Thread in client70862, not a replacement for his form. Vishas2767 Shadow Word: Pain and9034 Immolate are different effects, and Gelihast's Net candidates have different duration records. Those remaining variant discrepancies do not warrant replacements without exact logs.
+
+Mutanus's one observed fight supports the three casts in PR50, but suggests different cadence; it does not establish exact repeat ranges. Keep issue48 open and the Mutanus placeholder unchanged until stronger traces are available. No new player spell unlocks are claimed.
