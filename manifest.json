@@ -1,0 +1,516 @@
+[
+  {
+    "quest": 99,
+    "title": "Arugal's Folly",
+    "next": 98298,
+    "next_title": "Arugal's Folly",
+    "shared_givers": [
+      1938
+    ]
+  },
+  {
+    "quest": 286,
+    "title": "Return the Statuette",
+    "next": 98189,
+    "next_title": "Return the Statuette",
+    "shared_givers": [
+      1242
+    ]
+  },
+  {
+    "quest": 299,
+    "title": "Uncovering the Past",
+    "next": 98216,
+    "next_title": "Understanding Our Present",
+    "shared_givers": [
+      1077
+    ]
+  },
+  {
+    "quest": 356,
+    "title": "Rear Guard Patrol",
+    "next": 99156,
+    "next_title": "Rear Guard Patrol",
+    "shared_givers": [
+      1495
+    ]
+  },
+  {
+    "quest": 430,
+    "title": "Return to Quinn",
+    "next": 91920,
+    "next_title": "Wild Eyes",
+    "shared_givers": [
+      1951
+    ]
+  },
+  {
+    "quest": 469,
+    "title": "Daily Delivery",
+    "next": 484,
+    "next_title": "Young Crocolisk Skins",
+    "shared_givers": [
+      2094
+    ]
+  },
+  {
+    "quest": 760,
+    "title": "Wildmane Cleansing",
+    "next": 98435,
+    "next_title": "Thunderhorn's Report",
+    "shared_givers": [
+      2948
+    ]
+  },
+  {
+    "quest": 932,
+    "title": "Twisted Hatred",
+    "next": 98403,
+    "next_title": "Twisted Hatred",
+    "shared_givers": [
+      3567
+    ]
+  },
+  {
+    "quest": 934,
+    "title": "Crown of the Earth",
+    "next": 935,
+    "next_title": "Crown of the Earth",
+    "shared_givers": [
+      3515
+    ]
+  },
+  {
+    "quest": 937,
+    "title": "The Enchanted Glade",
+    "next": 98392,
+    "next_title": "Darkness in the Glade",
+    "shared_givers": [
+      3519
+    ]
+  },
+  {
+    "quest": 1478,
+    "title": "Halgar's Summons",
+    "next": 1473,
+    "next_title": "Creature of the Void",
+    "shared_givers": [
+      5675
+    ]
+  },
+  {
+    "quest": 1505,
+    "title": "Veteran Uzzek",
+    "next": 1498,
+    "next_title": "Path of Defense",
+    "shared_givers": [
+      5810
+    ]
+  },
+  {
+    "quest": 1506,
+    "title": "Gan'rul's Summons",
+    "next": 1501,
+    "next_title": "Creature of the Void",
+    "shared_givers": [
+      5875
+    ]
+  },
+  {
+    "quest": 1638,
+    "title": "A Warrior's Training",
+    "next": 1639,
+    "next_title": "Bartleby the Drunk",
+    "shared_givers": [
+      6089
+    ]
+  },
+  {
+    "quest": 1679,
+    "title": "Muren Stormpike",
+    "next": 1678,
+    "next_title": "Vejrek",
+    "shared_givers": [
+      6114
+    ]
+  },
+  {
+    "quest": 1684,
+    "title": "Elanaria",
+    "next": 1683,
+    "next_title": "Vorlus Vilehoof",
+    "shared_givers": [
+      4088
+    ]
+  },
+  {
+    "quest": 1818,
+    "title": "Speak with Dillinger",
+    "next": 1819,
+    "next_title": "Ulag the Cleaver",
+    "shared_givers": [
+      1496
+    ]
+  },
+  {
+    "quest": 1859,
+    "title": "Therzok",
+    "next": 1963,
+    "next_title": "The Shattered Hand",
+    "shared_givers": [
+      6446
+    ]
+  },
+  {
+    "quest": 1860,
+    "title": "Speak with Jennea",
+    "next": 1861,
+    "next_title": "Mirror Lake",
+    "shared_givers": [
+      5497
+    ]
+  },
+  {
+    "quest": 1879,
+    "title": "Speak with Bink",
+    "next": 1880,
+    "next_title": "Mage-tastic Gizmonitor",
+    "shared_givers": [
+      5144
+    ]
+  },
+  {
+    "quest": 1881,
+    "title": "Speak with Anastasia",
+    "next": 1882,
+    "next_title": "The Balnir Farmstead",
+    "shared_givers": [
+      4568
+    ]
+  },
+  {
+    "quest": 1883,
+    "title": "Speak with Un'thuwa",
+    "next": 1884,
+    "next_title": "Ju-Ju Heaps",
+    "shared_givers": [
+      5880
+    ]
+  },
+  {
+    "quest": 1885,
+    "title": "Mennet Carkad",
+    "next": 1886,
+    "next_title": "The Deathstalkers",
+    "shared_givers": [
+      6467
+    ]
+  },
+  {
+    "quest": 2218,
+    "title": "Road to Salvation",
+    "next": 2238,
+    "next_title": "Simple Subterfugin'",
+    "shared_givers": [
+      5165
+    ]
+  },
+  {
+    "quest": 2758,
+    "title": "The Origins of Smithing",
+    "next": 2759,
+    "next_title": "In Search of Galvan",
+    "shared_givers": [
+      7798
+    ]
+  },
+  {
+    "quest": 4921,
+    "title": "Lost in Battle",
+    "next": 95774,
+    "next_title": "Her Name Is Olgra",
+    "shared_givers": [
+      3432
+    ]
+  },
+  {
+    "quest": 65593,
+    "title": "Hearts of the Lovers",
+    "next": 65597,
+    "next_title": "The Binding",
+    "shared_givers": [
+      5675
+    ]
+  },
+  {
+    "quest": 65601,
+    "title": "Love Hurts",
+    "next": 65610,
+    "next_title": "Wish You Were Here",
+    "shared_givers": [
+      3363
+    ]
+  },
+  {
+    "quest": 65602,
+    "title": "What Is Love?",
+    "next": 65603,
+    "next_title": "The Binding",
+    "shared_givers": [
+      6122
+    ]
+  },
+  {
+    "quest": 65610,
+    "title": "Wish You Were Here",
+    "next": 65604,
+    "next_title": "The Binding",
+    "shared_givers": [
+      5875
+    ]
+  },
+  {
+    "quest": 79360,
+    "title": "Elemental Aid",
+    "next": 79364,
+    "next_title": "Eyes on the Sky",
+    "shared_givers": [
+      6176
+    ]
+  },
+  {
+    "quest": 79364,
+    "title": "Eyes on the Sky",
+    "next": 79361,
+    "next_title": "Storm, Earth, and Fire",
+    "shared_givers": [
+      5905,
+      6176
+    ]
+  },
+  {
+    "quest": 91858,
+    "title": "Diplomatic Incident",
+    "next": 91859,
+    "next_title": "A Curious Pair",
+    "shared_givers": [
+      248840
+    ]
+  },
+  {
+    "quest": 91859,
+    "title": "A Curious Pair",
+    "next": 91860,
+    "next_title": "A Grim Fate",
+    "shared_givers": [
+      259611
+    ]
+  },
+  {
+    "quest": 91861,
+    "title": "Into Fenris Keep",
+    "next": 91862,
+    "next_title": "Lumina Windsinger",
+    "shared_givers": [
+      248755
+    ]
+  },
+  {
+    "quest": 91862,
+    "title": "Lumina Windsinger",
+    "next": 96204,
+    "next_title": "The Windshaper's Wrath",
+    "shared_givers": [
+      248755
+    ]
+  },
+  {
+    "quest": 92432,
+    "title": "An Alarming Request",
+    "next": 92458,
+    "next_title": "Heart of Disruption",
+    "shared_givers": [
+      269127
+    ]
+  },
+  {
+    "quest": 93034,
+    "title": "Valley of Bones",
+    "next": 93035,
+    "next_title": "Ravaging Ravagers",
+    "shared_givers": [
+      253177
+    ]
+  },
+  {
+    "quest": 93791,
+    "title": "Speak with Belann",
+    "next": 93797,
+    "next_title": "Boughs in the Wind",
+    "shared_givers": [
+      256507
+    ]
+  },
+  {
+    "quest": 94007,
+    "title": "Taming the Beast",
+    "next": 94978,
+    "next_title": "Taming the Beast",
+    "shared_givers": [
+      252389
+    ]
+  },
+  {
+    "quest": 94789,
+    "title": "Call of Air",
+    "next": 96264,
+    "next_title": "Elemental Aid",
+    "shared_givers": [
+      259023
+    ]
+  },
+  {
+    "quest": 94914,
+    "title": "Moonglade",
+    "next": 5929,
+    "next_title": "Great Bear Spirit",
+    "shared_givers": [
+      11802
+    ]
+  },
+  {
+    "quest": 95111,
+    "title": "An Underrated Talent",
+    "next": 95125,
+    "next_title": "Ott's Masterwork",
+    "shared_givers": [
+      3539
+    ]
+  },
+  {
+    "quest": 95125,
+    "title": "Ott's Masterwork",
+    "next": 95126,
+    "next_title": "The Moonsilver Blade",
+    "shared_givers": [
+      3539
+    ]
+  },
+  {
+    "quest": 96984,
+    "title": "Heart of Disruption",
+    "next": 97287,
+    "next_title": "Shrewd Negotiations",
+    "shared_givers": [
+      2410
+    ]
+  },
+  {
+    "quest": 98046,
+    "title": "Crown of the Earth",
+    "next": 98065,
+    "next_title": "Crown of the Earth",
+    "shared_givers": [
+      4092
+    ]
+  },
+  {
+    "quest": 98072,
+    "title": "Crocs of the Sky",
+    "next": 98240,
+    "next_title": "Crimson Crate Delivery",
+    "shared_givers": [
+      2094
+    ]
+  },
+  {
+    "quest": 98208,
+    "title": "Bloom of the Heavens",
+    "next": 98209,
+    "next_title": "Bloom of the Heavens",
+    "shared_givers": [
+      270844
+    ]
+  },
+  {
+    "quest": 98216,
+    "title": "Understanding Our Present",
+    "next": 98310,
+    "next_title": "Gleaning Our Future",
+    "shared_givers": [
+      1077
+    ]
+  },
+  {
+    "quest": 98240,
+    "title": "Crimson Crate Delivery",
+    "next": 98245,
+    "next_title": "Razormaw Needling",
+    "shared_givers": [
+      270637
+    ]
+  },
+  {
+    "quest": 98310,
+    "title": "Gleaning Our Future",
+    "next": 98313,
+    "next_title": "For Further Study",
+    "shared_givers": [
+      1077
+    ]
+  },
+  {
+    "quest": 98391,
+    "title": "The Sisterhood of Elune",
+    "next": 2519,
+    "next_title": "The Temple of the Moon",
+    "shared_givers": [
+      7316
+    ]
+  },
+  {
+    "quest": 98392,
+    "title": "Darkness in the Glade",
+    "next": 98398,
+    "next_title": "The Oracle Tree",
+    "shared_givers": [
+      3519
+    ]
+  },
+  {
+    "quest": 98393,
+    "title": "The Great Cat Spirit",
+    "next": 98394,
+    "next_title": "The Great Cat Spirit",
+    "shared_givers": [
+      11802
+    ]
+  },
+  {
+    "quest": 98394,
+    "title": "The Great Cat Spirit",
+    "next": 98396,
+    "next_title": "The Great Cat Spirit",
+    "shared_givers": [
+      11957
+    ]
+  },
+  {
+    "quest": 98396,
+    "title": "The Great Cat Spirit",
+    "next": 98731,
+    "next_title": "Blessings of the Great Cat Spirit",
+    "shared_givers": [
+      11957
+    ]
+  },
+  {
+    "quest": 98731,
+    "title": "Blessings of the Great Cat Spirit",
+    "next": 98397,
+    "next_title": "To Darnassus",
+    "shared_givers": [
+      11802
+    ]
+  }
+]

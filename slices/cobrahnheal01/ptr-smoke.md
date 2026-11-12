@@ -1,0 +1,10 @@
+# PTR encounter checks
+
+Status: prepared, not run. No active test session or verified deployment of the draft commits was available. Record core and world-data commits, client build, map difficulty, encounter timestamps and outcomes before treating this as a live verification.
+
+- Wailing Caverns normal run: use data PRs 44 and 50 plus the Cobrahn heal slice. Interrupt or allow Healing Touch in humanoid phase; confirm it is unavailable after Serpent Form. Defeat all four fang bosses, start the Disciple escort, complete the waves, confirm the three Mutanus combat spells, kill him, and observe Naralex awaken and depart. Confirm Skum state does not change on Mutanus death.
+- Wailing Caverns recovery: with core PR 41, lose the Disciple during the ritual before Mutanus dies. Let the configured respawn path run; the rebuilt spawn has a 7,200-second timer. If using a test-only accelerated respawn, record that difference and preserve the normal AI recreation path. Confirm the four boss prerequisites remain done, menu 202 becomes available again, and a retry completes. Confirm completed Mutanus/Disciple do not reopen.
+- Blackfathom Deeps: with core PR 40, kill Kelris, light all four fires, and observe all waves before the door opens. Leave a wave alive and confirm it blocks completion; kill it and confirm normal opening. The long-update boundary is covered by the source regression, so no artificial stall is required on shared PTR.
+- Scarlet Monastery: verify the cathedral wipe between Mograine fake death and Whitemane resurrection, then repeat the encounter. Existing timed action list 950001182 dispatches SetData(1,3) for the revive handoff. The door objects 104591/104600 and Herod's 101854 door/101855 lever are present; the lever and door are within its 40-yard search radius. Verify Herod's summon cleanup on evade and trainee wave after death. No Scarlet runtime patch was warranted by the static audit.
+
+Keep issues 47, 48, 52 and 53 open for missing runtime evidence. Record exact NPC/spell IDs in combat logs. Do not infer a boss cast from a nearby add's spell warning.

@@ -1,0 +1,115 @@
+{
+  "slice": "addon02",
+  "file": "2026_11_10_22_world_everlake_import_addon02.sql",
+  "world": "forever-tdb-2026-10-14 + core 343fe6fb + world-data 24a3b39e + prior drafts",
+  "pins": {
+    "wago": "1.60.1.70862",
+    "recipe_registry": "b452ad295a387800e1a767098af1e55bdc09628a"
+  },
+  "sha256": "4cad048a7c9caee0dc44cec95041979d74576dd6449c21ec160b4247822e0de3",
+  "keys": {
+    "creature_loot_template": [
+      [
+        2589,
+        0,
+        255723
+      ],
+      [
+        2586,
+        0,
+        251386
+      ],
+      [
+        937,
+        0,
+        251388
+      ],
+      [
+        2252,
+        0,
+        251391
+      ],
+      [
+        6487,
+        0,
+        252899
+      ],
+      [
+        6487,
+        0,
+        252846
+      ]
+    ]
+  },
+  "counts": {
+    "creature_loot_template": 6
+  },
+  "routes": [
+    {
+      "npc": 2589,
+      "item": 255723,
+      "spell": 1244434,
+      "chance_percent_estimate": 12.3,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/2589",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "registry_source": "https://github.com/colettamattia91-cloud/Recipe-Registry/blob/b452ad295a387800e1a767098af1e55bdc09628a/RecipeRegistry_Forever/Data/Metadata/RecipeMetadata_Generated.lua",
+      "note": "Recipe Registry names this creature. Icy Veins supplies the exact NPC-item pair and rate estimate."
+    },
+    {
+      "npc": 2586,
+      "item": 251386,
+      "spell": 1252283,
+      "chance_percent_estimate": 1.51,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/2586",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "registry_source": "https://github.com/colettamattia91-cloud/Recipe-Registry/blob/b452ad295a387800e1a767098af1e55bdc09628a/RecipeRegistry_Forever/Data/Metadata/RecipeMetadata_Generated.lua",
+      "note": "Recipe Registry names this creature. Icy Veins supplies the exact NPC-item pair and rate estimate."
+    },
+    {
+      "npc": 937,
+      "item": 251388,
+      "spell": 1252285,
+      "chance_percent_estimate": 2.48,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/937",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "registry_source": "https://github.com/colettamattia91-cloud/Recipe-Registry/blob/b452ad295a387800e1a767098af1e55bdc09628a/RecipeRegistry_Forever/Data/Metadata/RecipeMetadata_Generated.lua",
+      "note": "Recipe Registry names this creature. Icy Veins supplies the exact NPC-item pair and rate estimate."
+    },
+    {
+      "npc": 2252,
+      "item": 251391,
+      "spell": 1252288,
+      "chance_percent_estimate": 1.74,
+      "map": 0,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/2252",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "registry_source": "https://github.com/colettamattia91-cloud/Recipe-Registry/blob/b452ad295a387800e1a767098af1e55bdc09628a/RecipeRegistry_Forever/Data/Metadata/RecipeMetadata_Generated.lua",
+      "note": "Recipe Registry names this creature. Icy Veins supplies the exact NPC-item pair and rate estimate."
+    },
+    {
+      "npc": 6487,
+      "item": 252899,
+      "spell": 1255008,
+      "chance_percent_estimate": 1.92,
+      "map": 189,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/6487",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "registry_source": "https://github.com/colettamattia91-cloud/Recipe-Registry/blob/b452ad295a387800e1a767098af1e55bdc09628a/RecipeRegistry_Forever/Data/Metadata/RecipeMetadata_Generated.lua",
+      "note": "Recipe Registry names this creature. Icy Veins supplies the exact NPC-item pair and rate estimate."
+    },
+    {
+      "npc": 6487,
+      "item": 252846,
+      "spell": 1255061,
+      "chance_percent_estimate": 1.92,
+      "map": 189,
+      "rate_reference": "https://db.icy-veins.com/wow-forever/npcs/6487",
+      "registry_pin": "b452ad295a387800e1a767098af1e55bdc09628a",
+      "registry_source": "https://github.com/colettamattia91-cloud/Recipe-Registry/blob/b452ad295a387800e1a767098af1e55bdc09628a/RecipeRegistry_Forever/Data/Metadata/RecipeMetadata_Generated.lua",
+      "note": "Recipe Registry names this creature. Icy Veins supplies the exact NPC-item pair and rate estimate."
+    }
+  ]
+}

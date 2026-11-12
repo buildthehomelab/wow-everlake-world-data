@@ -1,0 +1,952 @@
+{
+  "repo": "Karrz1/TrinityCore",
+  "core_pin": "343fe6fb95076e09575156c8b88d155914003b78",
+  "scope": "Custom/Classic tree blobs; presence alone is not compiled/runtime proof",
+  "files": [
+    {
+      "path": "src/server/scripts/Custom/Classic/classic_boss_pack.h",
+      "sha": "7bf0e1cf3b9800926dff287f2e2b55d20cdba496"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/classic_script_loader.cpp",
+      "sha": "d0e12ea7d867ca4f9992b42262ea9ca753cb1dfd"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/classic_script_text.cpp",
+      "sha": "d51429c7737a2058e424d2fed36142807ade7be4"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/classic_script_text.h",
+      "sha": "7df3660e2422d4ffd1890e24959d231d072c6dc6"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_arathi_highlands.cpp",
+      "sha": "779770e43a3fc04cdb0739f35f35861b10ff70d7"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_blasted_lands.cpp",
+      "sha": "d582435d94d580d277e0f219ca7fa111e750b7c7"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_burning_steppes.cpp",
+      "sha": "b61754cfbddaf80ecd540e1b945cf3f22e549141"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_dun_morogh.cpp",
+      "sha": "8ece907c73b202ec01a4a9317865c06386144edf"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_duskwood.cpp",
+      "sha": "48972bd16fdfae2987c9e7b215edda3fb67abfc9"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_eastern_plaguelands.cpp",
+      "sha": "0b664746abf29897f5a8e23d2b81e40040fe3328"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_elwynn_forest.cpp",
+      "sha": "10ae9f0f0c2a5b54c614599e40a1a46dd4582a75"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_hillsbrad_foothills.cpp",
+      "sha": "268d3eb0330ea1eb38e4e0c357c9e3fd6d729d0e"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_hinterlands.cpp",
+      "sha": "a816aa0efc5c28f5573fecebc01e5aa60e5c66d0"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_loch_modan.cpp",
+      "sha": "d86b0a33f20eb2b74839725584af9ca7c73d55ee"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_searing_gorge.cpp",
+      "sha": "587f52509b4e25d735e82621903e3c40667cd586"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_silverpine_forest.cpp",
+      "sha": "c4dacab72605b84921765239bbe2383631537844"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_stormwind_city.cpp",
+      "sha": "7a21040b1575d21ed234fda3d95470d0f0a01139"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_stormwind_rendezvous.cpp",
+      "sha": "8c27d4be117fd68196da72bf550c53c67ae3b7b2"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_stranglethorn_vale.cpp",
+      "sha": "053e9cd6a835dd8feec1e2b7943e4098dbcaf101"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_swamp_of_sorrows.cpp",
+      "sha": "af31998e59f3609b32bdf0ed3c8fe1a0579cc9d2"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_western_plaguelands.cpp",
+      "sha": "4c7daf2903b22b109a3871bcaf13179d869ff1eb"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_westfall.cpp",
+      "sha": "5b9d26dfdd755f9d3273b4c17036e8cb432f5f9c"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/eastern_kingdoms/classic_wetlands.cpp",
+      "sha": "0938cdc70b254a16129852def589e458fecfeda2"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackfathom_deeps/classic_blackfathom_deeps.h",
+      "sha": "7b4d1f5ddf01ef478e3060e1e7e073c099b39f65"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackfathom_deeps/classic_instance_blackfathom_deeps.cpp",
+      "sha": "ec34d2a00d0b4f28e88e28f0013195e38d720796"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_depths/classic_arena_challenge_ai.cpp",
+      "sha": "d3e5a9caa58213515f04096f72487ee399cb27b6"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_depths/classic_blackrock_depths.cpp",
+      "sha": "e8d760108b88c7dad47343dc6398e2862050dea1"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_depths/classic_blackrock_depths.h",
+      "sha": "058bf4c705752849203b7355b80aae13ca5fcdbb"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_depths/classic_boss_anubshiah.cpp",
+      "sha": "6782f5b342d299d2e412dffea5fafe9bdcc7c43c"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_depths/classic_boss_emperor_dagran_thaurissan.cpp",
+      "sha": "ad61e79dbbd703b73850e850d6ef9ea1948b90c0"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_depths/classic_boss_general_angerforge.cpp",
+      "sha": "c08a57121ac6b7ee78d5baaaf8bf6bd9118e2910"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_depths/classic_boss_gorosh_the_dervish.cpp",
+      "sha": "fe5e5b257fe75009c1d32f75d39640e587926132"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_depths/classic_boss_grizzle.cpp",
+      "sha": "012de76298dc37b74a22b5aa2682afb40b1ea8f6"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_depths/classic_boss_high_interrogator_gerstahn.cpp",
+      "sha": "e45558a78bf89532430ca78c6bfe7d0badb349f3"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_depths/classic_boss_magmus.cpp",
+      "sha": "74a93dce60ae6c44e5afa7b22958b5cfd6c8dc6d"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_depths/classic_boss_tomb_of_seven.cpp",
+      "sha": "446679cc78ccf013015746422334981fc5f07bf2"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_depths/classic_instance_blackrock_depths.cpp",
+      "sha": "0b609aa959543984d4391fe0a64a5c417ff47275"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_spire/classic_blackrock_spire.h",
+      "sha": "ee7063e19191ee039c8e7696d1926c60d9cc041f"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_spire/classic_boss_halycon.cpp",
+      "sha": "9a02c007c3b7e0456e3e3079c196b3b8e776332b"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_spire/classic_boss_highlord_omokk.cpp",
+      "sha": "1ec095ffc3cb9fe1a1e6b22da9968ff6345958a8"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_spire/classic_boss_overlord_wyrmthalak.cpp",
+      "sha": "25b82202fb70d43c3ffb6008909f3aa26492cff2"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_spire/classic_boss_shadow_hunter_voshgajin.cpp",
+      "sha": "edbdda7aa4e72be4f3e47abd079d93c35cbf4bbe"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_spire/classic_boss_the_beast.cpp",
+      "sha": "40970c6e0867d10e4efe6787275ee80042146b82"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_spire/classic_boss_urok.cpp",
+      "sha": "f074d8ae6fd3dede3f5ad958fff6c5bd46687b77"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_spire/classic_boss_warmaster_voone.cpp",
+      "sha": "e254d8561f4e487a473ed446e4ebfaa9d7336a36"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_spire/classic_instance_blackrock_spire.cpp",
+      "sha": "803e2cff42a496fa19735f2e07449e8c823a6f10"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackrock_spire/classic_ubrs_trash.cpp",
+      "sha": "77e131a04cca8ea703b081d7077896c88313a609"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackwing_lair/classic_blackwing_lair.h",
+      "sha": "eb75fc111512fd7849b3465f721ab4df0a5fb3c3"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackwing_lair/classic_boss_broodlord_lashlayer.cpp",
+      "sha": "d300f211b033053cf9994d4861ca0428c4ea7ef7"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackwing_lair/classic_boss_chromaggus.cpp",
+      "sha": "b92ab31282ed84be9b5833f34b0ba4efa127a4ae"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackwing_lair/classic_boss_ebonroc.cpp",
+      "sha": "8a6b0ed127b0ac7b909425fb2803db9f28abc94c"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackwing_lair/classic_boss_firemaw.cpp",
+      "sha": "89e3de353bad5fddd362221db110c64df3c25add"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackwing_lair/classic_boss_flamegor.cpp",
+      "sha": "0c6cca35b7936f1c934968099911e4a86e8deb9b"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackwing_lair/classic_boss_nefarian.cpp",
+      "sha": "5ed4f9084275203f1c04c828cb59c5821911a71b"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackwing_lair/classic_boss_razorgore.cpp",
+      "sha": "ca3c0385c01bbe028bfff97150a687293e508cf4"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackwing_lair/classic_boss_vaelastrasz.cpp",
+      "sha": "8ded716f15e4332354aa1b161bb9d834a179e4f7"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackwing_lair/classic_boss_victor_nefarius.cpp",
+      "sha": "3c900d06e380dae3c61b449165b3ed4a2d4629f5"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/blackwing_lair/classic_instance_blackwing_lair.cpp",
+      "sha": "f101a4cb26a1526e0768912dfb3ec7e83b3b6180"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/city_of_dalaran/classic_instance_city_of_dalaran.cpp",
+      "sha": "61424c3d4c26fc90a08e6dedc1f3a998b65b609f"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/classic_dungeon_encounter_tracker.h",
+      "sha": "db56e3f64104cdadd3f36e28de297596a61f6c47"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/deadmines/classic_boss_mr_smite.cpp",
+      "sha": "98c2ca6c5f5900bbd61b52e7a9caab65d0f2b373"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/deadmines/classic_deadmines.cpp",
+      "sha": "09d02d5297a6d4690c2d722a1080e44e0f9e8cf9"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/deadmines/classic_deadmines.h",
+      "sha": "900d59a90cc55937d77f036c3ed2ce21c2166d88"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/deadmines/classic_instance_deadmines.cpp",
+      "sha": "22d5670cbe381c55fd5ab19b961de97a1dc15a0e"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/dire_maul/classic_boss_gordok_king.cpp",
+      "sha": "76b96507bc251ed379bf0a18baa239719d7d639e"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/dire_maul/classic_boss_immol_thar.cpp",
+      "sha": "e8197b1982c53db5dfe3a6e5de384ed4734919ea"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/dire_maul/classic_boss_tendris_warpwood.cpp",
+      "sha": "ec807dafa3d7c21f6e2f0cc82d4436bf14b1e8a2"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/dire_maul/classic_boss_zevrim.cpp",
+      "sha": "e95a4d9c520dd64379fea4d7c8bb923609ecad23"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/dire_maul/classic_dire_maul.h",
+      "sha": "038dcc0af949cbd3b434c5fd6f2ce23c6a14a2c4"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/dire_maul/classic_dreadsteed_ritual.cpp",
+      "sha": "9103f5a2c0cb2a91e16fdd4ee57eff1f5412842e"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/dire_maul/classic_instance_dire_maul.cpp",
+      "sha": "04494467846ccc062c95ac4b8987f81ca1dfb472"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/excavation_site_wetlands/classic_instance_excavation_site_wetlands.cpp",
+      "sha": "12247616e4428cbd1fe9189b661c949867035ced"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/gnomeregan/classic_boss_thermaplugg.cpp",
+      "sha": "b67674d3b2ae4863cce296198fb50d51c11f6eab"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/gnomeregan/classic_gnomeregan.cpp",
+      "sha": "b3c4b2d506c01ddc33657bf980ae7ad20b3b8c15"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/gnomeregan/classic_gnomeregan.h",
+      "sha": "f614db2823346814e41c4fa174e408c8d35b4c1b"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/gnomeregan/classic_instance_gnomeregan.cpp",
+      "sha": "c3c392e724d2ad2f89a4cbcc353d3be1fdc26188"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/hall_of_thanes/classic_instance_hall_of_thanes.cpp",
+      "sha": "ccdbcdebb38cd13430b1bd7280c93b9ad58b9414"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/maraudon/classic_boss_celebras_the_cursed.cpp",
+      "sha": "03262497fa1519860cb121bf2bebb5495e778e85"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/maraudon/classic_boss_landslide.cpp",
+      "sha": "b934828e47a4bcf576a1073ca1e8d02bd25ebadb"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/maraudon/classic_boss_noxxion.cpp",
+      "sha": "0518d92ba3636ba8dd95fb0751bb457cf088164f"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/maraudon/classic_instance_maraudon.cpp",
+      "sha": "f84e63b09e955d9f0c4fc05454cf0f5028f61650"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/maraudon/classic_maraudon.h",
+      "sha": "e644cad8d699909b3e2dec69c78d6ef20ca06660"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/molten_core/classic_boss_baron_geddon.cpp",
+      "sha": "f3e4788ebf81a3dcf31c2076b82d23e9812fa757"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/molten_core/classic_boss_garr.cpp",
+      "sha": "90b8f04bdc98d6096ccd998c4dd370b16445f74a"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/molten_core/classic_boss_gehennas.cpp",
+      "sha": "5477339313feea8f5ed121f21765d48425318b60"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/molten_core/classic_boss_golemagg.cpp",
+      "sha": "60be04175cb5500c023f63273fe719524a50ced3"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/molten_core/classic_boss_lucifron.cpp",
+      "sha": "06d820c47baf86991b02441565e0fc0c26f3b6d6"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/molten_core/classic_boss_majordomo_executus.cpp",
+      "sha": "9b26490e9e64dc9a938725af6bcc1c43c7cfd7ca"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/molten_core/classic_boss_ragnaros.cpp",
+      "sha": "3a7dfcff6e5223f672dbe6521ebf0eb3c4a11f1b"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/molten_core/classic_boss_shazzrah.cpp",
+      "sha": "8c2915442550c52abe7543b238765e769c1eca1b"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/molten_core/classic_boss_sulfuron_harbinger.cpp",
+      "sha": "f5d7d4bf0ed031fb35644075fb6b26c1675d359f"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/molten_core/classic_instance_molten_core.cpp",
+      "sha": "74278a4bc581d2f5e6fbc391c54d8a2bd9ad44bd"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/molten_core/classic_molten_core.cpp",
+      "sha": "19de81da9f615e4894ea60c49486e55bed9d4171"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/molten_core/classic_molten_core.h",
+      "sha": "54a27ccfaa13eb20bfc628613b8c4e27d52282e8"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_boss_anubrekhan.cpp",
+      "sha": "fd6110c2dbeee23255b0c84ea2c2f7d20c52ddc5"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_boss_faerlina.cpp",
+      "sha": "1d118a09a0d77416297fda34d14be32b47b16332"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_boss_four_horsemen.cpp",
+      "sha": "cd894903430003dd9518a35425abe713eb633c9e"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_boss_gluth.cpp",
+      "sha": "4758af8be45532353c6a1822f94e5bff230bdb53"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_boss_gothik.cpp",
+      "sha": "56cc1e85a9c3050c70af97348209198f6026550c"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_boss_grobbulus.cpp",
+      "sha": "6d1fead36f92c06b0900835560cc61aee79e708c"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_boss_heigan.cpp",
+      "sha": "f907fe3f27bd8eeecbac663ab917db3a5ee46a43"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_boss_kelthuzad.cpp",
+      "sha": "7db1e7b5fafbd8dc83a482ce8afb5116859d85ad"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_boss_loatheb.cpp",
+      "sha": "d33c9a7ea5e38be90347448baa0496f41818fd19"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_boss_maexxna.cpp",
+      "sha": "b9931db4499f6778a8658b4744aa651990f00aad"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_boss_noth.cpp",
+      "sha": "ee134a874d0a46cb9f1c437292c961b1439fe184"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_boss_patchwerk.cpp",
+      "sha": "0ca704207a6b785f3cac9f99232b99b99feeab63"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_boss_razuvious.cpp",
+      "sha": "a28046a4c4b02ae1bc211b8d00c1572ab9b8a12a"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_boss_sapphiron.cpp",
+      "sha": "07eb74338bc2c77f3847d5f0651288700ebd3fd6"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_boss_thaddius.cpp",
+      "sha": "e1fec83c33187693b904589fe95b9bfc391178ee"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_instance_naxxramas.cpp",
+      "sha": "dfde3425f6793b7b39f86449de532749dc31077f"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/naxxramas/classic_naxxramas.h",
+      "sha": "60a66c810d0e1c4b06fbc695b1af4f3924377735"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/onyxias_lair/classic_boss_onyxia.cpp",
+      "sha": "3fe280c521cccc0ba6281d8e49e75c164c20ed99"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/onyxias_lair/classic_instance_onyxia_lair.cpp",
+      "sha": "57d9e37e5ded7c04d9b0919c940a5f546185d8b9"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/onyxias_lair/classic_onyxias_lair.h",
+      "sha": "7ba43cac8493b3d262cd6b677dffa89d4ebab5be"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/ragefire_chasm/classic_instance_ragefire_chasm.cpp",
+      "sha": "a0998250dc272b3bd3eb58c20f450fc13989973f"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/razorfen_downs/classic_instance_razorfen_downs.cpp",
+      "sha": "cfc34220cc418a08cf3258a1f281f7f9788217b8"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/razorfen_downs/classic_razorfen_downs.cpp",
+      "sha": "6527d19c6a08ff9df71a294e66835ab665a89f10"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/razorfen_downs/classic_razorfen_downs.h",
+      "sha": "38d7506748fb7086c3fc0b2668690337bcc49170"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/razorfen_kraul/classic_instance_razorfen_kraul.cpp",
+      "sha": "a5638e88696faf98d15d6a0e2afafc7fb49095f8"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/razorfen_kraul/classic_razorfen_kraul.cpp",
+      "sha": "fe1474cd8bfedcf7c08581d066704ffc16c10805"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/razorfen_kraul/classic_razorfen_kraul.h",
+      "sha": "e0426d73e338cf77a97b1618097087991c842394"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/ruins_of_ahnqiraj/classic_boss_ayamiss.cpp",
+      "sha": "6f39d2743df7c10fc157c9f04000ef6c04aa6ece"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/ruins_of_ahnqiraj/classic_boss_buru.cpp",
+      "sha": "7f646b23bb9b9bb2ee0f6cedd56a00be451ad18f"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/ruins_of_ahnqiraj/classic_boss_kurinnaxx.cpp",
+      "sha": "1008c9a7a33693be137f534c53af714fb7b6805e"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/ruins_of_ahnqiraj/classic_boss_moam.cpp",
+      "sha": "954245f4d7dfd443a1e6dfe5bd27fa35333ff6ba"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/ruins_of_ahnqiraj/classic_boss_ossirian.cpp",
+      "sha": "4ceb14509065144240f45b4b16bef60ee581bf8c"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/ruins_of_ahnqiraj/classic_instance_ruins_of_ahnqiraj.cpp",
+      "sha": "d9ec4583b5d8afe696306c9233c38e005a30244e"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/ruins_of_ahnqiraj/classic_npc_sandstalker.cpp",
+      "sha": "71b64c6e0961be3670524ac47615188a7b0f33a7"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/ruins_of_ahnqiraj/classic_ruins_of_ahnqiraj.cpp",
+      "sha": "a7bb40a750df7ad39bf7f446b3f3b5855280c7f0"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/ruins_of_ahnqiraj/classic_ruins_of_ahnqiraj.h",
+      "sha": "f59a25c6826a9e93f0db91fc448a1e7e0cb8d7a6"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/ruins_of_lordaeron/classic_instance_ruins_of_lordaeron.cpp",
+      "sha": "dc91a0d303703b94998884f1e0610870e514f811"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scarlet_monastery/classic_boss_arcanist_doan.cpp",
+      "sha": "41f843386f1d0e16a42d68442ee0726b9bbfaa70"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scarlet_monastery/classic_boss_herod.cpp",
+      "sha": "f73d330a765180e1a5c499cb926fd3bb27f36272"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scarlet_monastery/classic_boss_high_inquisitor_fairbanks.cpp",
+      "sha": "166001f5efc14d72e368ae580b63b07e47a0dfd1"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scarlet_monastery/classic_boss_houndmaster_loksey.cpp",
+      "sha": "0c5aec047c8aeb02607daab0215355d9d927817b"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scarlet_monastery/classic_boss_interrogator_vishas.cpp",
+      "sha": "c094d65174814a475db87bf2eb1d90131af5e4e1"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scarlet_monastery/classic_instance_scarlet_monastery.cpp",
+      "sha": "b865dbaea30d3abfef8e57e915891e08b04810b8"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scarlet_monastery/classic_scarlet_monastery.h",
+      "sha": "7cb3b0861c002602aafee174999de8394a4e3775"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scholomance/classic_boss_doctor_theolen_krastinov.cpp",
+      "sha": "a2bf2919747c1691e0df023805c792388d5b05d8"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scholomance/classic_boss_illucia_barov.cpp",
+      "sha": "39c40b71ffc33c1f33153bde25306cc75ae879b6"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scholomance/classic_boss_instructor_malicia.cpp",
+      "sha": "0990973583eb6947c45bccdacde75fd655f80a63"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scholomance/classic_boss_jandice_barov.cpp",
+      "sha": "03333db746e891ee552b7819a16aba7921bb2699"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scholomance/classic_boss_lord_alexei_barov.cpp",
+      "sha": "03a2bbefb7c0e56ddca1af425e01e2288e43f427"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scholomance/classic_boss_lorekeeper_polkelt.cpp",
+      "sha": "5e539b7c520f1c294083822aa92fdefdf827f59c"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scholomance/classic_boss_ras_frostwhisper.cpp",
+      "sha": "3f23369c04c01226f7d51fec81bf8d88e9e7a620"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scholomance/classic_boss_the_ravenian.cpp",
+      "sha": "a99d0ed07cee26b5b8b2c225519ea875e9083667"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scholomance/classic_boss_vectus.cpp",
+      "sha": "8b04cd03b64e2e5b0f86d97a5c79690e7b93820f"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scholomance/classic_instance_scholomance.cpp",
+      "sha": "685458abc27c2407696aa3a2d4d91ce5bf46c4ae"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scholomance/classic_scholo_trash.cpp",
+      "sha": "6d017eb53acd1282d2e4f7034522a9225f68663a"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/scholomance/classic_scholomance.h",
+      "sha": "806d9a2815fb69516ae4df09636462f5fcf4e1f1"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/shadowfang_keep/classic_instance_shadowfang_keep.cpp",
+      "sha": "d9a11703f8250ed48f8f9b0b6b28073114bc4d46"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/shadowfang_keep/classic_shadowfang_keep.h",
+      "sha": "39a3897f881f578c2c86ba9af5c40d526f7ee5c1"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/stratholme/classic_boss_baroness_anastari.cpp",
+      "sha": "204a6fd0af295871260de34df39c62e75bd58c7b"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/stratholme/classic_boss_cannon_master_willey.cpp",
+      "sha": "288e519a748cf653d8d0155b21d7902a2acebc69"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/stratholme/classic_boss_dathrohan_balnazzar.cpp",
+      "sha": "89a16945dcf1d000e3e5d485a59d66b98323d66d"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/stratholme/classic_boss_magistrate_barthilas.cpp",
+      "sha": "5b73c004a078f32523430385765b807b4668b02c"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/stratholme/classic_boss_maleki_the_pallid.cpp",
+      "sha": "ce43d7eadfcb510ba3f5480a2b892f209cc5158a"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/stratholme/classic_boss_nerubenkan.cpp",
+      "sha": "5b8b259f227bf5b1f27622d116cc3b51e3bd1f49"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/stratholme/classic_boss_order_of_silver_hand.cpp",
+      "sha": "2c86d6ffbe3007d9244a02ec9f3ff673dc66ee72"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/stratholme/classic_boss_postmaster_malown.cpp",
+      "sha": "6c6c29ae5bac508a5cd890a55ede033a6a348777"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/stratholme/classic_boss_ramstein_the_gorger.cpp",
+      "sha": "c24caf9e24cb432da5a4bbe3e8a162f7253727c2"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/stratholme/classic_boss_timmy_the_cruel.cpp",
+      "sha": "a5b9ab490a0f48567e3731cb0d9a72fe820c8d75"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/stratholme/classic_instance_stratholme.cpp",
+      "sha": "ffe1decc1e0f9960c49729dc3143dc03ccbdd05b"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/stratholme/classic_stratholme.cpp",
+      "sha": "73dd56f10018ad9575ca61364d9474517a884158"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/stratholme/classic_stratholme.h",
+      "sha": "a044c41bee72af007c9d840facce64003470a137"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/sunken_temple/classic_instance_sunken_temple.cpp",
+      "sha": "ce67ec60634d4fc263448c9bc2670046f94a61b2"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/sunken_temple/classic_sunken_temple.cpp",
+      "sha": "c04777de4365745ef3915ca99abb77e91cb2947d"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/sunken_temple/classic_sunken_temple.h",
+      "sha": "5c7b921e64616e5b8cb97aacc4b87585f6677914"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/temple_of_ahnqiraj/classic_boss_bug_trio.cpp",
+      "sha": "016a440b72a187607d5e7fb532c9c9f428fb78da"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/temple_of_ahnqiraj/classic_boss_cthun.cpp",
+      "sha": "495a6d1dddad54237d49e3f1c1901c4e997ca145"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/temple_of_ahnqiraj/classic_boss_fankriss.cpp",
+      "sha": "38728b5d2919bec95f153713022ce541a3b51a9f"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/temple_of_ahnqiraj/classic_boss_huhuran.cpp",
+      "sha": "8f47522285d69f71a3afef5e91e1d89e8781ff06"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/temple_of_ahnqiraj/classic_boss_ouro.cpp",
+      "sha": "a5b6f3f63116046baf2b8f64188112777be1468b"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/temple_of_ahnqiraj/classic_boss_sartura.cpp",
+      "sha": "9a3cfcfcc482695dd6c9ae3c79b060a7749bd6ab"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/temple_of_ahnqiraj/classic_boss_skeram.cpp",
+      "sha": "58f9fca50703a29f65ba7ab48214a15fe2ff2a1f"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/temple_of_ahnqiraj/classic_boss_twinemperors.cpp",
+      "sha": "ae6082c09ee3543b09d560af30cf372d58325b14"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/temple_of_ahnqiraj/classic_boss_viscidus.cpp",
+      "sha": "11b5b64969ab742c2bdf6814300d62b71c581cfc"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/temple_of_ahnqiraj/classic_instance_temple_of_ahnqiraj.cpp",
+      "sha": "cb5c9d108c013f0aebe4e65cb3dbfa3066e0d101"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/temple_of_ahnqiraj/classic_mob_anubisath_sentinel.cpp",
+      "sha": "00c5d16c55a828583c6e6efd9dbb6ac88fcd0b9c"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/temple_of_ahnqiraj/classic_temple_of_ahnqiraj.h",
+      "sha": "38c4bec0ee5c05869c98ccd495649e7f05d6d7c8"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/the_stockade/classic_instance_the_stockade.cpp",
+      "sha": "3b41fcb8165195d3d049b885f1aca1f42b8ac776"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/uldaman/classic_boss_archaedas.cpp",
+      "sha": "bfa9dcd88c2bd67ebdd986c6aefd4318b68ecaad"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/uldaman/classic_boss_ironaya.cpp",
+      "sha": "093c2c368f70b35d8cc70cc6bbe11eb7e65d4ef7"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/uldaman/classic_instance_uldaman.cpp",
+      "sha": "483337a7a7e3036a1345c5eada43339e2fb1872e"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/uldaman/classic_uldaman.cpp",
+      "sha": "07e612e1c4527175d2a2fe881a8d083a664aae6a"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/uldaman/classic_uldaman.h",
+      "sha": "46d0b95ec65e0f6c93d2038044a21bcb94fa6c10"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/wailing_caverns/classic_instance_wailing_caverns.cpp",
+      "sha": "6beee7e15b77bda9e15627b171069d9d0181ca64"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/wailing_caverns/classic_wailing_caverns.cpp",
+      "sha": "09396781531322c705c66c6cb9188b11d20968fc"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/wailing_caverns/classic_wailing_caverns.h",
+      "sha": "ebd39896bd2f3c056e474235f8b0f80c3196823f"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/zulfarrak/classic_instance_zulfarrak.cpp",
+      "sha": "7f59abd9546e7833093031046b3d7c3e4252172d"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/zulfarrak/classic_zulfarrak.cpp",
+      "sha": "f67c49118b15e7a6fde073cde2011ea69322d807"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/zulfarrak/classic_zulfarrak.h",
+      "sha": "7a0a0f627d37941d704bb4d0db01e8cb9e857168"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/zulgurub/classic_boss_arlokk.cpp",
+      "sha": "744ca0ea20edbab6fc77b7df78cdc4b568643125"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/zulgurub/classic_boss_gahzranka.cpp",
+      "sha": "92d4e347c958b6fe007b4beb13d49f50835400c3"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/zulgurub/classic_boss_hakkar.cpp",
+      "sha": "7fd37d7a793f5e35fc62bcbdb7f0be904202fe88"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/zulgurub/classic_boss_jeklik.cpp",
+      "sha": "b1f0739c20ab070c64a154cd252006483d6e509a"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/zulgurub/classic_boss_jindo.cpp",
+      "sha": "fd71fa7bae281dfc5491f54d974d4eeb4ceb396c"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/zulgurub/classic_boss_mandokir.cpp",
+      "sha": "c99e3a4996ddf8be48566d34121e43421476f18f"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/zulgurub/classic_boss_marli.cpp",
+      "sha": "5c3c6ef5ed7d52448549c04840cb82c46e5d6d41"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/zulgurub/classic_boss_renataki.cpp",
+      "sha": "ab99594314b8398c3a2c9eb9ec9c7a3d9b7a2c81"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/zulgurub/classic_boss_venoxis.cpp",
+      "sha": "4688246a0f41de3257076f2cbf9239f67a5f00c4"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/zulgurub/classic_instance_zulgurub.cpp",
+      "sha": "c1a62f9723ced9f41200e305e28dd64eb60191af"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/zulgurub/classic_zulgurub.h",
+      "sha": "6e1fd89190274f673cb8e47f9df30deef05e1af6"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/instances/zulgurub/classic_zulgurub_trash.cpp",
+      "sha": "4997f2c88b7727949a5bfbe2ebba1542fd11f9c4"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/kalimdor/classic_ashenvale.cpp",
+      "sha": "a30d9b8dfea2c07383eae7f7f68e92ca5ad70381"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/kalimdor/classic_darkshore.cpp",
+      "sha": "b60e39a2a8e36a90f88a04ddd607c65f56b4335e"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/kalimdor/classic_desolace.cpp",
+      "sha": "2be7170c5cb4b4f5550dc19f5a6a135eb61c2d4b"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/kalimdor/classic_dustwallow_marsh.cpp",
+      "sha": "cf889d7a38e373775e4f6a1e8e919d26489d999e"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/kalimdor/classic_felwood.cpp",
+      "sha": "fdeb8199d4edeba50b4dc35f8457f099d7bd8ce9"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/kalimdor/classic_feralas.cpp",
+      "sha": "a2695cb9d6dc5a0bdab8ddd229ebd50c6890f506"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/kalimdor/classic_moonglade.cpp",
+      "sha": "45ce2e9107436b3199f87992d6d1440b4e2c9634"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/kalimdor/classic_silithus.cpp",
+      "sha": "c968cad76f0151640e3c8c1f9bcef4c1366e3ab7"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/kalimdor/classic_stonetalon_mountains.cpp",
+      "sha": "3ba48938649f8e7f8079ad5b9de1f1853928af72"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/kalimdor/classic_tanaris.cpp",
+      "sha": "31a6570c4598291212d24591a9b644d34d9eee3f"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/kalimdor/classic_the_barrens.cpp",
+      "sha": "82e0ade7b6cc2baf1b3980d9f8204a0afd1aefdb"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/kalimdor/classic_thousand_needles.cpp",
+      "sha": "81d033ce250fb4dd0b1b532bd47375e677d0ca0c"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/kalimdor/classic_ungoro_crater.cpp",
+      "sha": "3ffd86e654ba7e6d88eaf5288a9447fe7075a524"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/kalimdor/classic_winterspring.cpp",
+      "sha": "d98b0ca587b8e7b5b53b135d6301ade13f463b74"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/ClassicPriestSpells.h",
+      "sha": "6d8e35e36f6451d3c5bcdad5844c98b60787513d"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/classic_armory_commands.cpp",
+      "sha": "73c86957030772ad22aa607f8837d23d3af7c130"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/classic_dbscript_spells.cpp",
+      "sha": "60c942bb95448097f97f4bf64fe7eb1e8617b7b5"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/classic_discord_commands.cpp",
+      "sha": "94f215a4747d36efc75884b261b16324e3c14623"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/classic_go_scripts.cpp",
+      "sha": "4d08c52c950c26c45c283c143c15216a6428a55c"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/classic_legacy_commands.cpp",
+      "sha": "d37a42f32a3db46fda5e023a108cdda8ac4f77bc"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/classic_npcs_special.cpp",
+      "sha": "bf9498cc2dbc01b9f669221653f7762fdc9e5582"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/classic_shop_commands.cpp",
+      "sha": "87999a37fbec343ddbd56549f1e4449f56deebe2"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/classic_spell_scripts.cpp",
+      "sha": "cfb78759cdc370e353d750245dbc5eb8d8d8c2cd"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/classic_spells_priest.cpp",
+      "sha": "fcabb44616275345b39e55947907ae4eed1fedf6"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/classic_world_event_dragons_of_nightmare.cpp",
+      "sha": "d0975604351052fb404664a10cdd05fd10c5e57f"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/classic_world_event_wareffort.cpp",
+      "sha": "be6fd475ec1d92d27659d21007818e777e895cf0"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/talents/classic_rogue_abilities.cpp",
+      "sha": "41cb8dd2486542ea0cae81d6c9a7f7fd4861593d"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/talents/classic_talents_mage_shaman.cpp",
+      "sha": "5934c8d5783ef92cd139c7316cbcd8f8b52196f1"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/talents/classic_talents_priest_paladin.cpp",
+      "sha": "feabb3c7bbca08a685f9a0d862c1cb201b13d606"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/talents/classic_talents_warlock_druid.cpp",
+      "sha": "96efc384536ebb1d756bd0bfa4bf1e357b5ffd22"
+    },
+    {
+      "path": "src/server/scripts/Custom/Classic/world/talents/classic_talents_warrior_rogue_hunter.cpp",
+      "sha": "1c7c3023e2159f5a7775a23e68f393b5f5b04871"
+    }
+  ],
+  "counts": {
+    "files": 235,
+    "boss_cpp": 107,
+    "instance_cpp": 30
+  }
+}
