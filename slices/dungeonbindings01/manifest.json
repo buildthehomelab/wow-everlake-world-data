@@ -1,0 +1,21 @@
+{
+  "file": "2026_11_10_42_world_everlake_mutanus_instance_state.sql",
+  "tables": {
+    "smart_scripts": {
+      "key": [
+        3654,
+        0,
+        0
+      ],
+      "changed_columns": [
+        "action_param1",
+        "action_param3",
+        "comment"
+      ],
+      "rows_changed": 1
+    }
+  },
+  "sha256": "17edb9e73dd2ee3a6efb8ec25f43a72ba0d31ed109d9360494abf592734db696",
+  "new_spell_unlocks": 0,
+  "shared_world_changed": false
+}
