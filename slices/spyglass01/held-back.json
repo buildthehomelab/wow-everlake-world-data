@@ -1,0 +1,590 @@
+{
+  "client": "1.60.1.70862",
+  "spyglass_candidates": [
+    {
+      "boss": "Lorgus Jett",
+      "npc": 12902,
+      "item": 253978,
+      "tracker_spells": [
+        1257414
+      ],
+      "file": "dungeons/blackfathom_deeps.json",
+      "encounter": 2913,
+      "decision": "hold",
+      "reason": "No verified rate fetched for this Lorgus Jett pair."
+    },
+    {
+      "boss": "Lorgus Jett",
+      "npc": 12902,
+      "item": 253982,
+      "tracker_spells": [
+        1257416
+      ],
+      "file": "dungeons/blackfathom_deeps.json",
+      "encounter": 2913,
+      "decision": "hold",
+      "reason": "No verified rate fetched for this Lorgus Jett pair."
+    },
+    {
+      "boss": "Old Serra'kis",
+      "npc": 4830,
+      "item": 253982,
+      "tracker_spells": [
+        1257416
+      ],
+      "file": "dungeons/blackfathom_deeps.json",
+      "encounter": 2912,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Aku'mai",
+      "npc": 4829,
+      "item": 253984,
+      "tracker_spells": [
+        1257417
+      ],
+      "file": "dungeons/blackfathom_deeps.json",
+      "encounter": 2910,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Rhahk'Zor",
+      "npc": 644,
+      "item": 253906,
+      "tracker_spells": [
+        1257378
+      ],
+      "file": "dungeons/deadmines.json",
+      "encounter": 2741,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Sneed",
+      "npc": 643,
+      "item": 253902,
+      "tracker_spells": [
+        1257376
+      ],
+      "file": "dungeons/deadmines.json",
+      "encounter": 2742,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Gilnid",
+      "npc": 1763,
+      "item": 253904,
+      "tracker_spells": [
+        1257377
+      ],
+      "file": "dungeons/deadmines.json",
+      "encounter": 2743,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Gilnid",
+      "npc": 1763,
+      "item": 253906,
+      "tracker_spells": [
+        1257378
+      ],
+      "file": "dungeons/deadmines.json",
+      "encounter": 2743,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Edwin VanCleef",
+      "npc": 639,
+      "item": 253938,
+      "tracker_spells": [
+        1257394
+      ],
+      "file": "dungeons/deadmines.json",
+      "encounter": 2747,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Edwin VanCleef",
+      "npc": 639,
+      "item": 253948,
+      "tracker_spells": [
+        1257399
+      ],
+      "file": "dungeons/deadmines.json",
+      "encounter": 2747,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Slavecrusher Grox",
+      "npc": null,
+      "item": 273101,
+      "tracker_spells": [
+        1291341
+      ],
+      "file": "dungeons/krol_dok_stronghold.json",
+      "encounter": 3450,
+      "decision": "hold",
+      "reason": "Wowhead estimates 6.25%, but Grox NPC identity/template/spawn are missing locally; map 3039 has no creature spawns."
+    },
+    {
+      "boss": "Jergosh the Invoker",
+      "npc": 11518,
+      "item": 253906,
+      "tracker_spells": [
+        1257378
+      ],
+      "file": "dungeons/ragefire_chasm.json",
+      "encounter": 2734,
+      "decision": "hold",
+      "reason": "No verified rate fetched for this Jergosh pair."
+    },
+    {
+      "boss": "Bazzalan",
+      "npc": 11519,
+      "item": 253908,
+      "tracker_spells": [
+        1257379
+      ],
+      "file": "dungeons/ragefire_chasm.json",
+      "encounter": 2735,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Bazzalan",
+      "npc": 11519,
+      "item": 253910,
+      "tracker_spells": [
+        1257380
+      ],
+      "file": "dungeons/ragefire_chasm.json",
+      "encounter": 2735,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Ragglesnout",
+      "npc": 7354,
+      "item": 251399,
+      "tracker_spells": [
+        1252296
+      ],
+      "file": "dungeons/razorfen_downs.json",
+      "encounter": 2783,
+      "decision": "hold",
+      "reason": "Potential new spell 1252296; spawned on map 129, but no numeric observed drop estimate. Registry and Spyglass name Ragglesnout."
+    },
+    {
+      "boss": "Glutton",
+      "npc": null,
+      "item": 251402,
+      "tracker_spells": [
+        1252299
+      ],
+      "file": "dungeons/razorfen_downs.json",
+      "encounter": 2784,
+      "decision": "hold",
+      "reason": "Potential new spell 1252299; resolve Glutton to 8567 on map 129, but no numeric observed drop estimate. Norgannon uses zero as unknown."
+    },
+    {
+      "boss": "Fel Steed",
+      "npc": 3864,
+      "item": 251341,
+      "tracker_spells": [
+        1252238
+      ],
+      "file": "dungeons/shadowfang_keep.json",
+      "encounter": -3864,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Fel Steed",
+      "npc": 3864,
+      "item": 253902,
+      "tracker_spells": [
+        1257376
+      ],
+      "file": "dungeons/shadowfang_keep.json",
+      "encounter": -3864,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Fel Steed",
+      "npc": 3864,
+      "item": 253904,
+      "tracker_spells": [
+        1257377
+      ],
+      "file": "dungeons/shadowfang_keep.json",
+      "encounter": -3864,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Fel Steed",
+      "npc": 3864,
+      "item": 253906,
+      "tracker_spells": [
+        1257378
+      ],
+      "file": "dungeons/shadowfang_keep.json",
+      "encounter": -3864,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Fel Steed",
+      "npc": 3864,
+      "item": 253908,
+      "tracker_spells": [
+        1257379
+      ],
+      "file": "dungeons/shadowfang_keep.json",
+      "encounter": -3864,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Fel Steed",
+      "npc": 3864,
+      "item": 253910,
+      "tracker_spells": [
+        1257380
+      ],
+      "file": "dungeons/shadowfang_keep.json",
+      "encounter": -3864,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Fel Steed",
+      "npc": 3864,
+      "item": 253912,
+      "tracker_spells": [
+        1257381
+      ],
+      "file": "dungeons/shadowfang_keep.json",
+      "encounter": -3864,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Fel Steed",
+      "npc": 3864,
+      "item": 253940,
+      "tracker_spells": [
+        1257395
+      ],
+      "file": "dungeons/shadowfang_keep.json",
+      "encounter": -3864,
+      "decision": "hold",
+      "reason": "Not in the inspected Icy Veins Fel Steed drop list; need direct corroboration and rate."
+    },
+    {
+      "boss": "Fel Steed",
+      "npc": 3864,
+      "item": 253946,
+      "tracker_spells": [
+        1257398
+      ],
+      "file": "dungeons/shadowfang_keep.json",
+      "encounter": -3864,
+      "decision": "hold",
+      "reason": "Not in the inspected Icy Veins Fel Steed drop list; need direct corroboration and rate."
+    },
+    {
+      "boss": "Fel Steed",
+      "npc": 3864,
+      "item": 253948,
+      "tracker_spells": [
+        1257399
+      ],
+      "file": "dungeons/shadowfang_keep.json",
+      "encounter": -3864,
+      "decision": "hold",
+      "reason": "Not in the inspected Icy Veins Fel Steed drop list; need direct corroboration and rate."
+    },
+    {
+      "boss": "Targorr the Dread",
+      "npc": 1696,
+      "item": 253942,
+      "tracker_spells": [
+        1257396
+      ],
+      "file": "dungeons/stormwind_stockade.json",
+      "encounter": 2756,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Kam Deepfury",
+      "npc": 1666,
+      "item": 252815,
+      "tracker_spells": [
+        1255092
+      ],
+      "file": "dungeons/stormwind_stockade.json",
+      "encounter": 2757,
+      "decision": "verified_sql",
+      "reason": "Exact Spyglass pair and Icy Veins estimate; verified client learning and local route."
+    },
+    {
+      "boss": "Bazil Thredd",
+      "npc": 1716,
+      "item": 253986,
+      "tracker_spells": [
+        1257418
+      ],
+      "file": "dungeons/stormwind_stockade.json",
+      "encounter": 2760,
+      "decision": "hold",
+      "reason": "Not in the inspected Icy Veins Bazil drop list; need direct corroboration and rate."
+    }
+  ],
+  "registry_vendor_candidates": [
+    {
+      "spell": 428424,
+      "item": 211247,
+      "name": "Phoenix Bindings",
+      "places": [
+        "Elaine Compton",
+        "Jornah",
+        "Dokimi",
+        "Gishah",
+        "Tamelyn Aldridge",
+        "Marcy Baker"
+      ],
+      "decision": "unavailable_conflicting_source",
+      "reason": "Wowhead Forever item page marks unavailable to players; vendor list appears alongside that warning. Do not import without a current observation."
+    },
+    {
+      "spell": 431362,
+      "item": 212230,
+      "name": "Soul Vessel",
+      "places": [
+        "Elaine Compton",
+        "Jornah",
+        "Dokimi",
+        "Gishah",
+        "Tamelyn Aldridge",
+        "Marcy Baker"
+      ],
+      "decision": "unavailable_conflicting_source",
+      "reason": "Wowhead Forever item page marks unavailable to players; vendor list appears alongside that warning. Do not import without a current observation."
+    },
+    {
+      "spell": 435481,
+      "item": 215129,
+      "name": "Enchant Weapon - Dismantle",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock."
+    },
+    {
+      "spell": 435819,
+      "item": 215367,
+      "name": "Faintly Glowing Leather",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock."
+    },
+    {
+      "spell": 435827,
+      "item": 215368,
+      "name": "Hyperconductive Arcano-Filament",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock."
+    },
+    {
+      "spell": 435903,
+      "item": 215138,
+      "name": "Enchant Chest - Retricutioner",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock."
+    },
+    {
+      "spell": 435910,
+      "item": 215384,
+      "name": "Low-Background Truesilver Plates",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock."
+    },
+    {
+      "spell": 435956,
+      "item": 215429,
+      "name": "Polished Truesilver Gears",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock."
+    },
+    {
+      "spell": 435964,
+      "item": 215431,
+      "name": "High-Yield Radiation Bomb",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock."
+    },
+    {
+      "spell": 435966,
+      "item": 215432,
+      "name": "Ez-Thro Radiation Bomb",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock."
+    },
+    {
+      "spell": 439156,
+      "item": 215141,
+      "name": "Sigil of Innovation",
+      "places": [
+        "Ziri \"The Wrench\" Littlesprocket"
+      ],
+      "decision": "historical_source_unconfirmed",
+      "reason": "Ziri source is not resolved to a local Forever NPC; retained client spell/item is insufficient evidence of live vendor stock."
+    },
+    {
+      "spell": 439960,
+      "item": 217399,
+      "name": "Lesser Arcane Elixir",
+      "places": [],
+      "decision": "unavailable_conflicting_source",
+      "reason": "Wowhead Forever item page marks unavailable to players; vendor list appears alongside that warning. Do not import without a current observation."
+    },
+    {
+      "spell": 1248668,
+      "item": 249523,
+      "name": "Enchant 2H Weapon - Strength",
+      "places": [
+        "Dalria",
+        "Kulwia"
+      ],
+      "decision": "source_conflict",
+      "reason": "Registry names Dalria/Kulwia, but no exact-ID observed stock, cost or restock. Those vendors also sell a different Lesser Strength bracer formula; do not conflate."
+    },
+    {
+      "spell": 1257492,
+      "item": 254134,
+      "name": "Mooncloth Reagent Bag",
+      "places": [
+        "Dala Fairmaw"
+      ],
+      "decision": "npc_and_purchase_blocked",
+      "reason": "Dala Fairmaw is NPC 256629, confirmed by Norgannon and Wowhead; missing local template/spawn. Friendly for Sweetpaw Jam, Honored for the other two. Pinned base item table lacks those reputation gates; verify live hotfix and purchase costs."
+    },
+    {
+      "spell": 1263034,
+      "item": 273092,
+      "name": "Repair Bot",
+      "places": [
+        "Happy Camper"
+      ],
+      "decision": "already_covered",
+      "reason": "Verified Sneed drop in prior draft; Happy Camper vendor remains unverified."
+    },
+    {
+      "spell": 1294014,
+      "item": 274415,
+      "name": "Sweetpaw Jam",
+      "places": [
+        "Dala Fairmaw"
+      ],
+      "decision": "npc_and_purchase_blocked",
+      "reason": "Dala Fairmaw is NPC 256629, confirmed by Norgannon and Wowhead; missing local template/spawn. Friendly for Sweetpaw Jam, Honored for the other two. Pinned base item table lacks those reputation gates; verify live hotfix and purchase costs."
+    },
+    {
+      "spell": 1294054,
+      "item": 274424,
+      "name": "Enchant Gloves - Lotus Claw",
+      "places": [
+        "Dala Fairmaw"
+      ],
+      "decision": "npc_and_purchase_blocked",
+      "reason": "Dala Fairmaw is NPC 256629, confirmed by Norgannon and Wowhead; missing local template/spawn. Friendly for Sweetpaw Jam, Honored for the other two. Pinned base item table lacks those reputation gates; verify live hotfix and purchase costs."
+    },
+    {
+      "spell": 1317962,
+      "item": 285289,
+      "name": "Cracked Blacksmith Hammer",
+      "places": [
+        "Gor'mak",
+        "Stondry Darkhammer"
+      ],
+      "decision": "already_covered",
+      "reason": "Existing spawned vendor route; hammer recipes are in PR #25 and Boots Speed in prior drafts."
+    },
+    {
+      "spell": 1317963,
+      "item": 285290,
+      "name": "Mithril Blacksmith Hammer",
+      "places": [
+        "Gor'mak",
+        "Stondry Darkhammer"
+      ],
+      "decision": "already_covered",
+      "reason": "Existing spawned vendor route; hammer recipes are in PR #25 and Boots Speed in prior drafts."
+    },
+    {
+      "spell": 1317964,
+      "item": 285291,
+      "name": "Arcanite Blacksmith Hammer",
+      "places": [
+        "Gor'mak",
+        "Stondry Darkhammer"
+      ],
+      "decision": "already_covered",
+      "reason": "Existing spawned vendor route; hammer recipes are in PR #25 and Boots Speed in prior drafts."
+    },
+    {
+      "spell": 1328948,
+      "item": 289560,
+      "name": "Enchant Boots - Speed",
+      "places": [
+        "Beneris",
+        "Alynsia"
+      ],
+      "decision": "already_covered",
+      "reason": "Existing spawned vendor route; hammer recipes are in PR #25 and Boots Speed in prior drafts."
+    }
+  ],
+  "new_unlock_priority": [
+    1291341,
+    1252296,
+    1252299,
+    1257492,
+    1294014,
+    1294054,
+    1248668
+  ],
+  "sql_rows": 19,
+  "new_spell_unlocks": 0,
+  "note": "Separate from the other active session; no existing PR files changed."
+}

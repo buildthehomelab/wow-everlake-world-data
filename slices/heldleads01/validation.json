@@ -1,0 +1,29 @@
+{
+  "schema": "codex_heldleads_01a1c7e8",
+  "source": "read-only snapshot of world; no source-row cleanup",
+  "copied": {
+    "creature": 43,
+    "creature_template": 2,
+    "creature_template_difficulty": 2,
+    "creature_loot_template": 90,
+    "reference_loot_template": 10008,
+    "smart_scripts": 3,
+    "everlake_import_rows": 1612
+  },
+  "rows_added": 1,
+  "replay": "unchanged",
+  "sql_rewrite_statements": 10,
+  "verified_routes": [
+    [
+      4151,
+      251457,
+      1252354
+    ]
+  ],
+  "negative_guards": [
+    "missing spawn",
+    "existing row preserved"
+  ],
+  "sha256": "21c67fe13c73d301161854adcbdeb41057bb64e7c2ee6dd2d7c382cc5fb5b134",
+  "new_spell_unlocks": 1
+}
