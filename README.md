@@ -13,6 +13,12 @@ realm running a TrinityCore fork; this repository holds only data. The generator
   kept out of the files), `held-back.md` (rows that need something we don't have, and why) and `dry-run.md` (the two
   dry runs and their checks).
 
+- `sql/world/YYYY_MM_DD_NNN_world_everlake_build.sql` (NNN from 950) and `build/<the file's name>.json`: the world
+  build's files, written by the [ForeverTracker](https://github.com/buildthehomelab/wow-forever-tracker)
+  (`python tools/tracker.py world export`, described in its `docs/WORLD-BUILD.md`). The tracker replays the fork's
+  world, weighs what the sources say against it and writes what the world lacks. The manifest lists every row with
+  the rule that passed it and its witnesses, the pins of the sources, and what was held back and why.
+
 ## Rules the files follow
 
 - A file is never changed once it is deployed: the updater would run it, and every later custom file, again. A later
