@@ -75,5 +75,13 @@ gave it:
   player back to, taken as that quest's ender where exactly one spawned creature has that name. Only the two ids are
   written; no text of the page is copied. The project's decision of 2026-11-14: Wowhead, a public copy of what
   players recorded, is the main source of truth, ahead of QuestieDB and Icy Veins.
+- operation 22: EG Link's quest records (CC BY 4.0, credited above), for quests the world already had: each quest as
+  the live server sent it to a client, read again from the newest client build that recorded it. Where that record
+  is from a later build than the row and says something else, the row takes it: titles and texts, reputation (compared
+  in points, whether a row gives it as a tier or as an override), the XP difficulty and multiplier, a battleground's
+  currency, the level a quest is offered from. The texts are the server's own, as the game sends them. Each statement
+  names the value it replaces, so it changes nothing where a row was changed since, and nothing when it runs again.
+  Not taken: money and a quest's own level (the server sends those for the player who asked), a value the record does
+  not state, and the fields that decide how the server handles a quest (type, flags, zone, races, the next quest).
 
 Game content such as names and text belongs to Blizzard Entertainment.
