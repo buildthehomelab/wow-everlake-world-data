@@ -6,6 +6,8 @@
 -- QuestieDB (https://github.com/Questie/QuestieDB), with players' QuestieTrace recordings, GPL-3.0.
 -- Game names and text belong to Blizzard Entertainment.
 -- Each row is recorded in `everlake_import_rows` with the rule that passed it and the sources that state it.
+-- Corrected 2026-11-13 before any realm applied it: the stage tables' `n` and `note` columns got defaults, so the
+-- CREATE TEMPORARY TABLE ... SELECT statements also run under MySQL's strict mode (error 1364 on the PTR before).
 -- Never edit this file once it is deployed (the updater would run it and every later custom file again):
 -- a later fix is a new file. Running it again changes nothing.
 CREATE TABLE IF NOT EXISTS `everlake_import_rows` (
@@ -20,7 +22,7 @@ CREATE TABLE IF NOT EXISTS `everlake_import_rows` (
   KEY `file` (`file`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT='Rows the Everlake world import added';
 START TRANSACTION;
-CREATE TEMPORARY TABLE `everlake_build_npcs` (`n` INT NOT NULL PRIMARY KEY, `note` VARCHAR(255) NOT NULL, `missing` TINYINT NOT NULL DEFAULT 0) SELECT `entry`, `KillCredit1`, `KillCredit2`, `name`, `subname`, `IconName`, `faction`, `Classification`, `type`, `family`, `movementId`, `unit_class`, `BaseAttackTime`, `RangeAttackTime`, `unit_flags2` FROM `creature_template` WHERE 0;
+CREATE TEMPORARY TABLE `everlake_build_npcs` (`n` INT NOT NULL DEFAULT 0 PRIMARY KEY, `note` VARCHAR(255) NOT NULL DEFAULT '', `missing` TINYINT NOT NULL DEFAULT 0) SELECT `entry`, `KillCredit1`, `KillCredit2`, `name`, `subname`, `IconName`, `faction`, `Classification`, `type`, `family`, `movementId`, `unit_class`, `BaseAttackTime`, `RangeAttackTime`, `unit_flags2` FROM `creature_template` WHERE 0;
 INSERT INTO `everlake_build_npcs` (`n`, `entry`, `KillCredit1`, `KillCredit2`, `name`, `subname`, `IconName`, `faction`, `Classification`, `type`, `family`, `movementId`, `unit_class`, `BaseAttackTime`, `RangeAttackTime`, `unit_flags2`, `note`) VALUES
 (1, 210845, 0, 0, 'Jixo Madrocket', 'Amateur Daredevil', NULL, 83, 0, 7, 0, 1693, 1, 2000, 2000, 2048, 'record-seen-live: eglink@70888, questie:trace, questie:generated'), -- Jixo Madrocket
 (2, 214954, 0, 0, 'Rix Xizzix', 'Lost and Found', NULL, 35, 0, 7, 0, 1693, 1, 2000, 2000, 2048, 'record-seen-live: eglink@70938, questie:trace, questie:fix, questie:generated'), -- Rix Xizzix
@@ -34,7 +36,7 @@ INSERT INTO `everlake_build_npcs` (`n`, `entry`, `KillCredit1`, `KillCredit2`, `
 (10, 276877, 0, 0, 'Great Gray Kodo', NULL, NULL, 83, 0, 1, 0, 1698, 1, 2000, 2000, 2048, 'record-seen-live: eglink@70888, questie:trace, questie:generated'), -- Great Gray Kodo
 (11, 276879, 0, 0, 'Great White Kodo', NULL, NULL, 83, 0, 1, 0, 1698, 1, 2000, 2000, 2048, 'record-seen-live: eglink@70888, questie:trace, questie:generated') -- Great White Kodo
 ;
-CREATE TEMPORARY TABLE `everlake_build_models` (`n` INT NOT NULL PRIMARY KEY, `unknown` TINYINT NOT NULL DEFAULT 0) SELECT `CreatureID`, `Idx`, `CreatureDisplayID`, `DisplayScale`, `Probability` FROM `creature_template_model` WHERE 0;
+CREATE TEMPORARY TABLE `everlake_build_models` (`n` INT NOT NULL DEFAULT 0 PRIMARY KEY, `unknown` TINYINT NOT NULL DEFAULT 0) SELECT `CreatureID`, `Idx`, `CreatureDisplayID`, `DisplayScale`, `Probability` FROM `creature_template_model` WHERE 0;
 INSERT INTO `everlake_build_models` (`n`, `CreatureID`, `Idx`, `CreatureDisplayID`, `DisplayScale`, `Probability`) VALUES
 (1, 210845, 0, 7193, 1.0, 1.0),
 (2, 214954, 0, 116260, 1.0, 100.0),
@@ -52,7 +54,7 @@ UPDATE `everlake_build_models` p SET p.`unknown` = 1 WHERE NOT EXISTS (SELECT 1 
 UPDATE `everlake_build_npcs` s SET s.`missing` = 1 WHERE NOT EXISTS (SELECT 1 FROM `creature_template` t WHERE t.`entry` = s.`entry`) AND NOT EXISTS (SELECT 1 FROM `everlake_import_rows` r WHERE r.`tbl` IN ('creature_template', 'creature_template_difficulty', 'creature_template_model', 'creature_classic_level') AND r.`k1` = s.`entry`) AND NOT EXISTS (SELECT 1 FROM `creature_template_difficulty` c WHERE c.`Entry` = s.`entry`) AND NOT EXISTS (SELECT 1 FROM `creature_template_model` c WHERE c.`CreatureID` = s.`entry`) AND NOT EXISTS (SELECT 1 FROM `creature_classic_level` c WHERE c.`entry` = s.`entry`) AND NOT EXISTS (SELECT 1 FROM `everlake_build_models` p WHERE p.`CreatureID` = s.`entry` AND p.`unknown` = 1);
 INSERT INTO `creature_template` (`entry`, `KillCredit1`, `KillCredit2`, `name`, `subname`, `IconName`, `faction`, `Classification`, `type`, `family`, `movementId`, `unit_class`, `BaseAttackTime`, `RangeAttackTime`, `unit_flags2`, `VerifiedBuild`) SELECT `entry`, `KillCredit1`, `KillCredit2`, `name`, `subname`, `IconName`, `faction`, `Classification`, `type`, `family`, `movementId`, `unit_class`, `BaseAttackTime`, `RangeAttackTime`, `unit_flags2`, 0 FROM `everlake_build_npcs` s WHERE s.`missing` = 1 ORDER BY s.`n`;
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `file`, `note`) SELECT 'creature_template', s.`entry`, '2026_11_14_950_world_everlake_build.sql', s.`note` FROM `everlake_build_npcs` s WHERE s.`missing` = 1;
-CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL PRIMARY KEY) SELECT `Entry`, `DifficultyID`, `HealthModifier`, `ManaModifier`, `CreatureDifficultyID`, `TypeFlags`, `TypeFlags2`, `TypeFlags3` FROM `creature_template_difficulty` WHERE 0;
+CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL DEFAULT 0 PRIMARY KEY) SELECT `Entry`, `DifficultyID`, `HealthModifier`, `ManaModifier`, `CreatureDifficultyID`, `TypeFlags`, `TypeFlags2`, `TypeFlags3` FROM `creature_template_difficulty` WHERE 0;
 INSERT INTO `everlake_build_stage` (`n`, `Entry`, `DifficultyID`, `HealthModifier`, `ManaModifier`, `CreatureDifficultyID`, `TypeFlags`, `TypeFlags2`, `TypeFlags3`) VALUES
 (1, 210845, 0, 1.0, 1.0, 260190, 134217728, 0, 0),
 (2, 214954, 0, 1.02, 1.0, 264417, 134217728, 0, 0),
@@ -72,7 +74,7 @@ DROP TEMPORARY TABLE `everlake_build_stage`;
 INSERT INTO `creature_template_model` (`CreatureID`, `Idx`, `CreatureDisplayID`, `DisplayScale`, `Probability`, `VerifiedBuild`) SELECT p.`CreatureID`, p.`Idx`, p.`CreatureDisplayID`, p.`DisplayScale`, p.`Probability`, 0 FROM `everlake_build_models` p JOIN `everlake_build_npcs` s ON s.`entry` = p.`CreatureID` WHERE s.`missing` = 1 ORDER BY p.`n`;
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `file`, `note`) SELECT 'creature_template_model', p.`CreatureID`, p.`Idx`, '2026_11_14_950_world_everlake_build.sql', s.`note` FROM `everlake_build_models` p JOIN `everlake_build_npcs` s ON s.`entry` = p.`CreatureID` WHERE s.`missing` = 1;
 DROP TEMPORARY TABLE `everlake_build_models`;
-CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL PRIMARY KEY) SELECT `entry`, `level_min`, `level_max` FROM `creature_classic_level` WHERE 0;
+CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL DEFAULT 0 PRIMARY KEY) SELECT `entry`, `level_min`, `level_max` FROM `creature_classic_level` WHERE 0;
 INSERT INTO `everlake_build_stage` (`n`, `entry`, `level_min`, `level_max`) VALUES
 (1, 210845, 20, 20),
 (2, 214954, 45, 45),
@@ -90,7 +92,7 @@ INSERT INTO `creature_classic_level` (`entry`, `level_min`, `level_max`) SELECT 
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `file`, `note`) SELECT 'creature_classic_level', p.`entry`, '2026_11_14_950_world_everlake_build.sql', s.`note` FROM `everlake_build_stage` p JOIN `everlake_build_npcs` s ON s.`entry` = p.`entry` WHERE s.`missing` = 1;
 DROP TEMPORARY TABLE `everlake_build_stage`;
 DROP TEMPORARY TABLE `everlake_build_npcs`;
-CREATE TEMPORARY TABLE `everlake_build_quests` (`n` INT NOT NULL PRIMARY KEY, `note` VARCHAR(255) NOT NULL, `missing` TINYINT NOT NULL DEFAULT 0) SELECT `ID`, `RewardItem1`, `RewardAmount1`, `ItemDrop1`, `ItemDropQuantity1`, `RewardItem2`, `RewardAmount2`, `ItemDrop2`, `ItemDropQuantity2`, `RewardItem3`, `RewardAmount3`, `ItemDrop3`, `ItemDropQuantity3`, `RewardItem4`, `RewardAmount4`, `ItemDrop4`, `ItemDropQuantity4`, `RewardChoiceItemID1`, `RewardChoiceItemQuantity1`, `RewardChoiceItemID2`, `RewardChoiceItemQuantity2`, `RewardChoiceItemID3`, `RewardChoiceItemQuantity3`, `RewardChoiceItemID4`, `RewardChoiceItemQuantity4`, `RewardChoiceItemID5`, `RewardChoiceItemQuantity5`, `RewardChoiceItemID6`, `RewardChoiceItemQuantity6`, `RewardFactionID1`, `RewardFactionValue1`, `RewardFactionOverride1`, `RewardFactionCapIn1`, `RewardFactionID2`, `RewardFactionValue2`, `RewardFactionOverride2`, `RewardFactionCapIn2`, `RewardFactionID3`, `RewardFactionValue3`, `RewardFactionOverride3`, `RewardFactionCapIn3`, `RewardFactionID4`, `RewardFactionValue4`, `RewardFactionOverride4`, `RewardFactionCapIn4`, `RewardFactionID5`, `RewardFactionValue5`, `RewardFactionOverride5`, `RewardFactionCapIn5`, `RewardCurrencyID1`, `RewardCurrencyQty1`, `RewardCurrencyID2`, `RewardCurrencyQty2`, `RewardCurrencyID3`, `RewardCurrencyQty3`, `RewardCurrencyID4`, `RewardCurrencyQty4`, `QuestType`, `QuestInfoID`, `RewardNextQuest`, `StartItem`, `Flags`, `FlagsEx`, `FlagsEx2`, `TimeAllowed`, `QuestSortID`, `RewardXPDifficulty`, `RewardXPMultiplier`, `RewardSpell`, `AllowableRaces`, `AcceptedSoundKitID`, `CompleteSoundKitID`, `Expansion`, `LogTitle`, `LogDescription`, `QuestDescription`, `AreaDescription`, `QuestCompletionLog` FROM `quest_template` WHERE 0;
+CREATE TEMPORARY TABLE `everlake_build_quests` (`n` INT NOT NULL DEFAULT 0 PRIMARY KEY, `note` VARCHAR(255) NOT NULL DEFAULT '', `missing` TINYINT NOT NULL DEFAULT 0) SELECT `ID`, `RewardItem1`, `RewardAmount1`, `ItemDrop1`, `ItemDropQuantity1`, `RewardItem2`, `RewardAmount2`, `ItemDrop2`, `ItemDropQuantity2`, `RewardItem3`, `RewardAmount3`, `ItemDrop3`, `ItemDropQuantity3`, `RewardItem4`, `RewardAmount4`, `ItemDrop4`, `ItemDropQuantity4`, `RewardChoiceItemID1`, `RewardChoiceItemQuantity1`, `RewardChoiceItemID2`, `RewardChoiceItemQuantity2`, `RewardChoiceItemID3`, `RewardChoiceItemQuantity3`, `RewardChoiceItemID4`, `RewardChoiceItemQuantity4`, `RewardChoiceItemID5`, `RewardChoiceItemQuantity5`, `RewardChoiceItemID6`, `RewardChoiceItemQuantity6`, `RewardFactionID1`, `RewardFactionValue1`, `RewardFactionOverride1`, `RewardFactionCapIn1`, `RewardFactionID2`, `RewardFactionValue2`, `RewardFactionOverride2`, `RewardFactionCapIn2`, `RewardFactionID3`, `RewardFactionValue3`, `RewardFactionOverride3`, `RewardFactionCapIn3`, `RewardFactionID4`, `RewardFactionValue4`, `RewardFactionOverride4`, `RewardFactionCapIn4`, `RewardFactionID5`, `RewardFactionValue5`, `RewardFactionOverride5`, `RewardFactionCapIn5`, `RewardCurrencyID1`, `RewardCurrencyQty1`, `RewardCurrencyID2`, `RewardCurrencyQty2`, `RewardCurrencyID3`, `RewardCurrencyQty3`, `RewardCurrencyID4`, `RewardCurrencyQty4`, `QuestType`, `QuestInfoID`, `RewardNextQuest`, `StartItem`, `Flags`, `FlagsEx`, `FlagsEx2`, `TimeAllowed`, `QuestSortID`, `RewardXPDifficulty`, `RewardXPMultiplier`, `RewardSpell`, `AllowableRaces`, `AcceptedSoundKitID`, `CompleteSoundKitID`, `Expansion`, `LogTitle`, `LogDescription`, `QuestDescription`, `AreaDescription`, `QuestCompletionLog` FROM `quest_template` WHERE 0;
 INSERT INTO `everlake_build_quests` (`n`, `ID`, `RewardItem1`, `RewardAmount1`, `ItemDrop1`, `ItemDropQuantity1`, `RewardItem2`, `RewardAmount2`, `ItemDrop2`, `ItemDropQuantity2`, `RewardItem3`, `RewardAmount3`, `ItemDrop3`, `ItemDropQuantity3`, `RewardItem4`, `RewardAmount4`, `ItemDrop4`, `ItemDropQuantity4`, `RewardChoiceItemID1`, `RewardChoiceItemQuantity1`, `RewardChoiceItemID2`, `RewardChoiceItemQuantity2`, `RewardChoiceItemID3`, `RewardChoiceItemQuantity3`, `RewardChoiceItemID4`, `RewardChoiceItemQuantity4`, `RewardChoiceItemID5`, `RewardChoiceItemQuantity5`, `RewardChoiceItemID6`, `RewardChoiceItemQuantity6`, `RewardFactionID1`, `RewardFactionValue1`, `RewardFactionOverride1`, `RewardFactionCapIn1`, `RewardFactionID2`, `RewardFactionValue2`, `RewardFactionOverride2`, `RewardFactionCapIn2`, `RewardFactionID3`, `RewardFactionValue3`, `RewardFactionOverride3`, `RewardFactionCapIn3`, `RewardFactionID4`, `RewardFactionValue4`, `RewardFactionOverride4`, `RewardFactionCapIn4`, `RewardFactionID5`, `RewardFactionValue5`, `RewardFactionOverride5`, `RewardFactionCapIn5`, `RewardCurrencyID1`, `RewardCurrencyQty1`, `RewardCurrencyID2`, `RewardCurrencyQty2`, `RewardCurrencyID3`, `RewardCurrencyQty3`, `RewardCurrencyID4`, `RewardCurrencyQty4`, `QuestType`, `QuestInfoID`, `RewardNextQuest`, `StartItem`, `Flags`, `FlagsEx`, `FlagsEx2`, `TimeAllowed`, `QuestSortID`, `RewardXPDifficulty`, `RewardXPMultiplier`, `RewardSpell`, `AllowableRaces`, `AcceptedSoundKitID`, `CompleteSoundKitID`, `Expansion`, `LogTitle`, `LogDescription`, `QuestDescription`, `AreaDescription`, `QuestCompletionLog`, `note`) VALUES
 (1, 78089, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 78090, 209748, 33554432, 0, 0, 0, -141, 4, 1.0, 0, 6130900294268439629, 890, 878, -2, 'Advice From Stormwind', 'Bring the Althalaxx Orb to Katherine the Pure in Stormwind.', CONCAT('There''s a powerful darkness about this orb. Its nature is clearly demonic, but past that it is beyond my ability to discern its purpose.', CHAR(13, 10, 13, 10 USING utf8mb4), 'Take the orb to the one known as Katherine the Pure in the Stormwind Cathedral. Consult with her for advice on the orb.'), '', '', 'record-seen-live: eglink@70888'), -- Advice From Stormwind
 (2, 78090, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 209748, 33554432, 0, 0, 0, -141, 0, 1.0, 0, 6130900294268439629, 890, 878, -2, 'A Second Opinion', 'Find the warlock sanctum within Stormwind and seek advice on the orb.', CONCAT('I''m not sure what to make of this orb, $n. I think we will need the help of... a specialist.', CHAR(13, 10, 13, 10 USING utf8mb4), 'We are aware of a warlock sect operating out of Stormwind. Officially we reject the presence of warlocks in the city. Unofficially, their knowledge can be of use when dealing with demonic forces.', CHAR(13, 10, 13, 10 USING utf8mb4), 'Find a representative of these warlocks, and seek their opinion on the orb.'), '', '', 'record-seen-live: eglink@70888'), -- A Second Opinion
@@ -409,7 +411,7 @@ INSERT INTO `everlake_build_quests` (`n`, `ID`, `RewardItem1`, `RewardAmount1`, 
 (313, 99267, 280612, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3145984, 1, 0, 0, 0, 0, 1.0, 1322908, 18446744073709551615, 890, 878, -2, 'An Unfortunate End', '', '', '', '', 'record-seen-live: eglink@70862'), -- An Unfortunate End
 (314, 99670, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 275738, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2765, 6, 0, 7, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 36700168, 0, 0, 0, 616, 1, 1.0, 0, 18446744073709551615, 890, 878, -2, 'Return to Jereman', 'Return to Jereman at the Cradle of Tranquility.', CONCAT('Jereman is fortunate to be alive. It sounds like she fled from the lodge in quite the hurry, no doubt thrilled to be freed from her predicament. ', CHAR(13, 10, 13, 10 USING utf8mb4), 'She will wish to speak with you. Go, find her.'), '', '', 'record-seen-live: eglink@70888') -- Return to Jereman
 ;
-CREATE TEMPORARY TABLE `everlake_build_objectives` (`n` INT NOT NULL PRIMARY KEY, `taken` TINYINT NOT NULL DEFAULT 0) SELECT `ID`, `QuestID`, `Type`, `Order`, `StorageIndex`, `ObjectID`, `Amount`, `Flags`, `Description` FROM `quest_objectives` WHERE 0;
+CREATE TEMPORARY TABLE `everlake_build_objectives` (`n` INT NOT NULL DEFAULT 0 PRIMARY KEY, `taken` TINYINT NOT NULL DEFAULT 0) SELECT `ID`, `QuestID`, `Type`, `Order`, `StorageIndex`, `ObjectID`, `Amount`, `Flags`, `Description` FROM `quest_objectives` WHERE 0;
 INSERT INTO `everlake_build_objectives` (`n`, `ID`, `QuestID`, `Type`, `Order`, `StorageIndex`, `ObjectID`, `Amount`, `Flags`, `Description`) VALUES
 (1, 443902, 78089, 1, 0, 0, 209748, 1, 32, ''),
 (2, 443903, 78090, 1, 0, 0, 209748, 1, 32, ''),
@@ -776,7 +778,7 @@ INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `file`, `note`) SELECT 'quest_t
 INSERT INTO `quest_objectives` (`ID`, `QuestID`, `Type`, `Order`, `StorageIndex`, `ObjectID`, `Amount`, `Flags`, `Description`, `VerifiedBuild`) SELECT p.`ID`, p.`QuestID`, p.`Type`, p.`Order`, p.`StorageIndex`, p.`ObjectID`, p.`Amount`, p.`Flags`, p.`Description`, 0 FROM `everlake_build_objectives` p JOIN `everlake_build_quests` s ON s.`ID` = p.`QuestID` WHERE s.`missing` = 1 ORDER BY p.`n`;
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `file`, `note`) SELECT 'quest_objectives', p.`ID`, '2026_11_14_950_world_everlake_build.sql', s.`note` FROM `everlake_build_objectives` p JOIN `everlake_build_quests` s ON s.`ID` = p.`QuestID` WHERE s.`missing` = 1;
 DROP TEMPORARY TABLE `everlake_build_objectives`;
-CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL PRIMARY KEY) SELECT `ID`, `QuestLevel`, `MinLevel`, `MaxLevel` FROM `quest_classic_level` WHERE 0;
+CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL DEFAULT 0 PRIMARY KEY) SELECT `ID`, `QuestLevel`, `MinLevel`, `MaxLevel` FROM `quest_classic_level` WHERE 0;
 INSERT INTO `everlake_build_stage` (`n`, `ID`, `QuestLevel`, `MinLevel`, `MaxLevel`) VALUES
 (1, 78089, 30, 22, 0),
 (2, 78090, 30, 22, 0),
@@ -1098,7 +1100,7 @@ INSERT INTO `everlake_build_stage` (`n`, `ID`, `QuestLevel`, `MinLevel`, `MaxLev
 INSERT INTO `quest_classic_level` (`ID`, `QuestLevel`, `MinLevel`, `MaxLevel`) SELECT p.`ID`, p.`QuestLevel`, p.`MinLevel`, p.`MaxLevel` FROM `everlake_build_stage` p JOIN `everlake_build_quests` s ON s.`ID` = p.`ID` WHERE s.`missing` = 1 ORDER BY p.`n`;
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `file`, `note`) SELECT 'quest_classic_level', p.`ID`, '2026_11_14_950_world_everlake_build.sql', s.`note` FROM `everlake_build_stage` p JOIN `everlake_build_quests` s ON s.`ID` = p.`ID` WHERE s.`missing` = 1;
 DROP TEMPORARY TABLE `everlake_build_stage`;
-CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL PRIMARY KEY) SELECT `ID`, `LevelType`, `QuestLevel` FROM `quest_template_classic_level` WHERE 0;
+CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL DEFAULT 0 PRIMARY KEY) SELECT `ID`, `LevelType`, `QuestLevel` FROM `quest_template_classic_level` WHERE 0;
 INSERT INTO `everlake_build_stage` (`n`, `ID`, `LevelType`, `QuestLevel`) VALUES
 (1, 78089, 2, 30),
 (2, 78090, 2, 30),
@@ -1420,7 +1422,7 @@ INSERT INTO `everlake_build_stage` (`n`, `ID`, `LevelType`, `QuestLevel`) VALUES
 INSERT INTO `quest_template_classic_level` (`ID`, `LevelType`, `QuestLevel`) SELECT p.`ID`, p.`LevelType`, p.`QuestLevel` FROM `everlake_build_stage` p JOIN `everlake_build_quests` s ON s.`ID` = p.`ID` WHERE s.`missing` = 1 ORDER BY p.`n`;
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `file`, `note`) SELECT 'quest_template_classic_level', p.`ID`, p.`LevelType`, '2026_11_14_950_world_everlake_build.sql', s.`note` FROM `everlake_build_stage` p JOIN `everlake_build_quests` s ON s.`ID` = p.`ID` WHERE s.`missing` = 1;
 DROP TEMPORARY TABLE `everlake_build_stage`;
-CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL PRIMARY KEY) SELECT `ID`, `RewardMoney`, `RewardMoneyMaxLevel` FROM `quest_classic_money` WHERE 0;
+CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL DEFAULT 0 PRIMARY KEY) SELECT `ID`, `RewardMoney`, `RewardMoneyMaxLevel` FROM `quest_classic_money` WHERE 0;
 INSERT INTO `everlake_build_stage` (`n`, `ID`, `RewardMoney`, `RewardMoneyMaxLevel`) VALUES
 (1, 78089, 2100, 0),
 (2, 78134, 3500, 0),
@@ -1549,14 +1551,14 @@ INSERT INTO `everlake_build_stage` (`n`, `ID`, `RewardMoney`, `RewardMoneyMaxLev
 INSERT INTO `quest_classic_money` (`ID`, `RewardMoney`, `RewardMoneyMaxLevel`) SELECT p.`ID`, p.`RewardMoney`, p.`RewardMoneyMaxLevel` FROM `everlake_build_stage` p JOIN `everlake_build_quests` s ON s.`ID` = p.`ID` WHERE s.`missing` = 1 ORDER BY p.`n`;
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `file`, `note`) SELECT 'quest_classic_money', p.`ID`, '2026_11_14_950_world_everlake_build.sql', s.`note` FROM `everlake_build_stage` p JOIN `everlake_build_quests` s ON s.`ID` = p.`ID` WHERE s.`missing` = 1;
 DROP TEMPORARY TABLE `everlake_build_stage`;
-CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL PRIMARY KEY) SELECT `QuestID`, `Idx`, `SpellID`, `PlayerConditionID`, `Type` FROM `quest_reward_display_spell` WHERE 0;
+CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL DEFAULT 0 PRIMARY KEY) SELECT `QuestID`, `Idx`, `SpellID`, `PlayerConditionID`, `Type` FROM `quest_reward_display_spell` WHERE 0;
 INSERT INTO `everlake_build_stage` (`n`, `QuestID`, `Idx`, `SpellID`, `PlayerConditionID`, `Type`) VALUES
 (1, 97930, 0, 1230656, 0, 2)
 ;
 INSERT INTO `quest_reward_display_spell` (`QuestID`, `Idx`, `SpellID`, `PlayerConditionID`, `Type`, `VerifiedBuild`) SELECT p.`QuestID`, p.`Idx`, p.`SpellID`, p.`PlayerConditionID`, p.`Type`, 0 FROM `everlake_build_stage` p JOIN `everlake_build_quests` s ON s.`ID` = p.`QuestID` WHERE s.`missing` = 1 ORDER BY p.`n`;
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `file`, `note`) SELECT 'quest_reward_display_spell', p.`QuestID`, p.`Idx`, '2026_11_14_950_world_everlake_build.sql', s.`note` FROM `everlake_build_stage` p JOIN `everlake_build_quests` s ON s.`ID` = p.`QuestID` WHERE s.`missing` = 1;
 DROP TEMPORARY TABLE `everlake_build_stage`;
-CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL PRIMARY KEY) SELECT `ID`, `AllowableClasses`, `PrevQuestID` FROM `quest_template_addon` WHERE 0;
+CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL DEFAULT 0 PRIMARY KEY) SELECT `ID`, `AllowableClasses`, `PrevQuestID` FROM `quest_template_addon` WHERE 0;
 INSERT INTO `everlake_build_stage` (`n`, `ID`, `AllowableClasses`, `PrevQuestID`) VALUES
 (1, 78089, 2, 0),
 (2, 78090, 2, 0),
@@ -1582,7 +1584,7 @@ INSERT INTO `everlake_build_stage` (`n`, `ID`, `AllowableClasses`, `PrevQuestID`
 INSERT INTO `quest_template_addon` (`ID`, `AllowableClasses`, `PrevQuestID`) SELECT p.`ID`, p.`AllowableClasses`, p.`PrevQuestID` FROM `everlake_build_stage` p JOIN `everlake_build_quests` s ON s.`ID` = p.`ID` WHERE s.`missing` = 1 ORDER BY p.`n`;
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `file`, `note`) SELECT 'quest_template_addon', p.`ID`, '2026_11_14_950_world_everlake_build.sql', s.`note` FROM `everlake_build_stage` p JOIN `everlake_build_quests` s ON s.`ID` = p.`ID` WHERE s.`missing` = 1;
 DROP TEMPORARY TABLE `everlake_build_stage`;
-CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL PRIMARY KEY, `free` TINYINT NOT NULL DEFAULT 0) SELECT `ID`, `RewardText` FROM `quest_offer_reward` WHERE 0;
+CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL DEFAULT 0 PRIMARY KEY, `free` TINYINT NOT NULL DEFAULT 0) SELECT `ID`, `RewardText` FROM `quest_offer_reward` WHERE 0;
 INSERT INTO `everlake_build_stage` (`n`, `ID`, `RewardText`) VALUES
 (1, 79365, 'Our wind riders have found something, but they have been unable to get close enough to assess the situation. Were you able to find anything that might help us?'),
 (2, 79366, 'The rumbling ground fell silent and in my heart I knew you had saved us. You have our gratitude, $N. You do your Earthen Ring proud.'),
@@ -1595,7 +1597,7 @@ UPDATE `everlake_build_stage` p JOIN `everlake_build_quests` s ON s.`ID` = p.`ID
 INSERT INTO `quest_offer_reward` (`ID`, `RewardText`, `VerifiedBuild`) SELECT p.`ID`, p.`RewardText`, 0 FROM `everlake_build_stage` p WHERE p.`free` = 1 ORDER BY p.`n`;
 INSERT INTO `everlake_import_rows` (`tbl`, `k1`, `file`, `note`) SELECT 'quest_offer_reward', p.`ID`, '2026_11_14_950_world_everlake_build.sql', s.`note` FROM `everlake_build_stage` p JOIN `everlake_build_quests` s ON s.`ID` = p.`ID` WHERE p.`free` = 1;
 DROP TEMPORARY TABLE `everlake_build_stage`;
-CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL PRIMARY KEY, `free` TINYINT NOT NULL DEFAULT 0) SELECT `ID`, `CompletionText` FROM `quest_request_items` WHERE 0;
+CREATE TEMPORARY TABLE `everlake_build_stage` (`n` INT NOT NULL DEFAULT 0 PRIMARY KEY, `free` TINYINT NOT NULL DEFAULT 0) SELECT `ID`, `CompletionText` FROM `quest_request_items` WHERE 0;
 INSERT INTO `everlake_build_stage` (`n`, `ID`, `CompletionText`) VALUES
 (1, 79366, 'Have you any news of the storm?'),
 (2, 79442, 'Great battle with de elements, mm? Tings turned out how they was always meant to.$B$BBut since you here, what brings you to ol'' Bath''rah?'),
