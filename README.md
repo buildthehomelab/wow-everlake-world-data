@@ -19,6 +19,10 @@ realm running a TrinityCore fork; this repository holds only data. The generator
   world, weighs what the sources say against it and writes what the world lacks. The manifest lists every row with
   the rule that passed it and its witnesses, the pins of the sources, and what was held back and why.
 
+- `sql/world/YYYY_MM_DD_900_world_everlake_forge_<operation>_<kind>.sql`: the ForeverTracker Forge's exports, rows
+  added on the test realm first and exported as they stood there (the date is the day they were applied). NOTICE.md
+  says what each operation's rows come from; each row's ledger note names it too.
+
 ## Rules the files follow
 
 - A file is never changed once it is deployed: the updater would run it, and every later custom file, again. A later
