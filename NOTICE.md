@@ -36,6 +36,10 @@ dates) of every source it was made from.
 - **Icy Veins' WoW Forever database** (https://db.icy-veins.com/wow-forever/): what players' addons recorded on live
   Forever. Used (the project's decision of 2026-11-12) as the second witness for NorgannonDB's vendor stock and drops
   in files 230 and 231, and for those drops' chances and the stock's prices.
+- **ForeverChanges** (https://foreverchanges.pro): what the players of its addon saw on live Forever, shown on the
+  site over a base of Classic's data. The site states no licence, and its terms ask that its compiled data not be
+  republished wholesale as one's own; it is credited here as the source of the rows named below, used by the project's
+  decision of 2026-11-14. Only what its players saw is taken, row by row, for things the realm lacked.
 - **TrinityCore `forever` branch** (https://github.com/advocaite/TrinityCore/tree/forever), GPL-2.0: the world
   the files are written against; its Forever beta sniffs vote too. Slice 5 takes a new NPC's faction, speeds and
   attack times from the fork's NPCs nearby, each row's note naming them.
@@ -83,5 +87,13 @@ gave it:
   names the value it replaces, so it changes nothing where a row was changed since, and nothing when it runs again.
   Not taken: money and a quest's own level (the server sends those for the player who asked), a value the record does
   not state, and the fields that decide how the server handles a quest (type, flags, zone, races, the next quest).
+- operation 23: ForeverChanges (credited above), for what the realm lacked: what an NPC says when a quest is handed
+  in and while it is not done yet, for 254 quest windows that had no text; 26 creature drops players counted at least
+  twice in at least ten kills (recipes and quest items; an item fifteen or more creatures drop is a world drop and
+  was left out); one item at six vendors. The texts are the game's own. The site shows them as a player's client did
+  and marks the player's name, class and race: those marks are written back as `$N`, `$C` and `$R`, and a text that
+  might still hold a player's own name was left out. Where EG Link (CC BY 4.0, credited above) recorded the same
+  window, its wording is the one written. The site names NPCs and places them on a map: each was matched to the
+  realm's creature of that name standing there, and a name that could not be told apart was left out.
 
 Game content such as names and text belongs to Blizzard Entertainment.
