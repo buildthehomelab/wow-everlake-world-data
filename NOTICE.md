@@ -106,5 +106,12 @@ gave it:
   link to it and the trainer flags (`npcflag` 16 and 64, added only where missing), with the original game's cost,
   skill and level for each recipe. Recipes Forever removed (the old healing potions) and recipes the original game
   taught through a line of conversation (a script, not a row) were left out.
+- operation 27: Wowhead's WoW Forever database (https://www.wowhead.com/forever), read from its pages (item pages:
+  *Dropped by*, *Contained in*, *Sold by*) slowly in a browser tab by the tracker's page crawler, which keeps only ids
+  and players' counts and never a page's text. Used for what the realm lacked, for items other content waits for (a
+  quest's objective, a recipe, a mount) and new items: 13 creature drops players counted at least twice in at least
+  ten kills, the chance being drops over kills (an item fifteen or more creatures drop is a world drop and was left
+  out); 5 quest objects that gave their item every time they were opened; 4 vendor rows sold for money only. Wowhead
+  states no licence for its data; it is credited here, and only ids and measured counts are taken.
 
 Game content such as names and text belongs to Blizzard Entertainment.
