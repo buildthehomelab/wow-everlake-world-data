@@ -40,6 +40,10 @@ dates) of every source it was made from.
   site over a base of Classic's data. The site states no licence, and its terms ask that its compiled data not be
   republished wholesale as one's own; it is credited here as the source of the rows named below, used by the project's
   decision of 2026-11-14. Only what its players saw is taken, row by row, for things the realm lacked.
+- **cmangos classic-db** (https://github.com/cmangos/classic-db), GPL-3.0: the content database of the original
+  game (patch 1.12), not of WoW: Forever. Used, by the project's decision of 2026-11-14, as the last source: only
+  for profession recipes that Forever kept and that nobody could learn on the realm, where it names the trainer
+  that taught them.
 - **TrinityCore `forever` branch** (https://github.com/advocaite/TrinityCore/tree/forever), GPL-2.0: the world
   the files are written against; its Forever beta sniffs vote too. Slice 5 takes a new NPC's faction, speeds and
   attack times from the fork's NPCs nearby, each row's note naming them.
@@ -95,5 +99,12 @@ gave it:
   might still hold a player's own name was left out. Where EG Link (CC BY 4.0, credited above) recorded the same
   window, its wording is the one written. The site names NPCs and places them on a map: each was matched to the
   realm's creature of that name standing there, and a name that could not be told apart was left out.
+- operation 26: cmangos classic-db (credited above), for recipes Forever kept that nobody on the realm taught: the
+  original game's trainers of Goldthorn Tea (Henry Stern) and of Heavy Mageweave, Runecloth and Heavy Runecloth
+  Bandage (the two Triage doctors, Doctor Gregory Victor and Doctor Gustaf VanHowzen). The three already stood in
+  the world without a trainer list: each gets one of its own, numbered 1,000,000 plus the creature's number, the
+  link to it and the trainer flags (`npcflag` 16 and 64, added only where missing), with the original game's cost,
+  skill and level for each recipe. Recipes Forever removed (the old healing potions) and recipes the original game
+  taught through a line of conversation (a script, not a row) were left out.
 
 Game content such as names and text belongs to Blizzard Entertainment.
