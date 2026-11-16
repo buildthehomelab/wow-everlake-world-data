@@ -126,5 +126,11 @@ gave it:
   Bomb Counter and 4 objects) and Children's Week (32: Alowicious Czervik). Each spawn with its link to the realm's
   event; spawns the realm already had within a few yards were left out. Applied on the test realm as the tracker's
   Forge operations 28 to 31.
+- operation 33: cmangos classic-db (credited above), the eggs the original game hid while Noblegarden ran: 474 Brightly
+  Colored Eggs around the starting villages, linked to the realm's own Noblegarden (event 28); the 70 the realm already
+  had within a few yards were left out. The original game gave most eggs one of four colours at random each time they
+  appeared; here each keeps one colour, so a village keeps the mix. Event 28 had no dates, so it never ran: it takes
+  WoW: Forever's own holiday (181, Noblegarden, from the official client's tables) and a start, and keeps its length.
+  Applied on the test realm as the tracker's Forge operation 40.
 
 Game content such as names and text belongs to Blizzard Entertainment.
