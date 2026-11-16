@@ -113,5 +113,11 @@ gave it:
   ten kills, the chance being drops over kills (an item fifteen or more creatures drop is a world drop and was left
   out); 5 quest objects that gave their item every time they were opened; 4 vendor rows sold for money only. Wowhead
   states no licence for its data; it is credited here, and only ids and measured counts are taken.
+- operation 28: Icy Veins' WoW Forever database (credited above) as the single source, for the recipe items players
+  could not get whose recipes nobody could learn (patterns, plans, formulas and schematics, most of them new in
+  Forever): 81 creature drops, as its players' addons recorded them on live Forever, with the measured chance (0.32 to
+  9.09 %). Most are one creature seen dropping the item; five glove patterns and plans list the bosses of Zul'Farrak,
+  Maraudon, the Sunken Temple, Uldaman and Blackrock Depths that dropped them. Only ids and measured chances are
+  taken. Applied on the test realm as the tracker's Forge operation 27.
 
 Game content such as names and text belongs to Blizzard Entertainment.
