@@ -132,5 +132,10 @@ gave it:
   appeared; here each keeps one colour, so a village keeps the mix. Event 28 had no dates, so it never ran: it takes
   WoW: Forever's own holiday (181, Noblegarden, from the official client's tables) and a start, and keeps its length.
   Applied on the test realm as the tracker's Forge operation 40.
+- operation 34: cmangos classic-db (credited above), what the original game put up only while Love is in the Air ran,
+  where the realm lacked it: three perfume and cologne sellers (Evert Sorisam in Stormwind, Apothecary Staffron Lerent
+  and Mara Rennick in Undercity) and 286 decorations (hearts and streamers in the capitals, and a Fragrant Cauldron),
+  each linked to the realm's own Love is in the Air (event 8); spawns the realm already had within a few yards were
+  left out. Applied on the test realm as the tracker's Forge operation 35.
 
 Game content such as names and text belongs to Blizzard Entertainment.
