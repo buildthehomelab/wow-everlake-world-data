@@ -161,5 +161,11 @@ gave it:
   twice; ten of the realm's own decorations a little farther off are moved to where the original game placed them
   (each statement names the position it replaces). Applied on the test realm as the tracker's Forge operations 52
   and 53.
+- operations 41 and 42: cmangos classic-db (credited above), the Booty Bay celebration the original game put up for
+  both New Year's Eve and Midsummer, where the realm's own copy belongs to another event: New Year's Eve (41: 145
+  objects, the Booty Bay fireworks show, its speakers and toasting goblets, on event 34) and the Midsummer Fire
+  Festival (42: 6 Booty Bay Revelers, the Booty Bay party's tables, kegs and mugs, toasting goblets and speakers, and 25
+  door hangings, on event 1). A spawn the realm already had within 30 yards (an object within 10) and there while the
+  holiday runs was left out. Applied on the test realm as the tracker's Forge operations 57 and 62.
 
 Game content such as names and text belongs to Blizzard Entertainment.
