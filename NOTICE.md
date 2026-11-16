@@ -119,5 +119,12 @@ gave it:
   9.09 %). Most are one creature seen dropping the item; five glove patterns and plans list the bosses of Zul'Farrak,
   Maraudon, the Sunken Temple, Uldaman and Blackrock Depths that dropped them. Only ids and measured chances are
   taken. Applied on the test realm as the tracker's Forge operation 27.
+- operations 29 to 32: cmangos classic-db (credited above), what the original game spawned only while a holiday ran,
+  for the holidays the realm runs but lacked part of: the Lunar Festival (29: 42 creatures, among them 25 of the
+  Elders, and 6 objects), the Feast of Winter Veil (30: The Abominable Greench, Seersa Copperpinch, Guchie
+  Jinglepocket and 4 objects), Hallow's End (31: the Wickerman, its Guardian, Sergeant Hartman, the Southshore Stink
+  Bomb Counter and 4 objects) and Children's Week (32: Alowicious Czervik). Each spawn with its link to the realm's
+  event; spawns the realm already had within a few yards were left out. Applied on the test realm as the tracker's
+  Forge operations 28 to 31.
 
 Game content such as names and text belongs to Blizzard Entertainment.
