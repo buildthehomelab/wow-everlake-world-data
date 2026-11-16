@@ -44,6 +44,9 @@ dates) of every source it was made from.
   game (patch 1.12), not of WoW: Forever. Used, by the project's decision of 2026-11-14, as the last source: only
   for profession recipes that Forever kept and that nobody could learn on the realm, where it names the trainer
   that taught them.
+- **AtlasLoot Classic Forever** (https://www.curseforge.com/wow/addons/atlasloot-forever), GPL-2.0: the loot browser
+  most Forever players run. Its tables name the creature or chest that drops each item; only ids and chances are
+  taken.
 - **TrinityCore `forever` branch** (https://github.com/advocaite/TrinityCore/tree/forever), GPL-2.0: the world
   the files are written against; its Forever beta sniffs vote too. Slice 5 takes a new NPC's faction, speeds and
   attack times from the fork's NPCs nearby, each row's note naming them.
@@ -132,10 +135,23 @@ gave it:
   appeared; here each keeps one colour, so a village keeps the mix. Event 28 had no dates, so it never ran: it takes
   WoW: Forever's own holiday (181, Noblegarden, from the official client's tables) and a start, and keeps its length.
   Applied on the test realm as the tracker's Forge operation 40.
-- operation 34: cmangos classic-db (credited above), what the original game put up only while Love is in the Air ran,
-  where the realm lacked it: three perfume and cologne sellers (Evert Sorisam in Stormwind, Apothecary Staffron Lerent
-  and Mara Rennick in Undercity) and 286 decorations (hearts and streamers in the capitals, and a Fragrant Cauldron),
-  each linked to the realm's own Love is in the Air (event 8); spawns the realm already had within a few yards were
-  left out. Applied on the test realm as the tracker's Forge operation 35.
+- operation 34: Wowhead's WoW Forever database (credited with operation 27): 24 items of the Premier PvP sets (new in
+  Forever) sold by Captain Dirgehammer, for money only. Only ids are taken. Applied on the test realm as the
+  tracker's Forge operation 32.
+- operation 35: Icy Veins' WoW Forever database (credited above), for what the realm lacked: what an NPC says when a
+  quest is handed in (300 quests) and while it is not done yet (200), 278 spells taught by 25 trainers that already
+  stood in the world, 186 creature drops on 88 creatures with the chance players' addons measured, 12 items one
+  vendor sells, one quest ender, one object's loot and the loot link of creature 263749. Only ids, measured chances
+  and the game's own texts are taken. Applied on the test realm as the tracker's Forge operation 33.
+- operation 36: Wowhead's WoW Forever database (credited with operation 27), read by the tracker's page crawler on
+  2026-11-16 as for operation 27: 36 creature drops and 10 objects' loot players counted, 2 vendor rows (with the
+  vendor flag on the two creatures that sell them, added only where missing) and one drop chance measured again.
+  Applied on the test realm as the tracker's Forge operation 37.
+- operation 37: AtlasLoot Classic Forever (credited above): Band of Mending from Balnazzar in Stratholme, at the chance AtlasLoot
+  gives. Applied on the test realm as the tracker's Forge operation 38.
+- operation 38: EG Link's quest records (CC BY 4.0, credited above), read again as for operation 22, for 46 quests the
+  world already had: battleground currency rewards, reputation, XP multipliers, two titles, three texts and two
+  reward spells, each where the record is from a later build than the row. Each statement names the value it
+  replaces. Applied on the test realm as the tracker's Forge operation 39.
 
 Game content such as names and text belongs to Blizzard Entertainment.
