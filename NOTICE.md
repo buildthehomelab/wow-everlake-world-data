@@ -153,5 +153,13 @@ gave it:
   world already had: battleground currency rewards, reputation, XP multipliers, two titles, three texts and two
   reward spells, each where the record is from a later build than the row. Each statement names the value it
   replaces. Applied on the test realm as the tracker's Forge operation 39.
+- operations 39 and 40: cmangos classic-db (credited above), what the original game put up only while a holiday ran,
+  where the realm lacked it, each linked to the realm's own event: Love is in the Air (39: 285 decorations, hearts and
+  streamers in the capitals, on event 8) and the Midsummer Fire Festival (40: 1,720 decorations, camp crates, tables
+  and mugs, music and the Booty Bay fireworks show, and the Orgrimmar ribbon pole's target, on event 1). A spawn the
+  realm already had within 30 yards (an object within 10) was left out, so none of the realm's holiday NPCs is added
+  twice; ten of the realm's own decorations a little farther off are moved to where the original game placed them
+  (each statement names the position it replaces). Applied on the test realm as the tracker's Forge operations 52
+  and 53.
 
 Game content such as names and text belongs to Blizzard Entertainment.
