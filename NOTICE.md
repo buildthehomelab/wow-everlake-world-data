@@ -50,6 +50,9 @@ dates) of every source it was made from.
 - **TrinityCore `forever` branch** (https://github.com/advocaite/TrinityCore/tree/forever), GPL-2.0: the world
   the files are written against; its Forever beta sniffs vote too. Slice 5 takes a new NPC's faction, speeds and
   attack times from the fork's NPCs nearby, each row's note naming them.
+- **TrinityCore** (https://github.com/TrinityCore/TrinityCore), GPL-2.0: `2026_11_16_920_world_everlake_aq20_andorov.sql`
+  takes Lieutenant General Andorov's and his Kaldorei Elites' spawns and formation in Ruins of Ahn'Qiraj from
+  TrinityCore's update for the script that runs them (2026_02_04_00_world), set to this realm's AQ20 difficulty.
 - Heights of spawn points that have none (slice 4) are read from Everlake's own maps, extracted from the game client.
 - Forever's client tables, through wago.tools (https://wago.tools), were used as references only: slice 5 checks that a
   model is in the client and reads the client's faction tables to work out how an NPC reacts to players.
