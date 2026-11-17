@@ -53,6 +53,8 @@ dates) of every source it was made from.
 - **TrinityCore** (https://github.com/TrinityCore/TrinityCore), GPL-2.0: `2026_11_16_920_world_everlake_aq20_andorov.sql`
   takes Lieutenant General Andorov's and his Kaldorei Elites' spawns and formation in Ruins of Ahn'Qiraj from
   TrinityCore's update for the script that runs them (2026_02_04_00_world), set to this realm's AQ20 difficulty.
+  `2026_11_16_921_world_everlake_aq20_rajaxx_waves.sql` gives General Rajaxx's waves the tags that update gives them
+  (GeneralRajaxxWave1 to 7), on this realm's own spawns of those waves.
 - Heights of spawn points that have none (slice 4) are read from Everlake's own maps, extracted from the game client.
 - Forever's client tables, through wago.tools (https://wago.tools), were used as references only: slice 5 checks that a
   model is in the client and reads the client's faction tables to work out how an NPC reacts to players.
