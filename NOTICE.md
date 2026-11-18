@@ -68,6 +68,10 @@ dates) of every source it was made from.
   1325758 and 1329549; no text of the pages is copied. The rank each one requires comes from the client's
   SkillLineAbility (wago.tools); the trainers are those of the realm that already teach the rank before (Holy Shield 3)
   or Sinister Strike 2.
+- `2026_11_18_923_world_everlake_sfk_silver_ingot.sql` (the Enchanted Silver Ingot in Shadowfang Keep) is written by
+  hand from Wowhead's WoW Forever database (https://www.wowhead.com/forever, credited with operation 27): that
+  object=629065 lies on the table next to Archmage Arugal, from the page's comments; no text of the page is copied.
+  Its point is read from Everlake's own vmaps, extracted from the game client.
 - Forever's client tables, through wago.tools (https://wago.tools), were used as references only: slice 5 checks that a
   model is in the client and reads the client's faction tables to work out how an NPC reacts to players.
 - Wowhead's public tooltips and the item history of ericbtaylorjr/forever-db were used as references only in the
