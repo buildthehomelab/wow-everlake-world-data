@@ -62,6 +62,12 @@ dates) of every source it was made from.
   (Corrupted Cat Figurine), and how the two are used, from the pages' comments; no text of the pages is copied. Its
   X and Y come from those points through the client's UiMapAssignment (wago.tools), its heights from Everlake's own
   maps, and Ta'shkal's stats and faction from the fork's Frostsaber Stalker (7432).
+- `2026_11_18_922_world_everlake_trainer_ranks.sql` (Holy Shield 4, Death Mark 2 to 4, Shank 2 at the class trainers) is
+  written by hand from Wowhead's WoW Forever database (https://www.wowhead.com/forever, credited with operation 27):
+  that the class trainers teach them, their level and their training cost, from spell=1239570, 1325756, 1325757,
+  1325758 and 1329549; no text of the pages is copied. The rank each one requires comes from the client's
+  SkillLineAbility (wago.tools); the trainers are those of the realm that already teach the rank before (Holy Shield 3)
+  or Sinister Strike 2.
 - Forever's client tables, through wago.tools (https://wago.tools), were used as references only: slice 5 checks that a
   model is in the client and reads the client's faction tables to work out how an NPC reacts to players.
 - Wowhead's public tooltips and the item history of ericbtaylorjr/forever-db were used as references only in the
