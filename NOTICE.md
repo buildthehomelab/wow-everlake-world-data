@@ -56,6 +56,12 @@ dates) of every source it was made from.
   `2026_11_16_921_world_everlake_aq20_rajaxx_waves.sql` gives General Rajaxx's waves the tags that update gives them
   (GeneralRajaxxWave1 to 7), on this realm's own spawns of those waves.
 - Heights of spawn points that have none (slice 4) are read from Everlake's own maps, extracted from the game client.
+- `2026_11_18_920_world_everlake_tashkal.sql` (Ta'shkal, Mount Hyjal's hidden cat) is written by hand from Wowhead's
+  WoW Forever database (https://www.wowhead.com/forever, credited with operation 27): the ids, level, family, models,
+  attack speed and abilities of npc=268231, the map points of object=660408 (Lonely Lantern) and object=660432
+  (Corrupted Cat Figurine), and how the two are used, from the pages' comments; no text of the pages is copied. Its
+  X and Y come from those points through the client's UiMapAssignment (wago.tools), its heights from Everlake's own
+  maps, and Ta'shkal's stats and faction from the fork's Frostsaber Stalker (7432).
 - Forever's client tables, through wago.tools (https://wago.tools), were used as references only: slice 5 checks that a
   model is in the client and reads the client's faction tables to work out how an NPC reacts to players.
 - Wowhead's public tooltips and the item history of ericbtaylorjr/forever-db were used as references only in the
