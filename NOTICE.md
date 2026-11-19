@@ -313,5 +313,8 @@ gave it:
 - `2026_11_19_944_world_everlake_rare_drops.sql` (Forever's new loot on 41 creatures the realm already spawns, mostly
   classic rares) is written by a script from Wowhead's WoW Forever database (credited with operation 27): each item
   page's dropped-by tab, drops over kills taken as the chance. Only the ids and the counts are taken.
+- `2026_11_19_982_world_everlake_writ_drops.sql` (Craftsman's Writ world drops) takes each writ's tier from Wowhead's
+  WoW Forever guide "Craftsman's Writs: Recipes, Rewards & Routes" (https://www.wowhead.com/forever); the creatures,
+  level bands and chance are this realm's own guess. Only the tier is taken; no text of the guide is copied.
 
 Game content such as names and text belongs to Blizzard Entertainment.
