@@ -67,6 +67,12 @@ dates) of every source it was made from.
   entrances' places come from the public dungeon guide of Warcraft Tavern (map percentages only, no text copied),
   through the client's UiMapAssignment; the buildings and floors from Everlake's own maps and vmaps; the areas from the
   client's AreaTable and the server's map files. Landing and exit spots and graveyards are guesses, marked INFERRED.
+- `2026_11_19_962_world_everlake_alcaz_prison_creatures.sql` (Alcaz Prison's 20 creatures, boss loot and spawns) is
+  written by a script from Wowhead's WoW Forever pages (credited with operation 27), read from this project's browser
+  at the shared page rate: each creature's name, rank, type and model, and the bosses' drops with the counts players
+  recorded (only ids and counts are taken). The rooms come from the floors of the prison's building model in
+  Everlake's own vmaps; which boss stands where from the public guides of Warcraft Tavern, WoW Handbook and Zockify.
+  Levels, faction, health, damage, gold and every spawn spot are the project's guesses, marked INFERRED.
 - `2026_11_18_960_world_everlake_blackmaw_hold_instance.sql` (Blackmaw Hold's instance, entrance, exit and graveyard)
   is written by hand. The portal's place comes from the public dungeon guides of Warcraft Tavern, mmonster and ssegold,
   which agree within 14 yards (map percentages only, no text copied), checked against the Blackmaw camps Wowhead's
