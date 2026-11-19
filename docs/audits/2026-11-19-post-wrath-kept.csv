@@ -1,0 +1,4222 @@
+kind,id,reason,expansion_tag,name
+creature,138,src,,out Captain Lolo Longstriker
+creature,621,src,,Chicken
+creature,32856,objective,,Warsong Invader
+creature,32986,objective,,Frenzied Cyclone Bracers Kill Credit Bunny
+creature,32988,objective,,Cloudtamer Wildmane
+creature,32989,objective,,Windmaster Tzu-Tzu
+creature,32990,objective,,Skylord Braax
+creature,33000,src,,Spirit of Corruption
+creature,33020,src,,Zenn Foulhoof
+creature,33736,objective,,Fel Fire Bunny
+creature,34285,objective,,Trapped Wolf
+creature,34341,objective,,Saurboz
+creature,34344,credit,,Murloc Squatter Kill Credit
+creature,34575,smart,,Moonwell Bunny
+creature,34614,credit,,Kolkar Counter
+creature,34748,objective,,Goblin Survivor
+creature,34769,objective,,Baron Longshore Quest Credit
+creature,34779,credit,,Southsea Quest Counter
+creature,34830,objective,,Defiant Troll
+creature,34835,objective,,Bruno Flameretardant
+creature,34865,objective,,Tunneling Worm
+creature,34876,objective,,Frankie Gearslipper
+creature,34877,objective,,Jack the Hammer
+creature,34878,objective,,Sudsy Magee
+creature,34884,objective,,Rampaging Worgen
+creature,34916,smart,,Gilneas City Guard
+creature,34923,objective,,Harbinger Aph'lass
+creature,34957,objective,,Ace
+creature,34958,objective,,Gobber
+creature,34959,objective,,Izzy
+creature,34961,objective,,Invading Crusher
+creature,35118,objective,,Bloodfang Worgen
+creature,35154,src,,Night Elf Mage
+creature,35175,objective,,Kezan Partygoer
+creature,35200,objective,,Pirate Party Crasher
+creature,35363,objective,,Elune Cathedral Bunny
+creature,35366,objective,,Elune Sanctuary Bunny
+creature,35367,objective,,Elune Temple Bunny
+creature,35463,objective,,Bloodfang Lurker
+creature,35486,objective,,First Bank of Kezan Vault
+creature,35753,objective,,Krennan Aranas
+creature,35760,objective,,Monkey Business Kill Credit
+creature,35779,objective,,Korrah's Mount
+creature,35816,objective,,Miner Troubles Kill Credit
+creature,35830,objective,,Gilneas Evacuation Facing Marker (First)
+creature,35831,objective,,Spitelash Stormfury
+creature,35832,objective,,Spitelash Seacaller
+creature,35839,smart,,Sergeant Cleese
+creature,35841,objective,,Class Training Credit
+creature,35843,objective,,Servant of Neptulon KC Bunny
+creature,35880,objective,,Lady Silisthra
+creature,35881,src,,Lady Vesthra
+creature,35882,src,,Orc Survivor
+creature,35883,src,,Lady Vesthra
+creature,35884,src,,Lady Silisthra
+creature,35892,src,,Silisthra's Power Stone
+creature,35893,src,,Kilag Gorefang
+creature,35894,src,,Orc Scout
+creature,35896,src,,Poison Spitter
+creature,35897,src,,Freezya
+creature,35898,src,,Valishj
+creature,35899,src,,Slaughtered Sea Witch
+creature,35900,src,,Murdered Myrmidon
+creature,35903,src,,Weed Whacker Channel Bunny
+creature,35904,src,,Jungle Cat
+creature,35905,src,,King Greymane's Horse
+creature,35906,src,,Lord Godfrey
+creature,35907,src,,Krennan Aranas
+creature,35908,src,,Lord Hydronis
+creature,35911,src,,King Genn Greymane
+creature,35912,src,,Injured Citizen
+creature,35914,src,,Commandeered Cannon
+creature,35915,src,,Gilneas City Guard
+creature,35916,src,,Bloodfang Ripper
+creature,35917,src,,Kilag Gorefang
+creature,35918,src,,Orc Scout
+creature,35928,src,,Freezya
+creature,35929,src,,Poison Spitter
+creature,36025,objective,,Secret Lab Fires
+creature,36061,objective,,Research Intern
+creature,36079,objective,,Enraged Kodo KC Bunny
+creature,36092,objective,,SI:7 Assassin
+creature,36094,smart,,Enraged Kodo
+creature,36113,smart,,Pacified Kodo
+creature,36134,objective,,Magram Warden
+creature,36137,smart,,Kolkar Prisoner
+creature,36142,objective,,Spear of the Kolkar Khan
+creature,36145,objective,,Thrall
+creature,36147,objective,,Static-Charged Hippogryph
+creature,36640,objective,,Sable Drake
+creature,36682,objective,,The Hammer
+creature,36722,objective,,Bilgewater Laborer
+creature,36740,objective,,Teraptor Hatchling
+creature,36822,objective,,Lord Kassarus
+creature,36843,objective,,Runestone Bunny
+creature,36902,src,,Wind Rider Gorsch
+creature,36915,objective,,Erunak Stonespeaker
+creature,37090,objective,,Deviate Terrortooth
+creature,37091,objective,,Deviate Plainstrider
+creature,37092,objective,,Outgrowth
+creature,37114,objective,,Steamwheedle Shark
+creature,37203,objective,,Fourth And Goal Target
+creature,37514,credit,,Grik'nir's Servant
+creature,37520,objective,,Taurajo Refugee Quest Counter 1
+creature,37521,objective,,Bristleback Quilboar Quest Counter
+creature,37719,objective,,Mulgore Gate Defense Credit
+creature,37747,objective,,Krulmoo's Spirit
+creature,37756,objective,,Dranh's Spirit
+creature,37757,objective,,Howling Banshee
+creature,37758,objective,,Yonada's Spirit
+creature,37759,objective,,Omusa's Spirit
+creature,37872,objective,,Capturing The Unknown - Bunny 1
+creature,37895,objective,,Capturing The Unknown - Bunny 2
+creature,37896,objective,,Capturing The Unknown - Bunny 3
+creature,37897,objective,,Capturing The Unknown - Bunny 4
+creature,37953,objective,,Dark Scout
+creature,37961,objective,,Corrupted Bloodtalon
+creature,37977,objective,,Wildhammer Mercenary
+creature,37989,objective,,Swiftclaw
+creature,38002,objective,,Swiftclaw
+creature,38038,objective,,Tiki Target
+creature,38117,objective,,Cluster Cluck Kill Credit
+creature,38142,objective,,Captive Spitescale Scout
+creature,38214,objective,,Pack of Juvenile Bloodpetals
+creature,38250,objective,,Bael'dun Artillery Shell Quest Credit
+creature,38251,objective,,Bael'dun Escape Quest Credit
+creature,38252,credit,,Dragon
+creature,38300,src,,Spitescale Wavethrasher
+creature,38305,objective,,Gorishi Fledgling Colossus
+creature,38306,objective,,Zar'jira
+creature,38318,objective,,Mechashark X-Steam
+creature,38358,objective,,Bloodpetal
+creature,38560,objective,,Spitescale Flag Bunny
+creature,38576,objective,,Steamwheedle Survivor Credit Bunny
+creature,38644,objective,,Oomlot Shaman
+creature,38660,objective,,Lost Rigger Building 01 Bunny
+creature,38661,objective,,Rageroar Sea Dog
+creature,38662,objective,,Lost Rigger Building 02 Bunny
+creature,38665,objective,,Lost Rigger Building 03 Bunny
+creature,38696,objective,,Yngwie
+creature,38713,objective,,Yngwie's Soul
+creature,38895,objective,,Lilian Voss
+creature,38937,objective,,Vile Fin Tadpole
+creature,38967,objective,,Worgen Infiltrator
+creature,38981,objective,,Shadow of Agamand
+creature,38999,objective,,Lilian Voss
+creature,39002,smart,,Scarlet Lieutenant Gebler
+creature,39026,objective,,Southsea Freebooter Credit Bunny
+creature,39062,objective,,Darkspear Jailor
+creature,39098,objective,,Benedictus Voss Event KC
+creature,39157,objective,,Lost Bloodtalon Hatchling
+creature,39170,objective,,Hazzali Silithid Credit Bunny
+creature,39222,objective,,Cataclysm JC Quest Dummy Timeless Nightstone
+creature,39245,objective,,Northwatch Lug
+creature,39251,objective,,Northwatch Supply Crate
+creature,39262,objective,,Northwatch Troop
+creature,39267,objective,,Northwatch Marine
+creature,39268,objective,,Northwatch Sharpshooter
+creature,39269,objective,,Lieutenant Palliter
+creature,39272,objective,,Foaming Sea Elemental
+creature,39313,objective,,Zin'jatar Raider
+creature,39315,objective,,Frazzlecraz Explosive Kill Credit
+creature,39331,objective,,Durotar Watershed Quest KC 1
+creature,39332,objective,,Durotar Watershed Quest KC 2
+creature,39333,objective,,Durotar Watershed Quest KC 3
+creature,39334,objective,,Durotar Watershed Quest KC 4
+creature,39336,objective,,Scared Wayward Plainstrider KC
+creature,39357,objective,,Durotar Telescope Quest KC 1
+creature,39358,objective,,Durotar Telescope Quest KC 2
+creature,39359,objective,,Durotar Telescope Quest KC 3
+creature,39360,objective,,Durotar Telescope Quest KC 4
+creature,39385,objective,,Screamslash
+creature,39446,event,,Lycanthoth
+creature,39665,objective,,Rom'ogg Bonecrusher
+creature,39705,objective,,Ascendant Lord Obsidius
+creature,39719,objective,,Twilight Servitor Quest Credit
+creature,39752,objective,,Failed Supplicant
+creature,39835,objective,,Twilight Knight Rider
+creature,39897,objective,,To The Summit To New Thalanaar Kill Credit
+creature,39942,objective,,Abyssal Lure
+creature,39947,objective,,Grimtotem Pillager
+creature,39949,objective,,Grimtotem Marauder
+creature,39952,objective,,Gordunni Hillguard
+creature,39996,objective,,Abyssal Seahorse
+creature,40000,src,,Injured Fawn
+creature,40062,objective,,Galak Mauler
+creature,40065,objective,,Unbound Flame Spirit
+creature,40161,objective,,Fathom-Lord Zin'jatar
+creature,40163,objective,,Intro Cave Defense Controller Bunny
+creature,40168,objective,,Corrupted Dryad
+creature,40334,objective,,Baron Geddon Credit
+creature,40339,objective,,Turtle Ride KC Bunny
+creature,40344,objective,,Nyse
+creature,40583,objective,,Southsea Blockader
+creature,40586,objective,,Lady Naz'jar
+creature,40639,objective,,Engineer Hexascrub
+creature,40645,objective,,Jorlan Trueblade
+creature,40660,objective,,Twilight Lancer
+creature,40762,objective,,Firelands Egg
+creature,40780,src,,Emerald Drake
+creature,40788,objective,,Mindbender Ghur'sha
+creature,40844,objective,,Cindermaul
+creature,40905,objective,,Windshear Overseer
+creature,40906,objective,,Lumbering Oaf
+creature,40941,objective,,Wendigo
+creature,40957,objective,,Warsong Stockpile
+creature,40991,sspell,,Mountaineer Dunstan
+creature,40994,sspell,,Mountaineer Lewin
+creature,41000,src,,Ravenous Thresher
+creature,41007,credit,,Durotar Harpy
+creature,41049,objective,,Fathom-Lord Zin'jatar
+creature,41052,smart,,Remote Observation Bot
+creature,41056,sspell,,Mountaineer Valgrum
+creature,41057,objective,,Gnaws
+creature,41087,objective,,Stonetalon Horde Unit Proxy
+creature,41105,objective,,Kvaldir Limbripper
+creature,41121,objective,,Frostmane Seer
+creature,41122,objective,,Frostmane Snowstrider
+creature,41132,objective,,Flood Elemental
+creature,41136,objective,,Dreadmaul Ambusher
+creature,41163,objective,,Illycor
+creature,41173,objective,,Chief Prospector Hondo
+creature,41185,objective,,Queen Silith
+creature,41202,objective,,Constriction Totem
+creature,41220,objective,,Battlemaiden Vision 1 Credit
+creature,41221,objective,,Battlemaiden Vision 2 Credit
+creature,41222,objective,,Battlemaiden Vision 3 Credit
+creature,41227,objective,,Azsh'ir Infantry
+creature,41235,objective,,Alliance Lookout
+creature,41249,objective,,Azsh'ir Soldier
+creature,41250,objective,,Azsh'ir Wave Screamer
+creature,41255,objective,,Sethria
+creature,41258,objective,,Frostmane Warrior
+creature,41284,objective,,Battok the Berserker
+creature,41303,objective,,Northwestern Terrace Credit
+creature,41304,objective,,Terrace Tunnel Credit
+creature,41310,objective,,Aviana Reborn Quest Tracker
+creature,41311,src,,Master Assassin Kel'istra
+creature,41312,src,,Menethil Wallbuilder
+creature,41316,src,,Support Clamp Trigger 03
+creature,41334,objective,,Whrrrl
+creature,41351,objective,,Grimtotem Bodyguard
+creature,41372,objective,,Frostmane Retreat North
+creature,41373,objective,,Frostmane Retreat South
+creature,41396,objective,,Fiery Tormentor
+creature,41409,objective,,Dark Iron Trapper
+creature,41414,objective,,Highland Raptor Kill Credit
+creature,41416,objective,,Yorla Darksnare
+creature,41424,objective,,Mouldering Mirebeast
+creature,41431,objective,,Grimtotem Invader
+creature,41438,objective,,Mosshide Captive Credit Bunny
+creature,41455,objective,,Overseer Idra'kess
+creature,41456,objective,,Lady Sira'kess
+creature,41460,objective,,Captured Freewind Brave
+creature,41463,objective,,Captured Feralas Sentinel
+creature,41466,objective,,Idra'kess Sentinel
+creature,41467,objective,,Idra'kess Enchantress
+creature,41470,objective,,Doomguard Destroyer
+creature,41471,objective,,Dreadlord Defiler
+creature,41475,objective,,Oil Pump
+creature,41481,objective,,Zin'jatar Guardian
+creature,41510,objective,,Lost Warden Rescued
+creature,41522,objective,,Calamoth Ashbeard
+creature,41530,objective,,Warden Azjakir
+creature,41553,src,,Drungeld Glowerglare
+creature,41555,objective,,Pearl Miner Rescue Credit
+creature,41562,objective,,Injured Lookout
+creature,41572,objective,,Rescue Balloon
+creature,41646,objective,,Crushing Eel
+creature,41650,objective,,Nether Fiend
+creature,41659,objective,,Hallazeal the Ascended
+creature,41762,objective,,Helm's Bed Surger
+creature,41763,smart,,Frozen Mountaineer
+creature,41768,objective,,Icy Tomb
+creature,41865,objective,,Darnassian Scout
+creature,41866,objective,,Stonetalon Alliance Unit Proxy
+creature,41885,objective,,Gurrok
+creature,41936,objective,,Northwatch Tent Quest Credit
+creature,41938,spell,,Tremor Totem
+creature,41940,spell,,Windfury Totem
+creature,41980,objective,,Fathom-Caller Azrajar
+creature,41982,objective,,Quel'Dormir Temple Credit Bunny
+creature,41985,objective,,Sira'kess Tide Priestess
+creature,42000,src,,Tornado
+creature,42010,objective,,General Grimaxe
+creature,42016,objective,,Gnomish Flying Machine
+creature,42017,objective,,Gnome Wing Commander
+creature,42024,objective,,Subdued Kobold
+creature,42046,objective,,Burning Bomber Credit
+creature,42050,objective,,General Grebo
+creature,42056,credit,,Stonetalon Alliance Battlescar Unit Proxy
+creature,42057,objective,,Kvaldir Bonesnapper
+creature,42089,objective,,Rally the Defenders Credit
+creature,42093,objective,,Striking Back Credit
+creature,42151,objective,,Angerfang Dragonmaw Kill Credit
+creature,42154,objective,,Twilight Convert
+creature,42169,src,,Amberstill Raid Controller
+creature,42185,objective,,Living Contamination
+creature,42223,objective,,Irradiated Technician
+creature,42224,objective,,Repaired Mechano-Tank
+creature,42280,objective,,Twilight Devotee
+creature,42285,objective,,Faceless Overseer
+creature,42308,smart,,Lieutenant Horatio Laine
+creature,42309,smart,,Stormwind Investigator
+creature,42333,objective,,High Priestess Azil
+creature,42343,objective,,Twilight Extermination Bound Torrent Possessed Kill Credit
+creature,42354,objective,,Palemane Gnoll Kill Credit
+creature,42384,smart,,Homeless Stormwind Citizen
+creature,42414,objective,,Furlbrow Murder Info 001
+creature,42415,objective,,Furlbrow Murder Info 002
+creature,42416,objective,,Furlbrow Murder Info 003
+creature,42417,objective,,Furlbrow Murder Info 004
+creature,42428,objective,,Devout Follower
+creature,42463,objective,,Operation: Gnomeregan Recap Credit
+creature,42524,objective,,Jaspertip Borer
+creature,42549,objective,,Azsh'ir Archaean
+creature,42558,smart,,Lieutenant Horatio Laine
+creature,42559,smart,,Stormwind Investigator
+creature,42563,objective,,Toxic Pool
+creature,42604,spell,,Elemental Resistance Totem
+creature,42605,spell,,Flametongue Totem
+creature,42621,credit,,Murkgill Murloc
+creature,42625,credit,,Westfall Stew Proxy
+creature,42645,objective,,Captured Demolitionist
+creature,42652,credit,,Riverpaw Gnoll Proxy
+creature,42680,objective,,Shadowy Figure
+creature,42731,objective,,Earthmender Norsala
+creature,42758,objective,,Slain Crew Member Credit
+creature,42773,objective,,Boss Bruggor
+creature,42788,objective,,Hargoth Dimblaze
+creature,42796,objective,,Paint it Black Credit
+creature,42801,objective,,Mor'norokk the Hateful
+creature,42815,objective,,Ongo'longo
+creature,42818,credit,,Azsh'ir Warrior
+creature,42819,objective,,Azsh'ir Depthseeker
+creature,42860,objective,,Razlo Crushcog Kill Credit
+creature,42879,objective,,Spawn of Shadra
+creature,42900,objective,,Quartz Rockling
+creature,42917,objective,,Twilight Duskwarden
+creature,42921,objective,,Dragul Giantbutcher
+creature,42977,objective,,Twilight Skies Quest Tracker
+creature,43024,credit,,Skullsplitter Troll
+creature,43026,objective,,Deepstone Elemental
+creature,43027,objective,,First Clue
+creature,43028,objective,,Second Clue
+creature,43029,objective,,Third Clue
+creature,43036,objective,,Flint Oremantle
+creature,43038,objective,,Agitated Tunneler Transform
+creature,43067,objective,,Shadra'Alor Northwest Altar Bunny
+creature,43068,objective,,Shadra'Alor Southwest Altar Bunny
+creature,43069,objective,,Shadra'Alor East Altar Bunny
+creature,43115,objective,,Dormant Stonebound Elemental
+creature,43120,objective,,Gurubashi Arena Credit
+creature,43172,objective,,Pebble Crystal Event Credit
+creature,43173,smart,,Redridge Garrison Watchman
+creature,43189,objective,,Warchief Mor'ghor
+creature,43198,objective,,Interrogation Credit
+creature,43199,src,,Wind Servant
+creature,43200,src,,Gilda Cloudcaller
+creature,43201,src,,Cavern Grunt
+creature,43202,src,,Elevator Construction Chief
+creature,43236,objective,,Trained Razorbeak Feed Credit Bunny
+creature,43243,objective,,Horde Negotiator Quest Tracker
+creature,43245,objective,,Zanzil the Outcast
+creature,43252,objective,,Bat Totem Credit
+creature,43253,src,,Troll Hole Credit
+creature,43257,objective,,High Priestess Jeklik
+creature,43321,objective,,Plunging into ZG Credit
+creature,43323,objective,,High Priest Venoxis
+creature,43339,objective,,Gorgonite
+creature,43363,objective,,Ritualist Tarak
+creature,43394,objective,,Dragonmaw Warlock
+creature,43511,objective,,Deck Stain
+creature,43553,objective,,Ninja
+creature,43575,objective,,Dragonmaw Enforcer
+creature,43654,objective,,Dragonmaw Revolutionary Quest Tracker
+creature,43666,objective,,Brashtide Crew: John Credit
+creature,43667,objective,,Brashtide Crew: Shawn Credit
+creature,43668,objective,,Brashtide Crew: Mary Credit
+creature,43754,credit,,Splinter Fist Ogre Proxy Kill Credit
+creature,43764,src,,Admiral Stormblood
+creature,43900,src,,Blaze
+creature,44000,src,,Gilnean Emissary
+creature,44020,src,,Barn Owl
+creature,44032,credit,,Raven Hill Ghoul Kill Credit
+creature,44035,objective,,Fungal Monstrosity
+creature,44049,objective,,Giant Mushroom
+creature,44120,objective,,Sauranok the Mystic
+creature,44126,objective,,War Guardian
+creature,44127,credit,,Stranglethorn Basilisk
+creature,44132,objective,,Sauranok the Mystic Quest Tracker
+creature,44151,objective,,Bouldergut
+creature,44175,objective,,Spell Practice Credit
+creature,44207,objective,,Take Him to the Earthcaller Kill Credit
+creature,44229,objective,,Sundered Emerald Colossus
+creature,44281,objective,,Felsen the Enduring Speak Credit
+creature,44282,objective,,Crumbling Depths Entrance Credit
+creature,44290,objective,,One With the Ground Kill Credit
+creature,44327,src,,One With the Ground Ritual
+creature,44352,objective,,Tawn Winterbluff
+creature,44353,objective,,Stormcaller Mylra
+creature,44372,objective,,Avalanchion
+creature,44547,objective,,Bloodfang Scavenger
+creature,44629,objective,,Garrosh Hellscream
+creature,44758,credit,,Mo'grosh Darkmauler
+creature,44793,objective,,Worgen Renegade
+creature,44814,objective,,Crazed Cultist
+creature,44816,objective,,The Black Bishop
+creature,44819,objective,,Siamat
+creature,44827,objective,,Stormwind Dock Worker Tracking Bunny
+creature,44831,credit,,Plaguelands Spider
+creature,44850,objective,,Northridge Spider Scare Credit
+creature,44882,objective,,Deathstalker Rane Yorick
+creature,44906,objective,,Skitterweb Matriarch
+creature,44909,objective,,Anduin Farm Escort Quest Tracker
+creature,44910,objective,,Anduin Farm Ambush Quest Tracker
+creature,44915,objective,,Orc Crate
+creature,44920,smart,,North Tide's Invisible Stalker
+creature,44921,objective,,Anduin Espionage Quest Tracker
+creature,44923,smart,,North Tide's Invisible Stalker (Large)
+creature,44942,objective,,Orc Sea Dog
+creature,44953,objective,,Human to Forsaken Kill Credit
+creature,44979,objective,,Major Samuelson Quest Tracking Bunny
+creature,45036,src,,Hargoth Dimblaze
+creature,45083,objective,,Servant of Therazane Credit
+creature,45119,objective,,Corrupted Darkwood Treant
+creature,45125,objective,,Felspore Bog Lord
+creature,45387,objective,,Isha Gloomaxe
+creature,45400,src,,Fiona's Caravan
+creature,45410,objective,,Elder Stormhoof
+creature,45418,objective,,Grundig Darkcloud
+creature,45438,objective,,Arnak Grimtotem
+creature,45447,objective,,Arikara
+creature,45743,credit,,Nerubian Sycophant
+creature,45756,credit,,Ambermill Mage Proxy
+creature,45847,smart,,S.A.F.E. Operative
+creature,45967,objective,,Marshfin Murkdweller
+creature,46025,smart,,S.A.F.E. Officer
+creature,46092,objective,,Scarlet Commander Marjhan
+creature,46093,objective,,Mataus the Wrathcaster
+creature,46094,objective,,Huntsman Leopold
+creature,46095,objective,,Rohan the Assassin
+creature,46102,objective,,Hall of Arms Credit
+creature,46103,objective,,Library Wing Credit
+creature,46122,objective,,Gorfax Angerfang
+creature,46126,objective,,Turquoise Scarab
+creature,46127,objective,,Sapphire Scarab
+creature,46128,objective,,Emerald Scarab
+creature,46129,objective,,Amethyst Scarab
+creature,46268,objective,,Survivor
+creature,46293,objective,,Torben Zapblast
+creature,46321,objective,,Thundermar Gryphon Rider
+creature,46322,objective,,Shaman of the Black
+creature,46363,objective,,Crazed Leper Gnome
+creature,46371,objective,,Hr'nglth the Lost
+creature,46424,objective,,Priestess Udum'bra
+creature,46491,objective,,Orgrimmar Citizen
+creature,46493,objective,,Warlord Halthar
+creature,46500,src,,Hogger
+creature,46549,objective,,Proclamation Credit
+creature,46579,objective,,Depths Overseer
+creature,46605,objective,,Shipwrecked Sailor
+creature,46623,objective,,Gomora the Bloodletter
+creature,46646,objective,,Obsidian Colossus
+creature,46656,objective,,Jammal'an the Prophet
+creature,46658,objective,,Nyxondra
+creature,46666,objective,,Ritual Practice Credit
+creature,46671,objective,,Twilight Rune of Earth
+creature,46677,objective,,A Fiery Reunion Teleport Kill Credit
+creature,46791,objective,,The Drag Ritual Credit
+creature,46792,objective,,Valley of Honor Ritual Credit
+creature,46793,objective,,West Gate Ritual Credit
+creature,46813,objective,,Mullan Gryphon Rider
+creature,46838,objective,,Subjugated Firestarter
+creature,46849,objective,,Firebeard's Patrol Fire Bunny
+creature,46851,objective,,Dragonmaw Straggler
+creature,46859,objective,,Velarok the Annihilator
+creature,46860,objective,,General Jirakka
+creature,46861,objective,,Nyxondra
+creature,46862,objective,,Eric Credit 1
+creature,46863,objective,,Eric Credit 2
+creature,46864,objective,,Baelog Credit 1
+creature,46865,objective,,Baelog Credit 2
+creature,46866,objective,,Olaf Credit 1
+creature,46867,objective,,Olaf Credit 2
+creature,46915,objective,,Darkflight Soldier
+creature,46916,objective,,Nyxondra's Broodling
+creature,46917,objective,,Darkflight Flameblade
+creature,46938,objective,,Moldarr
+creature,46959,credit,,Lost One Proxy Kill Credit
+creature,46968,objective,,Mullan Gryphon
+creature,47176,objective,,Ambassador Laurent
+creature,47185,objective,,Refined Gentleman
+creature,47187,objective,,Budding Artist
+creature,47189,objective,,Aspiring Starlet
+creature,47252,objective,,Eye of Twilight's Vision
+creature,47303,objective,,Wildlife Kill Credit - Tol Barad Quest - Largo's Overlook
+creature,47329,credit,,Deadwood Kill Credit
+creature,47365,objective,,Impsy Capture Credit
+creature,47442,objective,,Johnny Awesome
+creature,47443,objective,,Kingslayer Orkus
+creature,47444,objective,,Dumass
+creature,47447,objective,,Keep Lord Farson
+creature,47459,objective,,Guardian Flag Tracker
+creature,47460,objective,,Twilight-Lord Arkkus
+creature,47462,objective,,Archduke Calcinder
+creature,47490,objective,,Twilight Spearwarder
+creature,47539,objective,,Dragonmaw Gate Controller
+creature,47566,objective,,Grim Batol Credit
+creature,47602,objective,,Codemaster Deethuk
+creature,47619,objective,,Elementalist Starion
+creature,47620,objective,,Commander Fastfuse
+creature,47630,objective,,Twilight Jailer
+creature,47747,objective,,Whisperwind Lasher
+creature,47763,objective,,Bound Fury
+creature,47766,objective,,Bound Vortex
+creature,47789,objective,,Clerk Horrace Whitesteed
+creature,47790,objective,,Magistrate Burnside
+creature,47791,objective,,Citizen Wilkes
+creature,47793,objective,,The Ray-Getz-Kalaba Monstrosity
+creature,47910,objective,,Costume Credit
+creature,47932,objective,,Nomarch Conversation Credit
+creature,47933,objective,,Sun Priest Asaris Credit
+creature,47936,objective,,Asaq Conversation Credit
+creature,47972,objective,,Commander Schnottz
+creature,48038,objective,,Ironwood Buzzer
+creature,48077,objective,,Irontree Woods Island
+creature,48082,objective,,Harrison Jones
+creature,48099,objective,,Worgmistress Othana
+creature,48100,objective,,Voodooist Timan
+creature,48112,objective,,Kodo Horn Credit
+creature,48154,objective,,Jadefire Shifter
+creature,48164,objective,,Irontree Soil Credit
+creature,48194,objective,,Dragonmaw Skyclaw
+creature,48197,objective,,Dragonmaw Black Drake
+creature,48200,objective,,Sunbeam Credit
+creature,48210,objective,,Sergeant Cudgel Credit
+creature,48257,objective,,Narkrall Rakeclaw
+creature,48259,objective,,Irontree Shredder
+creature,48271,objective,,Necessary Roughness Kill Credit
+creature,48323,objective,,Rolling with my Homies Keys to the Hot Rod Used Kill Credit
+creature,48452,objective,,Talonbranch Defender
+creature,48453,objective,,Irontree Chopper
+creature,48454,objective,,Talonbranch Wisp
+creature,48455,objective,,Felrot Courser
+creature,48457,objective,,Tainted Squirrel
+creature,48474,objective,,Glopgut Pounder
+creature,48489,objective,,Find Fanny Quest Tracker
+creature,48573,smart,,Chaewel
+creature,48586,credit,,Winterfall Kill Credit
+creature,48762,objective,,Hammelhand's Caravan Escort Tracker
+creature,48842,src,,Frantic Geist (1)
+creature,48859,objective,,Infantryman Kill Credit
+creature,48949,src,,Kezan Socialite
+creature,49179,credit,,Winterfall Village Kill Credit
+creature,49180,objective,,Flintlocke's Cannon
+creature,49189,objective,,PvG Tutorial Complete
+creature,49204,objective,,Brann Bronzebeard
+creature,49212,objective,,Skyshredder Bomb Controller Bunny
+creature,49221,objective,,Signal Flare Kill Credit 01
+creature,49222,objective,,Signal Flare Kill Credit 02
+creature,49223,objective,,Signal Flare Kill Credit 03
+creature,49230,objective,,Marshal Redpath
+creature,49231,objective,,Valdred Moray
+creature,49310,src,,Temple Fireshaper (1)
+creature,49337,smart,,Darnell
+creature,49340,smart,,Scarlet Corpse
+creature,49355,objective,,Lord Harford
+creature,49356,objective,,Gally Lumpstain
+creature,49480,condfix,,Tarindrella
+creature,49542,objective,,PvG Level 2 - Flower Power Complete
+creature,49553,objective,,PvG Level 3 - Ghouls Hate My Grains Massive Complete
+creature,49561,objective,,PvG Level 4 - Someone Setup the Pumpkin Bomb Massive Complete
+creature,49871,objective,,Blackrock Worg
+creature,49874,objective,,Blackrock Spy
+creature,50000,src,,Swamp Moth
+creature,50039,objective,,Goblin Assassin
+creature,50044,objective,,Hell-Hoot
+creature,51087,objective,,Seeds of the Blacksouled Credit
+creature,51145,objective,,Slitherblade Charm Credit [INTERNAL] [DO NOT LOCALIZE]
+creature,51312,objective,,Blackriver Horde Credit [INTERNAL]
+creature,51314,objective,,Azshara Event Credit [INTERNAL]
+creature,51613,objective,,Crown Technician
+creature,51933,objective,,Slaves of the Stormforged Credit
+creature,52176,objective,,Spirit of Malorne
+creature,52384,objective,,[DND] Cat Inspected
+creature,52623,objective,,[DND] Voodoo Zombie Turned
+creature,52762,objective,,[DND] At the Digsite
+creature,52832,objective,,Tarecgosa
+creature,52845,objective,,Malfurion Stormrage
+creature,52863,objective,,Leyara
+creature,52867,objective,,EoE Camera Bunny
+creature,52882,objective,,[DND] Zanzil Summoned
+creature,52891,objective,,Flame Runes Extinguished Credit
+creature,52903,objective,,Tholo Whitehoof
+creature,52906,objective,,Elderlimb
+creature,52907,objective,,Thisalee Crow
+creature,52911,objective,,[DND] Follow that Cat
+creature,52939,objective,,Hazlek
+creature,52941,objective,,Bakkalzu
+creature,52943,objective,,Norkani
+creature,52945,objective,,Kasha
+creature,52950,objective,,Solar Core Kill Credit
+creature,53084,objective,,Summon Lashling Kill Credit
+creature,53157,src,,Generic Firelands Raid Bunny JMF Type 2
+creature,53183,objective,,Great Hunter's Challenge Counter
+creature,53236,objective,,Netherwing Essence Credit
+creature,53296,objective,,Locket A Event Controller
+creature,53301,objective,,Locket B Event Controller
+creature,53302,objective,,Locket C Event Controller
+creature,53370,objective,,Foothold Kill Credit
+creature,53500,src,,Living Meteor
+creature,53514,objective,,Feed Ribs Credit
+creature,53518,objective,,Thrall
+creature,53655,objective,,Elemental Bonds Event Controller (Vashj'ir)
+creature,53670,objective,,Aggra
+creature,53714,objective,,Training Target
+creature,53737,objective,,[DND] Wickerman Doused - Quest Credit
+creature,53886,objective,,Igneous Depths Area Credit
+creature,53924,objective,,Hyjal Regrowth Credit
+creature,53935,objective,,Hyjal Goldrinn Hub Completed Credit
+creature,53936,objective,,Hyjal Tortolla Hub Completed Credit
+creature,53937,objective,,Hyjal Aviana Hub Completed Credit
+creature,53978,objective,,Fencing the Goods Credit
+creature,54070,src,,Tenaron Stormgrip
+creature,54131,objective,,Fe-Feng Hozen
+creature,54139,objective,,Main Weapon Equipped Credit
+creature,54198,objective,,Smouldering Essence
+creature,54231,objective,,[DND] Darkmoon Shooting Gallery
+creature,54270,src,,Dethbringer
+creature,54271,src,,Riding Hippogryph (Neutral)
+creature,54306,objective,,Intro Scene Quest Credit
+creature,54432,objective,,Murozond
+creature,54586,objective,,Huojin Trainee
+creature,54611,sspell,,Jaomin Ro
+creature,54853,objective,,Queen Azshara
+creature,54855,sspell,,Min Dimwind
+creature,54856,objective,,Master Li Fei
+creature,54870,objective,,General Nazgrim
+creature,54969,objective,,Mannoroth
+creature,55000,src,,Attack Plane Vehicle Bunny 02
+creature,55085,objective,,Peroth'arn
+creature,55135,smart,,General Nazgrim
+creature,55567,objective,,Kill Credit: A King's Request
+creature,55571,spell,,Lunar Lantern
+creature,55574,spell,,Festival Lantern
+creature,55600,src,,Monkey Wisdom Burned Credit
+creature,56037,objective,,Red Flame Credit
+creature,56038,objective,,Blue Flame Credit
+creature,56040,objective,,Purple Flame Credit
+creature,56048,objective,,Challenger Torch Lit Credit
+creature,56070,objective,,Silkwood Stalker
+creature,56439,objective,,Sha of Doubt
+creature,56689,src,,Pearldiver Su-Su
+creature,56891,objective,,Blue Sky Kill Credit Bunny - Grizzly Hills - HORDE
+creature,57243,objective,,Kill Credit: Jade Serpent
+creature,57457,objective,,Despondent Warden of Zhu
+creature,57744,objective,,Mei Barrelbottom
+creature,57825,objective,,Yun
+creature,57830,objective,,Sunni
+creature,57849,objective,,Off Weapon Equipped Credit
+creature,58239,objective,,Portal 01 Credit
+creature,58240,objective,,Portal 02 Credit
+creature,58241,objective,,Portal 03 Credit
+creature,58412,credit,,Shao-Tien Marauder
+creature,59080,objective,,Darkmaster Gandling
+creature,59417,objective,,Sha Echo
+creature,59570,objective,,Burning Scroll Credit
+creature,59591,objective,,The Master's Flame
+creature,59914,credit,,Shao-Tien Precursor
+creature,60000,src,,Shao-Tien Magus
+creature,61128,objective,,Fire Spirit At Temple Credit
+creature,61409,sspell,,Demonic Leap
+creature,61680,sspell,,Kor'kron Scout
+creature,61788,sspell,,SI:7 Ranger
+creature,61927,src,,Chi-Ji
+creature,62073,objective,,Adjunct Ek'vem
+creature,62074,objective,,Adjunct Ikkess
+creature,62075,objective,,Adjunct Suruz
+creature,62076,objective,,Adjunct Tzikzi
+creature,63014,smart,,Marcus Jensen
+creature,63065,objective,,Shao-Tien Mindbender
+creature,63596,smart,,Audrey Burnhep
+creature,63606,objective,,Xaril the Poisoned Mind
+creature,63626,smart,,Varzok
+creature,63700,src,,Statue 3 Credit
+creature,63972,objective,,Krik'thik Hiveling
+creature,64835,objective,,Unto Dust Thou Shalt Return Kill Credit
+creature,64840,objective,,Unto Dust Thou Shalt Return Kill Credit
+creature,64964,objective,,Rank and File Quest Proxy Kill
+creature,65000,src,,Kill Credit: Alliance Banner
+creature,65910,objective,,Sunke Khang
+creature,66200,objective,,Thunder Hold Soldier
+creature,66203,objective,,Thunder Hold Cannon
+creature,66283,objective,,Captain Doren
+creature,66285,objective,,Thunder Hold Infantryman
+creature,66292,objective,,Sky Admiral Rogers
+creature,66308,objective,,Thunder Hold Munitions
+creature,66554,objective,,Alliance Barricade
+creature,66555,objective,,Alliance Barricade
+creature,66556,objective,,Alliance Barricade
+creature,66646,sspell,,General Nazgrim
+creature,66952,objective,,Stormstout Brewery Credit
+creature,67040,objective,,Hellscream's Fist Deckswabber
+creature,67809,src,,Zan'thik Slasher
+creature,68000,src,,Hiren Loresong
+creature,70000,src,,Al'tabim the All-Seeing
+creature,70170,src,,Sunwalker Dezco
+creature,70205,src,,Weisheng
+creature,70338,src,,Old Salty Sullivan
+creature,70374,src,,Zandalari Skyscreamer
+creature,70425,src,,Greedy Fisherman
+creature,70707,src,,Gruul the Dragonkiller
+creature,70790,src,,Kergil Sparkwrench
+creature,70862,src,,Tamed Frost Wolf
+creature,70888,src,,Ga'nar
+creature,70900,src,,Thunderlord Crag-Leaper
+creature,70938,src,,Frostwolf Greyfur
+creature,71000,src,,Mercenary Engineer
+creature,71488,spell,,Blossoming Ancient
+creature,71647,credit,,Thunderlord Spearhand
+creature,72000,src,,Sun Tenderheart
+creature,73595,sspell,,Forsaken Warhorse
+creature,73700,src,,Slag Elemental
+creature,75000,src,,Invisible Man
+creature,75091,objective,,Grom'kar Grunt
+creature,75959,src,,Durotan
+creature,76500,src,,Orgrimmar Sea Dog
+creature,78272,objective,,Durotan
+creature,78333,objective,,Gul'dan
+creature,78407,objective,,Frost Wolf Howler
+creature,78529,sspell,,Frostwolf Slave
+creature,78556,objective,,Ariok
+creature,78885,objective,,Barb Credit
+creature,78886,objective,,Rune Credit
+creature,78887,objective,,Horn Credit
+creature,78966,objective,,Destroy Altar Credit
+creature,78975,objective,,Run to Altar Credit
+creature,79433,objective,,Kill Credit Bunny
+creature,79697,objective,,Kill Credit Bunny
+creature,79757,objective,,Kill Credit Bunny
+creature,79774,objective,,Sergeant Grimjaw
+creature,80000,src,,Caravan Guard
+creature,80016,objective,,Shooting Gallery Credit
+creature,80686,objective,,Garrison Event - Invasion - MASTER PROXY
+creature,80759,objective,,Cursed Arakkoa
+creature,80929,objective,,Enter Turret Credit
+creature,81024,objective,,Boat Credit
+creature,81360,objective,,Quakefist
+creature,81362,objective,,Frostwall Goren
+creature,81396,objective,,Stonetooth
+creature,81760,sspell,,Hut Credit
+creature,82037,objective,,Lunarfall Raven
+creature,82500,src,,Kill Credit
+creature,82573,objective,,Under Portal Credit
+creature,82606,objective,,Cho'gall Credit
+creature,82607,objective,,Teron'gor Credit
+creature,82871,sspell,,Karabor Slave
+creature,83450,objective,,Frenzied Spitter
+creature,83452,objective,,Malkor
+creature,83467,objective,,Kill Credit: Ancient Jar
+creature,83538,smart,,Warsong Commander
+creature,83551,objective,,Kill Credit: Flight Secured
+creature,83599,objective,,Lithic
+creature,83600,objective,,Crazed Outcast
+creature,83631,objective,,Kill Credit: Alliance Corpse Investigated
+creature,83632,objective,,Kill Credit: All Alliance Corpses Investigated
+creature,83647,objective,,Outcast Talon Guard
+creature,83686,objective,,Greblin Fastfizzle
+creature,83722,objective,,Kill Credit: Torture Information Learned
+creature,84053,objective,,Kargath Bladefist
+creature,84058,objective,,Bladefist Ravager
+creature,84120,objective,,Shattered Hand Orc Kill Credit
+creature,84282,objective,,Kill Credit: Enough Guys Tortured
+creature,84456,objective,,Run to Group Credit
+creature,84768,objective,,For the Horde! Quest Kill Credit
+creature,84778,objective,,For the Alliance! Quest Kill Credit
+creature,85000,src,,Shadow Council Forces
+creature,85141,sspell,,Frostwolf Slave
+creature,85142,sspell,,Karabor Slave
+creature,86585,src,,Urel
+creature,87595,src,,Animate Slag
+creature,87610,src,,Grom'kar Tier One Proxy
+creature,87611,src,,Tipa Rimehorn
+creature,87618,src,,Grom'kar Elite Proxy
+creature,87627,src,,Orrelleon Searingstrike
+creature,87628,src,,Karyn Whitmoor
+creature,87641,src,,Xelganak
+creature,87671,src,,Midnight Kaliri
+creature,88091,objective,,Athissa
+creature,88095,src,,Thrall's Crushing Fist
+creature,88470,src,,Garrison Gyrocopter
+creature,88743,objective,,Find Elder Aldryth Credit
+creature,88746,objective,,Drowned Gardens Credit
+creature,88791,objective,,Kill Credit Bunny - Irradiated Crystal
+creature,88872,sspell,,Enter the Illidari: Ashtongue Legion Gateway Kill Credit
+creature,88908,objective,,Boss Whalebelly
+creature,89048,objective,,Sternfathom
+creature,89050,objective,,Boss Whalebelly
+creature,89056,objective,,Captain Feargus
+creature,89101,objective,,Prince Oceanus
+creature,89276,objective,,Demon Soul
+creature,89398,objective,,Allari the Souleater
+creature,89673,objective,,Questioner Arev'naal
+creature,90000,src,,Battleship Cannon
+creature,90077,objective,,Trailing the Crescent Escort Credit B
+creature,90167,objective,,Mana-Drained Whelpling
+creature,90247,sspell,,Battlelord Gaardoun
+creature,90263,objective,,Mana Collector S
+creature,90267,objective,,Ael'Yith
+creature,90315,objective,,Senegos Pool Credit
+creature,90372,objective,,Runas the Shamed
+creature,90401,objective,,Allari the Souleater
+creature,90402,objective,,Demon Soul
+creature,90403,objective,,Allari the Souleater
+creature,90406,objective,,Runas the Shamed
+creature,90469,credit,,Nightfallen Elf: Boss
+creature,90479,objective,,Runas Guardian Escort Credit
+creature,90546,objective,,Stellagosa
+creature,90600,src,,Gutrek
+creature,90880,objective,,Mana-Drained Whelpling
+creature,91155,objective,,Orbyth
+creature,91184,objective,,Sharazaan
+creature,91185,objective,,Daglop
+creature,91839,objective,,Kaldorei Windgryph
+creature,91860,objective,,Reanimated Archer
+creature,92232,src,,Nightmare Bonfire
+creature,92262,src,,Felblood Corruptor
+creature,92597,src,,Demonic Focus
+creature,92640,src,,Bleeding Hollow Scavenger
+creature,92643,src,,Silver Hand Knight
+creature,92646,src,,Fel Imp
+creature,92693,src,,Fel Touched Bombs
+creature,92742,src,,Ysera
+creature,92883,credit,,Legion Forces Kill Credit Proxy
+creature,92942,credit,,Kill Credit
+creature,92947,src,,Twisted-Branch Shaman
+creature,92954,objective,,Risen Soldier
+creature,92963,objective,,Starlys Strongbow
+creature,92965,objective,,Darkshade
+creature,92966,objective,,Trelan Shieldbreaker
+creature,92971,objective,,Kester Farseeker
+creature,93031,objective,,Lieutenant Desdel Stareye
+creature,93061,objective,,Risen Saber
+creature,93067,objective,,Kill Credit: Bonus Objective
+creature,93117,sspell,,Izal Whitemoon
+creature,93230,sspell,,Mannethrel Darkstar
+creature,93475,objective,,Cleave Thunderhill
+creature,93487,objective,,Gentle Rosh
+creature,93492,objective,,Grace the Green
+creature,93693,sspell,,Lady S'theno
+creature,93835,src,,Thorina
+creature,94013,src,,Lord Solanar Bloodwrath
+creature,94048,objective,,Curious About Dalaran Credit
+creature,94349,objective,,Crafting Credit A
+creature,94377,sspell,,Cyana Nightglaive
+creature,94400,sspell,,Belath Dawnblade
+creature,94406,sspell,,Enter the Illidari: Coilskar Legion Gateway Kill Credit
+creature,94407,sspell,,Enter the Illidari: Shivarra Legion Gateway Kill Credit
+creature,94410,objective,,Allari the Souleater
+creature,94435,sspell,,Matron Mother Malevolence
+creature,94489,src,,Dragonmaw Bonewarder
+creature,94568,src,,Lady Liadrin
+creature,94792,src,,Acheon Kor
+creature,94863,src,,Mender Onelle
+creature,94864,src,,Cymre Brightblade
+creature,94974,objective,,Sirius Ebonwing
+creature,94978,src,,Assault Gryphon
+creature,94979,src,,Beast
+creature,95247,objective,,Black Rook Spectral Officer
+creature,95430,objective,,Servant of Ravencrest
+creature,95944,src,,Rocco Whipshank
+creature,95949,src,,Kranal Fiss
+creature,96066,credit,,Orcs Slain
+creature,96159,objective,,Colossal Infernal
+creature,96436,objective,,Jace Darkweaver
+creature,96437,objective,,Give Me Sight Beyond Sight Spectral Sight Quest Kill Credit
+creature,96492,objective,,Kill Credit: Spoke with Odyn
+creature,96532,objective,,Kill Credit: Arrived at Odyn
+creature,96654,objective,,Belath Dawnblade
+creature,97000,src,,Chameli Banaphash
+creature,97778,objective,,Master Hight
+creature,97831,objective,,Enter the Illidari First Summoned Guardian Quest Kill Credit
+creature,97975,objective,,7.0 Professions - Inscription - Containing the Demon Within - Kill Credit 01 - SCS
+creature,97976,objective,,Bonebeak Hawk
+creature,97995,objective,,7.0 Professions - Inscription - Containing the Demon Within - Kill Credit 02 - SCS
+creature,97996,objective,,7.0 Professions - Inscription - Containing the Demon Within - Kill Credit 03 - SCS
+creature,97997,objective,,7.0 Professions - Inscription - Containing the Demon Within - Kill Credit 04 - SCS
+creature,97998,objective,,7.0 Professions - Inscription - Containing the Demon Within - Kill Credit 05 - SCS
+creature,98028,objective,,7.0 Professions - Inscription - Containing the Demon Within - Kill Credit 06 - SCS
+creature,98353,objective,,Master Fel Stone
+creature,98486,objective,,Wrath Warrior
+creature,98514,objective,,Pilgrimage
+creature,98755,objective,,Hidden No More Rockslide Hidden Quest Kill Credit
+creature,99000,src,,Mr. Burns
+creature,99134,src,,Serpent Style Monk
+creature,99418,objective,,Aethas's Portal
+creature,99774,src,,Jordan Stilwell
+creature,99776,src,,Dareth
+creature,99777,src,,Legion Commander Kill Credit Proxy
+creature,99778,src,,Commander Vorlax
+creature,99779,src,,Stonespine Gazer
+creature,99780,src,,Dral Du'thelas
+creature,99781,src,,Snazzle Shinyfinder
+creature,99782,src,,Trytooth Hardchisel
+creature,99914,smart,,Ashtongue Mystic
+creature,99915,objective,,Sevis Brightflame
+creature,100000,src,,Johnny Awesomer
+creature,100290,objective,,Flame Bunny
+creature,100377,objective,,Ael'yith Approach Credit
+creature,100383,objective,,Mana Collector C
+creature,100384,objective,,Mana Collector NW
+creature,100385,objective,,Mana Collector NE
+creature,100386,objective,,Siphon Destroyed Credit
+creature,100583,objective,,Kill Credit: Artifact Chosen
+creature,100722,smart,,Meeting With the Queen Ritual Completed Quest Kill Credit
+creature,101064,objective,,Archdruid Hamuul Runetotem
+creature,101518,objective,,Felsaber
+creature,101534,sspell,,Enter the Illidari: Ashtongue See Felsaber Quest Kill Credit
+creature,101832,credit,,Risen Chieftain
+creature,101833,src,,Revenant Chieftain
+creature,101854,src,,Oublion's Cage
+creature,101855,src,,Visitor
+creature,102041,objective,,Kill Credit: Letter Read
+creature,102086,smart,,Kill Credit: Enter the Hall of Shadows
+creature,102098,objective,,Kill Credit: Find the Uncrowned
+creature,102251,credit,,Burial Ground Kill Credit Proxy
+creature,102340,objective,,Kill Credit: Found Faol's Rest
+creature,102341,objective,,Kill Credit: Talked to Faol
+creature,102394,objective,,Kill Credit: Taken Portal to Dalaran Crater
+creature,102450,objective,,Prison Shackle
+creature,103015,src,,Zaria Shadowheart
+creature,103016,src,,Baric Stormrunner
+creature,103036,objective,,Kill Credit: Followed Danica
+creature,103133,objective,,Naralex
+creature,103136,objective,,Zen'tabra
+creature,103184,objective,,Naralex's Camp
+creature,103315,src,,Beast
+creature,103343,objective,,Kill Credit: Ritual Complete
+creature,103346,objective,,Kill Credit: Ready To Cast
+creature,103800,src,,Anomaly
+creature,103820,src,,Sea Turtle
+creature,104297,objective,,Kill Credit: Talk to Grif
+creature,104298,objective,,Kill Credit: Talk to Apata
+creature,104299,objective,,Kill Credit: Talk to Larkspur
+creature,104591,src,,Soth'ozz the Guardian
+creature,104600,src,,Sashj'tar Scaleflayer
+creature,104634,objective,,Kill Credit: Artifact Chosen
+creature,105300,src,,Ularogg Cragshaper
+creature,105316,smart,,Questioner Arev'naal
+creature,105635,objective,,Saving Stellagosa First Chain Unlocked Quest Kill Credit
+creature,105907,objective,,Kill Credit: Password Spoken
+creature,105946,sspell,,Eye On the Prize Inquisitor Baleful's Power Quest Kill Credit
+creature,105967,src,,Restless Tombguard
+creature,105969,src,,Lady Sacrolash
+creature,105988,src,,Fenthwick
+creature,106003,objective,,Before We're Overrun Doom Commander Beliash's Power Quest Kill Credit
+creature,106010,src,,Dreamwisp
+creature,106014,sspell,,Hidden No More Fel Lord Caza's Power Quest Kill Credit
+creature,106020,src,,Kill Credit: Clue 1
+creature,107151,src,,Suramar Noble
+creature,107279,objective,,Wand Target
+creature,107995,objective,,Stellagosa
+creature,108649,objective,,Kill Credit: Talked to Orik/Tahu
+creature,108721,objective,,Ael'Yith
+creature,108800,src,,Kill Credit: Lanigosa Ride
+creature,109515,src,,Demonic Portal
+creature,109629,src,,Tideskorn Shieldmaiden
+creature,109958,objective,,Ley Line Energy Collected
+creature,110000,src,,Santus
+creature,110320,objective,,Ancient Vrykul Legends Quest The Raven's Eye Tablet Etched Kill Credit
+creature,113470,src,,Shal'dorei Sentry [Test Palette]
+creature,113480,src,,Squigglefin Tadpole
+creature,113529,src,,Warchief Vol'jin
+creature,113762,objective,,Fel Cannonball
+creature,114506,objective,,Teleport Dalaran Kill Credit
+creature,115527,credit,,Black Rook Forces
+creature,115845,credit,,Kill Credit: Vrekt
+creature,116600,src,,Cursed Sea Dog
+creature,120000,src,,Shivarra
+creature,120022,objective,,Deepmaw
+creature,120590,objective,,Lady Jaina Proudmoore
+creature,120756,objective,,Anduin Wrynn
+creature,120922,objective,,Lady Jaina Proudmoore
+creature,121120,src,,Eyir's Presence
+creature,122370,objective,,Cyrus Crestfall
+creature,124016,credit,,Saltspine Krolusk
+creature,124367,src,,Fleet Admiral Zar'gov
+creature,124369,src,,Lightforged Commander
+creature,124586,objective,,Kill Credit: Bank
+creature,124587,objective,,Kill Credit: Flightmaster
+creature,124588,objective,,Kill Credit: Ferry
+creature,124768,objective,,Kill Credit: Inn
+creature,124844,objective,,Trevor Hightide
+creature,124885,objective,,Bewitched Darkmaw
+creature,124935,objective,,Credit - Effigy Attacked
+creature,124937,objective,,Credit - Farmer's Journal
+creature,124939,objective,,Credit - Rancher's Letter
+creature,124940,objective,,Credit - Ava's Note
+creature,124953,objective,,Helena Gentle
+creature,125094,objective,,Credit - Eastern Effigy
+creature,125095,objective,,Credit - Southern Effigy
+creature,125096,objective,,Credit - Western Effigy
+creature,125112,objective,,Credit - Lesser Effigy
+creature,125380,objective,,Lucille Waycrest
+creature,125394,objective,,Constable Henry Framer
+creature,125411,objective,,Watchful Raven
+creature,125413,objective,,Credit - Villager Questioned
+creature,125415,objective,,Credit - Onion Looted
+creature,125464,objective,,Darkmaw Prowler
+creature,125509,objective,,Credit - Onions Cut
+creature,125510,objective,,Credit - Insects Released
+creature,125511,objective,,Credit - Venom Given
+creature,125940,objective,,Credit - Villager 01 Questioned
+creature,125941,objective,,Credit - Villager 02 Questioned
+creature,125942,objective,,Credit - Villager 03 Questioned
+creature,125943,objective,,Credit - Villager 04 Questioned
+creature,125944,objective,,Credit - Villager 05 Questioned
+creature,126159,objective,,Frightened Woodsman
+creature,126542,objective,,Ancient Sentinel
+creature,127158,objective,,Jonathan Johnny Presterby
+creature,127159,objective,,Amelia Tidecrest
+creature,127160,objective,,Euphemia Batten-Chase
+creature,128138,src,,Akunda the Liar
+creature,128345,objective,,Deathcursed Terror
+creature,128392,objective,,Backpack Credit
+creature,128406,objective,,Credit - Trap Sprung
+creature,128475,smart,,Post Bunny
+creature,128532,objective,,Credit - Jar Found
+creature,128742,objective,,Injured Ranger
+creature,129417,objective,,Scarbeak
+creature,129488,objective,,Travis Daybreak
+creature,129489,objective,,Kyle Sailford
+creature,129490,objective,,Burke Stevenson
+creature,129833,objective,,Mossfang Matriarch
+creature,130000,src,,Invasion Point
+creature,130419,objective,,Cyril White
+creature,130511,src,,Lightforged Beacon
+creature,130906,objective,,Go to the Ghostlands Kill Credit
+creature,130982,objective,,BC/LK Choice Credit
+creature,131373,objective,,Briarwood Invader
+creature,132091,objective,,Small Fetish Destroyed Credit
+creature,133234,src,,Krolusk Dunemite
+creature,135201,objective,,Talk to Sylvanas
+creature,135202,objective,,Meet your team
+creature,136302,src,,Dark Etching Target
+creature,137009,objective,,Kill Credit: Speak With Cyrus
+creature,137066,objective,,7th Legion Magus
+creature,137669,credit,,Kill Credit: Buzzards fed
+creature,137877,objective,,Kill Credit Cyrus' Tale
+creature,138010,objective,,Credit - Northern Effigy
+creature,138116,objective,,Credit - Ferry Taken
+creature,139104,objective,,Lady Sylvanas Windrunner
+creature,139645,objective,,Vision of Sailor's Memory
+creature,139902,objective,,Warchief's Command: Thousand Needles! Quest Doras Kill Credit
+creature,139924,objective,,Warchief's Command: Un'Goro Crater! Quest Doras Kill Credit
+creature,141070,src,,Flynn Fairwind
+creature,141074,src,,Kor'gall Defector
+creature,141159,objective,,Ulfar
+creature,141323,credit,,Kill Credit: Horde Sailors
+creature,141722,credit,,Kill Credit: Banshee's Wail Sailor
+creature,141812,src,,Kill Credit: Fire Cannon (Shared)
+creature,141857,src,,Banshee's Wail Deckhand
+creature,141858,src,,Sur'jan's Left Shoulderpad
+creature,141859,src,,Banshee's Wail Swabby
+creature,141869,src,,Lookout
+creature,141979,src,,Big ol' Bomb
+creature,142036,src,,Stromgarde Sorcerer
+creature,142207,src,,Speaker Obara
+creature,142208,src,,(Bunny) Crimson Gale Sails
+creature,142209,src,,(Bunny) Crimson Gale Sails - Fire
+creature,142210,src,,Unworthy Vessel
+creature,142211,src,,Thomas Zelling
+creature,142212,src,,Banshee's Wail Water Tornado
+creature,142213,src,,Crimson Squall Deckhand
+creature,142214,src,,Anchor of Binding
+creature,142215,src,,Haggard Serf
+creature,142216,src,,Haggard Serf
+creature,142217,src,,Haggard Serf
+creature,142218,src,,Haggard Serf
+creature,142219,src,,Malformed Creation
+creature,142418,src,,Cresting Goliath
+creature,142715,src,,Sand Bar Patron
+creature,143858,objective,,Opening the Backdoor Quest Garm Teleporter Activated Kill Credit
+creature,143933,objective,,Credit - Bloodfly
+creature,143979,src,,Limbflayer Lasha
+creature,144065,src,,Samuel Hawke
+creature,144111,src,,Selma Crump
+creature,144260,objective,,Small Fetish Destroyed Credit
+creature,145090,src,,Keep
+creature,145091,src,,Town Hall
+creature,145964,src,,Naga War Banner
+creature,146017,objective,,Kill Credit
+creature,146084,src,,Loa Speaker Shan'kan
+creature,146085,src,,Loa Speaker Kur'taji
+creature,146086,src,,Loa Speaker Bola
+creature,147594,objective,,Telaamon's Mirror Image
+creature,147595,objective,,Telaamon's Mirror Image
+creature,147646,objective,,Blademaster Telaamon
+creature,148830,src,,Barracks
+creature,148831,src,,Barracks
+creature,148832,src,,Barracks
+creature,148833,src,,Great Hall
+creature,148834,src,,Stronghold
+creature,148835,src,,Stronghold
+creature,148837,src,,Fortress
+creature,148838,src,,Plagueworks
+creature,148870,objective,,Dorian Atwater
+creature,148873,objective,,Sal Atwater
+creature,148883,src,,General Rakera
+creature,148917,src,,Tiragarde Sound Flame Warden
+creature,148937,src,,Forsaken Deadshot
+creature,149025,objective,,Heavy Lumber
+creature,149027,objective,,Lumber Carried
+creature,149293,objective,,Arthur Tradewind
+creature,149364,objective,,Wood Cleansed
+creature,149365,objective,,Ancient Seedling
+creature,149431,src,,Ancient Spear
+creature,149474,objective,,Tandred Proudmoore
+creature,149481,objective,,Brother Pike
+creature,149486,objective,,Rosaline Madison
+creature,149885,src,,Advisor Melandrus
+creature,150000,src,,The Black Knight
+creature,150130,objective,,Blasted Lands Teleport Credit
+creature,150238,objective,,Quilboar Geomancer
+creature,150581,objective,,Hurricane
+creature,150884,objective,,Chelsea Wright
+creature,150885,objective,,Wicker Beast
+creature,151040,objective,,Lieutenant Tarenfold
+creature,151091,objective,,Geolord Grek'og
+creature,151951,src,,Grrmrlg
+creature,151952,src,,Flrgrrl
+creature,151973,src,,Royal Whelk
+creature,152097,src,,Roiling Azerite
+creature,152843,objective,,Harpy Boltcaller
+creature,152992,credit,,Rampaging Motospider
+creature,153000,src,,Sparkqueen P'Emp
+creature,153410,src,,Searing Scorchling
+creature,153411,src,,Murozond
+creature,153523,credit,,Enraged Rustbot
+creature,153851,src,,Prince Erazmin
+creature,153911,src,,Orgrimmar Shaman
+creature,153912,src,,Captain Rupert
+creature,153921,src,,[DNT] Credit - Major Objective
+creature,153937,objective,,Kill Credit: Snapdragon Ravagers fed
+creature,153964,objective,,Bloodbeak
+creature,154198,credit,,Kill Credit - DAILY - Kill Any Rare - Security First
+creature,154710,src,,Great Sea Albatross
+creature,154711,src,,Great Sea Albatross
+creature,154712,src,,Deeptide Fingerling
+creature,154730,src,,Hozen Controller
+creature,155000,src,,Seer Liwatha
+creature,155607,objective,,Private Cole
+creature,156398,objective,,Centurion Goliath
+creature,156518,objective,,Scout-o-Matic 5000
+creature,156595,objective,,Giant Boar
+creature,156609,objective,,Bjorn Stouthands
+creature,156610,objective,,Austin Huxworth
+creature,156612,objective,,Kee-La
+creature,156722,objective,,Invisible Stalker
+creature,156900,objective,,Hrun the Exiled
+creature,156929,objective,,Ralia Dreamchaser
+creature,156943,objective,,Meredy Huntswell
+creature,158281,objective,,Greeter Mnemis
+creature,158329,objective,,Visit Southeast Station
+creature,158332,objective,,Visit Southwest Station
+creature,158599,objective,,Visit Northwest Station
+creature,158630,objective,,Excruciating Memory
+creature,158662,objective,,Cave Entrance
+creature,159714,credit,,Marrowbore Creeper
+creature,160561,objective,,Kill Credit - SW Teleport
+creature,161311,src,,Tentacle Wall Attachment
+creature,161460,src,,[DNT] Credit - Scene
+creature,161461,src,,The Accuser
+creature,161516,src,,Kill Credit: Find Tithelord
+creature,161522,src,,Cursed Blood
+creature,161523,src,,Cloaked Figure
+creature,161524,src,,Dark Sinrunner
+creature,161525,src,,Ol' Blindeye
+creature,162000,src,,[DNT] Credit - Chamber Wave Event
+creature,162798,objective,,Death's Power Grows Quest Swear Fealty Kill Credit [DNT]
+creature,162817,objective,,Torgok
+creature,164577,objective,,Alliance Sparring Partner
+creature,164725,src,,Tanor
+creature,164726,src,,Overlook Defender
+creature,164745,objective,,Kill Credit: Walk with Prince Renathal
+creature,164775,objective,,Alliance Sparring Partner
+creature,164821,src,,Abom Boss Saw + Mace
+creature,164822,src,,Phantoriax's Warsword
+creature,164823,src,,Indri's Flute
+creature,164824,src,,Chosen Protector
+creature,164825,src,,Keen-Eyed Sentry
+creature,164831,credit,,Captain Harkless
+creature,164869,src,,Azereki Ashenblade
+creature,164881,src,,Chosen Runebinder
+creature,164882,src,,Captain Vorness
+creature,164883,src,,Overseer Alexczar
+creature,164884,src,,Chosen Ragebringer
+creature,164885,src,,Overseer Minaera
+creature,164886,src,,Ritual Runeweaver
+creature,164887,src,,Kou
+creature,164888,src,,Bloop
+creature,165107,objective,,Kleia
+creature,165150,objective,,Monstrous Cadaver
+creature,166100,src,,Credit - Player sat down with Matyas
+creature,166161,objective,,Anima
+creature,166163,objective,,Centurion Goliath
+creature,166164,objective,,Centurion Colossus
+creature,166223,objective,,Anima Canister
+creature,166227,objective,,Kleia
+creature,166306,objective,,Kalisthene
+creature,166323,objective,,Pelagos
+creature,166332,objective,,Visit Northeast Station
+creature,166786,objective,,Bo
+creature,166791,objective,,Mithdran Dawntracker
+creature,166796,objective,,Lana Jordan
+creature,166854,objective,,Won'sa
+creature,166872,src,,Umbral Phalynx
+creature,167027,objective,,Choppy Booster Mk. 5
+creature,167142,objective,,Choppy Booster Mk. 5
+creature,167254,objective,,Crenna Earth-Daughter
+creature,167424,objective,,Overseer Kah-Sher
+creature,167682,objective,,Ebon Blade Acolyte
+creature,167817,credit,,Chosen Vanguard
+creature,168686,objective,,Kill Credit
+creature,169039,objective,,Kill Credit
+creature,169069,objective,,Kill Credit
+creature,169097,objective,,Kill Credit
+creature,169243,src,,Mire Runestag
+creature,170000,src,,Spirit Obelisk
+creature,170415,objective,,Travel with Kleia
+creature,170416,objective,,See Bastion through Kleia's eyes
+creature,170558,src,,Ronn the Gray
+creature,170561,src,,Soulfused Construct
+creature,170562,src,,Forgemaster Ingo
+creature,170566,src,,Kill Credit: Updraft Entered
+creature,170567,src,,San'inal
+creature,170568,src,,Construct Soldier
+creature,170569,src,,Bladesworn Traitor
+creature,170571,src,,Timaeron
+creature,170573,src,,Forgemaster Teo
+creature,170574,src,,Marisae
+creature,170575,src,,Captured Forsworn
+creature,170576,src,,Willowisp
+creature,170577,src,,Nightsong Ardenmoth
+creature,170578,src,,Khaliiq
+creature,170579,src,,Slithering Ooze
+creature,170580,src,,Siege Captain
+creature,170581,src,,Artillery Spotter
+creature,170582,src,,Kayt Fregosa
+creature,170583,src,,Chosen Warborn
+creature,170584,src,,Meat Hook
+creature,170607,src,,Information Trader
+creature,170714,objective,,Kill Credit
+creature,170865,objective,,Kill Credit
+creature,170929,credit,,Chosen Vindicator
+creature,170969,credit,,Ragerider Battlehorn
+creature,171889,objective,,Kill Credit: Oath Given to The Accuser
+creature,171890,objective,,Kill Credit: Oath Given to The Curator
+creature,171939,src,,Invisible Stalker
+creature,171940,src,,Kyrian Ascendant
+creature,171941,src,,Helmsman Caliroux
+creature,171942,src,,Shockwave 1 Stalker
+creature,171943,src,,Shockwave 2 Stalker
+creature,172377,objective,,Ebon Blade Acolyte
+creature,172378,objective,,Ebon Blade Acolyte
+creature,172700,src,,Anima Conflux
+creature,173284,src,,Trophy Curator
+creature,173324,src,,Eyegor
+creature,173325,src,,Discreet Facilitator
+creature,173326,src,,Boneclaw
+creature,173327,src,,Attendant Choir
+creature,173943,credit,,Chosen Gatewatch
+creature,173944,credit,,Runebladed Reaper
+creature,174096,credit,,Kill Credit: Gladiator Proxy
+creature,174453,objective,,Sturdy Wyvern
+creature,174553,src,,Credit - Convinced Vole
+creature,174594,src,,Highlord Darion Mograine
+creature,174595,src,,Credit - Ember Court - Guests - VIP 4 - Use Disguise
+creature,174596,src,,Knight of the Ebon Blade
+creature,174598,src,,Crucible Guard
+creature,174599,src,,Stable Master Hail
+creature,174600,src,,Madam Budeau
+creature,174601,src,,Grathalax Entry Stalker
+creature,174602,src,,Remornia
+creature,174603,src,,Magical Broom
+creature,174604,src,,Bunny - Water Wall
+creature,174605,src,,Forsworn Anima-Weaver
+creature,174606,src,,A disembodied voice
+creature,174607,src,,Power Bell Trigger
+creature,174608,src,,Sparkle
+creature,174609,src,,Zaki
+creature,174612,src,,Bunny - Slanknen Safe Spot
+creature,174613,src,,M'Can
+creature,174614,src,,Ka'ruth
+creature,174615,src,,High Exarch Turalyon
+creature,174618,src,,Knight of the Ebon Blade
+creature,174619,src,,Proxy: Zombie
+creature,174620,src,,[DNT] Bugfix Creature
+creature,174621,src,,Bloodthirsty Ghoul
+creature,174623,src,,Bonesmith Heirmir
+creature,174624,src,,Baron Balmedar
+creature,174625,src,,Bored Corpse
+creature,174684,src,,Valiant Protector
+creature,174685,src,,Eternal Bulwark
+creature,174687,src,,Stockstiller Roux
+creature,174708,src,,Soulspliced Veteran
+creature,174709,src,,Stoneweaver McConnell
+creature,174710,src,,Chachi the Artiste
+creature,174711,src,,Freeman
+creature,174712,src,,Scavenging Mawrat
+creature,174713,src,,Twilight Glitterwing
+creature,174714,src,,Tormented Tanya
+creature,174715,src,,Phillios
+creature,174832,objective,,Scene Kill Credit
+creature,174954,objective,,Combat Dummy
+creature,175124,src,,[DNT] Bugfix Creature
+creature,175153,src,,Voidwalker Minion
+creature,175167,src,,Felhunter Minion
+creature,175185,src,,Succubus Minion
+creature,175186,src,,Succubus Minion
+creature,175194,src,,Felhunter Minion
+creature,175196,src,,Generic Bunny
+creature,175198,src,,Void Lasher
+creature,175199,src,,Ravenous Horror
+creature,175200,src,,[DNT] Invisible Stalker
+creature,175204,objective,,This Can Only Mean One Thing... Quest Pip's Mole Machine Used Kill Credit to Player Only [DNT]
+creature,175244,src,,Playful Trickster
+creature,175245,src,,Aggressive Runestag
+creature,175350,src,,Falls Gulper
+creature,175354,src,,Tormented Soul
+creature,175358,src,,Resilient Monstrosity
+creature,175368,src,,Stitched Defender
+creature,175373,src,,Neonate Bonetooth
+creature,175374,src,,Steelspine Wallbreaker
+creature,175377,src,,Panicked Necroray
+creature,175379,src,,Kyrian Wings
+creature,175380,src,,Warden of Rituals
+creature,175381,src,,Necrotic Ritualist
+creature,175405,src,,The Jailer
+creature,175406,src,,Gregor the Pallidblade
+creature,175407,src,,Lord Afanas
+creature,175408,src,,Guy Yearmo
+creature,175528,src,,Baleful Shadow
+creature,175529,src,,Anomalous Rift
+creature,175530,src,,Spell Target
+creature,175531,src,,Highlord Bolvar Fordragon
+creature,175532,src,,Boneweave Ambusher
+creature,175533,src,,Toiling Dredger
+creature,175564,src,,Larion Cub
+creature,175571,src,,Sinfall Counterspy
+creature,175584,src,,(Bunny)
+creature,175588,src,,Acrobatic Steward
+creature,175590,src,,Sinfall Fiend
+creature,175606,src,,Mortal Memento
+creature,175621,src,,Caretaker Kristina
+creature,175622,src,,Sinfall Attendant
+creature,175705,src,,Runemaster Mavrok
+creature,175706,src,,Scroll of Teleportation
+creature,175796,src,,Mailroom Portal
+creature,175845,objective,,Kill Credit
+creature,175969,src,,Tubbins
+creature,176000,src,,Skeletal Warrior
+creature,176093,src,,Borrowed Fae Tome
+creature,176149,src,,Imprisoned Soul
+creature,176211,src,,Salamander
+creature,176225,src,,Jenna Redwell
+creature,176306,src,,Grappling Hook Bunny
+creature,176510,src,,Aspirant Benitos
+creature,176951,src,,Race Run
+creature,176952,src,,Salandria
+creature,176953,src,,Mawsworn Flamehand
+creature,176956,src,,Shadowsteel Goliath
+creature,176957,src,,Shadowsteel Colossus
+creature,176964,src,,Angry Murloc - OLD DO NOT USE
+creature,176965,src,,Angriest Murloc - OLD DO NOT USE
+creature,177000,src,,Soulshape
+creature,177257,src,,Helsworn Inquisitor
+creature,177258,src,,Undying Blademaster
+creature,177259,src,,Zo'pare
+creature,177269,objective,,So'leah
+creature,177292,credit,,Mawsworn Mutilator
+creature,177304,src,,Hipokos
+creature,177371,src,,Devourer Worldeater
+creature,177372,src,,Mawsworn Realmbinder
+creature,177373,src,,[DNT] Kill Credit - Rune Remover
+creature,177374,src,,Razorwing Hatchling
+creature,177375,src,,Grievous Stygian Giant
+creature,177376,src,,Jiro Caretaker
+creature,177377,src,,Automa Servitor
+creature,177484,src,,Angelia
+creature,177485,src,,Evarius
+creature,177706,src,,Attendant Scribe
+creature,177764,src,,Winslow Swan
+creature,177807,src,,Customs Security
+creature,177808,src,,Armored Overseer
+creature,177964,src,,Inconspicuous Stone Fiend
+creature,178000,src,,Xy'daro
+creature,178088,src,,Lionfish
+creature,178107,src,,Mawsworn Crusher
+creature,178108,src,,Kill Credit: Tremaculum Enemy [DNT]
+creature,178187,src,,Ancient Leviathan
+creature,178188,src,,Mawsworn Corruptor
+creature,178189,src,,Cage
+creature,178190,src,,Mawsworn Mutilator
+creature,178191,src,,Xalvez the Collector
+creature,178192,src,,Jefan the Crafter
+creature,178193,src,,Flameforged Destroyer
+creature,178195,credit,,Mawforged Construct
+creature,178205,src,,Soul Amalgam
+creature,178207,src,,Construct Commander
+creature,178559,src,,Pinnacle of Domination
+creature,178560,src,,Hulking Geomental
+creature,178904,src,,Spiteful Anima
+creature,178905,src,,zzzEmpowered Torturer
+creature,178964,src,,Empowered Mawsworn Woebringer
+creature,178965,src,,Maw Giant
+creature,178969,objective,,Credit: Cartel Ba
+creature,178970,objective,,Credit: Cartel Ta
+creature,178971,objective,,Credit: Cartel Au
+creature,178972,objective,,Credit: Cartel Zo
+creature,179028,credit,,Kill Credit: Rare
+creature,179115,src,,Lord Herne
+creature,179116,src,,Hunt-Captain Korayn
+creature,179117,src,,Niya
+creature,179148,src,,Generic - Empty Bunny
+creature,179235,credit,,Kyrian Guardian
+creature,179364,src,,Slime Skeleton Transform
+creature,179365,src,,Devourling
+creature,179502,src,,Adventurer 018
+creature,179503,src,,Korthian Memory
+creature,179504,src,,Spore of Marasmius
+creature,179505,src,,Ella
+creature,179506,src,,ELGU - 007
+creature,179511,src,,Lassik Spinebender
+creature,179512,src,,[DNT] Objective 2
+creature,179559,src,,Guardian Kota
+creature,179564,src,,Frightened Dredger
+creature,179668,src,,Kiaranyka
+creature,179669,src,,Spore of Marasmius
+creature,179670,src,,Spore of Marasmius
+creature,179671,src,,Ella
+creature,179672,src,,Ella
+creature,179673,src,,Ryuja Shockfist
+creature,179674,src,,Dinky  Jr.
+creature,179675,src,,[DNT] Q04 - Objective 1
+creature,179676,src,,Ryuja Shockfist
+creature,179681,src,,Lassik Spinebender
+creature,179688,src,,Prime Shieldguard
+creature,179693,src,,Generic - Empty Bunny
+creature,179694,src,,Trainer Iris Greedsway
+creature,179695,src,,Power Core
+creature,179696,src,,Kill Credit: Object 01
+creature,179698,src,,Kill Credit: Object 03
+creature,179699,src,,Koa
+creature,179701,src,,Tracking Shardhide
+creature,179703,src,,Silkstrider Grub
+creature,179724,src,,Baeb
+creature,179746,src,,Kill Credit: Incense
+creature,179784,src,,Sylvanas
+creature,179804,src,,Violetsail Pet
+creature,179864,credit,,Kill Credit: Normal Enemy [DNT]
+creature,179979,credit,,[DNT] Any Korthia Mawsworn Proxy
+creature,179985,src,,Stygian Stonecrusher
+creature,180000,src,,Owen Test Faction Enemy
+creature,180024,src,,Kynthia
+creature,180046,src,,Invading Horror
+creature,180055,src,,Emeni
+creature,180215,smart,,Export Hauler
+creature,180461,src,,Kill Credit: Sigil Collected - Maldraxxus
+creature,180497,src,,Kill Credit: Sigils Presented
+creature,180514,src,,Pedestal
+creature,180524,src,,Hollow Gromit
+creature,180526,src,,Tranquil Keeper
+creature,180534,src,,Kill Credit: LB 4
+creature,180554,src,,Fae Enchanter
+creature,180634,src,,Delayed Cartel Fe Aquisitions
+creature,180635,src,,Escaped Bounty
+creature,180636,src,,Escaped Bounty
+creature,180745,src,,Chi-Ji
+creature,180795,src,,Lupine Guardian
+creature,181068,src,,Unarmed Grunt
+creature,181069,src,,[DNT] Kill Credit - Ask Questions
+creature,181071,src,,[DNT] Kill Credit - Ask Questions
+creature,181072,src,,[DNT] Kill Credit - Ask Questions
+creature,181074,src,,[DNT] Kill Credit
+creature,181119,src,,Val
+creature,181120,src,,(Bunny) Sessile
+creature,181121,src,,(Bunny) Sessile
+creature,181123,src,,Partially Devoured Automa
+creature,181124,src,,Dance Enthusiast
+creature,181125,src,,Dance Enthusiast
+creature,181126,src,,Dance Enthusiast
+creature,181167,src,,Dryad
+creature,181170,src,,Olea Manu
+creature,181195,src,,[DNT] Kill Credit - Discussion Start P
+creature,181197,src,,Scarabid Crawler
+creature,181198,src,,Khanam Matra Sarest
+creature,181199,src,,Rinanji
+creature,181200,src,,Kill Credit
+creature,181201,src,,Kill Credit
+creature,181203,src,,Mal'Ganis
+creature,181209,src,,Misaligned Seer
+creature,181210,src,,[DNT] Kill Credit - Examined
+creature,181211,src,,Infected Corpsefly
+creature,181212,src,,Aquilon Hunter
+creature,181213,src,,Depleted Aquilon
+creature,181228,src,,Lady Jaina Proudmoore
+creature,181229,src,,Highlord Bolvar Fordragon
+creature,181230,src,,Taelia Fordragon
+creature,181231,src,,Calia Menethil
+creature,181232,src,,Thrall
+creature,181233,src,,Baine Bloodhoof
+creature,181241,src,,[DNT] Kill Credit
+creature,181247,src,,[DNT] Kill Credit
+creature,181366,src,,Progenitor Forge
+creature,181402,src,,DeResolution Stalker
+creature,181403,src,,Mawsworn Inquisitor
+creature,181404,src,,Mawsworn Siphoner
+creature,181405,src,,Mawsworn Battleraider
+creature,181477,src,,Frenzy
+creature,181478,src,,Artifact Cat
+creature,181496,src,,[DNT] Kill Credit - Bot Reached Destination
+creature,181516,src,,Adolescent Scorcher
+creature,181517,src,,Rune Column Hydrolics
+creature,181524,src,,Obsidian Lancer
+creature,181525,src,,Obsidian Demolisher
+creature,181531,src,,Mature Screecher
+creature,181532,src,,Mature Crasher
+creature,181533,src,,Mature Firebreather
+creature,181534,src,,Obsidian Scout
+creature,181544,src,,[DNT] Kill Credit - A
+creature,181545,src,,Kleia
+creature,181552,src,,Progenitor Growth
+creature,181575,src,,Drakks
+creature,181576,src,,Giant River Ottuk
+creature,181577,src,,KC: Transmuter Orb Picked Up [DNT]
+creature,181578,src,,Archetype of Motion
+creature,181600,src,,Generic Bunny
+creature,181676,src,,Blacktalon Avenger
+creature,181677,src,,Blacktalon Assassin
+creature,181678,src,,Assassin Grok
+creature,181987,src,,Twisted Worldeater (15/4 Melee)(Phased)
+creature,182847,objective,,Target
+creature,182858,credit,,[DNT] Kill Credit
+creature,183956,objective,,Brackenhide Warrior
+creature,183957,objective,,Brackenhide Shaman
+creature,184776,objective,,Kill Credit: Khadgar
+creature,185317,spell,,Incubus
+creature,185325,objective,,Brackenhide Whelp
+creature,185326,objective,,Root of Decay
+creature,185335,objective,,Summoned Incubus
+creature,185662,objective,,Coreless Vombata
+creature,186137,objective,,Decay Totem
+creature,186500,src,,Expedition Guardian
+creature,187498,objective,,Muck Elemental
+creature,187505,objective,,Flayfist
+creature,187528,objective,,Cracktooth
+creature,187553,objective,,Bloodclaw
+creature,187565,objective,,Hyena Mongrel
+creature,187566,objective,,Hyena Matriarch
+creature,187748,objective,,Spineripper
+creature,187749,objective,,Facebreaker
+creature,187750,objective,,Deathwind
+creature,187751,objective,,Charfang
+creature,187752,objective,,Hacklung
+creature,187805,objective,,[DNT] Freed Animal Kill Credit
+creature,187807,objective,,[DNT] Stormfang Elementalist Kill Credit
+creature,187808,objective,,[DNT] Wave Event Complete Kill Credit
+creature,188360,objective,,Glacial Tunneler
+creature,188954,objective,,Kill Credit: Arrive at Shore [DNT]
+creature,189770,objective,,Kill Credit: Recruit Scholars
+creature,189771,objective,,Kill Credit: Recruit Explorers
+creature,189772,objective,,Kill Credit: Recruit Artisans
+creature,189870,objective,,Suspicious Permafrost
+creature,189900,src,,Grom'kar Footsoldier
+creature,189953,objective,,Friendly Gnoll
+creature,189979,objective,,Friendly Gnoll
+creature,189981,objective,,Friendly Gnoll
+creature,190000,src,,Kalecgos
+creature,190052,objective,,[DNT] Decaying Root
+creature,190173,objective,,Earth Elemental
+creature,190258,objective,,[DNT] 9.2.5 Season 4 - Boss Tracking KC Proxy
+creature,190457,objective,,Gerithus
+creature,191572,objective,,Bronze Timekeeper
+creature,192288,objective,,Kill Credit: Cast Visage Form [DNT]
+creature,193000,src,,Kindlet
+creature,193016,objective,,Kill Credit: Council RP
+creature,193078,objective,,Snowypelt Kit
+creature,194027,objective,,Kill Credit: Walk to Visage Form [DNT]
+creature,194028,objective,,Kill Credit: Ask Ebyssian/Wrathion about Visage Form [DNT]
+creature,194131,objective,,Kill Credit: Board Boat [DNT]
+creature,194132,objective,,Kill Credit: Boat Approach RP [DNT]
+creature,194133,objective,,Kill Credit: Boat Boarding RP [DNT]
+creature,194134,objective,,Kill Credit: Boat Landing RP [DNT]
+creature,195621,objective,,Kill Credit: Return Kits [DNT]
+creature,196086,objective,,Kill Credit: Waygate Selected
+creature,196771,objective,,Kill Credit: Power Core Replaced
+creature,198021,objective,,Kill Credit: Set Bait [DNT]
+creature,198023,objective,,Mochoby
+creature,198373,objective,,Kill Credit: Recruit Dracthyr [DNT]
+creature,198869,cond,,Sundered Devastator
+creature,198871,cond,,Sundered Scaleguard
+creature,198872,cond,,Sundered Manaweaver
+creature,198873,cond,,Sundered Edgelord
+creature,198874,cond,,Sundered Siegemaster
+creature,198896,objective,,Master Mathias Shaw
+creature,198912,objective,,Cecilia Clessington
+creature,199365,objective,,Kill Credit: Start History Lesson
+creature,199554,objective,,Kill Credit: Leave Clessington Manor
+creature,199923,objective,,Senegos
+creature,199994,credit,,Stalwart Soldier
+creature,200000,src,,Stalwart Recruit
+creature,201329,objective,,Kill Credit: Talk to Cecilia 2
+creature,202702,objective,,Maiev Shadowsong
+creature,204500,src,,Kalecgos
+creature,205734,cond,,Sundered Edgelord
+creature,205735,cond,,Sundered Preserver
+creature,205736,cond,,Sundered Siegemaster
+creature,205737,cond,,Sundered Manaweaver
+creature,209200,src,,Wildfire Primalist
+creature,209361,credit,,KC: Wildfire Enemy [DNT]
+creature,210000,src,,[DNT] Kill Credit
+creature,211780,src,,Kill Credit: Sprigling Transformed [DNT]
+creature,211784,src,,Umbral Citizen
+creature,211787,src,,[DNT] Kill Proxy - Power Predators
+creature,211853,src,,Nerubian Caster  Web
+creature,211854,src,,Nerubian Swarmite - Caster
+creature,212753,spell,,Tortured Soul
+creature,213000,src,,Waxtail Browbeater
+creature,213543,src,,Assembly Worker
+creature,213544,src,,Protected Somnowl
+creature,213545,src,,Watchful Somnowl
+creature,213546,src,,Protected Dream Raven
+creature,213547,src,,Protected Faerie Dragon
+creature,214301,objective,,[DNT] Kill Credit: Escaped
+creature,214450,objective,,[DNT] Kill Credit: Spider Scene
+creature,214589,spell,,Cozy Sleeping Bag
+creature,214900,src,,Burning Ancient
+creature,215196,objective,,Aurora Vabsley
+creature,215197,objective,,Gabbo Blinkwink
+creature,221864,src,,[DNT] Generic Bunny
+creature,222284,objective,,Beebiter
+creature,222833,objective,,[DND] Torch Catching Kill Credit
+creature,223036,objective,,Kill Credit [DNT]
+creature,223037,objective,,Kill Credit [DNT]
+creature,223038,objective,,Kill Credit [DNT]
+creature,223648,objective,,Betta
+creature,223649,objective,,Maluc
+creature,223652,objective,,Kurron
+creature,223923,objective,,Natalia Pearce
+creature,224117,objective,,KC: Citizen 1 Interviewed [DNT]
+creature,224118,objective,,KC: Citizen 2 Interviewed [DNT]
+creature,224119,objective,,KC: Citizen 3 Interviewed [DNT]
+creature,224120,objective,,KC: Citizen Interviewed Tally [DNT]
+creature,225995,objective,,Kill Credit [DNT]
+creature,226292,objective,,Opalcreg Worker
+creature,226301,objective,,Kill Credit [DNT]
+creature,228215,objective,,Kill Credit
+creature,229075,objective,,Scalecommander Emberthal
+creature,229085,objective,,Kill Credit [DNT]
+creature,230235,objective,,Skaggit
+creature,230238,objective,,Skaggit
+creature,230834,spell,,Gill'el
+creature,230859,spell,,Snowfang
+creature,231039,objective,,Arator
+creature,231042,objective,,Vereesa Windrunner
+creature,231044,objective,,Voidbringer Aqu'lir
+creature,231212,objective,,Portal to K'aresh
+creature,231266,objective,,Arator
+creature,231364,credit,,Kill Credit: Classic Timewalking Last Boss
+creature,231923,smart,,Kill Credit [DNT]
+creature,232598,objective,,Portal to K'aresh
+creature,232648,objective,,Slateback Alpha
+creature,233252,smart,,Vereesa Windrunner
+creature,233312,objective,,Arator
+creature,233346,objective,,Thorntail Matriarch
+creature,234609,objective,,Kill Credit
+creature,235000,src,,Wetlands Tallstrider
+creature,236160,credit,,Kill Credit: Culling of Stratholme
+creature,236704,objective,,Orweyna
+creature,237209,objective,,Ku'paal
+creature,237210,objective,,Orweyna
+creature,237343,objective,,Halduron Brightwing
+creature,237865,objective,,Danul
+creature,237866,objective,,Oorla
+creature,237999,objective,,Kill Credit [DNT]
+creature,238071,objective,,Kill Credit [DNT]
+creature,238317,smart,,KC: Pamphlet Delivered
+creature,239653,objective,,[DNT] Kill Credit
+creature,241042,objective,,Mysterious Rootway
+creature,241575,objective,,[DNT] - Kill Credit
+creature,241576,credit,,[DNT] Kill Credit
+creature,241615,objective,,Voidborn Intruder
+creature,241617,objective,,Voidmarked Berserker
+creature,241622,objective,,Kill Credit [DNT]
+creature,241677,smart,,Image of Lady Liadrin
+creature,241691,objective,,[DNT] Kill Credit
+creature,241692,objective,,[DNT] Kill Credit: Crackling Leyworm Core
+creature,242498,spell,,Reagent Bot
+creature,244047,objective,,Void-Runed Disruptor
+creature,244059,objective,,Kill Credit [DNT]
+creature,244088,objective,,Imperatus
+creature,245118,objective,,Invasive Drifter
+creature,246596,objective,,Portals - Kill Credit
+creature,246603,objective,,Hagar's Decision - Kill Credit
+creature,247615,objective,,[DNT] Kill Credit: Speak to Captain Saeed
+creature,247616,objective,,[DNT] Kill Credit: Speak to Captain Saeed
+creature,248463,spell,,Rumbler
+creature,250631,src,,The Abandoned
+creature,252078,spell,,Learn about the cultists' plans
+creature,252627,objective,,Sun's Ember
+creature,252635,objective,,Forgemaster Garfrost
+creature,252648,objective,,Scourgelord Tyrannus
+creature,252760,objective,,Captive Camp
+creature,252863,spell,,Ferauu the Bludgeon
+creature,252875,src,,Bandit Henchman
+creature,252957,src,,High Priestess Lorthuna
+creature,253281,spell,,Fillion Flamebreeze
+creature,253370,spell,,[DNT] Kill Credit: Place Explosives
+creature,253687,objective,,[DNT] Kill Credit: Portal Taken
+creature,254545,src,,Image of Astalor Bloodsworn
+creature,254546,src,,Ka'dani Ketan
+creature,254547,src,,Stromgarde Footman
+creature,255013,src,,DNT KILL CREDIT
+creature,255830,src,,Malevolent Storm
+creature,255833,src,,Rohash
+creature,256000,src,,Spellbreaker
+creature,256035,src,,Viktor the Vile
+creature,256249,src,,High Priestess Lorthuna
+creature,256250,src,,Living Storm
+creature,256617,src,,Duke Anvillaxx
+creature,256620,src,,Muln Earthfury
+creature,256621,src,,Archmage Ansirem Runeweaver
+creature,256634,spell,,Confront Lorthuna Credit
+creature,257862,src,,Earthen Ring Shaman
+creature,257866,src,,Kirin Tor Mage
+creature,257964,src,,Injured Druid
+creature,259731,objective,,Voidswarm Reserve
+creature,259842,spell,,Musical Gustjumper
+creature,259966,spell,,Ott
+creature,260150,spell,,Abyssal Bubble
+creature,260274,spell,,Min'loth the Serpent
+creature,260580,spell,,Mini Uber Diablo
+creature,260976,objective,,Outland Children's Week Silvermoon L70ETC 01 Quest Credit
+creature,261367,spell,,Terry Longdrink
+creature,261680,spell,,Snowy Wolf Pup
+creature,263229,spell,,Drowned Spirit
+creature,263351,objective,,Kill Credit
+creature,263398,src,,Camp Tent
+creature,263467,spell,,Fiery Assistant
+creature,263559,spell,,Child of By'zaali
+creature,264712,spell,,High Priestess Lorthuna
+creature,264713,src,,Commander Haalien
+creature,264850,spell,,Hawk
+creature,264853,objective,,[DNT] Kill Credit: 
+creature,265797,spell,,Wild Chicken
+creature,266025,spell,,Rat Familiar
+creature,266735,spell,,Excitable Slime
+creature,267842,spell,,Bitter Baitling
+creature,268571,spell,,Credit
+creature,268707,spell,,Prairie Wolf Pup
+creature,268744,spell,,Frog Familiar
+creature,268764,spell,,Invisible Bunny
+creature,268765,spell,,Lava Spout Totem
+creature,268840,spell,,Spectral Bear Cub
+creature,269185,src,,Headsplitter
+creature,269255,spell,,[DNT] Kill Credit: Spread Incense
+creature,270424,spell,,Credit
+creature,270426,spell,,Credit
+creature,271368,spell,,Shadowgale Squirrel
+creature,271636,spell,,Weevil K. Neevil
+creature,271867,spell,,Pachimari
+creature,271870,spell,,Galestrider Chick
+creature,271874,spell,,Black Furbolg Pet
+creature,271875,spell,,Brown Furbolg Pet
+creature,271876,spell,,Gray Furbolg Pet
+creature,271877,spell,,Tan Furbolg Pet
+creature,271878,spell,,White Furbolg Pet
+creature,271888,spell,,Purple Ent Pet
+creature,271889,spell,,Red Ent Pet
+creature,271890,spell,,Blue Ent Pet
+creature,271891,spell,,Gray Ent Pet
+creature,271892,spell,,Orange Ent Pet
+creature,271893,spell,,Yellow Ent Pet
+creature,271912,spell,,Tarantula Egg destroyed
+creature,271972,spell,,Brown Prairie Dog
+creature,271979,spell,,Brown Ground Squirrel
+creature,271980,spell,,Red Ground Squirrel
+creature,271993,spell,,Brown Rabbit
+creature,272328,spell,,Mini Diablo
+creature,272329,spell,,Zergling
+creature,272330,spell,,Panda Cub
+creature,272513,spell,,[DNT] Kill Credit: Hissing Serum
+creature,273391,spell,,Baby Crocolisk
+creature,273956,spell,,Condor Hatchling
+creature,273972,spell,,Credit
+creature,274412,spell,,Minfernal
+creature,274947,spell,,Minimule
+creature,275188,spell,,Credit
+creature,276110,objective,,Knight of Mourning
+creature,276215,spell,,Kirin Tor Enforcer
+creature,276331,spell,,Spawn of Grubthor
+gameobject,73,src,,Treasure Chest
+gameobject,74,src,,Treasure Chest
+gameobject,75,src,,Wooden Chest
+gameobject,252,src,,I Should not be here B
+gameobject,267,src,,Stasis Trap
+gameobject,323,src,,Arcanite Lode
+gameobject,1324,src,,Grom's Monument
+gameobject,1682,src,,Quest Chest
+gameobject,2053,src,,TWO-SOLUTION TEST
+gameobject,2067,src,,Serpent Ward
+gameobject,2735,src,,TEST Bombwagon
+gameobject,2851,src,,Iron Bound Chest
+gameobject,2853,src,,Iron Bound Chest
+gameobject,2874,src,,test lock object
+gameobject,2885,src,,Large Crate
+gameobject,2889,src,,Powder Keg
+gameobject,2895,src,,TEST Lever
+gameobject,3454,src,,Instance Portal (Raid 4 Difficulties)
+gameobject,3645,src,,Ripe Watermelon
+gameobject,3666,src,,Test Goober Barrel
+gameobject,3669,src,,Test Goober BookOpenMedium01
+gameobject,3670,src,,Test Goober BookTrapArm
+gameobject,3671,src,,Test Goober BittpmBigRed
+gameobject,3672,src,,Test Goober Cannon01
+gameobject,3673,src,,Test Goober Crate01
+gameobject,3674,src,,Test Goober Crate02
+gameobject,3675,src,,Test Goober DwarvenMemorial
+gameobject,3676,src,,Test Goober FlyingMachine
+gameobject,3678,src,,Test Goober LeverMetal
+gameobject,3679,src,,Test Goober MineCar
+gameobject,3683,src,,Test Goober Torch01
+gameobject,3684,src,,Test Goober Watermelon
+gameobject,3692,src,,Food Crate
+gameobject,3697,src,,Food Crate
+gameobject,3701,src,,Food Crate
+gameobject,3712,src,,Food Crate
+gameobject,3713,src,,Food Crate
+gameobject,3732,src,,Test Goober Crate02-a
+gameobject,3734,src,,Test Goober Fissure
+gameobject,12143,spell,,Proximity Bomb
+gameobject,13874,src,,Serpentbloom
+gameobject,27801,src,,PVP Goldmine
+gameobject,28025,src,,PVP Tower Supplies
+gameobject,141872,spell,,Divino-matic Rod
+gameobject,175408,src,,Stratholme Trap 01
+gameobject,176149,src,,Gate of Ahn'Qiraj2
+gameobject,177585,spell,,Fast-growing Flower
+gameobject,179604,spell,,Battle Standard
+gameobject,179624,spell,,Battle Standard
+gameobject,181084,spell,,Love Blanket
+gameobject,181111,spell,,Minion Spawner  ghost/ghoul
+gameobject,181155,spell,,Minion Spawner  ghost/skeleton
+gameobject,181156,spell,,Minion Spawner  ghoul/skeleton
+gameobject,181207,spell,,Runed Demonic Blade
+gameobject,181717,sspell,,Warsong Lumber
+gameobject,181742,sspell,,Lava Bomb Small
+gameobject,182110,spell,,Sandworm Base (small)
+gameobject,182342,sspell,,Boulderfist Plans
+gameobject,201775,objective,,Ball and Chain
+gameobject,201950,objective,,Well of Fury
+gameobject,201951,objective,,Well of Tranquility
+gameobject,201952,objective,,Well of Balance
+gameobject,202112,objective,,Quilboar Cage
+gameobject,202133,objective,,Naga Banner
+gameobject,202661,smart,,Burning Incense
+gameobject,203180,objective,,Bloodstone Teleporter
+gameobject,203181,objective,,Bloodstone Teleporter
+gameobject,203248,objective,,Horn Mouthpiece
+gameobject,203300,objective,,Naga Tridents
+gameobject,203309,objective,,Nespirah Abscess
+gameobject,203699,objective,,Ancient Conduit
+gameobject,203707,objective,,Okril'lon Weapons Crate
+gameobject,204042,objective,,Detonator
+gameobject,206312,objective,,Twilight Rune of Air
+gameobject,206313,objective,,Twilight Rune of Fire
+gameobject,206314,objective,,Twilight Rune of Water
+gameobject,206977,objective,,Blackrock Boots
+gameobject,207088,objective,,The Twilight Creed
+gameobject,210000,src,,Time Transit Device
+gameobject,211780,src,,Curious Text
+gameobject,211784,src,,Lab Vial
+gameobject,211785,src,,Lab Table
+gameobject,211786,src,,Chemistry Set
+gameobject,211787,src,,Plague Barrel
+gameobject,212000,src,,Campfire
+gameobject,212212,objective,,Legacy of the Masters (Part 1)
+gameobject,213000,src,,Grookin Hill Phased Horde Supplies
+gameobject,213450,src,,Mistfall Village Construction Material
+gameobject,213544,src,,Door to Courtyard
+gameobject,213545,src,,Door to Scrollkeeper's Sanctum
+gameobject,213547,src,,Door to Fountain of Everseeing
+gameobject,214101,objective,,In the Shadow of the Light
+gameobject,214105,objective,,Kel'Thuzad's Deep Knowledge
+gameobject,214106,objective,,Forbidden Rites and other Rituals Necromantic
+gameobject,214107,objective,,The Dark Grimoire
+gameobject,214277,objective,,The Dark Grimoire
+gameobject,214278,objective,,Kel'Thuzad's Deep Knowledge
+gameobject,214279,objective,,In the Shadow of the Light
+gameobject,214280,objective,,Forbidden Rites and other Rituals Necromantic
+gameobject,214900,src,,Shao-Tien Stormcaller
+gameobject,221864,src,,Lightweight Crate of Mantid Origin
+gameobject,230335,objective,,Tree Marking
+gameobject,232000,src,,Doodad_6IH_TrainCart_Wheels013
+gameobject,232538,objective,,Main Cannon Trigger
+gameobject,233382,objective,,The Eye of Anzu
+gameobject,237017,objective,,Soul Gem
+gameobject,239332,objective,,Soul Gem
+gameobject,239338,objective,,Soul Gem
+gameobject,239455,objective,,Fel Lock
+gameobject,240012,objective,,Soul Gem
+gameobject,245999,src,,Portal to Thunder Bluff
+gameobject,246003,src,,Portal to Exodar
+gameobject,246008,src,,Portal to Dalaran Crater
+gameobject,246016,src,,Book Stack
+gameobject,246017,src,,Candelabra
+gameobject,246020,src,,Guardian's Arcanum
+gameobject,246890,src,,Heavy Barnacled Door
+gameobject,247032,src,,Khadgar's Barrier
+gameobject,247840,src,,Drum
+gameobject,247841,src,,Drum
+gameobject,247846,src,,Taning Rack
+gameobject,248765,src,,Mystic Barrier
+gameobject,250483,src,,Chair
+gameobject,250560,objective,,Legion Banner
+gameobject,250631,src,,Chair
+gameobject,250660,src,,Alliance Battleship
+gameobject,250929,src,,Brazier
+gameobject,252476,src,,Window
+gameobject,252800,src,,Artifact Research Notes
+gameobject,252863,src,,The Winterskorn War
+gameobject,253812,src,,Right Chamber - C - Dirty - Bookshelf
+gameobject,253813,src,,Right Chamber - C - Dirty - Bookcase 02
+gameobject,253844,src,,Right Chamber - K - Dirty - Urn Wrecked
+gameobject,253847,src,,Central Chamber - Dirty - Scroll 01
+gameobject,253849,src,,Central Chamber - Dirty - Scroll 02
+gameobject,254545,src,,Bench
+gameobject,254546,src,,Bench
+gameobject,254547,src,,Bench
+gameobject,255013,src,,Bench
+gameobject,255065,src,,Bench
+gameobject,255373,src,,Rear Chamber - Dirty - Web 20
+gameobject,257655,src,,7.0 Pre-Launch - Orgrimmar - Template Object
+gameobject,258376,src,,Doodad_7nb_nightborn_bazaarbasketset008
+gameobject,258668,src,,Doodad_7ne_druid_basket003
+gameobject,258964,src,,Bonfire
+gameobject,258968,src,,Hymdall's Cache
+gameobject,258972,src,,Campfire
+gameobject,259281,src,,Bench
+gameobject,264773,src,,Chair
+gameobject,269902,src,,Ramp
+gameobject,271621,src,,FRAGILE - DO NOT SHAKE
+gameobject,272561,src,,Scroll of Purify
+gameobject,272801,objective,,Place Trap
+gameobject,273853,objective,,Void Elf
+gameobject,273855,objective,,Lightforged Draenei
+gameobject,277474,src,,Portal
+gameobject,278922,objective,,Umbric's Notes - Sanctum of the Moon
+gameobject,278923,objective,,Umbric's Notes - Andilien Estate
+gameobject,280641,objective,,Umbric's Notes - Dawnstar Spire
+gameobject,281015,src,,Book
+gameobject,281016,src,,Quill
+gameobject,281017,src,,Campfire
+gameobject,294000,src,,Jah'nii
+gameobject,298865,objective,,Dark Iron Dwarf
+gameobject,301169,src,,Bench
+gameobject,301311,src,,Chair
+gameobject,301312,src,,Chair
+gameobject,301315,src,,Chair
+gameobject,310735,src,,Ramp
+gameobject,316736,objective,,Kul Tiran
+gameobject,326716,objective,,Ritual Pedestal
+gameobject,326717,objective,,Ritual Pedestal
+gameobject,326718,objective,,Ritual Pedestal
+gameobject,326719,objective,,Ritual Pedestal
+gameobject,327146,objective,,Harpy Totem
+gameobject,335625,src,,Rune-Covered Door
+gameobject,339222,objective,,Mechagnome
+gameobject,339568,objective,,Thick Cocoon
+gameobject,350796,objective,,Thick Cocoon
+gameobject,364884,src,,Anima Gateway
+gameobject,402975,src,,Campfire
+gameobject,403816,src,,10FX_Generic_Dragon_Bronze_Precast_Clickable
+gameobject,409333,src,,Buried Object
+gameobject,415058,src,,Noblegarden Banner - Double Post [DNT]
+gameobject,440870,src,,Shalescale Grouper
+gameobject,462501,src,,Chair
+gameobject,494777,objective,,The Oasis Console
+gameobject,516786,objective,,Torn-up Earth
+gameobject,528996,spell,,Camp Tent
+gameobject,529148,spell,,Basic Campfire
+gameobject,573022,spell,,Basic Campfire
+gameobject,573385,spell,,Lodestone
+gameobject,612073,spell,,Cookie's Feast
+gameobject,612087,spell,,Greenhouse
+gameobject,612088,spell,,Field Guide
+gameobject,612090,spell,,Fishing Rack
+gameobject,612120,spell,,Fermenter
+gameobject,612122,spell,,Tanning Rack
+gameobject,612123,spell,,Spinning Wheel
+gameobject,612130,spell,,Arcane Salvager
+gameobject,612274,objective,,
+gameobject,612350,spell,,Faction Banner
+gameobject,617084,src,,Portal to Valanaar
+gameobject,618987,spell,,Stranglekelp
+gameobject,630660,spell,,Journeyman Campfire
+gameobject,630674,spell,,Journeyman Campfire
+gameobject,639870,objective,,Bloodsail Trunk
+gameobject,651950,spell,,Sharpening Wheel
+gameobject,651952,spell,,Enchanted Lute
+gameobject,651954,spell,,Fish Bowl
+gameobject,654285,spell,,Rock Garden
+gameobject,657382,src,,Peacebloom
+gameobject,657454,src,,Wilted Peacebloom
+gameobject,660724,spell,,Gatehouse Shipment
+gameobject,666694,spell,,Gnomish Garbage
+gameobject,670473,spell,,Vial
+gameobject,703307,spell,,Kyle's Lunch
+gameobject,706993,spell,,Journeyman Campfire
+gameobject,900000,src,,Skyborne Airship (Eastern Kingdoms - Zephras Isle)
+quest,13526,prereq,0,The Bear's Paw
+quest,13542,src,0,Against the Wind
+quest,13543,src,0,Three Hammers to Break
+quest,13544,src,0,The Bear's Blessing
+quest,13596,src,0,Twilight Plans
+quest,13601,src,0,In Aid of the Refugees
+quest,13730,prereq,0,Playing With Felfire
+quest,13751,prereq,0,Tell No One!
+quest,13797,src,0,Dirty Deeds
+quest,13868,prereq,0,Corrupting Influence?
+quest,13872,prereq,0,Worgen Wisdom
+quest,13874,src,0,A Not-So-Charmed Life
+quest,13877,src,0,Go With The Flow
+quest,13878,src,0,Through Fire and Flames
+quest,13879,src,0,Thunder Peak
+quest,13899,prereq,0,The Darkscale Warlord
+quest,13900,src,0,The Offering to Azshara
+quest,13928,prereq,0,Recover the Fallen
+quest,13935,prereq,0,Defend the Tree!
+quest,13953,prereq,0,Naga In Our Midst
+quest,13965,src,0,Check in on the Edunes
+quest,13976,src,0,Three Friends of the Forest
+quest,13977,src,0,Mass Production
+quest,13983,src,0,Building Your Own Coffin
+quest,13996,src,0,Can You Get This Quest While I'm In Combat?
+quest,14000,src,0,Hunt or Be Hunted
+quest,14001,prereq,3,Goblin Escape Pods
+quest,14014,prereq,3,Get Our Stuff Back!
+quest,14019,prereq,3,Monkey Business
+quest,14020,src,0,The Curse
+quest,14021,prereq,3,Miner Troubles
+quest,14025,src,0,To the Frontlines
+quest,14031,prereq,3,Capturing the Unknown
+quest,14045,prereq,0,Find Baron Longshore
+quest,14046,cond,0,The Baron's Demands
+quest,14069,prereq,3,Good Help is Hard to Find
+quest,14070,cond,3,Do it Yourself
+quest,14071,prereq,3,Rolling with my Homies
+quest,14075,prereq,3,Trouble in the Mines
+quest,14078,prereq,3,Lockdown!
+quest,14091,prereq,3,Something's Amiss
+quest,14093,prereq,3,All Hell Breaks Loose
+quest,14094,prereq,3,Salvage the Supplies
+quest,14098,prereq,3,Evacuate the Merchant Square
+quest,14099,src,3,Royal Orders
+quest,14109,cond,3,The New You
+quest,14113,cond,3,Life of the Party
+quest,14115,cond,3,Pirate Party Crashers
+quest,14116,cond,3,The Uninvited Guest
+quest,14120,cond,3,A Bazillion Macaroons?!
+quest,14121,cond,3,Robbing Hoods
+quest,14122,cond,3,The Great Bank Heist
+quest,14123,cond,3,Waltz Right In
+quest,14124,cond,3,Liberate the Kaja'mite
+quest,14138,prereq,3,Taking Care of Business
+quest,14153,cond,3,Life of the Party
+quest,14154,prereq,3,By the Skin of His Teeth
+quest,14156,src,0,Man on the Inside
+quest,14157,src,3,Old Divisions
+quest,14159,prereq,3,The Rebel Lord's Arsenal
+quest,14162,src,0,Report to Horzak
+quest,14184,prereq,0,My Time Has Passed
+quest,14188,prereq,0,Avenge Furien!
+quest,14189,src,0,Translation
+quest,14204,prereq,3,From the Shadows
+quest,14214,prereq,3,Message to Greymane
+quest,14233,prereq,3,Orcs Can Write?
+quest,14234,prereq,3,The Enemy of My Enemy
+quest,14235,prereq,3,The Vicious Vale
+quest,14236,prereq,3,Weed Whacker
+quest,14237,prereq,3,Forward Movement
+quest,14238,prereq,3,Infrared = Infradead
+quest,14240,prereq,3,To the Cliffs
+quest,14241,prereq,3,Get to the Gyrochoppa!
+quest,14242,prereq,3,Precious Cargo
+quest,14248,prereq,3,Help Wanted
+quest,14250,src,0,Renewable Resource
+quest,14255,prereq,0,Ethel Rethor
+quest,14256,prereq,0,The Emerging Threat
+quest,14257,prereq,0,Slitherblade Slaughter
+quest,14260,prereq,0,Going Deep
+quest,14261,src,0,Ice Cold
+quest,14262,src,0,To Gut a Fish
+quest,14263,src,0,Waste of Thyme
+quest,14264,src,0,Wetter Than Wet
+quest,14265,src,3,Your Instructor
+quest,14267,prereq,0,Investigating the Sea Shrine
+quest,14268,src,0,Deep Impact
+quest,14269,src,3,Someone's Looking for You
+quest,14270,src,0,The Keystone Shard
+quest,14271,src,0,Report to Twocrush
+quest,14273,prereq,3,Shady Associates
+quest,14275,prereq,3,Someone's Keeping Track of You
+quest,14277,src,3,Arcane Inquiries
+quest,14278,src,3,Seek the Sister
+quest,14280,prereq,3,The Winds Know Your Name... Apparently
+quest,14282,prereq,0,Mystery Solved
+quest,14284,prereq,0,A Revenant's Vengeance
+quest,14285,cond,3,Safety in Numbers
+quest,14286,cond,3,Safety in Numbers
+quest,14287,cond,3,Safety in Numbers
+quest,14288,cond,3,Safety in Numbers
+quest,14289,cond,3,Safety in Numbers
+quest,14290,cond,3,Safety in Numbers
+quest,14291,cond,3,Safety in Numbers
+quest,14292,prereq,0,The Enemy of Our Enemy
+quest,14293,prereq,3,Save Krennan Aranas
+quest,14294,src,3,Time to Regroup
+quest,14295,src,0,Sisters of the Sea
+quest,14297,src,0,Pro-liberation
+quest,14298,src,0,Kill Cultists/Dragonflight
+quest,14299,prereq,0,Xylem's Asylum
+quest,14301,src,0,Return and Report
+quest,14302,src,0,Official Assessment
+quest,14303,prereq,3,Back to Aggra
+quest,14304,prereq,0,Blood Theory
+quest,14308,src,0,When Science Attacks
+quest,14309,src,0,Calming the Kodo
+quest,14312,prereq,0,An Introduction Is In Order
+quest,14314,src,0,Breakout!
+quest,14315,src,0,Liam's Stupor
+quest,14318,prereq,0,Delicate Negotiations
+quest,14321,src,3,Invasion
+quest,14322,src,0,Bad Science! Bad!
+quest,14323,src,0,Absorbent
+quest,14324,src,0,Full of Hot Water
+quest,14325,src,0,Will Work For Food
+quest,14326,src,3,Meet Me Up Top
+quest,14327,src,0,My Word is My Bond
+quest,14354,src,0,Elune's Gifts
+quest,14365,prereq,0,Ethel Rethor
+quest,14387,prereq,0,Lay of the Land
+quest,14389,src,0,Wasn't It Obvious?
+quest,14396,src,3,As the Land Shatters
+quest,14424,prereq,0,Need More Science
+quest,14447,prereq,2,Takes One to Know One
+quest,14448,prereq,2,Takes One to Know One
+quest,14449,prereq,0,The First Step
+quest,14452,prereq,0,Rite of Strength
+quest,14453,src,0,A Humble Task
+quest,14456,src,0,Rite of Courage
+quest,14458,prereq,0,Go to Adana
+quest,14473,prereq,3,It's Our Problem Now
+quest,14474,prereq,3,Goblin Escape Pods
+quest,14482,src,3,Call of Duty
+quest,14484,src,0,Head of the Snake
+quest,14485,src,0,Ticker Required
+quest,14486,src,0,Handling the Goods
+quest,24458,src,0,A Hello to Arms
+quest,24466,src,0,Battle Shout
+quest,24488,prereq,3,The Replacements
+quest,24490,smart,0,A Trip to Ironforge
+quest,24491,smart,0,Follow that Gyro-Copter!
+quest,24502,prereq,3,Necessary Roughness
+quest,24503,prereq,3,Fourth and Goal
+quest,24520,cond,3,Give Sassy the News
+quest,24529,src,0,Bad to Worse
+quest,24530,src,-2,Oh  A Hunter's Life For Me
+quest,24531,src,-2,Getting Battle-Ready
+quest,24565,prereq,0,Biological Intervention
+quest,24567,prereq,3,Report for Tryouts
+quest,24568,prereq,0,To the Walls!
+quest,24573,src,0,Honoring the Dead
+quest,24574,src,0,To Harvest Chaos
+quest,24575,src,3,Liberation Day
+quest,24578,prereq,3,The Blackwald
+quest,24593,prereq,3,Neither Human Nor Beast
+quest,24607,prereq,0,The Rise of the Darkspear
+quest,24616,prereq,3,Losing Your Tail
+quest,24617,prereq,3,Tal'doren  the Wild Home
+quest,24622,prereq,0,A Troll's Truest Companion
+quest,24623,prereq,0,Saving the Young
+quest,24624,prereq,0,Mercy for the Lost
+quest,24625,prereq,0,Consort of the Sea Witch
+quest,24626,prereq,0,Young and Vicious
+quest,24627,src,3,At Our Doorstep
+quest,24631,prereq,0,Flightmare
+quest,24632,prereq,0,Tauren Vengeance
+quest,24639,prereq,0,The Basics: Hitting Things
+quest,24641,prereq,0,A Rough Start
+quest,24642,cond,0,Proving Pit
+quest,24643,cond,0,More Than Expected
+quest,24646,prereq,3,Take Back What's Ours
+quest,24671,prereq,3,Cluster Cluck
+quest,24673,src,3,Return to Stormglen
+quest,24677,prereq,3,Flank the Forsaken
+quest,24684,prereq,0,A Weezil in the Henhouse
+quest,24685,prereq,0,Dwarf Fortress
+quest,24686,src,0,Carried on the Waves
+quest,24687,src,0,Bouquets of Death
+quest,24688,src,0,Zen'Aliri
+quest,24689,src,0,Flowing to the North
+quest,24690,src,0,Blazerunner
+quest,24691,prereq,0,Peculiar Delicacies
+quest,24692,src,0,The Fledgling Colossus
+quest,24693,src,0,Mossy Pile
+quest,24698,src,0,Adventures in Archaeology
+quest,24719,prereq,0,Claws of White
+quest,24721,src,0,The Eastern Pylon
+quest,24734,src,0,Lost!
+quest,24740,prereq,0,Volcanic Activity
+quest,24741,prereq,3,Trading Up
+quest,24742,prereq,0,Finding the Source
+quest,24744,src,3,The Biggest Egg Ever
+quest,24747,src,0,Sabotage!
+quest,24750,prereq,0,The Rise of the Darkspear
+quest,24751,prereq,0,The Basics: Hitting Things
+quest,24753,prereq,0,A Rough Start
+quest,24754,cond,0,Proving Pit
+quest,24755,cond,0,More Than Expected
+quest,24758,prereq,0,The Rise of the Darkspear
+quest,24759,src,0,The Basics: Hitting Things
+quest,24761,src,0,A Rough Start
+quest,24762,src,0,Proving Pit
+quest,24763,cond,0,More Than Expected
+quest,24764,prereq,0,The Rise of the Darkspear
+quest,24765,prereq,0,The Basics: Hitting Things
+quest,24766,src,-2,The Arts of a Druid
+quest,24767,prereq,0,A Rough Start
+quest,24768,prereq,0,Proving Pit
+quest,24769,src,0,More Than Expected
+quest,24770,prereq,0,The Rise of the Darkspear
+quest,24771,src,0,The Basics: Hitting Things
+quest,24773,src,0,A Rough Start
+quest,24774,cond,0,Proving Pit
+quest,24775,cond,0,More Than Expected
+quest,24776,prereq,0,The Rise of the Darkspear
+quest,24777,prereq,0,The Basics: Hitting Things
+quest,24779,prereq,0,A Rough Start
+quest,24780,cond,0,Proving Pit
+quest,24781,cond,0,More Than Expected
+quest,24782,src,0,The Rise of the Darkspear
+quest,24783,prereq,0,The Basics: Hitting Things
+quest,24785,src,0,A Rough Start
+quest,24786,prereq,0,Proving Pit
+quest,24787,src,0,More Than Expected
+quest,24794,prereq,0,Speak With Spraggle
+quest,24812,prereq,0,No More Mercy
+quest,24813,prereq,0,Territorial Fetish
+quest,24814,cond,0,An Ancient Enemy
+quest,24816,prereq,3,Who's Top of the Food Chain Now?
+quest,24817,prereq,3,A Goblin in Shark's Clothing
+quest,24852,prereq,0,Our Tribe  Imprisoned
+quest,24854,prereq,0,Finding Stormclaw
+quest,24855,prereq,0,Aberrant Flora
+quest,24856,prereq,3,Invasion Imminent!
+quest,24858,src,3,Bilgewater Cartel Represent
+quest,24867,src,0,[NOT USED] Lumberjack Slam Placeholder
+quest,24899,src,0,Going  Going  Guano!
+quest,24900,src,0,Blueleaf Tubers
+quest,24921,prereq,0,Report to Aubrey
+quest,24925,prereq,3,Free the Captives
+quest,24927,prereq,0,Dead Man's Chest
+quest,24928,src,0,To The Ground!
+quest,24929,prereq,3,Send a Message
+quest,24930,prereq,3,While You're At It
+quest,24932,src,0,Cutting Losses
+quest,24934,src,0,Repel Boarders!
+quest,24935,src,0,Body And Soul
+quest,24936,src,0,Body And Soul
+quest,24937,src,3,Oomlot Dealt With
+quest,24949,prereq,0,Booty Duty
+quest,24959,prereq,0,Fresh out of the Grave
+quest,24960,cond,0,The Wakening
+quest,24979,cond,0,A Scarlet Letter
+quest,24983,prereq,0,Forsaken Duties
+quest,24988,smart,0,The Chill of Death
+quest,24992,cond,0,Escaped From Gilneas
+quest,24993,smart,0,Annihilate the Worgen
+quest,24994,prereq,0,Doom Weed
+quest,24999,src,0,Planting the Seed of Fear
+quest,25000,src,0,Teegan's People
+quest,25003,prereq,0,The Family Crypt
+quest,25004,src,0,The Mills Overrun
+quest,25005,prereq,0,Speak with Sevren
+quest,25006,prereq,0,The Grasp Weakens
+quest,25007,prereq,0,East... Always to the East
+quest,25009,prereq,0,At War With The Scarlet Crusade
+quest,25010,prereq,0,A Deadly New Ally
+quest,25011,prereq,0,To Bigger and Better Things
+quest,25012,cond,0,Take to the Skies
+quest,25029,prereq,0,Deaths in the Family
+quest,25035,prereq,0,Breaking the Line
+quest,25039,src,0,Have You Seen Anything Weird Out There?
+quest,25040,prereq,0,FLAG - Worgen Attacked
+quest,25046,prereq,0,A Daughter's Embrace
+quest,25050,src,0,Rocket Rescue
+quest,25063,prereq,0,Terrapination
+quest,25064,prereq,0,Moraya
+quest,25065,prereq,0,You Too  Brute?
+quest,25089,smart,0,Beyond the Graves
+quest,25104,src,0,Digsite Status
+quest,25148,src,0,Hone Your Holler
+quest,25160,src,3,A Present for Lila
+quest,25163,prereq,0,Who Did This?
+quest,25164,src,3,Backed Into a Corner
+quest,25167,prereq,0,Breaking the Chain
+quest,25168,prereq,0,Purge the Valley
+quest,25169,prereq,0,The War of Northwatch Aggression
+quest,25171,src,0,Riding On
+quest,25173,prereq,0,From Bad to Worse
+quest,25174,src,0,Twinbraid Needs to Know
+quest,25176,src,0,Exploiting the Situation
+quest,25177,src,0,Storming the Beaches
+quest,25178,src,0,Shipwreck Searching
+quest,25183,src,0,...And Bury the Rest
+quest,25187,prereq,0,Lost in the Floods
+quest,25188,src,0,Watershed Patrol
+quest,25189,src,-2,Spirits Be Praised
+quest,25190,src,0,Raggaran's Rage
+quest,25191,prereq,0,Survey the Destruction
+quest,25194,prereq,0,Unbidden Visitors
+quest,25195,src,0,That's the End of That Raptor
+quest,25196,prereq,0,The Dranosh'ar Blockade
+quest,25197,prereq,0,The Admiral Won't Back Down
+quest,25232,prereq,0,The Burning Blade
+quest,25260,prereq,0,Fizzled
+quest,25261,prereq,0,Margoz
+quest,25262,prereq,0,Skull Rock
+quest,25263,src,0,Arnak Fireblade
+quest,25292,src,0,Next of Kin
+quest,25297,prereq,3,From the Mouth of Madness
+quest,25298,src,3,Free Your Mind  the Rest Follows
+quest,25307,src,0,Eavesdropping
+quest,25309,src,3,Spiritual Training: Mercy is for the Weak
+quest,25317,prereq,3,Protect the World Tree
+quest,25320,prereq,3,The Captured Scout
+quest,25321,prereq,3,Twilight Captivity
+quest,25323,prereq,3,Flamebreaker
+quest,25324,prereq,3,A Prisoner of Interest
+quest,25325,prereq,3,Through the Dream
+quest,25336,prereq,0,Testing the Vessel
+quest,25337,prereq,0,Hippogryph Muisek
+quest,25338,prereq,0,Treant Muisek
+quest,25345,src,0,Faerie Dragon Muisek
+quest,25349,src,0,Twisted Sisters
+quest,25356,prereq,0,To the Summit
+quest,25371,src,3,The Abyssal Ride
+quest,25372,cond,3,Aessina's Miracle
+quest,25373,src,0,The Hilltop Threat
+quest,25378,src,0,Ysondre's Call
+quest,25383,src,0,Ysondre's Farewell
+quest,25395,prereq,0,The Stolen Keg
+quest,25424,src,3,Return to Alysra
+quest,25430,prereq,3,Emerald Allies
+quest,25442,prereq,3,A Pearl of Wisdom
+quest,25464,prereq,3,The Return of Baron Geddon
+quest,25465,cond,0,Still With The Zapped Giants
+quest,25466,cond,0,Even More Fuel for the Zapping
+quest,25471,src,3,Across the Great Divide
+quest,25472,prereq,3,The Flameseer's Staff
+quest,25473,prereq,3,Kaja'Cola
+quest,25477,prereq,3,Better Late Than Dead
+quest,25478,prereq,0,To the Summit
+quest,25479,prereq,0,To New Thalanaar
+quest,25481,prereq,0,To New Thalanaar
+quest,25486,prereq,0,The Grimtotem are Coming
+quest,25487,prereq,0,The Grimtotem are Coming
+quest,25488,prereq,0,Two If By Boat
+quest,25489,prereq,0,Two If By Boat
+quest,25497,src,3,Back in the Saddle
+quest,25504,prereq,0,Do Me a Favor?
+quest,25505,prereq,0,Do Me a Favor?
+quest,25515,src,0,Down in the Deeps
+quest,25516,src,0,Down in the Deeps
+quest,25523,prereq,3,Flight in the Firelands
+quest,25525,prereq,3,Wave One
+quest,25544,prereq,3,Wave Two
+quest,25560,prereq,3,Egg Wave
+quest,25572,tbc-wrath-tag,2,Hammering It Out
+quest,25578,condfix,3,Return to Nordrassil
+quest,25599,src,3,Cindermaul  the Portal Master
+quest,25621,prereq,0,Field Test: Gnomecorder
+quest,25622,prereq,0,Burn  Baby  Burn!
+quest,25640,src,0,Bombs Away: Windshear Mine!
+quest,25641,prereq,0,The Flow of Muisek
+quest,25646,src,0,Windshear Mine Cleanup
+quest,25648,src,0,Beyond Durotar
+quest,25651,prereq,3,Oh  the Insanity!
+quest,25657,prereq,3,Dah  Nunt... Dah  Nunt...
+quest,25660,prereq,0,Haunted
+quest,25661,prereq,0,With a Little Help...
+quest,25667,cond,0,Culling the Wendigos
+quest,25671,src,0,Thinning the Horde
+quest,25672,src,0,Carcass Collection
+quest,25674,prereq,0,Futile Pride
+quest,25676,src,0,Heartstrike
+quest,25679,prereq,0,Into the Mountain
+quest,25680,src,0,That's Not Us
+quest,25681,src,0,Some People Just Need Killing
+quest,25682,src,0,Mission Complete
+quest,25683,src,0,The Dreadmaul Furnace
+quest,25684,src,0,Attune the Bloodstone
+quest,25685,src,0,The First Step
+quest,25698,src,0,The Amulet of Sevine
+quest,25699,src,0,The Amulet of Grol
+quest,25713,src,0,Remove Their Arms
+quest,25721,src,0,Fight the Flood
+quest,25723,prereq,0,Thresh Out of Luck
+quest,25724,prereq,0,Frostmane Aggression
+quest,25725,src,0,Fenbush Berries
+quest,25727,prereq,0,Drungeld Glowerglare
+quest,25733,prereq,0,Get Out Of Here  Stalkers
+quest,25735,src,0,Incendicite Ore
+quest,25736,src,0,The Floodsurge Core
+quest,25737,src,3,Tenuous Negotiations
+quest,25738,src,0,Shallow End of the Gene Pool
+quest,25739,src,0,If the Horde Don't Get You...
+quest,25740,src,3,Fact-Finding Mission
+quest,25741,src,0,Preparations for the Future
+quest,25742,src,0,What? This Old Thing?
+quest,25744,prereq,0,Negotiations
+quest,25745,prereq,0,Negotiations
+quest,25747,prereq,3,Looking Forward
+quest,25748,src,3,Clear Goals
+quest,25749,src,3,Not Entirely Unprepared
+quest,25752,prereq,3,Swift Action
+quest,25754,src,3,Gauging Success
+quest,25755,src,3,Visions of the Past: The Slaughter of Biel'aran Ridge
+quest,25756,src,0,Get Zherin!
+quest,25757,prereq,0,Get Koalbeard!
+quest,25760,prereq,3,Visions of the Past: The Invasion of Vashj'ir
+quest,25768,prereq,0,Bombs Away: Mirkfallon Post!
+quest,25769,prereq,0,Fallowmere Beckons
+quest,25770,prereq,0,Keg Run
+quest,25771,src,0,One Draenei's Junk...
+quest,25774,prereq,0,Fool's Gold
+quest,25775,prereq,0,Fool's Gold
+quest,25776,prereq,3,Sethria's Demise
+quest,25777,src,0,Onwards to Menethil
+quest,25778,src,0,Fake Gold for Black Gold
+quest,25779,src,0,Fake Gold for Black Gold
+quest,25784,tbc-wrath-tag,2,Hammering It Out
+quest,25786,src,0,Hammering It Out
+quest,25787,tbc-wrath-tag,2,Hammering It Out
+quest,25790,src,0,Back to Crazzle
+quest,25792,prereq,0,Pushing Forward
+quest,25795,prereq,3,Return to the Shrine
+quest,25796,prereq,0,Eminent Domain
+quest,25797,prereq,0,Eminent Domain
+quest,25798,prereq,0,Defend the Drill
+quest,25799,prereq,0,Defend the Drill
+quest,25807,src,3,An Ancient Reborn
+quest,25810,prereq,3,The Hatchery Must Burn
+quest,25812,src,3,Spelunking
+quest,25813,src,0,Go Blow that Horn
+quest,25814,src,0,Go Blow that Horn
+quest,25822,prereq,0,Armaments for War
+quest,25825,prereq,0,Deliver the Goods
+quest,25826,prereq,0,Deliver the Goods
+quest,25830,prereq,3,The Last Living Lorekeeper
+quest,25831,src,0,Hamuul's Message to Ysera
+quest,25832,src,3,Return to Aviana
+quest,25835,prereq,0,Free Freewind Post
+quest,25836,prereq,0,Free Freewind Post
+quest,25838,prereq,0,Help from Steelgrill's Depot
+quest,25839,prereq,0,The Ultrasafe Personnel Launcher
+quest,25840,prereq,0,Eliminate the Resistance
+quest,25841,prereq,0,Strike From Above
+quest,25842,prereq,3,Firefight
+quest,25843,prereq,3,Tortolla's Revenge
+quest,25844,prereq,0,Sating the Savage Beast
+quest,25845,prereq,0,Terms of Service
+quest,25846,src,0,Grundig Darkcloud  Chieftain of the Grimtotem
+quest,25847,prereq,0,Grimtotem Supremacy
+quest,25848,prereq,0,Downfall
+quest,25849,prereq,0,When Archaeology Attacks
+quest,25851,prereq,0,Dances with Grimtotem
+quest,25852,src,0,All's Clear
+quest,25858,src,3,By Her Lady's Word
+quest,25859,src,3,No Trespass Forgiven
+quest,25860,src,3,At All Costs
+quest,25864,prereq,0,Dinosaur Crisis
+quest,25865,src,0,The Mosshide Job
+quest,25866,src,0,Dark Iron Trappers
+quest,25867,src,0,Gnoll Escape
+quest,25868,src,0,Yorla Darksnare
+quest,25869,src,0,Grimtotem in the Post
+quest,25870,src,0,Grimtotem in the Post
+quest,25871,src,0,Save the Sentinel
+quest,25872,src,0,The Brave and the Bold
+quest,25873,src,0,Horn of the Traitor
+quest,25874,src,0,Horn of the Traitor
+quest,25875,src,0,Gnome on the Inside
+quest,25876,src,0,It's Up There!
+quest,25877,src,0,No Time for Goodbyes!
+quest,25878,src,0,Schemin' That Sabotage
+quest,25879,src,0,The Lumbering Oaf Problem
+quest,25880,src,0,Warn Master Thal'darah
+quest,25881,src,3,Lost Wardens
+quest,25882,src,0,A Hand at the Ranch
+quest,25883,src,3,How Disarming
+quest,25884,src,3,Come Hell or High Water
+quest,25890,src,3,Nespirah
+quest,25892,prereq,3,Losing Ground
+quest,25893,src,3,Desperate Plan
+quest,25896,src,3,Devout Assembly
+quest,25897,src,3,Unfurling Plan
+quest,25898,prereq,3,Honor and Privilege
+quest,25900,src,3,Making Contact
+quest,25902,src,0,Your First Totem!
+quest,25903,src,0,It's Hot and it Might Explode
+quest,25904,src,3,The Hammer and the Key
+quest,25907,prereq,3,Slave Labor
+quest,25908,prereq,3,Stick it to Them
+quest,25911,src,3,Welcome News
+quest,25912,src,0,Seen Better Days
+quest,25913,src,0,Putting Them to Rest
+quest,25914,src,0,Back to the Depths!
+quest,25926,src,0,Mired in Hatred
+quest,25932,prereq,0,It's Raid Night Every Night
+quest,25937,src,0,Priceless Treasures
+quest,25938,src,0,Help for Desolace
+quest,25942,src,3,Buy Us Some Time
+quest,25943,src,3,Traveling on Our Stomachs
+quest,25945,prereq,0,We're Here to Do One Thing  Maybe Two...
+quest,25978,prereq,0,Entombed in Ice
+quest,25979,prereq,0,Dealing with the Surge
+quest,25989,src,3,Capture the Crab
+quest,25990,prereq,3,Breaking Through
+quest,25991,src,3,We Are Not Alone
+quest,25993,src,3,Body Blows
+quest,25994,src,3,Still Valuable
+quest,25997,src,0,Dark Iron Scheming
+quest,25998,prereq,0,Get to the Airfield
+quest,25999,prereq,0,Barrier to Entry
+quest,26000,src,3,Spelunking
+quest,26001,prereq,0,The Missing Blastgineer
+quest,26002,src,0,Alliance Attack Plans
+quest,26003,src,0,Lessons from the Lost Isles
+quest,26006,src,3,A Breath of Fresh Air
+quest,26007,src,3,Debriefing
+quest,26009,src,0,Seek and Destroy
+quest,26010,prereq,0,Ashes to Ashes
+quest,26020,prereq,0,Report to Bombgutz
+quest,26025,src,0,The Traitor Orc
+quest,26035,prereq,0,Worth Its Weight in Gold
+quest,26036,src,0,Wand over Fist
+quest,26037,prereq,0,Trelane's Defenses
+quest,26038,src,0,Attack on the Tower
+quest,26044,src,0,Where Are the Parts?
+quest,26048,src,0,Spare Parts Up In Here!
+quest,26049,src,0,The Princess Unleashed
+quest,26050,src,0,Goggle Boggle
+quest,26051,src,0,Sunken Treasure
+quest,26052,src,0,Speak to Shakes
+quest,26053,src,0,Clearing the Highlands
+quest,26058,src,0,In Defense of Krom'gar Fortress
+quest,26060,src,0,Da Voodoo: Stormer Heart
+quest,26061,src,0,Da Voodoo: Ram Horns
+quest,26063,src,0,The Queen and Her Court
+quest,26066,prereq,0,Reinforcements...
+quest,26068,src,0,Kobold Fury!
+quest,26070,src,3,Clearing the Defiled
+quest,26078,prereq,0,Extinguish the Fires
+quest,26079,src,0,Wanted!  Otto and Falconcrest
+quest,26083,src,0,Hello Lolo
+quest,26085,prereq,0,Rallying the Defenders
+quest,26092,src,3,Orako's Report
+quest,26093,src,0,Northfold Manor
+quest,26094,prereq,0,Striking Back
+quest,26096,src,3,Scalding Shrooms
+quest,26099,prereq,0,Is This Justice?
+quest,26100,src,0,The General is Dead
+quest,26102,src,0,Grimaxe's Demise
+quest,26103,src,3,Bio-Fuel
+quest,26127,prereq,0,The Twilight's Hammer Revealed
+quest,26128,prereq,0,The Battle of Thandol Span
+quest,26129,prereq,3,Brothers In Arms
+quest,26133,src,3,Fiends from the Netherworld
+quest,26134,src,0,Nothing Left for You Here
+quest,26135,prereq,3,Visions of the Past: Rise from the Deep
+quest,26136,src,0,FLAG - Rigor Mortis Removed
+quest,26137,src,0,Checking on the Boys
+quest,26139,src,0,Into Arathi
+quest,26141,src,3,Runestones of Binding
+quest,26142,prereq,3,Ascend No More!
+quest,26143,src,3,All that Rises
+quest,26154,prereq,3,Twilight Extermination
+quest,26156,src,0,All The King's Men
+quest,26175,prereq,0,Surwich
+quest,26178,tbc-wrath-tag,2,Planning for the Future
+quest,26180,src,0,Supervisor Fizsprocket
+quest,26184,prereq,0,Wormthorn's Dream
+quest,26185,prereq,0,Advice from the Cenarion Circle
+quest,26186,src,0,Demoniac Vessel
+quest,26189,prereq,0,The Angerfang Menace
+quest,26192,src,11,Orphans Like Cookies Too!
+quest,26194,src,3,Defending the Rift
+quest,26195,src,0,Who Wards The Greenwarden
+quest,26197,src,0,The Future of Gnomeregan
+quest,26198,src,-2,The Arts of a Mage
+quest,26199,prereq,0,The Future of Gnomeregan
+quest,26202,prereq,0,The Future of Gnomeregan
+quest,26203,prereq,0,The Future of Gnomeregan
+quest,26205,prereq,0,A Job for the Multi-Bot
+quest,26206,src,0,The Future of Gnomeregan
+quest,26207,src,-2,The Arts of a Rogue
+quest,26208,prereq,0,The Fight Continues
+quest,26209,cond,0,Murder Was The Case That They Gave Me
+quest,26211,src,0,Snapjaws  Mon!
+quest,26213,prereq,0,Hot On the Trail: The Riverpaw Clan
+quest,26214,prereq,0,Hot On the Trail: Murlocs
+quest,26215,prereq,0,Meet Two-Shoed Lou
+quest,26218,src,0,Long Shot
+quest,26222,prereq,0,Scrounging for Parts
+quest,26223,prereq,0,Stalking the Stalkers
+quest,26224,src,0,Hunt the Savages
+quest,26228,prereq,0,Livin' the Life
+quest,26230,src,0,Feast or Famine
+quest,26232,src,0,Lou's Parting Thoughts
+quest,26234,src,11,Stealing From Our Own
+quest,26235,src,11,Even Thieves Get Hungry
+quest,26236,prereq,0,Shakedown at the Saldean's
+quest,26241,prereq,0,Westfall Stew
+quest,26244,prereq,3,The Earth Claims All
+quest,26245,prereq,3,Gunship Down
+quest,26246,prereq,3,Captain's Log
+quest,26247,prereq,3,Diplomacy First
+quest,26248,prereq,3,All Our Friends Are Dead
+quest,26250,prereq,3,On Second Thought  Take One Prisoner
+quest,26254,prereq,3,Some Spraining to Do
+quest,26255,prereq,3,Return to the Temple of Earth
+quest,26258,src,3,Deathwing's Fall
+quest,26259,src,3,Blood of the Earthwarder
+quest,26262,src,0,Twilight Armaments
+quest,26264,prereq,0,What's Left Behind
+quest,26265,prereq,0,Dealing with the Fallout
+quest,26266,prereq,0,Hope for the People
+quest,26270,prereq,0,You Have Our Thanks
+quest,26272,prereq,0,The Rise of the Darkspear
+quest,26273,prereq,0,The Basics: Hitting Things
+quest,26275,prereq,0,A Rough Start
+quest,26276,cond,0,Proving Pit
+quest,26277,cond,0,More Than Expected
+quest,26284,src,0,Missing in Action
+quest,26285,prereq,0,Get Me Explosives Back!
+quest,26286,prereq,0,In Defense of Westfall
+quest,26289,prereq,0,Find Agent Kearnen
+quest,26290,prereq,0,Secrets of the Tower
+quest,26291,prereq,0,Big Trouble in Moonbrook
+quest,26292,prereq,0,To Moonbrook!
+quest,26295,prereq,0,Propaganda
+quest,26297,prereq,0,The Dawning of a New Day
+quest,26312,prereq,3,Crumbling Defenses
+quest,26313,prereq,3,Core of Our Troubles
+quest,26314,prereq,3,On Even Ground
+quest,26315,prereq,3,Imposing Confrontation
+quest,26316,prereq,0,What's Keeping Kharmarn?
+quest,26318,prereq,0,Finishin' the Job
+quest,26319,prereq,0,Secrets Revealed
+quest,26320,prereq,0,A Vision of the Past
+quest,26322,prereq,0,Rise of the Brotherhood
+quest,26325,prereq,0,A Nose for This Sort of Thing
+quest,26326,prereq,3,The Very Earth Beneath Our Feet
+quest,26327,prereq,0,Anvilmar the Hero
+quest,26328,prereq,3,Rocky Relations
+quest,26329,prereq,0,One More Thing
+quest,26330,prereq,0,Who's a Big Troll?
+quest,26331,prereq,0,Crushcog's Minions
+quest,26332,src,0,Skullsplitter Mojo
+quest,26333,prereq,0,No Tanks!
+quest,26339,prereq,0,Staging in Brewnall
+quest,26341,src,0,The Stone Shards
+quest,26342,prereq,0,Paint it Black
+quest,26346,prereq,0,Myzrael's Tale
+quest,26350,src,0,Priestess Hu'rala
+quest,26358,prereq,3,Ready the Air Force
+quest,26361,prereq,3,Smoot's Samophlange
+quest,26363,src,0,Summit of Fate
+quest,26364,src,0,Down with Crushcog!
+quest,26365,src,0,Hero's Call: Redridge Mountains!
+quest,26366,src,0,Heads Up
+quest,26367,src,0,Ongo'longo's Revenge
+quest,26369,src,0,Hunt the Keeper
+quest,26370,src,0,Return to Sentinel Hill
+quest,26372,prereq,3,Pre-Flight Checklist
+quest,26375,prereq,3,Loose Stones
+quest,26376,prereq,3,Hatred Runs Deep
+quest,26377,prereq,3,Unsolid Ground
+quest,26381,src,0,The Eye of Shadra
+quest,26388,prereq,3,Twilight Skies
+quest,26406,src,0,The Fang of Shadra
+quest,26408,src,0,Ashes in Ashenvale
+quest,26409,src,3,Where's Goldmine?
+quest,26410,src,3,Explosive Bonding Compound
+quest,26411,prereq,3,Apply and Flash Dry
+quest,26412,src,0,The Mosh'Ogg Bounty
+quest,26413,prereq,3,Take Him to the Earthcaller
+quest,26414,src,11,Hitting a Walleye
+quest,26415,prereq,3,Questflag for Captain's Log
+quest,26416,prereq,0,Well  Come to the Jungle
+quest,26418,prereq,0,The Shell of Shadra
+quest,26421,prereq,0,Meet the High Tinker
+quest,26422,prereq,0,Meet the High Tinker
+quest,26423,prereq,0,Meet the High Tinker
+quest,26424,prereq,0,Meet the High Tinker
+quest,26425,prereq,0,Meet the High Tinker
+quest,26426,prereq,3,Violent Gale
+quest,26436,prereq,3,Entrenched
+quest,26437,prereq,3,Making Things Crystal Clear
+quest,26438,prereq,3,Intervention
+quest,26439,prereq,3,Putting the Pieces Together
+quest,26440,prereq,3,Clingy
+quest,26441,prereq,3,So Big  So Round...
+quest,26450,src,0,If They're Just Going to Leave Them Lying Around...
+quest,26451,src,0,Gurubashi Challenge: Free-For-All Arena Combat
+quest,26452,src,0,Gurubashi Challenge
+quest,26453,src,0,A Helping Hand
+quest,26454,src,0,A Shameful Waste
+quest,26455,src,0,The Lost Chalice
+quest,26456,src,0,Report from the Northern Front
+quest,26457,src,0,Agents of Destruction
+quest,26476,src,0,Dryad Delivery
+quest,26477,prereq,0,Search the Bole
+quest,26478,src,0,Playing Possum
+quest,26479,prereq,0,Return to Raene
+quest,26480,src,0,Dartol's Rod
+quest,26484,prereq,3,To Stonehearth's Aid
+quest,26495,prereq,0,Chabal
+quest,26503,cond,0,Still Assessing the Threat
+quest,26505,prereq,0,Parker's Report
+quest,26510,prereq,0,We Must Prepare!
+quest,26512,prereq,0,Tuning the Gnomecorder
+quest,26514,prereq,0,Canyon Romp
+quest,26523,prereq,0,All That Skitters
+quest,26524,src,0,Dark Vessels
+quest,26525,src,0,Venomous Secrets
+quest,26526,src,0,Hunt the Keeper
+quest,26527,src,0,Gryphon Master Talonaxe
+quest,26528,src,0,The Eye of Shadra
+quest,26529,src,0,The Fang of Shadra
+quest,26539,prereq,3,Stalled Negotiations
+quest,26544,prereq,0,They've Wised Up...
+quest,26545,src,0,Yowler Must Die!
+quest,26546,src,0,Razorbeak Friends
+quest,26549,prereq,3,Madness
+quest,26550,prereq,0,Backdoor Dealings
+quest,26551,prereq,0,Eliminate the Outcast
+quest,26552,prereq,0,Through the Troll Hole
+quest,26553,prereq,0,High Priestess Jeklik
+quest,26554,src,0,Plunging Into Zul'Gurub
+quest,26555,src,0,High Priest Venoxis
+quest,26558,src,0,Summoning Shadra
+quest,26559,src,0,[NYI] Breaking Out is Hard to Do
+quest,26561,src,0,Krakauer
+quest,26563,prereq,0,Return of the Bravo Company
+quest,26565,src,3,A Furious Catch (REMOVED)
+quest,26566,prereq,0,A Triumph of Gnomish Ingenuity
+quest,26571,prereq,0,Weapons of War
+quest,26573,src,0,His Heart Must Be In It
+quest,26575,src,3,Rock Bottom
+quest,26589,src,0,The Wilds of Feralas
+quest,26590,src,0,The Holy Water of Clarity
+quest,26593,prereq,0,Scaring Shaky
+quest,26594,src,0,Return to MacKinley
+quest,26599,prereq,0,The Captain's Chest
+quest,26600,prereq,0,A Giant's Feast
+quest,26601,src,0,Mok'rash the Cleaver
+quest,26602,prereq,0,A Dish Best Served Huge
+quest,26607,src,0,They Drew First Blood
+quest,26608,src,3,Negotiations Terminated
+quest,26609,prereq,0,The Bloodsail Buccaneers
+quest,26610,prereq,0,Bloodsail Treachery
+quest,26611,prereq,0,The Baron Must Be Told
+quest,26612,prereq,0,Details of the Attack
+quest,26613,src,0,Up to Snuff
+quest,26616,src,0,It's Never Over
+quest,26617,src,0,An Old Sea Dog
+quest,26619,prereq,3,You Say You Want a Revolution
+quest,26621,prereq,3,Insurrection
+quest,26622,prereq,3,Death to Mor'ghor
+quest,26624,prereq,0,Getting In With the Bloodsail
+quest,26629,prereq,0,Seeing Where Your Loyalties Lie
+quest,26631,prereq,0,Your First Day as a Pirate
+quest,26633,src,0,Swabbing Duty
+quest,26634,src,0,The Bane of Many A Pirate
+quest,26638,src,0,Hunting the Hunters
+quest,26648,src,0,Our Mortal Enemies
+quest,26652,prereq,0,Ghost Hair Thread
+quest,26653,prereq,0,Supplies from Darkshire
+quest,26654,src,0,Return the Comb
+quest,26662,src,0,The Brashtide Crew
+quest,26712,prereq,3,Off to the Bank
+quest,26784,prereq,3,Muddied Waters
+quest,26786,prereq,3,Securing the Beach Head
+quest,26791,prereq,3,Sprout No More
+quest,26792,prereq,3,Fungal Monstrosities
+quest,26798,prereq,3,Saurfang Will be Pleased
+quest,26800,smart,0,Recruitment
+quest,26830,cond,3,Traitor's Bait
+quest,26835,prereq,3,A Slight Problem
+quest,26836,prereq,3,Rescue the Stonefather... and Flint
+quest,26841,prereq,-2,Forbidden Sigil
+quest,26869,prereq,3,Depth of the Depths
+quest,26871,prereq,3,A Rock Amongst Many
+quest,26935,prereq,0,Northridge Lumber Mill
+quest,26940,prereq,0,Frost Nova
+quest,26945,prereq,-2,Learning New Techniques
+quest,26946,prereq,-2,A Rogue's Advantage
+quest,26947,prereq,-2,A Woodsman's Training
+quest,26948,prereq,-2,Moonfire
+quest,26949,prereq,-2,Learning the Word
+quest,26952,prereq,0,The Menders' Stead
+quest,26964,prereq,0,Warchief's Command: Silverpine Forest!
+quest,26965,cond,0,The Warchief Cometh
+quest,26977,prereq,-2,Twilight Investigation
+quest,26980,prereq,0,Swiftgear Station
+quest,26981,prereq,0,Whelgar's Retreat
+quest,26989,prereq,0,The Gilneas Liberation Front
+quest,26992,prereq,0,Agony Abounds
+quest,26997,prereq,-2,The Usual Suspects
+quest,26999,prereq,0,A New Era for the Plaguelands
+quest,27000,src,0,Learning the Ropes
+quest,27039,prereq,0,Dangerous Intentions
+quest,27044,prereq,-2,Peasant Problems
+quest,27045,cond,0,Waiting to Exsanguinate
+quest,27056,prereq,0,Belmont's Report
+quest,27060,prereq,-2,Unholy Cow
+quest,27064,prereq,-2,He's Holding Out on Us
+quest,27065,prereq,0,The Warchief's Fleet
+quest,27069,prereq,0,Steel Thunder
+quest,27072,prereq,-2,The Old Barracks
+quest,27073,prereq,0,Give 'em Hell!
+quest,27092,prereq,-2,Cataclysm in the Catacombs
+quest,27093,prereq,0,Lost in the Darkness
+quest,27094,prereq,0,Deeper into Darkness
+quest,27095,prereq,0,Skitterweb Menace
+quest,27096,prereq,0,Orcs are in Order
+quest,27097,cond,0,Rise  Forsaken
+quest,27106,prereq,-2,A Villain Unmasked
+quest,27135,prereq,3,Something that Burns
+quest,27139,prereq,3,Hobart Needs You
+quest,27175,prereq,0,The Menders' Stead
+quest,27216,prereq,0,This Old Lighthouse
+quest,27217,prereq,0,Thresher Oil
+quest,27218,prereq,0,Dastardly Denizens of the Deep
+quest,27219,prereq,0,Is it Real?
+quest,27220,prereq,0,Nat's Bargain
+quest,27221,prereq,0,Oh  It's Real
+quest,27222,smart,0,Take Down Tethyr!
+quest,27233,prereq,0,The Menders' Stead
+quest,27238,prereq,0,Jaina Must Know
+quest,27239,smart,0,Survey Alcaz Island
+quest,27314,prereq,0,Grimtotem Chiefs: Isha Gloomaxe
+quest,27315,prereq,0,Grimtotem Chiefs: Isha Gloomaxe
+quest,27318,prereq,0,Grimtotem Chiefs: Elder Stormhoof
+quest,27319,prereq,0,Grimtotem Chiefs: Elder Stormhoof
+quest,27320,prereq,0,The Writ of History
+quest,27321,prereq,0,The Writ of History
+quest,27323,prereq,0,Grimtotem Chiefs: Grundig Darkcloud
+quest,27324,prereq,0,Grimtotem Chiefs: Grundig Darkcloud
+quest,27325,prereq,0,The Drums of War
+quest,27326,prereq,0,The Drums of War
+quest,27327,prereq,0,Grimtotem Chiefs: The Chief of Chiefs
+quest,27328,prereq,0,Grimtotem Chiefs: The Chief of Chiefs
+quest,27329,prereq,0,Invoking the Serpent
+quest,27330,prereq,0,Invoking the Serpent
+quest,27348,prereq,0,Secure the Cargo!
+quest,27357,prereq,0,The Captive Bride
+quest,27358,prereq,0,The Captive Bride
+quest,27424,src,0,Overlord Mok'Morokk's Concern
+quest,27517,src,3,Be Prepared
+quest,27612,prereq,0,Victory From Within
+quest,27613,prereq,0,The Assassin
+quest,27614,prereq,0,Scarlet Salvage
+quest,27615,prereq,0,The Wrathcaster
+quest,27616,prereq,0,The Huntsman
+quest,27617,src,0,Befouled No More
+quest,27618,src,0,Argent Upheaval
+quest,27619,prereq,0,The Commander
+quest,27627,src,3,Just a Fancy Cockroach
+quest,27631,src,3,The High Commander's Vote
+quest,27635,prereq,0,Decontamination
+quest,27668,prereq,3,Pay Attention!
+quest,27670,prereq,0,Pinned Down
+quest,27671,prereq,0,See to the Survivors
+quest,27673,src,0,It's What's Inside That Counts
+quest,27674,prereq,0,To the Surface
+quest,27676,src,0,Behind Closed Doors
+quest,27679,prereq,0,The Chamber of Khaz'mul
+quest,27680,src,0,Archaedas  The Ancient Stone Watcher
+quest,27691,prereq,0,Marshfin Madness
+quest,27694,prereq,0,Pool of Tears
+quest,27704,prereq,0,Legends of the Sunken Temple
+quest,27705,prereq,0,Step One: The Priestess
+quest,27708,prereq,3,The Warden's Time
+quest,27721,cond,3,Warchief's Command: Mount Hyjal!
+quest,27726,cond,3,Hero's Call: Mount Hyjal!
+quest,27742,prereq,3,A Little on the Side
+quest,27743,prereq,3,While We're Here
+quest,27744,prereq,3,Rune Ruination
+quest,27745,src,3,A Fiery Reunion
+quest,27748,prereq,3,Fortune and Glory
+quest,27757,prereq,0,The Darkest Depths
+quest,27765,prereq,0,First Sample: Wild Eggs
+quest,27766,prereq,0,Second Sample: Whelps
+quest,27768,prereq,0,Step Two: The Bloodletter
+quest,27770,prereq,0,Lifting the Veil
+quest,27771,src,0,Third Sample: Implanted Eggs
+quest,27773,src,0,Step Three: Prophet
+quest,27782,src,3,Mathias Needs You
+quest,27783,src,3,Garona Needs You
+quest,27784,src,3,The Hammer of Twilight
+quest,27799,src,0,I Said the Words...
+quest,27800,src,0,Back Under Cover
+quest,27801,src,0,Show Me Your Papers
+quest,27803,src,3,Welcome Relief
+quest,27804,src,3,The Only Homes We Have
+quest,27805,src,3,Small Comforts
+quest,27807,prereq,3,Clan Mullan
+quest,27808,src,3,Stubborn as a Doyle
+quest,27809,prereq,3,Firebeard Bellows
+quest,27810,src,3,The Fighting Spirit
+quest,27811,src,3,The Scent of Battle
+quest,27812,src,3,The Loyalty of Clan Mullan
+quest,27813,src,3,Death Worthy of a Dragonmaw
+quest,27818,prereq,0,Slithering Signs
+quest,27819,src,0,TEST - RVM
+quest,27825,src,0,Survival of the Fattest
+quest,27828,prereq,0,Eric  the Utility Dwarf
+quest,27829,prereq,0,The Wrath of a Dragonflight
+quest,27830,prereq,0,Their Hunt Continues
+quest,27831,src,0,The Sorrow and the Fury
+quest,27834,prereq,0,Baelog  the Glass Cannon
+quest,27835,prereq,0,Olaf  the Big Fella'
+quest,27861,src,3,The Crucible of Carnage: The Bloodeye Bruiser!
+quest,27862,prereq,3,The Crucible of Carnage: The Bloodeye Bruiser!
+quest,27863,src,3,The Crucible of Carnage: The Bloodeye Bruiser!
+quest,27864,src,3,The Crucible of Carnage: The Deadly Dragonmaw!
+quest,27865,src,3,The Crucible of Carnage: The Wayward Wildhammer!
+quest,27869,prereq,0,The Dragon and the Temple
+quest,27891,prereq,0,Amakkar  Jack of All Trades
+quest,27892,src,0,Jurrix the Striker
+quest,27893,src,0,Gargal  the Behemoth
+quest,27894,prereq,0,The Wrath of a Dragonflight
+quest,27895,prereq,0,Their Hunt Continues
+quest,27911,prereq,0,With Dying Breath
+quest,27915,src,0,The Heart of the Temple
+quest,27916,prereq,0,Ruag's Report
+quest,27925,prereq,3,Efficient Excavations
+quest,27926,prereq,3,Eastern Hospitality
+quest,27928,src,3,A Favor for the Furrier
+quest,27929,src,3,Drag 'em Down
+quest,27931,src,3,The Quaking Fields
+quest,27932,prereq,3,The Axe of Earthly Sundering
+quest,27933,prereq,3,Elemental Ore
+quest,27934,src,3,One With the Ground
+quest,27935,src,3,Bring Down the Avalanche
+quest,27936,src,3,Bring Down the Avalanche
+quest,27937,src,3,The Hero Returns
+quest,27938,prereq,3,The Middle Fragment
+quest,28000,src,0,Do the Imp-Possible
+quest,28025,src,0,Adventurers Wanted: Razorfen Downs
+quest,28026,src,0,Adventurers Wanted: Uldaman
+quest,28028,prereq,0,Siege!
+quest,28029,prereq,0,Set Them Ablaze!
+quest,28030,prereq,0,They Build a Better Bullet
+quest,28033,src,0,Deceit
+quest,28054,prereq,0,Slavery is Bad
+quest,28055,prereq,0,Sweet  Horrible Freedom
+quest,28056,prereq,0,Rise  Obsidion
+quest,28057,prereq,0,Kill 'em With Sleep Deprivation
+quest,28059,src,3,Claiming The Keep
+quest,28060,prereq,0,Twisted Twilight Ties
+quest,28062,src,0,From Whence He Came
+quest,28084,src,0,Might of the Krom'gar
+quest,28085,src,0,Trouble at Highperch
+quest,28089,src,0,Warchief's Command: Hillsbrad Foothills!
+quest,28090,prereq,3,Precious Goods
+quest,28091,prereq,3,Easy Pickings
+quest,28096,src,0,Welcome to the Machine
+quest,28097,src,3,The Gates of Grim Batol
+quest,28099,src,0,Rasha'krak
+quest,28103,prereq,3,Easy Pickings
+quest,28104,prereq,3,Precious Goods
+quest,28108,prereq,3,If The Key Fits
+quest,28109,src,3,Pressing Forward
+quest,28111,src,0,Trouble at Azurelode
+quest,28112,prereq,3,Escape From the Lost City
+quest,28114,src,0,Glorious Harvest
+quest,28116,prereq,0,Crying Violet
+quest,28119,prereq,0,Purity From Corruption
+quest,28125,src,0,Something to Wear
+quest,28127,src,0,Break Them Out
+quest,28129,prereq,0,The Demon Prince
+quest,28131,src,0,Twin Temptresses
+quest,28132,prereq,3,Efficient Excavations
+quest,28134,src,3,Impending Retribution
+quest,28135,src,3,Al'Akir's Vengeance
+quest,28136,src,0,Behind You!
+quest,28137,src,3,Teach A Man To Fish.... Or Steal
+quest,28144,prereq,0,Thieving Little Monsters!
+quest,28150,prereq,0,An Arcane Ally
+quest,28157,src,0,Four Twilight Elements
+quest,28158,src,0,Unbound
+quest,28159,src,0,The Doomstone
+quest,28160,src,0,Spread the Word
+quest,28167,src,0,Report to Carvo Blastbolt
+quest,28168,prereq,0,Trouble at the Sludge Fields
+quest,28169,src,0,Withdraw to the Loading Room!
+quest,28192,prereq,0,No One Here Gets Out Alive
+quest,28196,prereq,0,The Battle for Hillsbrad
+quest,28197,prereq,0,Discretion is Key
+quest,28202,prereq,0,A Perfect Costume
+quest,28203,prereq,0,A Perfect Costume
+quest,28204,prereq,0,A Perfect Costume
+quest,28205,src,0,A Perfect Costume
+quest,28206,src,0,A Lost Lad
+quest,28207,src,0,A Slimy Situation
+quest,28208,src,0,Winna's Kitten
+quest,28209,src,0,Freedom for Lydon
+quest,28212,src,3,Hot Stuff
+quest,28216,src,3,Magmalord Falthazar
+quest,28219,src,0,Buzzers for Baby
+quest,28220,src,0,Seeking Soil
+quest,28221,src,0,These Roots Were Made For Stompin'
+quest,28222,src,0,Singin' in the Sun
+quest,28223,src,3,The Warden
+quest,28224,src,0,The Last Protector
+quest,28229,prereq,0,Nature and Nurture
+quest,28230,prereq,0,Protocol
+quest,28235,src,0,Burnside Must Fall
+quest,28236,src,0,The Lost Brother
+quest,28237,prereq,0,A Blight Upon the Land
+quest,28238,prereq,3,Twilight Shores
+quest,28239,prereq,0,Into the Black Tooth Hovel
+quest,28240,src,3,Tapped Out
+quest,28241,src,3,A Vision of Twilight
+quest,28242,src,3,We All Must Sacrifice
+quest,28243,src,3,The Eyes Have It
+quest,28244,src,3,Eye Spy
+quest,28245,src,0,Grunt Work
+quest,28246,prereq,0,Strategic Cuts
+quest,28251,src,0,Trouble at Southshore
+quest,28252,src,0,The Kodocaller's Horn
+quest,28253,src,0,Taking the Horn For Ourselves
+quest,28254,src,0,A Needle in a Hellhole
+quest,28255,src,3,Vhat's Next?
+quest,28256,src,0,The Skull of Gul'dan
+quest,28257,src,0,The Fall of Tichondrius
+quest,28258,src,0,Meet with Signilda Hardforge
+quest,28259,src,0,Meet with Evelyn Thorn
+quest,28260,src,0,Meet with Dalgrun Steelpine
+quest,28261,src,0,Deceivers In Our Midst
+quest,28262,src,0,Meet with Veruca Darkstream
+quest,28263,src,0,Meet with Frazzle Frostfingers
+quest,28280,src,3,Tear Them From the Sky!
+quest,28281,prereq,3,Last Stand at Thundermar
+quest,28282,src,3,Narkrall  The Drake-Tamer
+quest,28299,src,0,Meet with Kazak Darkscream
+quest,28308,src,0,Journey to Orgrimmar
+quest,28323,prereq,0,Journey to Orgrimmar
+quest,28337,src,0,The Shredders of Irontree
+quest,28349,prereq,3,Megs in Marketing
+quest,28357,prereq,0,Take it to the Tree
+quest,28360,prereq,0,Running Their Course
+quest,28361,prereq,0,Squirrely Clean
+quest,28362,src,0,Stupid Drizle!
+quest,28370,src,0,Wisp-napping
+quest,28371,src,0,[DND] ORKUS QUEST FLAG [DO NOT LOCALIZE]
+quest,28374,src,0,Weeding the Lawn
+quest,28375,src,0,The Road to Purgation
+quest,28376,src,3,Myzerian's Head
+quest,28377,src,3,Rescue at Glopgut's Hollow
+quest,28378,src,3,Find Fanny
+quest,28379,src,3,Ogre Bashin'
+quest,28380,src,0,Pikwik in Peril
+quest,28381,src,0,The Denmother
+quest,28382,src,0,Enemy at our Roots
+quest,28383,src,0,Wisps of the Woods
+quest,28384,src,0,Into the Clearing
+quest,28408,src,3,Something Bold
+quest,28409,src,3,Something Brewed
+quest,28410,src,3,Something Stolen
+quest,28414,prereq,3,Fourth and Goal
+quest,28428,prereq,0,A Perfect Costume
+quest,28429,prereq,0,A Perfect Costume
+quest,28430,prereq,0,A Perfect Costume
+quest,28431,prereq,0,A Perfect Costume
+quest,28432,prereq,0,Into the Black Tooth Hovel
+quest,28433,prereq,0,Grunt Work
+quest,28434,src,0,Strategic Cuts
+quest,28440,prereq,0,Abuse of Power
+quest,28441,src,0,Enough Damage For One Day
+quest,28443,src,0,Blackened Ashes
+quest,28462,prereq,0,Winterfall Firewater
+quest,28464,prereq,0,Falling to Corruption
+quest,28467,src,0,Mystery Goo
+quest,28469,prereq,0,Winterfall Runners
+quest,28470,src,0,High Chief Winterfall
+quest,28471,src,0,The Final Piece
+quest,28472,prereq,0,Words of the High Chief
+quest,28478,src,0,Twilight Scheming
+quest,28479,src,0,The Ruins of Kel'Theril
+quest,28482,prereq,3,Sullah's Gift
+quest,28497,prereq,3,Fire From the Sky
+quest,28498,src,3,The Secret of Nahom
+quest,28503,prereq,0,Hero's Call: Thousand Needles!
+quest,28504,prereq,0,Warchief's Command: Thousand Needles!
+quest,28513,prereq,0,Pride of the Highborne
+quest,28518,prereq,0,Legacy of the High Elves
+quest,28522,src,0,Winterfall Activity
+quest,28524,src,0,Delivery for Donova
+quest,28525,prereq,0,Hero's Call: Un'Goro Crater!
+quest,28526,prereq,0,Warchief's Command: Un'Goro Crater!
+quest,28529,src,0,Writings of the Void
+quest,28532,prereq,0,Warchief's Command: Stonetalon Mountains!
+quest,28534,src,0,Descendants of the Highborne
+quest,28535,src,0,Descendants of the High Elves
+quest,28542,src,0,Warchief's Command: Felwood!
+quest,28547,src,0,Winterfall E'ko
+quest,28548,prereq,0,Warchief's Command: Desolace!
+quest,28551,prereq,0,Hero's Call: Southern Barrens!
+quest,28553,prereq,0,Okrilla and the Blasted Lands
+quest,28559,prereq,1,Hero's Call: Bloodmyst Isle!
+quest,28560,src,1,Warchief's Command: Ghostlands!
+quest,28561,src,3,Nahom Must Hold
+quest,28565,prereq,0,Hero's Call: Wetlands!
+quest,28568,prereq,0,Warchief's Command: Silverpine Forest!
+quest,28571,prereq,0,Warchief's Command: Hillsbrad Foothills!
+quest,28573,prereq,0,Hero's Call: Arathi Highlands!
+quest,28597,prereq,3,Burnin' at Both Ends
+quest,28598,src,3,Aiming High
+quest,28599,src,3,Kurdran's Waitin'
+quest,28608,smart,0,The Shadow Grave
+quest,28609,src,0,Hammer Time
+quest,28610,prereq,0,Rubble Trouble
+quest,28612,prereq,3,Harrison Jones and the Temple of Uldum
+quest,28613,prereq,3,See You on the Other Side!
+quest,28617,src,0,Flower Power
+quest,28618,src,0,Boulder Delivery
+quest,28619,src,0,Warchief's Command: Arathi Highlands!
+quest,28620,src,0,Eastpoint Tower
+quest,28621,src,3,Put That Baby in the Cradle!
+quest,28622,src,3,Three if by Air
+quest,28627,src,0,Seril's Boast
+quest,28628,src,0,Ice Delivery
+quest,28629,src,0,Are We There  Yeti?
+quest,28632,prereq,0,Fresh From The Hills
+quest,28638,prereq,0,The Owls Have It
+quest,28649,prereq,2,A Special Surprise
+quest,28650,prereq,2,A Special Surprise
+quest,28671,prereq,0,Warchief's Command: Blasted Lands!
+quest,28673,src,0,Hero's Call: Blasted Lands!
+quest,28679,src,3,Rattling Their Cages
+quest,28682,src,3,Claiming The Keep
+quest,28688,src,0,Warchief's Command: Northern Stranglethorn!
+quest,28697,src,3,Ghostbuster
+quest,28705,prereq,1,Warchief's Command: Outland!
+quest,28708,prereq,1,Hero's Call: Outland!
+quest,28709,prereq,2,Hero's Call: Borean Tundra!
+quest,28711,prereq,2,Warchief's Command: Borean Tundra!
+quest,28713,prereq,0,The Balance of Nature
+quest,28714,prereq,0,Fel Moss Corruption
+quest,28715,prereq,0,Demonic Thieves
+quest,28723,prereq,0,Priestess of the Moon
+quest,28724,prereq,0,Iverron's Antidote
+quest,28725,prereq,0,The Woodland Protector
+quest,28726,prereq,0,Webwood Corruption
+quest,28727,prereq,0,Vile Touch
+quest,28728,prereq,0,Signs of Things to Come
+quest,28729,prereq,0,Teldrassil: Crown of Azeroth
+quest,28730,cond,0,Precious Waters
+quest,28731,smart,0,Teldrassil: Passing Awareness
+quest,28732,src,3,This Can Only Mean One Thing...
+quest,28733,prereq,0,Basic Botany
+quest,28735,prereq,3,To the Chamber of Incineration!
+quest,28741,src,3,Ascendant Lord Obsidius
+quest,28744,prereq,0,Ghouls Hate My Grains
+quest,28745,prereq,0,Screechy Keen
+quest,28747,src,0,Someone Setup the Pumpkin Bomb
+quest,28762,prereq,0,Beating Them Back!
+quest,28763,prereq,0,Beating Them Back!
+quest,28765,prereq,0,Beating Them Back!
+quest,28770,prereq,0,Lions for Lambs
+quest,28771,prereq,0,Lions for Lambs
+quest,28773,prereq,0,Lions for Lambs
+quest,28776,src,0,Broken Earthen Figurine
+quest,28782,src,0,A Bird of Legend
+quest,28783,src,3,The Source of Their Power
+quest,28785,src,0,Join the Battle!
+quest,28786,prereq,0,Join the Battle!
+quest,28788,prereq,0,Join the Battle!
+quest,28794,src,0,They Sent Assassins
+quest,28796,src,0,They Sent Assassins
+quest,28798,src,3,Waters of Elune
+quest,28807,prereq,-2,Expert Opinion
+quest,28814,src,3,Followers and Leaders
+quest,28815,src,3,Twilight Documents
+quest,28832,src,3,Twilight Shores
+quest,28833,src,3,Rescue the Earthspeaker!
+quest,28834,src,3,Rescue the Earthspeaker!
+quest,28835,src,0,Necessary Refreshment (Backup Groundspawn Quest)
+quest,28836,src,3,Sins of the Sea Witch
+quest,28849,src,3,Twilight Skies
+quest,28850,src,3,The Prison Rooftop
+quest,28858,prereq,0,Blasted Lands: The Other Side of the World
+quest,28863,src,3,Warlord Halthar is Back
+quest,28864,src,3,Beer Run
+quest,28869,prereq,3,Pebble
+quest,28881,src,0,Prospector Gunstan
+quest,28882,src,3,Victory in Tol Barad
+quest,28884,src,3,Victory in Tol Barad
+quest,28928,src,10,Honor the Flame
+quest,28931,src,11,Honor the Flame
+quest,28932,src,10,Honor the Flame
+quest,28934,src,10,Crushing the Crown
+quest,28969,src,11,Candy Bucket
+quest,28987,src,11,Candy Bucket
+quest,28990,src,11,Candy Bucket
+quest,28991,src,11,Candy Bucket
+quest,28995,src,11,Candy Bucket
+quest,29000,src,11,Candy Bucket
+quest,29071,tbc-wrath-tag,2,Make Haste to Stormwind!
+quest,29073,tbc-wrath-tag,2,Make Haste to Orgrimmar!
+quest,29074,src,11,A Season for Celebration
+quest,29084,tbc-wrath-tag,2,Classic Random 35-39 (1st)
+quest,29085,tbc-wrath-tag,2,Classic Random 35-39 (Nth)
+quest,29105,src,3,Nesingwary Will Know
+quest,29107,src,11,Malfurion Has Returned!
+quest,29118,prereq,3,Follow That Cat
+quest,29120,prereq,3,Mauti
+quest,29125,src,3,Between the Trees
+quest,29145,prereq,3,Opening the Door
+quest,29153,src,3,Booty Bay's Interests
+quest,29166,src,3,Supplies for the Other Side
+quest,29185,src,3,Daily Tier 2 Heroic (1st)
+quest,29193,prereq,3,On a Wing and a Prayer
+quest,29194,src,2,Through a Glass  Darkly
+quest,29195,prereq,3,A Ritual of Flame
+quest,29196,src,3,To the Sanctuary!
+quest,29197,prereq,3,Caught Unawares
+quest,29198,src,3,The Sanctuary Must Not Fall
+quest,29201,src,3,Through the Gates of Hell
+quest,29204,src,0,The Warden's Charge
+quest,29208,src,3,An Old Friend
+quest,29209,src,0,Into the Fiery Depths
+quest,29210,src,3,Enduring the Heat
+quest,29211,src,3,Solar Core Destruction
+quest,29212,src,0,[DEPRECATED] Fire Hawk Down
+quest,29213,src,3,How's the Hunter Holding Up?
+quest,29216,src,3,Malfurion's Breach
+quest,29217,src,3,The Captive Scouts
+quest,29223,prereq,3,Nesingwary Will Know
+quest,29224,src,0,[DEPRICATED] NO LONGER USED
+quest,29225,src,3,Actionable Intelligence
+quest,29226,src,3,Track the Tracker
+quest,29227,src,3,The Hunter's Revenge
+quest,29228,src,3,Follow That Cat
+quest,29229,prereq,3,Follow That Cat
+quest,29230,src,3,Mauti
+quest,29231,src,3,How's the Hunter Holding Up?
+quest,29232,src,3,Bury Me With Me Boots...
+quest,29234,src,3,Delegation
+quest,29236,prereq,3,To Hardwrench Hideaway
+quest,29237,prereq,3,Voodoo Zombies
+quest,29238,src,3,Bad Supplies
+quest,29239,src,3,Nordrassil's Bough
+quest,29245,prereq,3,The Mysterious Seed
+quest,29247,src,3,Treating the Wounds
+quest,29248,src,3,Releasing the Pressure
+quest,29249,src,3,Planting Season
+quest,29255,src,3,Embergris
+quest,29256,src,0,[DEPRECATED] Eat Your Heart Out
+quest,29257,src,3,Steal Magmolias
+quest,29258,src,3,Meteorite Hunt
+quest,29262,src,3,Zul'Gurub Voodoo
+quest,29267,src,3,Some Good Will Come
+quest,29268,src,3,Some Good Will Come
+quest,29284,src,3,Aid of the Ancients
+quest,29298,prereq,3,A Smoke-Stained Locket
+quest,29302,prereq,3,Unlocking the Secrets Within
+quest,29303,prereq,3,Tragedy and Family
+quest,29307,src,3,Heart of Flame
+quest,29310,src,3,The Tipping Point
+quest,29317,src,11,Fish Head
+quest,29318,src,11,Ribs for the Sentinels
+quest,29325,src,11,A Slippery Snack
+quest,29326,prereq,3,The Nordrassil Summit
+quest,29327,src,3,Elemental Bonds: Doubt
+quest,29328,src,3,Elemental Bonds: Desire
+quest,29335,prereq,3,Into Slashing Winds
+quest,29350,src,11,The Gnomish Bait-o-Matic
+quest,29357,src,11,Spice Bread Aplenty
+quest,29371,src,11,A Time to Lose
+quest,29387,prereq,3,Guardians of Hyjal: Firelands Invasion!
+quest,29388,prereq,3,Guardians of Hyjal: Firelands Invasion!
+quest,29389,prereq,3,Guardians of Hyjal: Firelands Invasion!
+quest,29390,prereq,3,Guardians of Hyjal: Call of the Ancients
+quest,29391,prereq,3,Guardians of Hyjal: Call of the Ancients
+quest,29392,prereq,11,Missing Heirlooms
+quest,29398,cond,11,Fencing the Goods
+quest,29406,prereq,4,The Lesson of the Sandy Fist
+quest,29407,src,4,The First Sign of Winter
+quest,29408,cond,4,The Lesson of the Burning Scroll
+quest,29409,cond,4,The Disciple's Challenge
+quest,29410,cond,4,Aysa of the Tushui
+quest,29414,cond,4,The Way of the Tushui
+quest,29417,prereq,4,The Way of the Huojin
+quest,29418,prereq,4,Kindling the Fire
+quest,29419,cond,4,The Missing Driver
+quest,29420,cond,4,The Spirit's Guardian
+quest,29423,src,4,The Passion of Shen-zin Su
+quest,29424,cond,4,Items of Utmost Importance
+quest,29432,prereq,3,Delegation Tracker
+quest,29434,src,11,Tonk Commander
+quest,29439,prereq,3,The Call of the World-Shaman
+quest,29440,prereq,3,The Call of the World-Shaman
+quest,29441,src,0,From the Belly of the Beast
+quest,29469,src,0,Rearm  Reuse  Recycle
+quest,29470,src,0,Tan My Hide
+quest,29484,src,0,Putting the Crunch in the Frog
+quest,29522,cond,4,Ji of the Huojin
+quest,29523,prereq,4,Fanning the Flames
+quest,29524,prereq,4,The Lesson of Stifled Pride
+quest,29527,tbc-wrath-tag,1,War on the Ramparts
+quest,29528,tbc-wrath-tag,1,War on the Ramparts
+quest,29529,tbc-wrath-tag,1,Demons in the Citadel
+quest,29530,tbc-wrath-tag,1,Demons in the Citadel
+quest,29535,tbc-wrath-tag,1,Make Them Bleed
+quest,29536,tbc-wrath-tag,1,Heart of Rage
+quest,29537,tbc-wrath-tag,1,Mind the Gap
+quest,29538,tbc-wrath-tag,1,Make Them Bleed
+quest,29539,tbc-wrath-tag,1,Heart of Rage
+quest,29540,tbc-wrath-tag,1,The Breaker
+quest,29542,tbc-wrath-tag,1,Invading the Citadel
+quest,29543,tbc-wrath-tag,1,Invading the Citadel
+quest,29547,smart,4,The King's Command
+quest,29548,cond,4,The Mission
+quest,29563,tbc-wrath-tag,1,Lost in Action
+quest,29564,tbc-wrath-tag,1,A Brother Betrayed
+quest,29565,tbc-wrath-tag,1,The Heart of the Matter
+quest,29566,tbc-wrath-tag,1,Checking Up
+quest,29567,tbc-wrath-tag,1,Stalk the Stalker
+quest,29568,tbc-wrath-tag,1,A Necessary Evil
+quest,29570,tbc-wrath-tag,1,Rescuing the Expedition
+quest,29571,tbc-wrath-tag,1,Defending the Wilds
+quest,29573,tbc-wrath-tag,1,Safety is Job One
+quest,29574,tbc-wrath-tag,1,Intriguing Specimens
+quest,29575,tbc-wrath-tag,1,Undercutting the Competition
+quest,29582,tbc-wrath-tag,1,Grek's Crazy Night
+quest,29583,tbc-wrath-tag,1,Eckert the Mad
+quest,29590,tbc-wrath-tag,1,The Dead Watcher
+quest,29591,tbc-wrath-tag,1,Raging Spirits
+quest,29593,tbc-wrath-tag,1,Hitting Them Where It Hurts
+quest,29594,tbc-wrath-tag,1,Hitting Them Where It Hurts
+quest,29595,tbc-wrath-tag,1,Everything Will Be Alright
+quest,29596,tbc-wrath-tag,1,The End of the Exarch
+quest,29598,tbc-wrath-tag,1,Taretha's Diversion
+quest,29599,tbc-wrath-tag,1,Escape from Durnholde
+quest,29605,tbc-wrath-tag,1,Brother Against Brother
+quest,29606,tbc-wrath-tag,1,Terokk's Legacy
+quest,29607,tbc-wrath-tag,1,Eyes of Desire
+quest,29608,tbc-wrath-tag,2,Allies in Dalaran
+quest,29609,tbc-wrath-tag,2,Friends in Dalaran
+quest,29611,cond,4,The Art of War
+quest,29612,cond,4,The Art of War
+quest,29613,tbc-wrath-tag,1,A Proper Fate
+quest,29614,tbc-wrath-tag,1,Containment is Key
+quest,29615,tbc-wrath-tag,1,Windcaller Claw and the Water Thief
+quest,29616,tbc-wrath-tag,1,Storming the Steamvault
+quest,29640,tbc-wrath-tag,1,Find Spy To'gun
+quest,29641,tbc-wrath-tag,1,The Soul Devices
+quest,29642,tbc-wrath-tag,1,Trouble at Auchindoun
+quest,29643,tbc-wrath-tag,1,The Codex of Blood
+quest,29644,tbc-wrath-tag,1,Into the Heart of the Labyrinth
+quest,29645,tbc-wrath-tag,1,Ambassador Hellmaw
+quest,29649,tbc-wrath-tag,1,How to Save a Life
+quest,29650,tbc-wrath-tag,1,Fel Ember
+quest,29651,tbc-wrath-tag,1,Honor the Dying
+quest,29652,tbc-wrath-tag,1,One Last Favor
+quest,29653,tbc-wrath-tag,1,The Will of the Warchief
+quest,29654,tbc-wrath-tag,1,Turning the Tide
+quest,29655,tbc-wrath-tag,1,A Very Special Cloth
+quest,29656,tbc-wrath-tag,1,O'mrogg's Warcloth
+quest,29657,tbc-wrath-tag,1,With Great Power  Comes Great Responsibility
+quest,29658,tbc-wrath-tag,1,The Calculator
+quest,29659,src,1,Lost Treasure
+quest,29660,src,1,Saving the Botanica
+quest,29664,cond,4,The Challenger's Fires
+quest,29667,tbc-wrath-tag,1,Culling the Herd
+quest,29669,tbc-wrath-tag,1,A Most Somber Task
+quest,29674,prereq,1,Unbound Darkness
+quest,29675,prereq,1,Hey There Dalliah
+quest,29681,src,1,Maximum Security Breakout
+quest,29682,src,1,Magisters' Terrace
+quest,29684,prereq,1,Severed Communications
+quest,29685,src,1,Hard to Kill
+quest,29686,tbc-wrath-tag,1,A Radical Notion
+quest,29687,tbc-wrath-tag,1,Twisted Associations
+quest,29688,tbc-wrath-tag,1,Advancing the Campaign
+quest,29689,tbc-wrath-tag,1,Advancing the Campaign
+quest,29690,cond,4,Into the Mists
+quest,29691,tbc-wrath-tag,1,Bring Me A Shrubbery!
+quest,29692,tbc-wrath-tag,1,Bring Me Another Shrubbery!
+quest,29763,tbc-wrath-tag,2,Stealing Their Thunder
+quest,29764,tbc-wrath-tag,2,Disarmament
+quest,29803,tbc-wrath-tag,2,Ears of the Lich King
+quest,29807,tbc-wrath-tag,2,Death to the Traitor King
+quest,29808,tbc-wrath-tag,2,Don't Forget the Eggs!
+quest,29811,tbc-wrath-tag,2,The Gatewatcher's Talisman
+quest,29820,tbc-wrath-tag,2,Into the Nexus
+quest,29825,prereq,2,Pupil No More
+quest,29826,src,2,Reclaiming Ahn'Kahet
+quest,29828,tbc-wrath-tag,2,What the Scourge Dred
+quest,29829,tbc-wrath-tag,2,Discretion is Key
+quest,29830,tbc-wrath-tag,2,Containment
+quest,29833,tbc-wrath-tag,2,Unfinished Business
+quest,29834,tbc-wrath-tag,2,Gal'darah Must Pay
+quest,29835,tbc-wrath-tag,2,Gal'darah Must Pay
+quest,29836,tbc-wrath-tag,2,Just Checkin'
+quest,29838,tbc-wrath-tag,2,One of a Kind
+quest,29839,tbc-wrath-tag,2,One of a Kind
+quest,29840,tbc-wrath-tag,2,For Posterity
+quest,29844,tbc-wrath-tag,2,For Posterity
+quest,29848,tbc-wrath-tag,2,The Forlorn Watcher
+quest,29850,tbc-wrath-tag,2,Corrupt Constructs
+quest,29851,tbc-wrath-tag,2,Champion of the Tournament
+quest,29860,tbc-wrath-tag,2,Diametrically Opposed
+quest,29861,tbc-wrath-tag,2,Whatever it Takes!
+quest,29862,tbc-wrath-tag,2,Clearing the Way
+quest,29863,tbc-wrath-tag,2,Stormherald Eljrrin
+quest,29864,tbc-wrath-tag,2,Working at the Source
+quest,29865,src,4,The Silkwood Road
+quest,29998,src,4,The Librarian's Quandary
+quest,30000,src,4,The Jade Serpent
+quest,30027,prereq,4,The Lesson of the Iron Bough
+quest,30033,prereq,4,The Lesson of the Iron Bough
+quest,30034,prereq,4,The Lesson of the Iron Bough
+quest,30035,prereq,4,The Lesson of the Iron Bough
+quest,30036,prereq,4,The Lesson of the Iron Bough
+quest,30037,prereq,4,The Lesson of the Iron Bough
+quest,30038,prereq,4,The Lesson of the Iron Bough
+quest,30076,src,4,The Fanciest Water
+quest,30079,src,4,What's Eating Zhu's Watch?
+quest,30095,prereq,3,The End Time
+quest,30096,prereq,3,Murozond
+quest,30098,prereq,3,The Well of Eternity
+quest,30099,prereq,3,In Unending Numbers
+quest,30100,prereq,3,The Vainglorious
+quest,30101,src,3,The Path to the Dragon Soul
+quest,30112,tbc-wrath-tag,2,A Score to Settle
+quest,30120,tbc-wrath-tag,2,Cleansing Drak'Tharon
+quest,30160,src,4,A Ruby Shard for Ella
+quest,30165,src,0,Tracking Event: Picked Blue Serpent
+quest,30211,src,4,Tracking Event: 5th Place
+quest,30243,src,4,Mantid Under Fire
+quest,30281,src,4,The Silent Approach
+quest,30500,src,4,Residual Fallout
+quest,31016,src,4,The Lorewalkers
+quest,31018,src,4,Beneath the Heart of Fear
+quest,31100,src,4,The Song of the Yaungol
+quest,31135,prereq,0,The Future of Gnomeregan
+quest,31137,prereq,0,Meet the High Tinker
+quest,31158,prereq,0,The Basics: Hitting Things
+quest,31159,prereq,0,The Rise of the Darkspear
+quest,31160,prereq,0,A Rough Start
+quest,31161,cond,0,Proving Pit
+quest,31163,cond,0,More Than Expected
+quest,31440,cond,0,The Four Tomes
+quest,31442,cond,4,The Four Tomes
+quest,31447,cond,0,An End to the Suffering
+quest,31448,cond,4,An End to the Suffering
+quest,31490,cond,0,Rank and File
+quest,31493,cond,0,Just for Safekeeping  Of Course
+quest,31495,cond,4,Rank and File
+quest,31497,cond,4,Just for Safekeeping  Of Course
+quest,31513,prereq,0,Blades of the Anointed
+quest,31514,cond,0,Unto Dust Thou Shalt Return
+quest,31515,prereq,4,Blades of the Anointed
+quest,31516,cond,4,Unto Dust Thou Shalt Return
+quest,31725,src,11,Lindsay
+quest,31726,src,11,Eric Davidson
+quest,31736,cond,4,Envoy of the Alliance
+quest,31765,cond,4,Paint it Red!
+quest,31766,cond,4,Touching Ground
+quest,31767,cond,4,Finish Them!
+quest,31768,cond,4,Fire Is Always the Answer
+quest,31769,cond,4,The Final Blow!
+quest,31818,src,11,Zunta
+quest,31853,cond,4,All Aboard!
+quest,32000,src,4,A Worthy Challenge: Yan-zhu the Uncasked
+quest,32309,src,4,A Tale of Six Masters
+quest,32600,src,4,The Zandalari Prophecy
+quest,33020,src,4,The Lost Secret of the Secret Ingredient
+quest,33815,cond,5,A Song of Frost and Fire
+quest,34364,cond,5,For the Horde!
+quest,34378,cond,5,Establish Your Garrison
+quest,34392,cond,5,Onslaught's End
+quest,34393,cond,5,The Portal's Power
+quest,34402,cond,5,Of Wolves and Warriors
+quest,34420,cond,5,The Cost of War
+quest,34421,cond,5,Bled Dry
+quest,34422,cond,5,Blaze of Glory
+quest,34423,cond,5,Altar Altercation
+quest,34445,cond,5,A Taste of Iron
+quest,34582,cond,5,Finding a Foothold
+quest,34583,cond,5,For the Alliance!
+quest,34584,cond,5,Looking for Lumber
+quest,34585,prereq,5,Quakefist
+quest,34586,cond,5,Establish Your Garrison
+quest,34616,prereq,5,Ravenous Ravens
+quest,35000,src,5,Banished From the Sky
+quest,35154,src,5,Things Are Not Goren Our Way
+quest,35240,cond,5,Bled Dry
+quest,35297,cond,5,FLAG: Army Pushed
+quest,35436,tbc-wrath-tag,2,The Forge of Souls Reward Quest
+quest,35437,tbc-wrath-tag,2,The Forge of Souls Reward Quest
+quest,35438,tbc-wrath-tag,2,Pit of Saron Reward Quest
+quest,35440,tbc-wrath-tag,2,Pit of Saron Reward Quest
+quest,35441,tbc-wrath-tag,2,Halls of Reflection Reward Quest
+quest,35442,tbc-wrath-tag,2,Halls of Reflection Reward Quest
+quest,35446,tbc-wrath-tag,2,The Oculus Reward Quest
+quest,35447,tbc-wrath-tag,2,The Oculus Reward Quest
+quest,35449,tbc-wrath-tag,2,Utgarde Pinnacle Reward Quest
+quest,35452,tbc-wrath-tag,2,Utgarde Pinnacle - Bonus Objective Reward
+quest,35453,tbc-wrath-tag,2,Utgarde Pinnacle Reward Quest
+quest,35454,tbc-wrath-tag,2,Utgarde Pinnacle - Bonus Objective Reward
+quest,35456,tbc-wrath-tag,2,Halls of Lightning Reward Quest
+quest,35457,tbc-wrath-tag,2,Halls of Lightning Reward Quest
+quest,35458,tbc-wrath-tag,2,Halls of Lightning Reward Quest
+quest,35465,tbc-wrath-tag,2,Halls of Stone Reward Quest
+quest,35468,tbc-wrath-tag,2,Halls of Stone Reward Quest
+quest,35472,tbc-wrath-tag,2,Culling of Stratholme Reward Quest
+quest,35473,tbc-wrath-tag,2,Culling of Stratholme - Bonus Objective Reward
+quest,35474,tbc-wrath-tag,2,Culling of Stratholme Reward Quest
+quest,35475,tbc-wrath-tag,2,Gundrak Reward Quest
+quest,35476,tbc-wrath-tag,2,Gundrak Reward Quest
+quest,35477,tbc-wrath-tag,2,Gundrak Bonus Objective
+quest,35478,tbc-wrath-tag,2,The Violet Hold Reward Quest
+quest,35480,tbc-wrath-tag,2,The Violet Hold Reward Quest
+quest,35483,tbc-wrath-tag,2,Drak'Tharon Keep Reward Quest
+quest,35484,tbc-wrath-tag,2,Drak'Tharon Keep Reward Quest
+quest,35489,tbc-wrath-tag,2,Ahn'kahet: The Old Kingdom Reward Quest
+quest,35490,tbc-wrath-tag,2,Ahn'kahet: The Old Kingdom Reward Quest
+quest,35493,tbc-wrath-tag,2,Ahn'kahet: The Old Kingdom Bonus Reward
+quest,35497,tbc-wrath-tag,2,Azjol-Nerub Reward Quest
+quest,35498,tbc-wrath-tag,2,Azjol-Nerub Reward Quest
+quest,35502,tbc-wrath-tag,2,Utgarde Keep Reward Quest
+quest,35512,tbc-wrath-tag,2,Utgarde Keep Reward Quest
+quest,35513,tbc-wrath-tag,2,The Nexus - Reward Quest
+quest,35514,tbc-wrath-tag,2,The Nexus - Reward Quest
+quest,35515,tbc-wrath-tag,2,The Nexus - Bonus Objective Reward Quest
+quest,35517,tbc-wrath-tag,1,Shattered Halls Reward Quest
+quest,35518,tbc-wrath-tag,1,Shattered Halls Reward Quest
+quest,35519,tbc-wrath-tag,1,Shadow Labyrinth Reward Quest
+quest,35520,tbc-wrath-tag,1,Shadow Labyrinth Reward Quest
+quest,35521,tbc-wrath-tag,1,The Black Morass Reward Quest
+quest,35522,tbc-wrath-tag,1,The Black Morass Reward Quest
+quest,35525,tbc-wrath-tag,1,The Botanica Reward Quest
+quest,35526,tbc-wrath-tag,1,The Botanica Reward Quest
+quest,35528,tbc-wrath-tag,1,The Mechanar Reward Quest
+quest,35529,tbc-wrath-tag,1,The Mechanar Reward Quest
+quest,35531,tbc-wrath-tag,1,Magisters' Terrace Reward Quest
+quest,35532,tbc-wrath-tag,1,Magisters' Terrace Reward Quest
+quest,35533,tbc-wrath-tag,1,The Steamvault Reward Quest
+quest,35534,tbc-wrath-tag,1,The Steamvault Reward Quest
+quest,35535,tbc-wrath-tag,1,The Arcatraz Reward Quest
+quest,35538,tbc-wrath-tag,1,The Arcatraz Reward Quest
+quest,35539,tbc-wrath-tag,1,Sethekk Halls Reward Quest
+quest,35540,tbc-wrath-tag,1,Sethekk Halls Reward Quest
+quest,35541,tbc-wrath-tag,1,Sethekk Halls Bonus Objective
+quest,35542,tbc-wrath-tag,1,Old Hillsbrad Foothills Reward Quest
+quest,35543,tbc-wrath-tag,1,Old Hillsbrad Foothills Reward Quest
+quest,35544,tbc-wrath-tag,1,Auchenai Crypts Reward Quest
+quest,35545,tbc-wrath-tag,1,Auchenai Crypts Reward Quest
+quest,35546,tbc-wrath-tag,1,Mana-Tombs Reward Quest
+quest,35547,tbc-wrath-tag,1,Mana-Tombs Reward Quest
+quest,35548,tbc-wrath-tag,1,Mana-Tombs Bonus Objective
+quest,35559,tbc-wrath-tag,1,The Underbog Reward Quest
+quest,35560,tbc-wrath-tag,1,The Underbog Reward Quest
+quest,35561,tbc-wrath-tag,1,The Slave Pens Reward Quest
+quest,35562,tbc-wrath-tag,1,The Slave Pens Reward Quest
+quest,35565,tbc-wrath-tag,1,The Blood Furnace Reward Quest
+quest,35566,tbc-wrath-tag,1,The Blood Furnace Reward Quest
+quest,35572,tbc-wrath-tag,1,Hellfire Ramparts Reward Quest
+quest,35573,tbc-wrath-tag,1,Hellfire Ramparts Reward Quest
+quest,35881,src,5,Ruins of the First Bastion
+quest,35882,src,5,The Interest of Bruto
+quest,35883,src,5,The Fists of Vaandaam
+quest,35884,src,5,The Home Stretch
+quest,35885,src,0,Maraudon (Wicked Grotto) Reward Quest
+quest,35886,src,0,Maraudon (Foulspore Cavern) Reward Quest
+quest,35887,src,0,Maraudon (Earth Song Falls) Reward Quest
+quest,35888,src,0,Maraudon (Everything) Reward Quest
+quest,35889,src,0,Maraudon (Bonus) Reward Quest
+quest,35890,src,0,Dire Maul (Warpwood Quarter) Reward Quest
+quest,35892,src,0,Dire Maul (Gordok Commons) Reward Quest
+quest,35893,src,0,Nagrand - Vignette Boss 011 - Flinthide
+quest,35894,src,0,Dire Maul (Bonus) Reward Quest
+quest,35895,src,5,Terokk's Fall
+quest,35896,src,5,The Avatar of Terokk
+quest,35897,src,5,The Missing Piece
+quest,35898,src,0,Nagrand - Vignette Boss 005 - Gorepetal
+quest,35899,src,0,Blackrock Depths (Detention Block) Reward Quest
+quest,35900,src,0,Nagrand - Vignette Boss 013 - Ru'klaa
+quest,35901,src,0,Blackrock Depths (Detention Bonus) Reward Quest
+quest,35903,src,0,Blackrock Depths (Detention Bonus) Reward Quest
+quest,35904,src,0,Blackrock Depths (Everything) Reward Quest
+quest,35905,src,5,Supply Drop
+quest,35906,src,0,Vignette: Mad King Sporeon
+quest,35907,src,5,Attempted Murder
+quest,35908,src,5,Vignette: Stoneshard Broodmother
+quest,35909,src,0,Vignette: Insha'tar
+quest,35910,src,5,Vignette: Stomper Kreego
+quest,35911,src,3,Stonecore Reward Quest
+quest,35912,src,0,Nagrand - Vignette Boss 017 - Swindler Whitesea
+quest,35914,src,5,Internal: Default Invasion Reward
+quest,35915,src,5,Attempted Murder
+quest,35919,src,0,Treasure: Sacrifice
+quest,35920,src,0,Nagrand - Vignette Boss 019 - Tura'aka
+quest,35921,src,5,Bread and Circuses
+quest,35922,src,5,Bread and Circuses
+quest,35923,src,0,Nagrand - Vignette Boss 006 - Hunter Blacktooth
+quest,35925,src,5,The Gronn Strategy
+quest,35926,src,5,Assassin's Mark
+quest,35927,src,5,Forsaken Brains
+quest,35928,src,5,Meatgut Needs Bones
+quest,35929,src,0,Blackfathom Deeps Reward Quest
+quest,35930,src,0,Blackfathom Deeps (Bonus) Reward Quest
+quest,35931,src,0,Nagrand - Vignette Boss 016 - Warsong Scout
+quest,35932,src,0,Nagrand - Vignette Boss 026 - Warsong Tactician
+quest,35933,src,5,Azeroth's Last Stand
+quest,35934,src,5,Nisha's Vengeance
+quest,35937,src,5,Blood Elf Ear
+quest,35938,src,5,Goblin Nose
+quest,35939,src,5,Tauren Hoof
+quest,35940,src,5,Orc Tooth
+quest,35941,src,5,Troll Feet
+quest,35942,src,5,Pandaren Hide
+quest,35943,src,0,Nagrand - Vignette Boss 026 - Duretha
+quest,35944,src,5,Proof of Strength: Goren Tooth
+quest,35945,src,5,Greblin Fastfizzle
+quest,35947,src,5,The Power of Poison
+quest,35948,src,5,Proof of Strength: Goren Tooth
+quest,35950,src,2,Trial of the Champion Reward Quest
+quest,35951,src,0,Nagrand - Treasure 003 - Goblin Stash
+quest,35952,src,5,Tracking: Mill Treasure 2
+quest,35953,src,0,Nagrand - Treasure 007 - Adventurer's Staff
+quest,35954,src,0,Nagrand - Treasure 008 - Elemental Offering
+quest,35955,src,0,Nagrand - Treasure 009 - Adventurer's Sack
+quest,35956,src,0,Dire Maul (Everything) Reward Quest
+quest,35958,src,5,Iron Docks Reward Quest
+quest,35959,src,5,The Power of Poison
+quest,35960,src,5,Auchindoun Reward Quest
+quest,35961,src,5,Skyreach Reward Quest
+quest,35962,src,5,Warlords Max Level Dungeon Reward Quest
+quest,35963,src,5,Warlords Heroic Dungeon Reward Quest
+quest,35964,src,0,Treasure: Aruumel's Mace
+quest,35965,src,5,Tracking: Mill Treasure 3
+quest,35966,src,5,Tracking: Mill Treasure 4
+quest,35967,src,5,Tracking: Mill Treasure 5
+quest,36000,src,-2,Fugitive Dragon
+quest,36143,tbc-wrath-tag,2,LFGDungeons - Lich King - Dungeon Normal 1st
+quest,36144,tbc-wrath-tag,2,LFG WLK 75-80
+quest,36149,tbc-wrath-tag,2,LFGDungeons - Lich King - Dungeon Normal Nth
+quest,36150,tbc-wrath-tag,2,LFG WLK 75-80
+quest,36307,cond,5,Investigating the Invasion
+quest,36793,cond,5,Founded Garrison
+quest,36797,cond,0,[Hidden Tracker] Founded Garrison
+quest,36902,src,5,Tracking Quest: Aeda Brightdawn
+quest,36920,cond,6,From Within
+quest,37175,tbc-wrath-tag,1,Craig's Test Quest Again!
+quest,37439,tbc-wrath-tag,1,Thirst Unending
+quest,37440,tbc-wrath-tag,1,A Fistful of Slivers
+quest,37442,tbc-wrath-tag,1,The Shrine of Dath'Remar
+quest,37443,tbc-wrath-tag,1,Solanian's Belongings
+quest,37444,prereq,1,Inoculation
+quest,37445,prereq,1,Spare Parts
+quest,37450,cond,6,Saving Stellagosa
+quest,37467,cond,6,The Walk of Shame
+quest,37486,cond,6,Nar'thalas Still Suffers
+quest,37492,cond,6,A Rather Long Walk
+quest,37497,cond,6,Trailing the Tidestone
+quest,37507,cond,6,Boss Whalebelly's in Charge
+quest,37510,cond,6,Sternfathom's Champion
+quest,37538,cond,6,Round 1  Fight!
+quest,37566,cond,6,The Prince is Going Down
+quest,37659,cond,6,The Captain's Foot Locker
+quest,37660,cond,6,The Scythe of Souls
+quest,37677,cond,0,Blasted Land 6.0:JP3 - Invasion - Tracking Quest - See Maraad
+quest,37727,cond,6,The Magister of Mixology
+quest,37728,cond,6,Presentation is Everything
+quest,37733,cond,6,Prince Farondis
+quest,37736,cond,6,Dressing With Class
+quest,37853,cond,6,The Death of the Eldest
+quest,37855,cond,6,The Last of the Last
+quest,37857,cond,6,Runas Knows the Way
+quest,37859,cond,6,The Consumed
+quest,37860,cond,6,You Scratch My Back...
+quest,37861,cond,6,The Nightborne Prince
+quest,37862,cond,6,Still Alive
+quest,37957,cond,6,Runas the Shamed
+quest,38000,src,0,Azsuna - Treasure 001 - Drowned Ruins
+quest,38114,tbc-wrath-tag,1,TBC 60-69
+quest,38115,tbc-wrath-tag,1,WLK 70-79
+quest,38125,tbc-wrath-tag,1,TBC 60-69
+quest,38126,tbc-wrath-tag,1,WLK 70-79
+quest,38136,tbc-wrath-tag,1,TBC 60-69
+quest,38137,tbc-wrath-tag,1,WLK 70-79
+quest,38154,tbc-wrath-tag,1,TBC 60-69
+quest,38155,tbc-wrath-tag,1,WLK 70-79
+quest,38165,tbc-wrath-tag,1,TBC 60-69
+quest,38166,tbc-wrath-tag,1,WLK 70-79
+quest,38232,cond,6,Minion! Kill Them!
+quest,38237,cond,6,This IS In My Contract.
+quest,38300,src,11,Critters of Draenor
+quest,38700,src,5,Vignette: Steelsnout
+quest,38716,src,6,Black Rook Hold
+quest,38759,cond,6,Set Them Free
+quest,38765,cond,6,Enter the Illidari: Shivarra
+quest,38766,prereq,6,Before We're Overrun
+quest,38813,cond,6,Orders for Your Captains
+quest,38834,cond,6,Into the Fray
+quest,38857,cond,6,A Favor for Mr. Shackle
+quest,38945,cond,6,This Should Be Simple... Right?
+quest,38946,cond,6,Consult the Locals
+quest,38950,cond,6,The Wayward Tailor
+quest,39000,src,5,We Don't Need No Library Card
+quest,39049,cond,6,Eye On the Prize
+quest,39050,prereq,6,Meeting With the Queen
+quest,39180,tbc-wrath-tag,1,Warchief's Command: Zangarmarsh!
+quest,39181,tbc-wrath-tag,1,Hero's Call: Zangarmarsh!
+quest,39182,tbc-wrath-tag,1,Warchief's Command: Terokkar Forest!
+quest,39188,tbc-wrath-tag,1,Hero's Call: Terokkar Forest!
+quest,39189,tbc-wrath-tag,1,Warchief's Command: Nagrand!
+quest,39196,tbc-wrath-tag,1,Warchief's Command: Nagrand!
+quest,39197,tbc-wrath-tag,1,Hero's Call: Nagrand!
+quest,39198,tbc-wrath-tag,1,Warchief's Command: Blade's Edge Mountains!
+quest,39199,tbc-wrath-tag,1,Hero's Call: Blade's Edge Mountains!
+quest,39201,tbc-wrath-tag,1,Warchief's Command: Netherstorm!
+quest,39202,tbc-wrath-tag,1,Hero's Call: Netherstorm!
+quest,39203,tbc-wrath-tag,2,Warchief's Command: Dragonblight!
+quest,39204,tbc-wrath-tag,2,Hero's Call: Dragonblight!
+quest,39206,tbc-wrath-tag,2,Warchief's Command: Grizzly Hills!
+quest,39207,tbc-wrath-tag,2,Hero's Call: Grizzly Hills!
+quest,39208,tbc-wrath-tag,2,Zul'Drak
+quest,39209,tbc-wrath-tag,2,Sholazar Basin
+quest,39210,tbc-wrath-tag,2,The Magical Kingdom of Dalaran
+quest,39212,tbc-wrath-tag,2,Sholazar Basin
+quest,39262,cond,6,Give Me Sight Beyond Sight
+quest,39495,cond,6,Hidden No More
+quest,39654,cond,6,Odyn and the Valarjar
+quest,39938,cond,6,Containing the Demon Within
+quest,40000,src,6,A True Hunter
+quest,40076,cond,0,[Hidden Tracker] Start Demon Hunter Tracking Event
+quest,40077,cond,6,The Invasion Begins
+quest,40378,cond,6,Enter the Illidari: Ashtongue
+quest,40379,cond,6,Enter the Illidari: Coilskar
+quest,40384,prereq,6,Needs of the Hunters
+quest,40519,cond,6,Legion: The Legion Returns
+quest,40618,prereq,6,Weapons of Legend
+quest,40619,cond,0,Weapons of Legend: Choose Survival weapon
+quest,40620,cond,0,Weapons of Legend: Choose Marksmanship weapon
+quest,40621,cond,0,Weapons of Legend: Choose Beast Mastery weapon
+quest,40643,prereq,6,A Summons From Moonglade
+quest,40644,cond,6,The Dreamway
+quest,40705,cond,6,Priestly Matters
+quest,40706,prereq,6,A Legend You Can Hold
+quest,40707,cond,0,A Legend You Can Hold: Choose Shadow weapon
+quest,40708,cond,0,A Legend You Can Hold: Choose Holy weapon
+quest,40709,cond,0,A Legend You Can Hold: Choose Discipline weapon
+quest,40832,cond,6,Call of The Uncrowned
+quest,41000,src,6,King Forgalash's Burden
+quest,41106,cond,6,Call of the Wilds
+quest,41217,prereq,0,The Future of Gnomeregan
+quest,41218,prereq,0,Meet the High Tinker
+quest,41311,src,6,Work Order: Leystone
+quest,41312,src,6,Work Order: Leystone
+quest,41316,src,6,Supplies Needed: Leystone
+quest,41415,cond,6,The Hunter's Call
+quest,41541,cond,6,A Beastly Expedition
+quest,41553,src,6,Slab of Bacon
+quest,41957,cond,6,The Vindicator's Plea
+quest,42000,src,6,Seeker of Truth
+quest,42169,src,6,Left for Dead
+quest,42271,cond,6,Their Dying Breaths
+quest,42370,cond,6,Wanding 101
+quest,42372,cond,6,Felblaze Ingress
+quest,42726,tbc-wrath-tag,1,Brutal Gladiator's Battlegear
+quest,42756,cond,6,Hunger's End
+quest,43199,src,5,Primal Gladiator's Dragonhide Armor
+quest,43200,src,5,Primal Gladiator's Dragonhide Armor
+quest,43201,src,5,Primal Gladiator's Dreadplate Armor
+quest,43202,src,5,Primal Gladiator's Dreadplate Armor
+quest,43253,src,6,Maw of Souls: Ancient Vrykul Legends
+quest,43764,src,6,Ley Race
+quest,43900,src,6,Tracking Quest: All - Troop A Enabled
+quest,44000,src,0,Short-Supply Reward
+quest,44184,cond,6,In the Blink of an Eye
+quest,44327,src,6,Owlcat Stone Active
+quest,44663,cond,6,In the Blink of an Eye
+quest,45000,src,6,Bloodgazer Team Up
+quest,45394,condfix,0,Tracking Quest
+quest,46037,tbc-wrath-tag,2,Ymirjar's Battlegear
+quest,46038,tbc-wrath-tag,2,Ymirjar's Battlegear
+quest,46039,tbc-wrath-tag,2,Ymirjar's Battlegear
+quest,46500,src,6,Tomb of Sargeras: Legend of the Deep
+quest,46555,tbc-wrath-tag,2,Savage Gladiator's Chain Armor
+quest,46556,tbc-wrath-tag,2,Savage Gladiator's Dragonhide Armor
+quest,46557,tbc-wrath-tag,2,Savage Gladiator's Dreadplate Armor
+quest,46558,tbc-wrath-tag,2,Savage Gladiator's Felweave Armor
+quest,46559,tbc-wrath-tag,2,Savage Gladiator's Leather Armor
+quest,46560,tbc-wrath-tag,2,Savage Gladiator's Plate Armor
+quest,46561,tbc-wrath-tag,2,Savage Gladiator's Ringmail Armor
+quest,46562,tbc-wrath-tag,2,Savage Gladiator's Satin Armor
+quest,46563,tbc-wrath-tag,2,Savage Gladiator's Scaled Armor
+quest,46564,tbc-wrath-tag,2,Savage Gladiator's Silk Armor
+quest,46565,tbc-wrath-tag,2,Savage Gladiator's Weapons
+quest,46566,tbc-wrath-tag,2,Deadly Gladiator's Chain Armor
+quest,46567,tbc-wrath-tag,2,Deadly Gladiator's Dragonhide Armor
+quest,46568,tbc-wrath-tag,2,Deadly Gladiator's Dreadplate Armor
+quest,46569,tbc-wrath-tag,2,Deadly Gladiator's Felweave Armor
+quest,46570,tbc-wrath-tag,2,Deadly Gladiator's Leather Armor
+quest,46571,tbc-wrath-tag,2,Deadly Gladiator's Plate Armor
+quest,46572,tbc-wrath-tag,2,Deadly Gladiator's Ringmail Armor
+quest,46573,tbc-wrath-tag,2,Deadly Gladiator's Satin Armor
+quest,46574,tbc-wrath-tag,2,Deadly Gladiator's Scaled Armor
+quest,46575,tbc-wrath-tag,2,Deadly Gladiator's Silk Armor
+quest,46576,tbc-wrath-tag,2,Deadly Gladiator's Weapons
+quest,46577,tbc-wrath-tag,2,Wrathful Gladiator's Chain Armor
+quest,46578,tbc-wrath-tag,2,Wrathful Gladiator's Dragonhide Armor
+quest,46579,tbc-wrath-tag,2,Wrathful Gladiator's Dreadplate Armor
+quest,46580,tbc-wrath-tag,2,Wrathful Gladiator's Felweave Armor
+quest,46581,tbc-wrath-tag,2,Wrathful Gladiator's Leather Armor
+quest,46582,tbc-wrath-tag,2,Wrathful Gladiator's Plate Armor
+quest,46583,tbc-wrath-tag,2,Wrathful Gladiator's Ringmail Armor
+quest,46584,tbc-wrath-tag,2,Wrathful Gladiator's Satin Armor
+quest,46585,tbc-wrath-tag,2,Wrathful Gladiator's Scaled Armor
+quest,46586,tbc-wrath-tag,2,Wrathful Gladiator's Silk Armor
+quest,46587,tbc-wrath-tag,2,Wrathful Gladiator's Weapons
+quest,46588,tbc-wrath-tag,2,Hateful Gladiator's Chain Armor
+quest,46589,tbc-wrath-tag,2,Hateful Gladiator's Dragonhide Armor
+quest,46590,tbc-wrath-tag,2,Hateful Gladiator's Dreadplate Armor
+quest,46591,tbc-wrath-tag,2,Hateful Gladiator's Felweave Armor
+quest,46592,tbc-wrath-tag,2,Hateful Gladiator's Leather Armor
+quest,46593,tbc-wrath-tag,2,Hateful Gladiator's Plate Armor
+quest,46594,tbc-wrath-tag,2,Hateful Gladiator's Ringmail Armor
+quest,46595,tbc-wrath-tag,2,Hateful Gladiator's Satin Armor
+quest,46596,tbc-wrath-tag,2,Hateful Gladiator's Scaled Armor
+quest,46597,tbc-wrath-tag,2,Hateful Gladiator's Silk Armor
+quest,46598,tbc-wrath-tag,2,Hateful Gladiator's Weapons
+quest,46599,tbc-wrath-tag,2,Furious Gladiator's Chain Armor
+quest,46600,tbc-wrath-tag,2,Furious Gladiator's Dragonhide Armor
+quest,46601,tbc-wrath-tag,2,Furious Gladiator's Dreadplate Armor
+quest,46602,tbc-wrath-tag,2,Furious Gladiator's Felweave Armor
+quest,46603,tbc-wrath-tag,2,Furious Gladiator's Leather Armor
+quest,46604,tbc-wrath-tag,2,Furious Gladiator's Plate Armor
+quest,46605,tbc-wrath-tag,2,Furious Gladiator's Ringmail Armor
+quest,46606,tbc-wrath-tag,2,Furious Gladiator's Satin Armor
+quest,46607,tbc-wrath-tag,2,Furious Gladiator's Scaled Armor
+quest,46608,tbc-wrath-tag,2,Furious Gladiator's Silk Armor
+quest,46609,tbc-wrath-tag,2,Furious Gladiator's Weapons
+quest,46610,tbc-wrath-tag,2,Relentless Gladiator's Chain Armor
+quest,46611,tbc-wrath-tag,2,Relentless Gladiator's Dragonhide Armor
+quest,46612,tbc-wrath-tag,2,Relentless Gladiator's Dreadplate Armor
+quest,46613,tbc-wrath-tag,2,Relentless Gladiator's Felweave Armor
+quest,46614,tbc-wrath-tag,2,Relentless Gladiator's Leather Armor
+quest,46615,tbc-wrath-tag,2,Relentless Gladiator's Plate Armor
+quest,46616,tbc-wrath-tag,2,Relentless Gladiator's Ringmail Armor
+quest,46617,tbc-wrath-tag,2,Relentless Gladiator's Satin Armor
+quest,46618,tbc-wrath-tag,2,Relentless Gladiator's Scaled Armor
+quest,46619,tbc-wrath-tag,2,Relentless Gladiator's Silk Armor
+quest,46620,tbc-wrath-tag,2,Relentless Gladiator's Weapons
+quest,46621,tbc-wrath-tag,1,Gladiator's Chain Armor
+quest,46622,tbc-wrath-tag,1,Gladiator's Dragonhide Armor
+quest,46623,tbc-wrath-tag,1,Gladiator's Felweave Armor
+quest,46624,tbc-wrath-tag,1,Gladiator's Leather Armor
+quest,46625,tbc-wrath-tag,1,Gladiator's Plate Armor
+quest,46626,tbc-wrath-tag,1,Gladiator's Ringmail Armor
+quest,46627,tbc-wrath-tag,1,Gladiator's Satin Armor
+quest,46628,tbc-wrath-tag,1,Gladiator's Scaled Armor
+quest,46629,tbc-wrath-tag,1,Gladiator's Silk Armor
+quest,46630,tbc-wrath-tag,1,Gladiator's Weapons
+quest,46631,tbc-wrath-tag,1,Brutal Gladiator's Chain Armor
+quest,46632,tbc-wrath-tag,1,Brutal Gladiator's Dragonhide Armor
+quest,46633,tbc-wrath-tag,1,Brutal Gladiator's Felweave Armor
+quest,46634,tbc-wrath-tag,1,Brutal Gladiator's Leather Armor
+quest,46635,tbc-wrath-tag,1,Brutal Gladiator's Plate Armor
+quest,46636,tbc-wrath-tag,1,Brutal Gladiator's Ringmail Armor
+quest,46637,tbc-wrath-tag,1,Brutal Gladiator's Satin Armor
+quest,46638,tbc-wrath-tag,1,Brutal Gladiator's Scaled Armor
+quest,46639,tbc-wrath-tag,1,Brutal Gladiator's Silk Armor
+quest,46640,tbc-wrath-tag,1,Brutal Gladiator's Weapons
+quest,46641,tbc-wrath-tag,1,Vengeful Gladiator's Chain Armor
+quest,46642,tbc-wrath-tag,1,Vengeful Gladiator's Dragonhide Armor
+quest,46643,tbc-wrath-tag,1,Vengeful Gladiator's Felweave Armor
+quest,46644,tbc-wrath-tag,1,Vengeful Gladiator's Leather Armor
+quest,46645,tbc-wrath-tag,1,Vengeful Gladiator's Plate Armor
+quest,46646,tbc-wrath-tag,1,Vengeful Gladiator's Ringmail Armor
+quest,46647,tbc-wrath-tag,1,Vengeful Gladiator's Satin Armor
+quest,46648,tbc-wrath-tag,1,Vengeful Gladiator's Scaled Armor
+quest,46649,tbc-wrath-tag,1,Vengeful Gladiator's Silk Armor
+quest,46650,tbc-wrath-tag,1,Vengeful Gladiator's Weapons
+quest,46651,tbc-wrath-tag,1,Merciless Gladiator's Chain Armor
+quest,46652,tbc-wrath-tag,1,Merciless Gladiator's Dragonhide Armor
+quest,46653,tbc-wrath-tag,1,Merciless Gladiator's Felweave Armor
+quest,46654,tbc-wrath-tag,1,Merciless Gladiator's Leather Armor
+quest,46655,tbc-wrath-tag,1,Merciless Gladiator's Plate Armor
+quest,46656,tbc-wrath-tag,1,Merciless Gladiator's Ringmail Armor
+quest,46657,tbc-wrath-tag,1,Merciless Gladiator's Satin Armor
+quest,46658,tbc-wrath-tag,1,Merciless Gladiator's Scaled Armor
+quest,46659,tbc-wrath-tag,1,Merciless Gladiator's Silk Armor
+quest,46660,tbc-wrath-tag,1,Merciless Gladiator's Weapons
+quest,46727,cond,7,Battle for Azeroth: Tides of War
+quest,46728,cond,7,The Nation of Kul Tiras
+quest,46729,cond,7,The Old Knight
+quest,47060,tbc-wrath-tag,1,Brutal Gladiator's Dreadplate Armor
+quest,47099,cond,7,Get Your Bearings
+quest,47186,cond,7,Sanctum of the Sages
+quest,47289,cond,7,Teddies and Tea
+quest,47428,cond,7,Kitty?
+quest,47523,tbc-wrath-tag,1,Disturbance Detected: Black Temple
+quest,47946,cond,7,Save Their Bacon
+quest,47961,prereq,7,Drustvar
+quest,47968,prereq,7,Signs and Portents
+quest,47978,prereq,7,The Wayward Crone
+quest,47979,cond,7,Witch Hunt
+quest,47980,prereq,7,Furious Familiars
+quest,47981,prereq,7,Cracking the Curse
+quest,47982,cond,7,The Final Effigy
+quest,48108,cond,7,The Waycrest Daughter
+quest,48109,prereq,7,The Woods Have Eyes
+quest,48110,prereq,7,In Case of Ambush
+quest,48111,prereq,7,Trial by Superstition
+quest,48113,prereq,7,A Pungent Solution
+quest,48165,prereq,7,Harmful If Swallowed
+quest,48170,prereq,7,Once Bitten  Twice Shy
+quest,48171,cond,7,The Curse of Fletcher's Hollow
+quest,48179,cond,7,Rescue Rangers
+quest,48180,cond,7,Really Big Problem
+quest,48198,cond,7,The Burden of Proof
+quest,48283,cond,7,Standing Accused
+quest,48518,cond,7,Save Who We Can
+quest,48622,cond,7,The Vanishing Lord
+quest,48793,prereq,7,The Adventurer's Society
+quest,48804,cond,7,Mistakes Were Made
+quest,48949,src,7,Weeds of the Mire
+quest,49310,src,7,The Prophet's Ploy
+quest,49467,cond,7,Witch of the Woods
+quest,49532,tbc-wrath-tag,1,Warchief's Command: Shadowmoon Valley!
+quest,49533,tbc-wrath-tag,2,Warchief's Command: Howling Fjord!
+quest,49534,tbc-wrath-tag,2,Warchief's Command: Zul'Drak!
+quest,49535,tbc-wrath-tag,2,Warchief's Command: Sholazar Basin!
+quest,49536,tbc-wrath-tag,2,Warchief's Command: Storm Peaks!
+quest,49537,tbc-wrath-tag,2,Warchief's Command: Icecrown!
+quest,49538,cond,4,Warchief's Command: Jade Forest!
+quest,49550,tbc-wrath-tag,1,Hero's Call: Shadowmoon Valley!
+quest,49551,tbc-wrath-tag,2,Hero's Call: Howling Fjord!
+quest,49552,tbc-wrath-tag,2,Hero's Call: Zul'Drak!
+quest,49553,tbc-wrath-tag,2,Hero's Call: Sholazar Basin!
+quest,49554,tbc-wrath-tag,2,Hero's Call: Storm Peaks!
+quest,49555,tbc-wrath-tag,2,Hero's Call: Icecrown!
+quest,49556,cond,4,Hero's Call: Jade Forest!
+quest,49772,cond,11,For the Alliance
+quest,49787,cond,6,The Ghostlands
+quest,49788,prereq,11,For the Alliance
+quest,49813,tbc-wrath-tag,1,Adventure Calls
+quest,49816,tbc-wrath-tag,1,Burning Crusade: To Outland!
+quest,49817,tbc-wrath-tag,1,To Northrend!
+quest,49852,cond,4,To Pandaria!
+quest,49860,tbc-wrath-tag,1,Adventure Calls
+quest,49862,tbc-wrath-tag,1,Burning Crusade: To Outland!
+quest,49863,tbc-wrath-tag,1,Wrath of the Lich King: To Northrend!
+quest,49866,cond,4,Mists of Pandaria: To Pandaria!
+quest,50000,src,7,Beastly Dealings
+quest,50058,cond,7,The Witch's Pet
+quest,50130,tbc-wrath-tag,1,A Friendly Gesture
+quest,50131,tbc-wrath-tag,1,An Outside Perspective
+quest,50239,prereq,6,A Choice of Allies
+quest,50305,cond,11,Stranger in a Strange Land
+quest,50313,cond,11,Stranger in a Strange Land
+quest,50316,tbc-wrath-tag,2,Disturbance Detected: Ulduar
+quest,51341,cond,7,Daughter of the Sea
+quest,51443,cond,7,Battle for Azeroth: Mission Statement
+quest,51486,prereq,11,Fer the Alliance
+quest,51803,cond,7,The Kul Tiras Campaign
+quest,52074,prereq,7,Deliverance
+quest,53152,cond,7,Wolves for the Den
+quest,53168,src,7,Magical Spyglass
+quest,53500,src,11,Stranger in a Strange Land
+quest,53847,cond,7,On Whispered Winds
+quest,54070,src,7,Conquest's Reward
+quest,54270,src,7,Breaking Mirrors
+quest,54271,src,7,Telaamon's Purge
+quest,54721,cond,7,I'm Too Old for This Ship
+quest,54726,cond,7,Frame Work
+quest,54727,cond,7,Team Carry
+quest,54728,cond,7,This Lumber is Haunted
+quest,54729,cond,7,The Bleak Hills
+quest,54731,cond,7,Balance in All Things
+quest,54732,cond,7,Drop It!
+quest,54733,cond,7,Make it Wright
+quest,54734,cond,7,Summons from Dorian
+quest,54735,cond,7,A Worthy Crew
+quest,54933,cond,0,Freeing the Light
+quest,54951,cond,0,Emergency First Aid
+quest,54952,cond,0,Finding the Lost Expedition
+quest,54976,cond,11,The Shadow of Gilneas
+quest,55122,prereq,0,Murloc Mania
+quest,55136,cond,7,Her Dog Days Are Over
+quest,55142,cond,11,For the Alliance
+quest,55146,cond,11,Stranger in a Strange Land
+quest,55173,cond,0,Northbound
+quest,55174,cond,0,Cooking Meat
+quest,55184,cond,0,Quilboar Shadow Magic
+quest,55186,cond,0,Down with the Quilboar
+quest,55193,cond,0,The Scout-o-Matic 5000
+quest,55194,prereq,0,Stocking Up on Supplies
+quest,55196,cond,0,The Harpy Problem
+quest,55600,src,7,Sating Snapdragons
+quest,55639,cond,0,Who Lurks in the Pit
+quest,55763,cond,0,The Rescue of Meredy Huntswell
+quest,55764,cond,0,Harpy Culling
+quest,55879,cond,0,Ride of the Scientifically Enhanced Boar
+quest,55881,cond,0,Purge the Totems
+quest,55882,cond,0,Message to Base
+quest,55965,cond,0,Westward Bound
+quest,55981,cond,0,Right Beneath Their Eyes
+quest,56034,cond,0,Re-sizing the Situation
+quest,56051,cond,0,[Hidden Tracker] Ogre Overseer Briarpatch Cloak/Mandate Dropped
+quest,56344,cond,0,To Darkmaul Citadel
+quest,56775,cond,0,Warming Up
+quest,57102,cond,8,Pardon Our Dust
+quest,57261,cond,8,Walk the Path  Aspirant
+quest,57581,tbc-wrath-tag,1,Plucking Plumes
+quest,57584,cond,8,A Fate Most Noble
+quest,57677,cond,8,A Soulbind In Need
+quest,58146,prereq,11,For the Alliance
+quest,58147,cond,11,Stranger in a Strange Land
+quest,58208,cond,0,Brace for Impact
+quest,58209,cond,0,Stand Your Ground
+quest,58877,cond,11,Death's Power Grows
+quest,58882,cond,0,[Hidden Tracker] Quilboar Briarpatch Chestpiece Dropped
+quest,58883,cond,0,[Hidden Tracker] Murloc Hideaway Boots Dropped
+quest,59254,cond,0,Enhanced Combat Tactics
+quest,59314,cond,8,Sinfall
+quest,59315,cond,8,The Court of Harvesters
+quest,59321,cond,8,Sacred Covenant
+quest,59339,cond,0,Enhanced Combat Tactics
+quest,59342,cond,0,Taming the Wilds
+quest,59350,cond,0,A Druid's Form
+quest,59610,cond,0,[Hidden Tracker] Torgok's Reagent Pouch Dropped
+quest,59773,cond,8,Seek the Ascended
+quest,59774,cond,8,Welcome to Eternity
+quest,59926,cond,0,Warming Up
+quest,59927,cond,0,Stand Your Ground
+quest,59928,cond,0,Brace for Impact
+quest,59929,prereq,0,Murloc Mania
+quest,59930,cond,0,Emergency First Aid
+quest,59931,cond,0,Finding the Lost Expedition
+quest,59932,cond,0,Cooking Meat
+quest,59933,cond,0,Enhanced Combat Tactics
+quest,59934,cond,0,Enhanced Combat Tactics
+quest,59935,cond,0,Northbound
+quest,59937,cond,0,Taming the Wilds
+quest,59938,cond,0,Down with the Quilboar
+quest,59939,cond,0,Forbidden Quilboar Shadow Magic
+quest,59940,cond,0,The Choppy Booster Mk. 5
+quest,59941,cond,0,Re-sizing the Situation
+quest,59942,cond,0,The Re-Deather
+quest,59948,cond,0,Westward Bound
+quest,59949,cond,0,Who Lurks in the Pit
+quest,59950,prereq,0,Stocking Up on Supplies
+quest,60096,tbc-wrath-tag,1,Wrath of the Lich King: To Northrend!
+quest,60097,tbc-wrath-tag,1,Wrath of the Lich King: To Northrend!
+quest,60120,tbc-wrath-tag,1,Burning Crusade: To Outland!
+quest,60123,tbc-wrath-tag,1,Burning Crusade: To Outland!
+quest,60125,cond,4,Mists of Pandaria: To Pandaria!
+quest,60126,cond,4,Mists of Pandaria: To Pandaria!
+quest,60151,cond,8,A Doorway Through the Veil
+quest,60359,cond,0,Home Is Where the Hearth Is
+quest,60361,cond,0,Battle for Azeroth: Mission Statement
+quest,60735,cond,8,Trouble in Paradise
+quest,60959,tbc-wrath-tag,1,Burning Crusade: Onward to Adventure in Outland
+quest,60961,tbc-wrath-tag,1,Burning Crusade: Onward to Adventure in Outland
+quest,60962,tbc-wrath-tag,2,Wrath of the Lich King: Onward to Adventure in Northrend
+quest,60963,tbc-wrath-tag,2,Wrath of the Lich King: Onward to Adventure in Northrend
+quest,63215,prereq,8,Report to Draven
+quest,63700,src,8,Stonehead's Best Friend
+quest,63976,cond,8,The Al'ley Cat of Oribos
+quest,63977,condfix,8,Insider Trading
+quest,63986,cond,8,Tazavesh: Raiders of the Lost Artifact
+quest,65000,src,11,Shadowlands (60) E
+quest,65101,cond,9,An Iconic  Draconic Look
+quest,65279,cond,9,By Royal Decree
+quest,65302,cond,9,Keys to the Kingdom
+quest,65306,cond,9,Rot Rancher
+quest,65436,prereq,0,The Dragon Isles Await
+quest,65594,cond,9,Making a Mountain Out of a Gnoll Hill
+quest,65595,cond,9,One Bad Apple
+quest,65613,cond,9,An Iconic  Draconic Look
+quest,65700,src,8,Core Control
+quest,66262,cond,9,Waste Water Cleanup
+quest,66263,cond,9,A Precision Approach
+quest,66264,cond,9,Disarmed and Docile
+quest,66265,cond,9,Who's Next?
+quest,66266,cond,9,Filthy Mongrels
+quest,66267,cond,9,M.E.T.A.
+quest,66268,prereq,9,Third Try's the Charm
+quest,66269,prereq,9,Just To Be Sure
+quest,66270,cond,9,Whack-a-Gnoll
+quest,66393,cond,9,To Somnikus
+quest,66395,cond,9,The Chittering Rocks
+quest,66560,cond,0,[Hidden Tracker] Blasted Lands Terrain Swap Condition Quest
+quest,66577,prereq,0,Aspectral Invitation
+quest,66589,cond,0,Expeditionary Coordination
+quest,66596,cond,0,Whispers on the Winds
+quest,66648,cond,8,Crossing Fate
+quest,67071,cond,9,What a Long  Sweet Trip It's Been
+quest,67700,cond,9,To the Dragon Isles!
+quest,70170,src,9,Beat the Demons Out of It
+quest,70338,src,9,They Took the Kits
+quest,70374,src,9,Himia  the Blessed
+quest,70425,src,9,Dragonrider Racing - Azure Span Sprint
+quest,70532,src,9,Aiding the Raiding
+quest,70707,src,9,The Next Waygate
+quest,70790,src,9,Stone Dragontooth
+quest,70888,src,9,Rubbing Shoulders With The Best
+quest,70900,src,9,Innovating the Engine
+quest,70938,src,9,Community Feasts
+quest,71000,src,9,Barst Recruited
+quest,72071,cond,9,Round Two  Fish!
+quest,72083,prereq,9,Me Lucky Lure
+quest,72240,cond,0,The Obsidian Warders
+quest,72405,cond,11,An Unlikely Informant
+quest,72408,cond,11,A Window to the Past
+quest,72409,prereq,11,Rotten Old Memories
+quest,72424,prereq,11,Looking for Something Specific
+quest,72426,cond,11,The New Clessington Estate
+quest,72644,prereq,11,An Urgent Matter
+quest,72900,cond,9,Keeper of the Ossuary
+quest,75189,cond,3,Safety in Numbers
+quest,75190,prereq,3,Ready and Abel
+quest,75265,cond,11,An Urgent Matter
+quest,75890,cond,11,The Clarion Call
+quest,75891,cond,11,Ancient Curses
+quest,75918,cond,9,Fire Season
+quest,75959,src,9,Aerie Chasm Cruise - Reverse Challenge
+quest,77423,cond,9,Surging Dreams
+quest,78329,cond,11,Love is in the Air
+quest,78529,cond,10,Violent Impact
+quest,78754,cond,10,Lost Delivery
+quest,78981,cond,11,Love is in the Air
+quest,79200,giver,11,Who am I?
+quest,79511,cond,9,Identity Crisis
+quest,80000,src,10,Beebiter
+quest,80001,giver,0,Rekindle
+quest,80209,cond,10,An Oddball in Dornogal
+quest,80210,cond,10,Found Around the Unbound
+quest,80456,cond,10,A Sassy Arathi
+quest,81661,cond,10,To Mourning Rise
+quest,82441,prereq,10,For The Love of Gems
+quest,82465,cond,10,Precious Gems
+quest,82500,src,10,Worldsoul: The Rookery
+quest,82792,cond,10,All Ore Nothing
+quest,82796,cond,10,Third Mine Blind
+quest,82797,cond,10,Hit Rock Bottom
+quest,82798,cond,10,An Opal of Mine
+quest,82799,cond,10,Web Beats Rock
+quest,84424,cond,11,Forward  to Adventure!
+quest,84719,cond,10,The Expedition Awaits
+quest,84720,cond,10,To the Siren Isle!
+quest,84956,prereq,10,A Shadowy Invitation
+quest,84957,cond,10,Return to the Veiled Market
+quest,84996,cond,10,Vereesa's Tale
+quest,84997,cond,10,What Might Come
+quest,84998,cond,10,Bringer of the Void
+quest,85001,cond,10,Blessings Be Upon You
+quest,85002,cond,10,Off to Tazavesh
+quest,85075,cond,10,To Stormsong
+quest,86852,cond,11,Light's Last Stand
+quest,86899,cond,11,The Root Cause
+quest,86900,cond,11,To Har'athir
+quest,87290,cond,10,The Oasis
+quest,87337,cond,10,Custodian Duties
+quest,87338,prereq,10,Day One Orientation
+quest,87339,prereq,10,Ongoing Activities
+quest,87340,cond,10,Junk Mail
+quest,88719,cond,11,A Voice from the Light
+quest,89402,cond,11,Harandar
+quest,90957,cond,11,Initiation Day
+quest,90961,cond,11,Stranger in a New Land
+quest,91281,cond,11,Midnight
+quest,91736,giver,0,Applejack Still
+quest,91899,giver,0,A Sealed Crate
+quest,91900,giver,0,A Sealed Crate
+quest,91904,giver,0,A Sealed Crate
+quest,91905,giver,0,A Sealed Crate
+quest,92405,cond,10,Meet Arator
+quest,92811,giver,0,Economic Warfare
+quest,94472,giver,-2,Earth Sapta
+quest,94473,giver,0,Fire Sapta
+quest,94616,giver,0,Water Sapta
+quest,95042,giver,0,Seeking the Kor Gem
+quest,97583,giver,0,WRIGGLE.
+quest,98888,giver,0,Conflict at Darkspear Islands
+quest,98896,giver,0,Darkspear Islands Clash
