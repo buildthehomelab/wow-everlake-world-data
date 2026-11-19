@@ -303,5 +303,9 @@ gave it:
 - `2026_11_19_971_world_everlake_unscripted_bosses.sql` (Kresh, Old Serra'kis, Mana Wraith) is written by hand from
   Wowhead's WoW Forever database (https://www.wowhead.com/forever): the ability spell ids of npc=3653, npc=4830 and
   npc=246931, and for Kresh a page comment naming his special attacks. Only spell ids are taken; timers are guesses.
+- `2026_11_19_942_world_everlake_crown_of_the_earth_phial.sql` (Crown of the Earth hands over the Amethyst Phial) is
+  written by hand from Wowhead's WoW Forever database (https://www.wowhead.com/forever, credited with operation 27):
+  that quest 934 is the only source of item 5623, from its item list pages; and from VMaNGOS's world database (release db-70e38cd):
+  the quest's SrcItemId and SrcItemCount. Only ids and the count are taken.
 
 Game content such as names and text belongs to Blizzard Entertainment.
