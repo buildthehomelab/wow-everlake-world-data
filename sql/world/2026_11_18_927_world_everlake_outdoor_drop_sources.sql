@@ -1,8 +1,8 @@
 -- New WoW Forever creatures out in the world whose drops no one on the realm could get.
 -- 2026_11_18_927_world_everlake_outdoor_drop_sources.sql: written from public data by a script, checked by hand.
 --
--- The realm's tracker counts items that drop only from creatures the realm has no template for. This adds 12 of those
--- creatures (89 spawns) whose template the live client was sent (EG Link) and whose place is known, with the drops
+-- The realm's tracker counts items that drop only from creatures the realm has no template for. This adds 11 of those
+-- creatures (88 spawns) whose template the live client was sent (EG Link) and whose place is known, with the drops
 -- Wowhead measured on them. Same method as 2026_11_18_926_world_everlake_quest_drop_sources.sql, with these changes:
 --   * template: EG Link's creature details (name, title, type, family, classification, class, models, type flags, health
 --     and power multipliers, CreatureDifficultyID, movement); levels from EG Link's creature records or combat log, else
@@ -24,13 +24,16 @@
 --     QuestRequired only for an item the client lists as the creature's quest item and that starts no quest; an item
 --     that starts a quest drops for everyone (the core hides it from players who already took that quest).
 --     No other loot and no money yet: a later drops import adds them once the templates are in.
+--   The file name is written as a literal wherever a column is compared with it: on the core's utf8mb4 connection a
+--   user variable's collation does not match everlake_import_rows.file's (error 1267).
 --   Several of these items serve quests the realm does not have yet (named per creature): the drop is in place for when
 --   they come.
 --
 -- Sources: EG Link (Efficient Games, CC BY 4.0) 30c3bb9c (data to 2026-11-18); Wowhead's WoW Forever database (drop
 -- counts and reactions, read from the ForeverTracker's page cache; only ids and counts are taken); QuestieDB (GPL-3.0)
 -- 4f628e83; forever-db from Polestar (GPL-3.0) 74eda09e, spawn points; client FactionTemplate (70790).
--- Guids: creatures 920002000 to 920002088: a block of their own after file 926's (920001000 to 920001461).
+-- Guids: creatures 920002000 to 920002087, in the block 920001500 to 920002999 kept for this batch (file 926 used
+-- 920001000 to 920001461).
 -- No template is added where the realm already has one; spawns only while the template is this file's and the realm has
 -- no spawn of it. Each added row is recorded in everlake_import_rows.
 -- Never edit this file once it is deployed: a later fix is a new file. Running it again changes nothing.
@@ -77,7 +80,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_classic_level', 214456, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C214456 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_loot_template', 214456, 0, 277213, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C214456 = 1;
-SET @EVERLAKE_CS214456 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 214456 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS214456 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 214456 AND `file` = '2026_11_18_927_world_everlake_outdoor_drop_sources.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 214456 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 214456);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -123,7 +126,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_questitem', 222233, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C222233 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_loot_template', 222233, 0, 254692, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C222233 = 1;
-SET @EVERLAKE_CS222233 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 222233 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS222233 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 222233 AND `file` = '2026_11_18_927_world_everlake_outdoor_drop_sources.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 222233 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 222233);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -169,7 +172,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_questitem', 256891, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C256891 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_loot_template', 256891, 0, 269351, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C256891 = 1;
-SET @EVERLAKE_CS256891 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 256891 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS256891 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 256891 AND `file` = '2026_11_18_927_world_everlake_outdoor_drop_sources.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 256891 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 256891);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -211,7 +214,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_classic_level', 257861, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C257861 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_loot_template', 257861, 0, 268520, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C257861 = 1;
-SET @EVERLAKE_CS257861 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 257861 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS257861 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 257861 AND `file` = '2026_11_18_927_world_everlake_outdoor_drop_sources.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 257861 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 257861);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -256,7 +259,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_loot_template', 263141, 0, 271612, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C263141 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_loot_template', 263141, 0, 271613, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C263141 = 1;
-SET @EVERLAKE_CS263141 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 263141 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS263141 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 263141 AND `file` = '2026_11_18_927_world_everlake_outdoor_drop_sources.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 263141 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 263141);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -271,52 +274,6 @@ WHERE @EVERLAKE_CS263141 = 1 AND NOT EXISTS (SELECT 1 FROM `creature` c WHERE c.
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature', c.`guid`, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM `creature` c
 WHERE @EVERLAKE_CS263141 = 1 AND c.`id` = 263141 AND c.`guid` BETWEEN 920002004 AND 920002004;
-
--- Ombassa (263315): 281052 99.78%; for 95986, 96105.
--- Faction 16 as Freshwater Crocolisk (259046) (400 yd); 1 spawn(s) from 94 points.
-SET @EVERLAKE_NOTE := 'eglink@70938 creature_details; levels eglink@70938; faction/speeds from 259046 (400 yd), reactions eglink/wowhead; spawns questie; drops wowhead';
-SET @EVERLAKE_C263315 := (SELECT COUNT(*) = 0 FROM `creature_template` WHERE `entry` = 263315)
-  AND (SELECT COUNT(*) = 0 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 263315);
-INSERT INTO `creature_template` (`entry`, `KillCredit1`, `KillCredit2`, `name`, `femaleName`, `subname`, `TitleAlt`, `IconName`, `RequiredExpansion`, `VignetteID`, `faction`, `npcflag`, `speed_walk`, `speed_run`, `scale`, `Classification`, `dmgschool`, `BaseAttackTime`, `RangeAttackTime`, `BaseVariance`, `RangeVariance`, `unit_class`, `unit_flags`, `unit_flags2`, `unit_flags3`, `family`, `trainer_class`, `type`, `VehicleId`, `AIName`, `MovementType`, `ExperienceModifier`, `RacialLeader`, `movementId`, `WidgetSetID`, `WidgetSetUnitConditionID`, `RegenHealth`, `CreatureImmunitiesId`, `flags_extra`, `ScriptName`, `StringId`, `VerifiedBuild`)
-SELECT 263315, 0, 0, 'Ombassa', NULL, NULL, NULL, NULL, 0, 0, 16, 0, 1, 1.14286, 1, 1, 0, 2000, 2000, 1, 1, 1, 0, 2048, 0, 2, 0, 1, 0, '', 0, 1, 0, 1694, 0, 0, 1, 0, 0, '', NULL, 0 FROM DUAL WHERE @EVERLAKE_C263315 = 1;
-INSERT INTO `creature_template_difficulty` (`Entry`, `DifficultyID`, `LevelScalingDeltaMin`, `LevelScalingDeltaMax`, `ContentTuningID`, `HealthScalingExpansion`, `HealthModifier`, `ManaModifier`, `ArmorModifier`, `DamageModifier`, `CreatureDifficultyID`, `TypeFlags`, `TypeFlags2`, `TypeFlags3`, `LootID`, `PickPocketLootID`, `SkinLootID`, `GoldMin`, `GoldMax`, `StaticFlags1`, `StaticFlags2`, `StaticFlags3`, `StaticFlags4`, `StaticFlags5`, `StaticFlags6`, `StaticFlags7`, `StaticFlags8`, `VerifiedBuild`)
-SELECT 263315, 0, 0, 0, 0, 0, 3.2, 1, 1, 1, 346622, 1, 0, 0, 263315, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 FROM DUAL WHERE @EVERLAKE_C263315 = 1;
-INSERT INTO `creature_template_model` (`CreatureID`, `Idx`, `CreatureDisplayID`, `DisplayScale`, `Probability`, `VerifiedBuild`)
-SELECT 263315, 0, 4424, 1.25, 1, 0 FROM DUAL WHERE @EVERLAKE_C263315 = 1;
-INSERT INTO `creature_classic_level` (`entry`, `level_min`, `level_max`)
-SELECT 263315, 41, 41 FROM DUAL
-WHERE @EVERLAKE_C263315 = 1 AND NOT EXISTS (SELECT 1 FROM `creature_classic_level` WHERE `entry` = 263315);
-INSERT INTO `creature_questitem` (`CreatureEntry`, `DifficultyID`, `Idx`, `ItemId`, `VerifiedBuild`)
-SELECT 263315, 0, 0, 281052, 0 FROM DUAL WHERE @EVERLAKE_C263315 = 1 AND NOT EXISTS (SELECT 1 FROM `creature_questitem` WHERE `CreatureEntry` = 263315 AND `DifficultyID` = 0 AND `Idx` = 0);
-INSERT INTO `creature_loot_template` (`Entry`, `ItemType`, `Item`, `Chance`, `QuestRequired`, `LootMode`, `GroupId`, `MinCount`, `MaxCount`, `Comment`)
-SELECT 263315, 0, 281052, 99.78, 1, 1, 0, 1, 1, 'Ombassa: wowhead 458/459' FROM DUAL WHERE @EVERLAKE_C263315 = 1 AND NOT EXISTS (SELECT 1 FROM `creature_loot_template` WHERE `Entry` = 263315 AND `ItemType` = 0 AND `Item` = 281052);
-INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
-SELECT 'creature_template', 263315, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C263315 = 1 AND EXISTS (SELECT 1 FROM `creature_template` WHERE `entry` = 263315);
-INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
-SELECT 'creature_template_difficulty', 263315, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C263315 = 1;
-INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
-SELECT 'creature_template_model', 263315, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C263315 = 1;
-INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
-SELECT 'creature_classic_level', 263315, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C263315 = 1;
-INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
-SELECT 'creature_questitem', 263315, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C263315 = 1;
-INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
-SELECT 'creature_loot_template', 263315, 0, 281052, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C263315 = 1;
-SET @EVERLAKE_CS263315 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 263315 AND `file` = @EVERLAKE_FILE)
-  AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 263315 AND `VerifiedBuild` = 0)
-  AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 263315);
-INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
-  `terrainSwapMap`, `modelid`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`,
-  `wander_distance`, `currentwaypoint`, `curHealthPct`, `MovementType`, `npcflag`, `unit_flags`, `unit_flags2`, `unit_flags3`,
-  `ScriptName`, `StringId`, `VerifiedBuild`)
-SELECT s.`guid`, 263315, 0, 0, 0, '0', 0, 0, 0, -1, 0, 0, s.`x`, s.`y`, s.`z`, 0, 720, 0, 0, 100, 0, 0, 0, 0, 0, '', NULL, 0
-FROM (
-  SELECT 920002005 AS `guid`, -8206.2 AS `x`, -4782.27 AS `y`, 46.57 AS `z`  -- questie:generated, z: terrain
-) s
-WHERE @EVERLAKE_CS263315 = 1 AND NOT EXISTS (SELECT 1 FROM `creature` c WHERE c.`guid` = s.`guid`);
-INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
-SELECT 'creature', c.`guid`, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM `creature` c
-WHERE @EVERLAKE_CS263315 = 1 AND c.`id` = 263315 AND c.`guid` BETWEEN 920002005 AND 920002005;
 
 -- Tunk (259256): 267137 52.1%, 267138 47.69%; for no quest.
 -- Faction 16 as Krol'dok Brute (8110000) (400 yd); 1 spawn(s) from 1 points.
@@ -347,7 +304,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_loot_template', 259256, 0, 267137, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C259256 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_loot_template', 259256, 0, 267138, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C259256 = 1;
-SET @EVERLAKE_CS259256 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 259256 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS259256 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 259256 AND `file` = '2026_11_18_927_world_everlake_outdoor_drop_sources.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 259256 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 259256);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -356,12 +313,12 @@ INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficult
   `ScriptName`, `StringId`, `VerifiedBuild`)
 SELECT s.`guid`, 259256, 3039, 0, 0, '0', 0, 0, 0, -1, 0, 0, s.`x`, s.`y`, s.`z`, 0, 7200, 0, 0, 100, 0, 0, 0, 0, 0, '', NULL, 0
 FROM (
-  SELECT 920002006 AS `guid`, -7207.34 AS `x`, -4581.29 AS `y`, 180.73 AS `z`  -- eglink:combatlog, z: terrain
+  SELECT 920002005 AS `guid`, -7207.34 AS `x`, -4581.29 AS `y`, 180.73 AS `z`  -- eglink:combatlog, z: terrain
 ) s
 WHERE @EVERLAKE_CS259256 = 1 AND NOT EXISTS (SELECT 1 FROM `creature` c WHERE c.`guid` = s.`guid`);
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature', c.`guid`, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM `creature` c
-WHERE @EVERLAKE_CS259256 = 1 AND c.`id` = 259256 AND c.`guid` BETWEEN 920002006 AND 920002006;
+WHERE @EVERLAKE_CS259256 = 1 AND c.`id` = 259256 AND c.`guid` BETWEEN 920002005 AND 920002005;
 
 -- Corpsefeeder (253394): 259893 93.44%; for 93574 (not on the realm yet).
 -- Faction 133 as Magram Necrokhan (253274); 25 spawn(s) from 445 points.
@@ -389,7 +346,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_classic_level', 253394, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C253394 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_loot_template', 253394, 0, 259893, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C253394 = 1;
-SET @EVERLAKE_CS253394 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 253394 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS253394 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 253394 AND `file` = '2026_11_18_927_world_everlake_outdoor_drop_sources.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 253394 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 253394);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -398,36 +355,36 @@ INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficult
   `ScriptName`, `StringId`, `VerifiedBuild`)
 SELECT s.`guid`, 253394, 1, 0, 0, '0', 0, 0, 0, -1, 0, 0, s.`x`, s.`y`, s.`z`, 0, 600, 5, 0, 100, 1, 0, 0, 0, 0, '', NULL, 0
 FROM (
-  SELECT 920002007 AS `guid`, -2362 AS `x`, 1061.5 AS `y`, 120.5 AS `z`  -- polestar, z: terrain
-  UNION ALL SELECT 920002008, -2638.0, 831.9, 76.69  -- questie:generated, z: realm spawn 13 yd away
-  UNION ALL SELECT 920002009, -2629.8, 924.15, 89.99  -- questie:generated, z: terrain
-  UNION ALL SELECT 920002010, -2461.7, 770.4, 119.82  -- questie:generated, z: terrain
-  UNION ALL SELECT 920002011, -2454.87, 700.7, 136.13  -- questie:generated, z: terrain
-  UNION ALL SELECT 920002012, -2439.83, 672.0, 136.92  -- questie:generated, z: terrain
-  UNION ALL SELECT 920002013, -2438.47, 733.5, 129.23  -- questie:generated, z: terrain
-  UNION ALL SELECT 920002014, -2409.77, 1079.95, 123.75  -- questie:generated, z: realm spawn 29 yd away
-  UNION ALL SELECT 920002015, -2407.03, 631.0, 141.11  -- questie:generated, z: terrain
-  UNION ALL SELECT 920002016, -2338.7, 1096.35, 107.79  -- questie:generated, z: realm spawn 11 yd away
-  UNION ALL SELECT 920002017, -2323.67, 1067.65, 108.38  -- questie:generated, z: terrain
-  UNION ALL SELECT 920002018, -2323.67, 1161.95, 95.54  -- questie:generated, z: realm spawn 19 yd away
-  UNION ALL SELECT 920002019, -2323.67, 1211.15, 89.6  -- questie:generated, z: realm spawn 18 yd away
-  UNION ALL SELECT 920002020, -2275.83, 801.15, 139.08  -- questie:generated, z: realm spawn 14 yd away
-  UNION ALL SELECT 920002021, -2252.6, 1008.2, 101.47  -- questie:generated, z: realm spawn 26 yd away
-  UNION ALL SELECT 920002022, -2243.03, 823.7, 126.66  -- questie:generated, z: realm spawn 30 yd away
-  UNION ALL SELECT 920002023, -2221.17, 895.45, 110.62  -- questie:generated, z: terrain
-  UNION ALL SELECT 920002024, -2219.8, 715.05, 146.53  -- questie:generated, z: terrain
-  UNION ALL SELECT 920002025, -2215.7, 672.0, 145.88  -- questie:generated, z: terrain
-  UNION ALL SELECT 920002026, -2211.6, 542.85, 167.48  -- questie:generated, z: terrain
-  UNION ALL SELECT 920002027, -2211.6, 930.3, 103.25  -- questie:generated, z: terrain
-  UNION ALL SELECT 920002028, -2200.67, 856.5, 123.82  -- questie:generated, z: terrain
-  UNION ALL SELECT 920002029, -2177.43, 721.2, 142.45  -- questie:generated, z: terrain
-  UNION ALL SELECT 920002030, -2140.53, 788.85, 149.49  -- questie:generated, z: terrain
-  UNION ALL SELECT 920002031, -2095.43, 811.4, 155.01  -- questie:generated, z: terrain
+  SELECT 920002006 AS `guid`, -2362 AS `x`, 1061.5 AS `y`, 120.5 AS `z`  -- polestar, z: terrain
+  UNION ALL SELECT 920002007, -2638.0, 831.9, 76.69  -- questie:generated, z: realm spawn 13 yd away
+  UNION ALL SELECT 920002008, -2629.8, 924.15, 89.99  -- questie:generated, z: terrain
+  UNION ALL SELECT 920002009, -2461.7, 770.4, 119.82  -- questie:generated, z: terrain
+  UNION ALL SELECT 920002010, -2454.87, 700.7, 136.13  -- questie:generated, z: terrain
+  UNION ALL SELECT 920002011, -2439.83, 672.0, 136.92  -- questie:generated, z: terrain
+  UNION ALL SELECT 920002012, -2438.47, 733.5, 129.23  -- questie:generated, z: terrain
+  UNION ALL SELECT 920002013, -2409.77, 1079.95, 123.75  -- questie:generated, z: realm spawn 29 yd away
+  UNION ALL SELECT 920002014, -2407.03, 631.0, 141.11  -- questie:generated, z: terrain
+  UNION ALL SELECT 920002015, -2338.7, 1096.35, 107.79  -- questie:generated, z: realm spawn 11 yd away
+  UNION ALL SELECT 920002016, -2323.67, 1067.65, 108.38  -- questie:generated, z: terrain
+  UNION ALL SELECT 920002017, -2323.67, 1161.95, 95.54  -- questie:generated, z: realm spawn 19 yd away
+  UNION ALL SELECT 920002018, -2323.67, 1211.15, 89.6  -- questie:generated, z: realm spawn 18 yd away
+  UNION ALL SELECT 920002019, -2275.83, 801.15, 139.08  -- questie:generated, z: realm spawn 14 yd away
+  UNION ALL SELECT 920002020, -2252.6, 1008.2, 101.47  -- questie:generated, z: realm spawn 26 yd away
+  UNION ALL SELECT 920002021, -2243.03, 823.7, 126.66  -- questie:generated, z: realm spawn 30 yd away
+  UNION ALL SELECT 920002022, -2221.17, 895.45, 110.62  -- questie:generated, z: terrain
+  UNION ALL SELECT 920002023, -2219.8, 715.05, 146.53  -- questie:generated, z: terrain
+  UNION ALL SELECT 920002024, -2215.7, 672.0, 145.88  -- questie:generated, z: terrain
+  UNION ALL SELECT 920002025, -2211.6, 542.85, 167.48  -- questie:generated, z: terrain
+  UNION ALL SELECT 920002026, -2211.6, 930.3, 103.25  -- questie:generated, z: terrain
+  UNION ALL SELECT 920002027, -2200.67, 856.5, 123.82  -- questie:generated, z: terrain
+  UNION ALL SELECT 920002028, -2177.43, 721.2, 142.45  -- questie:generated, z: terrain
+  UNION ALL SELECT 920002029, -2140.53, 788.85, 149.49  -- questie:generated, z: terrain
+  UNION ALL SELECT 920002030, -2095.43, 811.4, 155.01  -- questie:generated, z: terrain
 ) s
 WHERE @EVERLAKE_CS253394 = 1 AND NOT EXISTS (SELECT 1 FROM `creature` c WHERE c.`guid` = s.`guid`);
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature', c.`guid`, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM `creature` c
-WHERE @EVERLAKE_CS253394 = 1 AND c.`id` = 253394 AND c.`guid` BETWEEN 920002007 AND 920002031;
+WHERE @EVERLAKE_CS253394 = 1 AND c.`id` = 253394 AND c.`guid` BETWEEN 920002006 AND 920002030;
 
 -- Rowdy Rose (254566): 260245 1.82%; for 93606 (not on the realm yet).
 -- Faction 133 as Magram Marauder (262838); 22 spawn(s) from 263 points.
@@ -465,7 +422,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_questitem', 254566, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C254566 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_loot_template', 254566, 0, 260245, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C254566 = 1;
-SET @EVERLAKE_CS254566 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 254566 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS254566 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 254566 AND `file` = '2026_11_18_927_world_everlake_outdoor_drop_sources.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 254566 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 254566);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -474,33 +431,33 @@ INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficult
   `ScriptName`, `StringId`, `VerifiedBuild`)
 SELECT s.`guid`, 254566, 1, 0, 0, '0', 0, 0, 0, -1, 0, 0, s.`x`, s.`y`, s.`z`, 0, 300, 5, 0, 100, 1, 0, 0, 0, 0, '', NULL, 0
 FROM (
-  SELECT 920002032 AS `guid`, -3031.05 AS `x`, 590.62 AS `y`, 152.17 AS `z`  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002033, -3028.32, 718.74, 142.82  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002034, -3027.5, 825.13, 108.51  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002035, -3023.13, 535.47, 167.05  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002036, -2996.75, 782.7, 114.51  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002037, -2991.01, 623.83, 146.03  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002038, -2990.87, 680.61, 129.77  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002039, -2972.83, 563.55, 152.22  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002040, -2960.67, 729.81, 116.19  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002041, -2948.64, 802.58, 104.4  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002042, -2938.94, 638.17, 124.06  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002043, -2920.22, 575.24, 140.01  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002044, -2918.99, 690.24, 113.3  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002045, -2910.51, 755.85, 104.21  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002046, -2899.58, 855.68, 104.15  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002047, -2885.37, 615.83, 116.29  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002048, -2883.59, 530.55, 123.16  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002049, -2872.11, 793.36, 95.47  -- questie:trace, z: realm spawn 32 yd away
-  UNION ALL SELECT 920002050, -2866.92, 710.34, 114.77  -- questie:trace, z: realm spawn 18 yd away
-  UNION ALL SELECT 920002051, -2848.33, 657.45, 104.3  -- questie:trace, z: realm spawn 40 yd away
-  UNION ALL SELECT 920002052, -2816.62, 606.81, 120.48  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002053, -2793.12, 656.62, 92.74  -- questie:trace, z: terrain
+  SELECT 920002031 AS `guid`, -3031.05 AS `x`, 590.62 AS `y`, 152.17 AS `z`  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002032, -3028.32, 718.74, 142.82  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002033, -3027.5, 825.13, 108.51  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002034, -3023.13, 535.47, 167.05  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002035, -2996.75, 782.7, 114.51  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002036, -2991.01, 623.83, 146.03  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002037, -2990.87, 680.61, 129.77  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002038, -2972.83, 563.55, 152.22  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002039, -2960.67, 729.81, 116.19  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002040, -2948.64, 802.58, 104.4  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002041, -2938.94, 638.17, 124.06  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002042, -2920.22, 575.24, 140.01  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002043, -2918.99, 690.24, 113.3  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002044, -2910.51, 755.85, 104.21  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002045, -2899.58, 855.68, 104.15  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002046, -2885.37, 615.83, 116.29  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002047, -2883.59, 530.55, 123.16  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002048, -2872.11, 793.36, 95.47  -- questie:trace, z: realm spawn 32 yd away
+  UNION ALL SELECT 920002049, -2866.92, 710.34, 114.77  -- questie:trace, z: realm spawn 18 yd away
+  UNION ALL SELECT 920002050, -2848.33, 657.45, 104.3  -- questie:trace, z: realm spawn 40 yd away
+  UNION ALL SELECT 920002051, -2816.62, 606.81, 120.48  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002052, -2793.12, 656.62, 92.74  -- questie:trace, z: terrain
 ) s
 WHERE @EVERLAKE_CS254566 = 1 AND NOT EXISTS (SELECT 1 FROM `creature` c WHERE c.`guid` = s.`guid`);
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature', c.`guid`, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM `creature` c
-WHERE @EVERLAKE_CS254566 = 1 AND c.`id` = 254566 AND c.`guid` BETWEEN 920002032 AND 920002053;
+WHERE @EVERLAKE_CS254566 = 1 AND c.`id` = 254566 AND c.`guid` BETWEEN 920002031 AND 920002052;
 
 -- Terrible Tulip (254567): 260245 1.57%; for 93606 (not on the realm yet).
 -- Faction 133 as Magram Marauder (262838) (200 yd); 18 spawn(s) from 217 points.
@@ -535,7 +492,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_questitem', 254567, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C254567 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_loot_template', 254567, 0, 260245, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C254567 = 1;
-SET @EVERLAKE_CS254567 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 254567 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS254567 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 254567 AND `file` = '2026_11_18_927_world_everlake_outdoor_drop_sources.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 254567 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 254567);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -544,29 +501,29 @@ INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficult
   `ScriptName`, `StringId`, `VerifiedBuild`)
 SELECT s.`guid`, 254567, 1, 0, 0, '0', 0, 0, 0, -1, 0, 0, s.`x`, s.`y`, s.`z`, 0, 300, 5, 0, 100, 1, 0, 0, 0, 0, '', NULL, 0
 FROM (
-  SELECT 920002054 AS `guid`, -3009.46 AS `x`, 733.7 AS `y`, 131.97 AS `z`  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002055, -2990.46, 644.33, 137.01  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002056, -2976.39, 554.12, 151.8  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002057, -2967.37, 701.52, 115.71  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002058, -2961.08, 818.78, 108.35  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002059, -2957.12, 757.49, 114.28  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002060, -2955.2, 601.89, 140.7  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002061, -2928.01, 663.6, 117.05  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002062, -2925.14, 534.86, 142.92  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002063, -2909.28, 722.43, 114.65  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002064, -2902.04, 784.55, 99.19  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002065, -2898.9, 615.01, 117.89  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002066, -2872.52, 554.53, 120.52  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002067, -2868.69, 658.67, 108.15  -- questie:trace, z: realm spawn 34 yd away
-  UNION ALL SELECT 920002068, -2854.21, 709.72, 114.6  -- questie:trace, z: realm spawn 22 yd away
-  UNION ALL SELECT 920002069, -2833.16, 602.3, 120.12  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002070, -2815.39, 534.45, 130.15  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002071, -2808.56, 662.37, 96.25  -- questie:trace, z: terrain
+  SELECT 920002053 AS `guid`, -3009.46 AS `x`, 733.7 AS `y`, 131.97 AS `z`  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002054, -2990.46, 644.33, 137.01  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002055, -2976.39, 554.12, 151.8  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002056, -2967.37, 701.52, 115.71  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002057, -2961.08, 818.78, 108.35  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002058, -2957.12, 757.49, 114.28  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002059, -2955.2, 601.89, 140.7  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002060, -2928.01, 663.6, 117.05  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002061, -2925.14, 534.86, 142.92  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002062, -2909.28, 722.43, 114.65  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002063, -2902.04, 784.55, 99.19  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002064, -2898.9, 615.01, 117.89  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002065, -2872.52, 554.53, 120.52  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002066, -2868.69, 658.67, 108.15  -- questie:trace, z: realm spawn 34 yd away
+  UNION ALL SELECT 920002067, -2854.21, 709.72, 114.6  -- questie:trace, z: realm spawn 22 yd away
+  UNION ALL SELECT 920002068, -2833.16, 602.3, 120.12  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002069, -2815.39, 534.45, 130.15  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002070, -2808.56, 662.37, 96.25  -- questie:trace, z: terrain
 ) s
 WHERE @EVERLAKE_CS254567 = 1 AND NOT EXISTS (SELECT 1 FROM `creature` c WHERE c.`guid` = s.`guid`);
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature', c.`guid`, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM `creature` c
-WHERE @EVERLAKE_CS254567 = 1 AND c.`id` = 254567 AND c.`guid` BETWEEN 920002054 AND 920002071;
+WHERE @EVERLAKE_CS254567 = 1 AND c.`id` = 254567 AND c.`guid` BETWEEN 920002053 AND 920002070;
 
 -- Converted Farmer (259258): 266252 75.63%; for 94858.
 -- Faction 16 as Twilight Neophyte (256798) (200 yd); 9 spawn(s) from 18 points.
@@ -598,7 +555,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_questitem', 259258, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C259258 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_loot_template', 259258, 0, 266252, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C259258 = 1;
-SET @EVERLAKE_CS259258 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 259258 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS259258 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 259258 AND `file` = '2026_11_18_927_world_everlake_outdoor_drop_sources.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 259258 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 259258);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -607,20 +564,20 @@ INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficult
   `ScriptName`, `StringId`, `VerifiedBuild`)
 SELECT s.`guid`, 259258, 0, 0, 0, '0', 0, 0, 0, -1, 0, 0, s.`x`, s.`y`, s.`z`, 0, 300, 5, 0, 100, 1, 0, 0, 0, 0, '', NULL, 0
 FROM (
-  SELECT 920002072 AS `guid`, -7921.67 AS `x`, -4481.57 AS `y`, 32.77 AS `z`  -- questie:generated, z: the floor of the building on the ground
-  UNION ALL SELECT 920002073, -7964.35, -4444.22, 31.91  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002074, -7940.42, -4394.27, 32.43  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002075, -7896.12, -4405.42, 32.08  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002076, -7894.51, -4441.31, 32.06  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002077, -7892.57, -4476.72, 32.37  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002078, -7878.66, -4528.13, 33.96  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002079, -7856.68, -4466.05, 50.45  -- questie:trace, z: realm spawn 23 yd away
-  UNION ALL SELECT 920002080, -7844.39, -4546.56, 32.07  -- questie:trace, z: terrain
+  SELECT 920002071 AS `guid`, -7921.67 AS `x`, -4481.57 AS `y`, 32.77 AS `z`  -- questie:generated, z: the floor of the building on the ground
+  UNION ALL SELECT 920002072, -7964.35, -4444.22, 31.91  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002073, -7940.42, -4394.27, 32.43  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002074, -7896.12, -4405.42, 32.08  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002075, -7894.51, -4441.31, 32.06  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002076, -7892.57, -4476.72, 32.37  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002077, -7878.66, -4528.13, 33.96  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002078, -7856.68, -4466.05, 50.45  -- questie:trace, z: realm spawn 23 yd away
+  UNION ALL SELECT 920002079, -7844.39, -4546.56, 32.07  -- questie:trace, z: terrain
 ) s
 WHERE @EVERLAKE_CS259258 = 1 AND NOT EXISTS (SELECT 1 FROM `creature` c WHERE c.`guid` = s.`guid`);
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature', c.`guid`, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM `creature` c
-WHERE @EVERLAKE_CS259258 = 1 AND c.`id` = 259258 AND c.`guid` BETWEEN 920002072 AND 920002080;
+WHERE @EVERLAKE_CS259258 = 1 AND c.`id` = 259258 AND c.`guid` BETWEEN 920002071 AND 920002079;
 
 -- Tainted Hyjal Bear (244530): 243266 6.67%, 262913 6.67%; for no quest.
 -- Faction 14 as Hyjal Owl (249053) (200 yd); 8 spawn(s) from 111 points.
@@ -658,7 +615,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_loot_template', 244530, 0, 243266, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C244530 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_loot_template', 244530, 0, 262913, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C244530 = 1;
-SET @EVERLAKE_CS244530 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 244530 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS244530 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 244530 AND `file` = '2026_11_18_927_world_everlake_outdoor_drop_sources.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 244530 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 244530);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -667,18 +624,18 @@ INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficult
   `ScriptName`, `StringId`, `VerifiedBuild`)
 SELECT s.`guid`, 244530, 1, 0, 0, '0', 0, 0, 0, -1, 0, 0, s.`x`, s.`y`, s.`z`, 0, 300, 5, 0, 100, 1, 0, 0, 0, 0, '', NULL, 0
 FROM (
-  SELECT 920002081 AS `guid`, 4224.51 AS `x`, -2510.04 AS `y`, 1166.98 AS `z`  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002082, 4288.16, -2665.28, 1108.2  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002083, 4306.68, -2361.75, 1164.5  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002084, 4392.32, -2519.76, 1122.3  -- questie:trace, z: realm spawn 35 yd away
-  UNION ALL SELECT 920002085, 4403.66, -3383.48, 1017.83  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002086, 4468.24, -3220.25, 1026.49  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002087, 4515.69, -3509.2, 989.77  -- questie:trace, z: terrain
-  UNION ALL SELECT 920002088, 4624.94, -3355.0, 1016.32  -- questie:trace, z: terrain
+  SELECT 920002080 AS `guid`, 4224.51 AS `x`, -2510.04 AS `y`, 1166.98 AS `z`  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002081, 4288.16, -2665.28, 1108.2  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002082, 4306.68, -2361.75, 1164.5  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002083, 4392.32, -2519.76, 1122.3  -- questie:trace, z: realm spawn 35 yd away
+  UNION ALL SELECT 920002084, 4403.66, -3383.48, 1017.83  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002085, 4468.24, -3220.25, 1026.49  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002086, 4515.69, -3509.2, 989.77  -- questie:trace, z: terrain
+  UNION ALL SELECT 920002087, 4624.94, -3355.0, 1016.32  -- questie:trace, z: terrain
 ) s
 WHERE @EVERLAKE_CS244530 = 1 AND NOT EXISTS (SELECT 1 FROM `creature` c WHERE c.`guid` = s.`guid`);
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature', c.`guid`, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM `creature` c
-WHERE @EVERLAKE_CS244530 = 1 AND c.`id` = 244530 AND c.`guid` BETWEEN 920002081 AND 920002088;
+WHERE @EVERLAKE_CS244530 = 1 AND c.`id` = 244530 AND c.`guid` BETWEEN 920002080 AND 920002087;
 
 COMMIT;
