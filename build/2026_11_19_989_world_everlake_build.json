@@ -1,0 +1,1265 @@
+{
+ "file": "2026_11_19_989_world_everlake_build.sql",
+ "generator": "ForeverTracker export code (ft/quests.py, ft/export.py) at 6a1a1d6d, run for one quest slice by quest_slice.py",
+ "held_back": {},
+ "left_to_defaults": [
+  "quest_template.RewardMoneyDifficulty, RewardMoneyMultiplier and RewardBonusMoney (the money is written exactly, in quest_classic_money)",
+  "quest_template.RewardFactionFlags, SuggestedGroupNum, ContentTuningID, QuestPackageID, the honor, title, skill and artifact rewards, RewardChoiceItemDisplayID",
+  "quest_template.POI and Portrait columns",
+  "the texts a record gives for a player condition (conditionalDescriptions, conditionalCompletionTexts): quest_description_conditional, quest_completion_log_conditional. A quest that has any names them under \"unread\"",
+  "the reward of a treasure picker tools/world/treasure_pickers.json does not name: the picker row is written, no reward item",
+  "quest_objectives.Flags is 32 for every objective: what four in five recorded Forever objectives hold, not this quest's own",
+  "quest_template_addon beyond the classes (QuestieDB's word, else the class of a class category) and the one quest before it that QuestieDB states",
+  "quest_offer_reward and quest_request_items where no recording of the live game has the text in one wording, and their emotes always; quest_details (what the NPC does when it offers the quest), quest_poi"
+ ],
+ "rows": [
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    86791
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Missing Blackmaw Scouts",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    86792
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Thinning Their Forces",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 3,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    86796
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Later, Satyr",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    86797
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Return to Rageroar",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    86799
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Encroaching Corruption",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    86812
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Transmuted Tincture",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    86813
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Potential Panacea",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    88821
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Making Contact",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    88857
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Saving a Sentinel",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    89037
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Murloc Thieves",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    91696
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Open Season",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    91698
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Barkskin Breakout",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93196
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Khan Jehn",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 1,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93444
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Bait the Beast",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93615
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Kits and Cats",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 3,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94263
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Craftsman's Writ: Fire Protection Potion",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0,
+    "quest_treasure_pickers": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94287
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Craftsman's Writ: Fire Goggles",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0,
+    "quest_treasure_pickers": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94324
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Craftsman's Writ: Distilled Firewater",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0,
+    "quest_treasure_pickers": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95196
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Watch Yer Back",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95264
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Shaw Needs To Know",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95379
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "A Revenge So Sweet",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95771
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "A Taste of Darkness",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96381
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "A Bit of Wet Work",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 3,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96799
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "A Heavy Responsibility",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96812
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Thicker Than Water",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96983
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Yashiro's Windwalk",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "key": [
+    41861,
+    93444
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Fayran Elthas gives Bait the Beast",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    205153,
+    95771
+   ],
+   "kind": "gives",
+   "rule": "trusted-source",
+   "says": "Ada Gelhardt gives A Taste of Darkness",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    222478,
+    88857
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Sentinel Keldara Sunblade gives Saving a Sentinel",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    235906,
+    86812
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Elder Bramblesnap gives Transmuted Tincture",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    235906,
+    86813
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Elder Bramblesnap gives Potential Panacea",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    235909,
+    86799
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Furze gives Encroaching Corruption",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    236573,
+    86791
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Gatekeeper Rageroar gives Missing Blackmaw Scouts",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    236770,
+    86792
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Korsa gives Thinning Their Forces",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    236770,
+    86797
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Korsa gives Return to Rageroar",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    237007,
+    86796
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Graal gives Later, Satyr",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    239822,
+    88821
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Commander Truesong gives Making Contact",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    239831,
+    89037
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Saria Fairmoon gives Murloc Thieves",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    244425,
+    91696
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Barkskin Matriarch gives Open Season",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    244425,
+    91698
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Barkskin Matriarch gives Barkskin Breakout",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    253136,
+    93196
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Orgrul gives Khan Jehn",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255683,
+    93615
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Shalla'kal gives Kits and Cats",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260146,
+    95196
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Sully McCleary gives Watch Yer Back",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260271,
+    95264
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Sully McCleary gives Shaw Needs To Know",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260271,
+    96381
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Sully McCleary gives A Bit of Wet Work",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    263757,
+    95379
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Felflick gives A Revenge So Sweet",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    266524,
+    96799
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Lieutenant Connar gives A Heavy Responsibility",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    266593,
+    96812
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Sergeant Danneth gives Thicker Than Water",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    267121,
+    96983
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Yashiro gives Yashiro's Windwalk",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    332,
+    95264
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 332 takes Shaw Needs To Know",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    34365,
+    96812
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Orphan Matron Aria takes Thicker Than Water",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    41861,
+    93444
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Fayran Elthas takes Bait the Beast",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    205153,
+    95771
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "Ada Gelhardt takes A Taste of Darkness",
+   "table": "creature_questender",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    235906,
+    86799
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Elder Bramblesnap takes Encroaching Corruption",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    235906,
+    86812
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Elder Bramblesnap takes Transmuted Tincture",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    235906,
+    86813
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Elder Bramblesnap takes Potential Panacea",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    236573,
+    86797
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Gatekeeper Rageroar takes Return to Rageroar",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    236770,
+    86791
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Korsa takes Missing Blackmaw Scouts",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    236770,
+    86792
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Korsa takes Thinning Their Forces",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    236770,
+    86796
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Korsa takes Later, Satyr",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    239822,
+    88857
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Commander Truesong takes Saving a Sentinel",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    239831,
+    88821
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Saria Fairmoon takes Making Contact",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    239831,
+    89037
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Saria Fairmoon takes Murloc Thieves",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    244425,
+    91698
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Barkskin Matriarch takes Barkskin Breakout",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    254357,
+    93196
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Khan Jehn takes Khan Jehn",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255683,
+    93615
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Shalla'kal takes Kits and Cats",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256978,
+    91696
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Brerufa takes Open Season",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260271,
+    95196
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Sully McCleary takes Watch Yer Back",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260271,
+    96381
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Sully McCleary takes A Bit of Wet Work",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    262041,
+    94324
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "Bor'dorc takes Craftsman's Writ: Distilled Firewater",
+   "table": "creature_questender",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    262294,
+    94263
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Durganon takes Craftsman's Writ: Fire Protection Potion",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    262294,
+    94287
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Durganon takes Craftsman's Writ: Fire Goggles",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    263757,
+    95379
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Felflick takes A Revenge So Sweet",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    266593,
+    96799
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Sergeant Danneth takes A Heavy Responsibility",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    267121,
+    96983
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Yashiro takes Yashiro's Windwalk",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  }
+ ],
+ "set": "public",
+ "sha1": "b8534273c20df3dc418f37febeb432620b4f2005",
+ "sources": {
+  "eglink": "c389a874888debc41eec9b0219af65ccceebac6d",
+  "questie": "26e205c3569b98d74e80535da89c83dc9dc6a9a8"
+ },
+ "world": {
+  "files": 0,
+  "newest": "the PTR world (world_ptr) as the tracker read it on 2026-11-19"
+ }
+}

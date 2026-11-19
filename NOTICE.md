@@ -323,5 +323,8 @@ gave it:
   Wowhead's WoW Forever quest pages (https://www.wowhead.com/forever, their "Start" and "End" lines): ids only.
 - `2026_11_19_987_world_everlake_quest_talk_and_triggers.sql` places two quest area triggers and two horses at
   QuestieDB's points (GPL-3.0); sizes and heights are this realm's own guesses.
+- `2026_11_19_988_world_everlake_quest_npcs_wowhead.sql` (23 quest creatures) is written by a script from their Wowhead
+  WoW Forever pages (https://www.wowhead.com/forever): name, level, reaction, faction, type, model and map points, ids
+  and numbers only. Factions, heights and model sizes are this realm's own rules.
 
 Game content such as names and text belongs to Blizzard Entertainment.
