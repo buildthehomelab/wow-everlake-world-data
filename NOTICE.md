@@ -321,5 +321,7 @@ gave it:
   (GPL-3.0: levels, friendliness, spawn points). Factions, cave floors and model sizes are this realm's own rules.
 - `2026_11_19_984_world_everlake_build.sql` takes, besides EG Link and QuestieDB, a few quest givers and enders from
   Wowhead's WoW Forever quest pages (https://www.wowhead.com/forever, their "Start" and "End" lines): ids only.
+- `2026_11_19_987_world_everlake_quest_talk_and_triggers.sql` places two quest area triggers and two horses at
+  QuestieDB's points (GPL-3.0); sizes and heights are this realm's own guesses.
 
 Game content such as names and text belongs to Blizzard Entertainment.
