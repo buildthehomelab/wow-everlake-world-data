@@ -300,5 +300,8 @@ gave it:
   lists, and nothing else), 3 container rows (the item inside, chance as drops over openings), and one reward item
   (284584) on 15 quests that gave none, set only where the quest's first reward slot was empty. Only ids and measured
   counts are taken. Applied on the test realm as the tracker's Forge operation 169.
+- `2026_11_19_971_world_everlake_unscripted_bosses.sql` (Kresh, Old Serra'kis, Mana Wraith) is written by hand from
+  Wowhead's WoW Forever database (https://www.wowhead.com/forever): the ability spell ids of npc=3653, npc=4830 and
+  npc=246931, and for Kresh a page comment naming his special attacks. Only spell ids are taken; timers are guesses.
 
 Game content such as names and text belongs to Blizzard Entertainment.
