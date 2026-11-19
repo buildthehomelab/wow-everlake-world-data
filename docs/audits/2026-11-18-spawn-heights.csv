@@ -1,0 +1,535 @@
+group,source_file,guid,entry,map,x,y,z,nearest_surface,note
+buried,2026_10_17_53_world_classic_game_event_spawns.sql,20052385,15606,1,6466.88,-4265.45,663.761,666.21,model FILE0001B866.xxx spawn 343561 | stands on terrain 663.68
+buried,2026_10_30_10_world_forever_quest_giver_spawns.sql,46000000,14242,1,-3630.35,-2230.95,92.002,93.01,model FILE000312BA.xxx spawn 4294245467 | stands on terrain 91.67
+buried,2026_11_02_29_world_forever_spawns_restore_anocore.sql,4290078,4075,429,548.95,599.798,-25.4028,-24.08,model FILE00031379.xxx spawn 4294961096 | stands on model FILE0001AAE0.xxx spawn 4294967295 -25.4
+buried,2026_11_02_29_world_forever_spawns_restore_anocore.sql,4290093,4075,429,589.137,560.861,-25.4004,-23.35,model FILE00031379.xxx spawn 4294961102 | stands on model FILE0001AAE0.xxx spawn 4294967295 -25.4
+buried,2026_11_02_29_world_forever_spawns_restore_anocore.sql,4290107,4076,429,590.287,561.059,-25.314,-24.41,model FILE00031379.xxx spawn 4294961102 | stands on model FILE0001AAE0.xxx spawn 4294967295 -25.4
+buried,2026_11_02_29_world_forever_spawns_restore_anocore.sql,10760038,256309,0,162.076,297.428,105.221,106.82,model FILE006C9652.xxx spawn 65105198 | stands on model FILE00030615.xxx spawn 4294624249 101.0
+buried,2026_11_02_29_world_forever_spawns_restore_anocore.sql,91385047,277882,0,1313.87,1207.2,53.067,54.07,model FILE0001A0F4.xxx spawn 132352 | stands on terrain 52.57
+buried,2026_11_05_62_world_forever_quest_givers_questie_wowhead.sql,47000000,8392,1,2248.6755,-7222.0174,11.7,12.79,model FILE0001BAB1.xxx spawn 395805 | stands on terrain 11.69
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1445900,14459,469,-7644.53,-1081.53,408.574,410.83,model FILE0001A73C.xxx spawn 570872 | stands on model FILE0001A73C.xxx spawn 570872 408.5
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1542600,15426,509,-8680.66,1585.61,33.1911,35.3,model FILE0001A9D7.xxx spawn 622316 | stands on terrain 33.11
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1542607,15426,531,-8651.2,2071.6,20.505,21.68,model FILE0001AA01.xxx spawn 607504 | stands on model FILE0001AA01.xxx spawn 607504 20.43
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1728600,17286,533,3489.61,-3839.83,322.0,324.27,model FILE0001AEAB.xxx spawn 631815 | stands on model FILE0001AEAB.xxx spawn 631815 304.49
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1728601,17286,533,3507.45,-3838.96,322.0,324.28,model FILE0001AEAB.xxx spawn 631815 | stands on model FILE0001AEAB.xxx spawn 631815 302.65
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1728602,17286,533,3526.49,-3842.83,322.0,324.11,model FILE0001AEAB.xxx spawn 631815 | stands on model FILE0001AEAB.xxx spawn 631815 300.59
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1728603,17286,533,3541.51,-3852.34,322.0,324.03,model FILE0001AEAB.xxx spawn 631815 | stands on model FILE0001AEAB.xxx spawn 631815 298.42
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1728604,17286,533,3551.26,-3865.88,322.0,324.06,model FILE0001AEAB.xxx spawn 631815 | stands on model FILE0001AEAB.xxx spawn 631815 296.99
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1728605,17286,533,3558.49,-3883.9,321.5,323.88,model FILE0001AEAB.xxx spawn 631815 | stands on model FILE0001AEAB.xxx spawn 631815 297.34
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24880900,248809,0,-14453.0,446.846,14.9,15.63,model FILE0079577E.xxx spawn 118213 | stands on model FILE0079577E.xxx spawn 118213 14.9
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25116600,251166,2991,4066.25,1472.25,1024.76,1025.99,model FILE007C9D28.xxx spawn 4294435098 | stands on terrain 1023.79
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25211300,252113,0,181.08,236.906,102.694,103.82,model FILE0003B5A4.xxx spawn 4294625011 | stands on model FILE0003B5A4.xxx spawn 4294625011 102.62
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25246700,252467,0,260.439,425.201,99.318,101.76,model FILE006C9652.xxx spawn 65105198 | stands on model FILE006C9652.xxx spawn 65105198 99.31
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25589013,255890,0,-8251.47,-5732.87,2.675,4.06,model FILE00730AC6.xxx spawn 4294336505 | stands on terrain 2.67
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25589014,255890,0,-8219.13,-5742.57,3.843,5.75,model FILE00730AC6.xxx spawn 4294336506 | stands on model FILE00730AC6.xxx spawn 4294336506 4.16
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25625901,256259,2959,286.863,407.535,99.98,101.8,model FILE006C9652.xxx spawn 69298959 | stands on model FILE006C9652.xxx spawn 69298959 99.98
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25625903,256259,2959,251.851,419.441,66.018,67.73,model FILE006C9652.xxx spawn 69298959 | stands on model FILE006C9652.xxx spawn 69298959 66.02
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25705900,257059,0,-7156.54,-5071.86,76.497,78.11,model FILE00031BA4.xxx spawn 4294348027 | stands on model FILE0003095B.xxx spawn 4294348154 76.88
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,26041900,260419,1,-6969.8,-4869.35,2.113,3.47,model FILE00730AC6.xxx spawn 4294180639 | stands on terrain 2.11
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,26055800,260558,0,-8232.07,-5732.87,4.684,5.65,model FILE00730AC6.xxx spawn 4294336505 | stands on terrain 4.68
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,26085700,260857,1,-6969.8,-4869.35,2.113,3.47,model FILE00730AC6.xxx spawn 4294180639 | stands on terrain 2.11
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,26361400,263614,0,-9033.93,-5063.57,39.839,40.59,model FILE00739783.xxx spawn 67711047 | stands on model FILE00739783.xxx spawn 67711047 40.29
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,26873100,268731,2959,267.894,445.474,83.998,84.65,model FILE000307CB.xxx spawn 4294165115 | stands on model FILE006C9652.xxx spawn 69298959 83.69
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,27261200,272612,0,-4352.92,-2589.62,210.198,211.21,model FILE000303C6.xxx spawn 4294459902 | stands on model FILE0003027A.xxx spawn 4294460032 210.38
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,27264600,272646,0,-9130.93,-4966.57,38.432,39.38,model FILE000305E3.xxx spawn 4294343680 | stands on model FILE00739780.xxx spawn 67711014 38.91
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,27490207,274902,0,-8466.12,419.792,112.47,113.51,model FILE00797FCE.xxx spawn 10047 | stands on terrain 59.46
+buried,2026_11_05_99_world_forever_restore_forever_quest_data.sql,27600305,276003,0,-5302.05,-768.767,392.536,394.75,model FILE00031879.xxx spawn 4294514108 | stands on model FILE00031879.xxx spawn 4294514108 392.58
+buried,2026_11_08_96_world_forever_riverglades_quests.sql,47200017,257558,0,-9080.52,-5119.68,49.44,50.63,model FILE007822A0.xxx spawn 70145046 | stands on model FILE007822A0.xxx spawn 70145046 43.7
+buried,2026_11_10_74_world_forever_riverglades_graveyards.sql,47220000,6491,0,-9005.5,-5060.6,39.8,40.48,model FILE00739783.xxx spawn 67711047 | stands on terrain 39.81
+buried,Forge op 1,910010032,269166,0,-12376.9,127.8,13.36,14.04,model FILE0001B9C3.xxx spawn 561696 | stands on model FILE000306ED.xxx spawn 4294559930 12.95
+buried,2026_10_01_03_world_forever_sniff.sql,21100388,251306,2991,3843.5071,1674.217,1000.5254,1001.21,model FILE0074CB76.xxx spawn 4294436122 | stands on terrain 947.0
+buried,2026_10_01_03_world_forever_sniff.sql,21101342,254100,2991,3295.5581,1724.9484,827.4748,828.08,model FILE007CB4C5.xxx spawn 4294435502 | stands on model FILE00758E63.xxx spawn 65861728 827.22
+buried,2026_10_01_03_world_forever_sniff.sql,21101853,273458,2991,4093.6545,1912.9143,1020.7244,1021.78,model FILE00758E5D.xxx spawn 65890274 | stands on model FILE00758E5D.xxx spawn 65890274 1003.32
+buried,2026_10_03_00_world_forever_sniff_maps.sql,21200151,252424,0,290.151,398.75,110.9532,112.79,model FILE006C9652.xxx spawn 65105198 | stands on model FILE006C9652.xxx spawn 65105198 110.87
+buried,2026_10_03_00_world_forever_sniff_maps.sql,21200152,252425,0,289.8611,397.4201,108.1105,109.2,model FILE0003B533.xxx spawn 4294624308 | stands on model FILE006C9652.xxx spawn 65105198 105.63
+buried,2026_10_03_00_world_forever_sniff_maps.sql,21200434,272368,0,1429.0402,404.2714,-83.6251,-82.22,model FILE0003104E.xxx spawn 4294629392 | stands on model FILE0003104E.xxx spawn 4294629392 -83.5
+buried,2026_10_03_00_world_forever_sniff_maps.sql,21200660,274962,1,7964.5522,-2570.22,505.2046,507.55,model FILE0001B8BC.xxx spawn 303209 | stands on model FILE00030885.xxx spawn 4294252360 505.59
+buried,2026_10_11_01_world_forever_sniff_ruins_of_lordaeron.sql,21300154,250627,2999,1521.408,283.8507,61.6183,62.37,model FILE00031D50.xxx spawn 4294287394 | stands on terrain 61.58
+under,2026_10_17_53_world_classic_game_event_spawns.sql,20070676,16606,1,3882.52,-5379.73,141.249,141.85,terrain
+under,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000110,251143,2991,4167.85,1580.25,939.886,941.12,terrain
+under,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000150,251284,2991,2876.08,2192.52,771.703,772.8,terrain
+under,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000151,251284,2991,2894.36,2154.35,773.656,782.57,terrain
+under,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000192,251661,2991,3198.17,2201.04,835.323,836.04,terrain
+under,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000198,251661,2991,3554.63,1791.94,880.581,885.08,terrain
+under,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000287,252802,2991,1820.48,1546.9,646.94,647.61,terrain
+under,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000295,252875,2991,2096.97,1564.54,660.469,661.79,terrain
+under,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000297,252875,2991,2110.72,1544.03,658.88,664.7,terrain
+under,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000301,253195,2991,2577.33,838.66,657.755,658.38,terrain
+under,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000304,253281,2991,2482.97,1361.17,643.425,644.63,model FILE0001B238.xxx spawn 65486678
+under,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000307,253511,2991,2478.11,708.625,679.15,679.76,terrain
+under,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000389,270201,2991,2446.29,441.626,727.467,728.2,terrain
+under,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000081,271915,1,1689.58,-4019.71,42.0778,119.44,terrain
+under,2026_10_30_10_world_forever_quest_giver_spawns.sql,46000002,257597,0,-5308.62,-2502.37,485.562,487.27,model FILE0001AFA4.xxx spawn 568885
+under,2026_10_30_10_world_forever_quest_giver_spawns.sql,46000007,260396,0,1957.7,2626.65,109.858,193.62,terrain
+under,2026_10_30_10_world_forever_quest_giver_spawns.sql,46000025,266850,1,-179.77,-4606.25,52.767,57.99,terrain
+under,2026_10_30_10_world_forever_quest_giver_spawns.sql,46000044,276003,0,-5295.48,-1034.72,394.885,397.1,terrain
+under,2026_11_02_29_world_forever_spawns_restore_anocore.sql,191507,2347,0,-343.74,-1451.68,68.3545,93.33,terrain
+under,2026_11_02_29_world_forever_spawns_restore_anocore.sql,21173,4116,1,-5342.38,-3251.36,-42.2835,-40.89,terrain
+under,2026_11_02_29_world_forever_spawns_restore_anocore.sql,30504,4334,1,-4980.38,-3816.38,43.3925,44.17,terrain
+under,2026_11_02_29_world_forever_spawns_restore_anocore.sql,8451,4403,1,-4384.76,-4179.2,-7.83681,0.17,terrain
+under,2026_11_02_29_world_forever_spawns_restore_anocore.sql,23898,6510,1,-7082.96,-1683.83,-275.932,-270.8,terrain
+under,2026_11_02_29_world_forever_spawns_restore_anocore.sql,40985,7435,1,6085.44,-4341.59,700.95,725.11,terrain
+under,2026_11_02_29_world_forever_spawns_restore_anocore.sql,84786,8530,0,3318.01,-3053.9,153.269,160.02,terrain
+under,2026_11_02_29_world_forever_spawns_restore_anocore.sql,51054,11442,1,-3577.2,1123.77,148.634,149.87,terrain
+under,2026_11_02_29_world_forever_spawns_restore_anocore.sql,42901,15185,1,-6111.15,202.666,237.176,251.87,terrain
+under,2026_11_02_29_world_forever_spawns_restore_anocore.sql,9201311,275164,0,29.067,88.933,52.07,56.12,terrain
+under,2026_11_05_99_world_forever_restore_forever_quest_data.sql,434807,4348,1,-3696.9,-3083.39,35.8695,36.55,terrain
+under,2026_11_05_99_world_forever_restore_forever_quest_data.sql,439410,4394,1,-4048.06,-3691.18,40.78,44.76,terrain
+under,2026_11_05_99_world_forever_restore_forever_quest_data.sql,439411,4394,1,-4035.04,-3732.9,41.0521,44.55,terrain
+under,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1299901,12999,469,-7515.32,-1191.12,476.883,486.53,model FILE0001A73C.xxx spawn 570872
+under,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1299902,12999,469,-7533.07,-1244.8,476.883,483.2,model FILE0001A73C.xxx spawn 570872
+under,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1299903,12999,469,-7551.71,-1216.2,476.883,511.1,model FILE0001A73C.xxx spawn 570872
+under,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1542601,15426,531,-8983.97,1392.38,-82.8312,-53.75,model FILE0001AA01.xxx spawn 607504
+under,2026_11_05_99_world_forever_restore_forever_quest_data.sql,3245400,32454,0,223.2,492.133,34.09,43.83,terrain
+under,2026_11_05_99_world_forever_restore_forever_quest_data.sql,26238302,262383,2997,-253.608,2038.87,-60.05,-36.98,terrain
+under,2026_11_05_99_world_forever_restore_forever_quest_data.sql,26238305,262383,2997,-246.879,2003.55,-61.325,-47.47,terrain
+under,2026_11_05_99_world_forever_restore_forever_quest_data.sql,26307205,263072,2997,-267.639,1820.85,-59.238,-45.79,terrain
+under,2026_11_05_99_world_forever_restore_forever_quest_data.sql,26307206,263072,2997,-258.31,2005.66,-62.412,-40.34,terrain
+under,2026_11_05_99_world_forever_restore_forever_quest_data.sql,26307208,263072,2997,-219.186,1875.78,-47.03,-29.96,terrain
+under,2026_11_05_99_world_forever_restore_forever_quest_data.sql,26307214,263072,2997,-194.039,2022.95,-63.859,-49.47,terrain
+under,2026_11_05_99_world_forever_restore_forever_quest_data.sql,26307216,263072,2997,-181.257,2026.51,-64.914,-32.87,terrain
+under,2026_11_05_99_world_forever_restore_forever_quest_data.sql,27153008,271530,0,-5469.5,-271.342,354.215,354.82,model FILE0001B1CC.xxx spawn 350747
+under,2026_11_08_60_world_forever_call_of_fire_loch_modan_shrine.sql,21311080,5893,0,-5672.6,-2875.3,476.6,477.41,terrain
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200005,254560,0,-8174.25,-4084.62,9.87,23.04,terrain
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200059,255772,0,-8295.77,-3409.42,158.83,164.53,terrain
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200066,255898,0,-8582.34,-5502.07,5.78,14.0,terrain
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200069,255898,0,-8851.01,-5631.95,-3.59,1.38,terrain
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200085,256801,0,-8597.54,-5500.7,6.08,8.41,terrain
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200086,256801,0,-8641.83,-5564.14,5.01,14.7,terrain
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200090,256801,0,-8808.66,-5579.22,0.9,4.84,terrain
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200016,257001,0,-8848.75,-5634.37,-3.75,2.05,terrain
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200113,258588,0,-9115.4,-4575.65,9.09,10.04,terrain
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200044,259051,0,-8916.19,-3655.58,51.43,72.87,terrain
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200114,259267,0,-9174.88,-4560.94,7.84,15.93,terrain
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200115,259267,0,-9201.39,-4564.98,14.67,16.14,terrain
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200119,259267,0,-9200.42,-4539.22,9.8,16.09,terrain
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200121,259267,0,-9171.65,-4488.52,12.25,17.6,terrain
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200046,262399,0,-8688.25,-3352.95,164.2,168.27,model FILE0001B249.xxx spawn 66782694
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200047,262473,0,-8791.05,-3323.43,110.46,158.53,model FILE0001B249.xxx spawn 66782694
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200048,262473,0,-8802.37,-3295.31,110.46,161.52,model FILE0001B249.xxx spawn 66782694
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200049,262473,0,-8786.2,-3293.27,110.46,165.21,model FILE0001B249.xxx spawn 66782694
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200050,262473,0,-8824.03,-3307.1,110.46,166.15,model FILE0001B249.xxx spawn 66782694
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200051,262473,0,-8849.25,-3373.83,110.46,179.69,model FILE0001B249.xxx spawn 66782694
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200052,262473,0,-8794.93,-3342.89,110.46,178.92,model FILE0001B249.xxx spawn 66782694
+under,2026_11_08_96_world_forever_riverglades_quests.sql,47200053,262477,0,-8821.45,-3372.69,110.46,180.56,model FILE0001B249.xxx spawn 66782694
+under,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221001,257901,0,-7337.9,-5702.95,64.16,66.75,terrain
+under,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221003,257901,0,-7334.99,-5680.43,64.16,76.53,terrain
+under,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221005,257901,0,-7362.94,-5671.6,64.16,80.96,terrain
+under,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221007,257901,0,-7372.88,-5691.97,64.16,70.54,terrain
+under,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221002,257910,0,-7321.2,-5690.81,64.16,85.07,terrain
+under,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221004,257910,0,-7348.09,-5665.3,64.16,78.94,terrain
+under,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221006,257910,0,-7367.0,-5683.54,64.16,72.21,terrain
+under,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221016,257910,0,-7329.49,-5718.13,64.16,83.13,terrain
+under,2026_11_10_74_world_forever_riverglades_graveyards.sql,47220003,6491,0,-8442.9,-3886.9,21.6,29.76,terrain
+under,2026_10_01_03_world_forever_sniff.sql,21100813,251707,2991,1989.816,1365.4567,635.8424,639.08,terrain
+under,2026_10_01_03_world_forever_sniff.sql,21100819,251707,2991,1865.0903,1423.276,648.1831,648.8,terrain
+under,2026_10_01_03_world_forever_sniff.sql,21101019,252665,2991,3525.8665,514.4445,899.1847,911.88,terrain
+under,2026_10_01_03_world_forever_sniff.sql,21101020,252665,2991,3604.6033,515.1458,882.3203,908.55,terrain
+under,2026_10_01_03_world_forever_sniff.sql,21101232,253281,2991,2480.6643,1371.6534,643.1368,644.44,model FILE0001B238.xxx spawn 65486678
+under,2026_10_01_03_world_forever_sniff.sql,21101233,253281,2991,2476.2698,1373.0459,643.1954,644.48,model FILE0001B238.xxx spawn 65486678
+under,2026_10_01_03_world_forever_sniff.sql,21101234,253281,2991,2531.2668,1413.3002,648.3339,649.58,model FILE0001B238.xxx spawn 65486678
+under,2026_10_01_03_world_forever_sniff.sql,21101515,256076,2991,2249.6042,945.0903,671.8844,672.61,terrain
+under,2026_11_11_74_world_forever_riverglades_shendralas_nosniff_quests.sql,47222000,253136,1,-2065.01,1295.64,66.46,87.16,terrain
+under,2026_11_11_74_world_forever_riverglades_shendralas_nosniff_quests.sql,47222001,253136,1,-2078.63,1291.55,66.46,89.84,terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20052397,15567,0,-7276.75,-797.924,296.582,294.16,2.4 yd over model FILE0001B252.xxx spawn 213871
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070581,17066,0,-11281.7,-3046.21,6.42605,-0.16,6.6 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070588,17066,0,-11267.4,1815.52,45.6777,39.09,6.6 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070590,17066,0,-8839.29,851.482,105.522,98.94,6.6 yd over model FILE00797FCE.xxx spawn 10047
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070597,17066,0,-7199.33,-1052.61,248.076,241.49,6.6 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070605,17066,0,-4703.13,-1236.91,508.243,501.66,6.6 yd over model FILE007709B3.xxx spawn 7706
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070610,17066,0,-2623.97,-2498.25,88.4694,81.88,6.6 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070616,17066,0,-313.599,-664.701,60.8088,54.23,6.6 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070621,17066,0,-270.21,1174.54,70.3022,63.72,6.6 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070625,17066,0,104.583,-3971.71,144.075,137.49,6.6 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070632,17066,0,1649.94,228.771,69.1749,62.59,6.6 yd over model FILE00751D95.xxx spawn 239598
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070636,17066,0,1925.07,-4422.95,82.0504,75.47,6.6 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070642,17066,1,-7823.73,-2050.81,-266.101,-272.68,6.6 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070643,17066,1,-6395.59,-194.82,11.4199,4.83,6.6 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070653,17066,1,-1036.06,311.463,141.387,134.8,6.6 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070655,17066,1,-1031.56,-3433.01,78.5065,71.92,6.6 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070657,17066,1,548.813,330.833,59.1872,52.6,6.6 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070667,17066,1,1941.17,-2043.15,105.859,99.47,6.4 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070674,17066,1,1969.06,-4273.19,38.1102,31.53,6.6 yd over model FILE00798645.xxx spawn 165042
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070679,17066,1,3897.84,-5392.36,146.452,139.87,6.6 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070680,17066,1,4366.52,215.383,58.8768,52.29,6.6 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070685,17066,1,6483.36,-2476.65,575.912,569.33,6.6 yd over terrain
+floating,2026_10_17_53_world_classic_game_event_spawns.sql,20070694,17066,1,8726.69,930.946,24.4911,17.91,6.6 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000152,251284,2991,2975.22,2245.67,768.681,766.02,2.7 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000154,251306,2991,3867.5,1661.81,991.061,946.37,44.7 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000155,251306,2991,3904.27,1650.07,979.653,948.65,31.0 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000156,251306,2991,3938.24,1641.73,970.184,950.55,19.6 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000157,251306,2991,3948.25,1799.54,996.288,962.19,34.1 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000164,251404,2991,3892.33,1552.7,954.902,952.49,2.4 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000166,251428,2991,1936.35,1557.15,657.508,640.81,16.7 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000167,251428,2991,2105.35,760.939,690.44,665.73,24.7 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000168,251428,2991,2141.62,569.427,730.805,691.02,39.8 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000169,251428,2991,2142.73,574.892,731.352,691.28,40.1 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000170,251428,2991,2210.03,936.799,693.406,665.92,27.5 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000171,251428,2991,2212.29,933.742,692.604,666.42,26.2 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000172,251428,2991,3336.16,1761.68,849.742,826.75,23.0 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000173,251428,2991,3337.07,1751.14,849.899,826.91,23.0 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000174,251428,2991,3338.47,1741.71,849.982,834.56,15.4 yd over model FILE0002FD3D.xxx spawn 4294435736
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000298,252957,2991,2976.04,34.7082,1177.81,1147.36,30.5 yd over model FILE0005EA1C.xxx spawn 65601776
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000299,253195,2991,2473.44,799.635,666.036,663.58,2.5 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000308,253511,2991,2506.76,829.11,664.288,661.95,2.3 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000353,256108,2991,3443.51,725.201,895.006,816.79,78.2 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000354,256108,2991,3471.08,810.898,880.695,828.49,52.2 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000355,256108,2991,3486.7,871.863,855.678,802.96,52.7 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000356,256108,2991,3496.19,953.594,859.118,805.7,53.4 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000357,256108,2991,3501.8,848.137,884.898,805.12,79.8 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000358,256108,2991,3507.69,967.719,823.808,805.89,17.9 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000359,256108,2991,3510.52,813.879,853.703,804.35,49.4 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000360,256108,2991,3582.43,808.035,840.81,802.38,38.4 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000361,256108,2991,3614.36,841.088,880.761,795.97,84.8 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000362,256108,2991,3628.47,736.53,895.006,802.09,92.9 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000428,256108,2991,3326.47,1249.9,895.006,757.79,137.2 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000429,256108,2991,3368.26,1229.47,880.984,769.71,111.3 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000430,256108,2991,3374.78,1236.47,878.0,769.09,108.9 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000030,256337,0,343.019,508.595,117.695,103.0,14.7 yd over model FILE006C9652.xxx spawn 65105198
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000033,265675,0,-447.787,-356.597,244.076,49.87,194.2 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000034,265675,0,-438.09,-362.748,243.584,50.3,193.3 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000035,265675,0,-393.329,-368.187,242.909,57.84,185.1 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000036,265675,0,-391.462,-366.148,243.262,58.15,185.1 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000037,265675,0,-132.844,-379.193,244.075,119.75,124.3 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000038,265675,0,-122.983,-385.077,243.583,117.16,126.4 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000039,265675,0,-78.089,-389.288,242.908,108.28,134.6 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000040,265675,0,-76.2788,-387.198,243.261,110.76,132.5 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000379,265675,2991,1885.19,485.733,648.909,4.7,644.2 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000380,265675,2991,1886.68,482.849,649.033,4.5,644.5 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000381,265675,2991,1889.25,490.741,650.711,58.62,592.1 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000382,265675,2991,1891.15,487.03,650.971,50.99,600.0 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000383,265675,2991,1891.98,490.267,650.358,92.1,558.3 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000384,265675,2991,1893.19,482.61,649.086,38.3,610.8 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000385,265675,2991,1893.88,486.574,650.617,79.63,571.0 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000386,265675,2991,1894.9,479.377,649.248,30.71,618.5 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000393,271712,2991,2809.04,1744.0,769.18,766.57,2.6 yd over terrain
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000047,273127,0,-5018.4,-1197.98,504.721,501.66,3.1 yd over model FILE007709B3.xxx spawn 7706
+floating,2026_10_27_70_world_azeroth_npcs_spawns_paths.sql,43000399,276416,2991,2344.0,1432.59,722.741,701.25,21.5 yd over terrain
+floating,2026_10_30_10_world_forever_quest_giver_spawns.sql,46000004,260396,0,2030.0,2653.76,186.925,184.48,2.4 yd over terrain
+floating,2026_10_30_10_world_forever_quest_giver_spawns.sql,46000006,260396,0,2005.9,2626.65,202.325,119.2,83.1 yd over model FILE0001BF8C.xxx spawn 68463626
+floating,2026_11_02_29_world_forever_spawns_restore_anocore.sql,9678,2098,0,-3956.82,-2386.34,156.403,29.36,127.0 yd over model FILE0001B262.xxx spawn 68442253
+floating,2026_11_02_29_world_forever_spawns_restore_anocore.sql,30771,5057,1,-4023.72,-4988.4,13.1899,0.95,12.2 yd over model FILE0001C656.xxx spawn 302087
+floating,2026_11_02_29_world_forever_spawns_restore_anocore.sql,5608,5854,0,-6665.33,-1359.43,146.229,142.01,4.2 yd over model FILE0001B0F1.xxx spawn 404723
+floating,2026_11_02_29_world_forever_spawns_restore_anocore.sql,45099,15214,0,2237.03,288.024,108.562,35.19,73.4 yd over terrain
+floating,2026_11_02_29_world_forever_spawns_restore_anocore.sql,46888,17066,1,8727.2,965.526,19.0808,12.5,6.6 yd over terrain
+floating,2026_11_02_29_world_forever_spawns_restore_anocore.sql,10760050,256309,0,162.464,312.611,104.895,101.43,3.5 yd over model FILE006C9652.xxx spawn 65105198
+floating,2026_11_02_29_world_forever_spawns_restore_anocore.sql,10760101,256309,0,116.359,204.26,117.514,109.28,8.2 yd over model FILE006C9652.xxx spawn 65105198
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1299904,12999,469,-7495.41,-1218.15,476.883,474.65,2.2 yd over terrain
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1391600,13916,429,13.4514,277.628,1.51433,-8.49,10.0 yd over model FILE0001AAE0.xxx spawn 4294967295
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1542602,15426,531,-8337.53,1731.16,31.2425,-9.93,41.2 yd over model FILE0001AA01.xxx spawn 607504
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1621800,16218,533,3487.76,-2911.2,319.406,303.2,16.2 yd over model FILE0001AEAB.xxx spawn 631815
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,1621801,16218,533,3527.81,-2952.38,319.326,303.21,16.1 yd over model FILE0001AEAB.xxx spawn 631815
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,3273500,32735,0,268.0,279.333,102.49,96.22,6.3 yd over model FILE006C9652.xxx spawn 65105198
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,22785300,227853,0,-14393.4,408.558,9.11,6.91,2.2 yd over model FILE0079577E.xxx spawn 118213
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24629700,246297,2959,65.825,358.285,109.255,101.43,7.8 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668400,246684,2959,130.202,285.425,141.145,119.42,21.7 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668401,246684,2959,342.081,410.221,307.449,89.69,217.8 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668402,246684,2959,423.545,485.633,336.636,80.68,256.0 yd over terrain
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668403,246684,2959,439.403,373.613,388.917,332.24,56.7 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668406,246684,2959,426.988,351.577,424.982,310.83,114.2 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668409,246684,2959,403.326,349.695,455.992,166.06,289.9 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668411,246684,2959,141.581,372.217,141.145,101.43,39.7 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668412,246684,2959,378.093,378.188,341.82,143.26,198.6 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668413,246684,2959,314.916,413.79,361.656,101.3,260.4 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668414,246684,2959,351.746,483.527,307.449,163.61,143.8 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668415,246684,2959,437.475,544.427,326.207,39.15,287.1 yd over terrain
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668416,246684,2959,526.675,478.444,382.639,34.5,348.1 yd over terrain
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668417,246684,2959,320.626,338.048,410.784,89.86,320.9 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668418,246684,2959,533.328,365.728,342.259,82.24,260.0 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668419,246684,2959,508.18,391.136,455.999,109.98,346.0 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668420,246684,2959,484.273,481.792,426.66,80.65,346.0 yd over terrain
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24668421,246684,2959,434.201,474.04,388.381,109.98,278.4 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,24921500,249215,0,-8250.67,1239.89,7.67,5.23,2.4 yd over model FILE000359B8.xxx spawn 66886228
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25209300,252093,0,178.639,244.705,103.442,101.36,2.1 yd over model FILE0003B517.xxx spawn 4294624934
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25209400,252094,0,205.964,234.711,103.469,101.36,2.1 yd over model FILE0003B517.xxx spawn 4294624945
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25216600,252166,0,324.0,268.133,99.79,93.68,6.1 yd over model FILE006C9652.xxx spawn 65105198
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25250100,252501,0,182.133,396.933,98.67,94.91,3.8 yd over model FILE006C9652.xxx spawn 65105198
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25250101,252501,0,73.867,352.133,96.19,43.99,52.2 yd over terrain
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25250200,252502,0,182.133,396.933,98.67,94.91,3.8 yd over model FILE006C9652.xxx spawn 65105198
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25250201,252502,0,73.867,352.133,96.19,43.99,52.2 yd over terrain
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485600,254856,2959,329.915,459.258,98.599,96.51,2.1 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485601,254856,2959,308.622,467.533,98.607,96.51,2.1 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485602,254856,2959,321.547,471.772,98.6,96.51,2.1 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485603,254856,2959,299.95,466.332,98.618,96.51,2.1 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485604,254856,2959,341.365,309.373,92.822,90.7,2.1 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485605,254856,2959,337.782,310.791,92.822,90.7,2.1 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485606,254856,2959,343.52,311.983,92.822,90.7,2.1 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485607,254856,2959,329.51,499.963,104.593,102.4,2.2 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485608,254856,2959,356.519,302.82,92.116,89.3,2.8 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485609,254856,2959,360.255,300.492,91.388,89.26,2.1 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485610,254856,2959,360.973,299.399,91.388,89.28,2.1 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485611,254856,2959,336.732,508.641,104.614,102.4,2.2 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485612,254856,2959,320.289,508.787,104.564,102.4,2.2 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485613,254856,2959,316.964,512.324,104.567,102.4,2.2 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485614,254856,2959,311.498,514.077,104.649,102.56,2.1 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485615,254856,2959,372.21,286.896,91.228,89.07,2.2 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485616,254856,2959,374.509,284.819,92.367,89.07,3.3 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,25485617,254856,2959,372.585,282.188,92.302,89.07,3.2 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,27029400,270294,1,7346.47,-935.933,32.34,-5.96,38.3 yd over model FILE0001AAA7.xxx spawn 172380
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,27490203,274902,0,-8841.42,607.442,65.08,62.03,3.0 yd over terrain
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,27535500,275355,0,320.267,268.133,99.79,93.59,6.2 yd over model FILE006C9652.xxx spawn 65105198
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,27560300,275603,0,174.667,436.133,107.65,104.07,3.6 yd over model FILE006C9652.xxx spawn 65105198
+floating,2026_11_05_99_world_forever_restore_forever_quest_data.sql,27562601,275626,0,178.4,368.933,99.73,97.26,2.5 yd over model FILE006C9652.xxx spawn 65105198
+floating,2026_11_07_97_world_forever_city_of_dalaran.sql,24602000,246020,2959,456.0,356.5,295.0,291.92,3.1 yd over model FILE006C9652.xxx spawn 69298959
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200002,254560,0,-8107.98,-4168.3,27.24,17.48,9.8 yd over model FILE00767E18.xxx spawn 70145047
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200003,254560,0,-8120.59,-4181.0,20.45,-29.9,50.3 yd over model FILE0001BF7D.xxx spawn 66781436
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200004,254560,0,-8062.73,-4247.23,27.91,25.69,2.2 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200006,255770,0,-8446.1,-3362.69,170.87,168.36,2.5 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200007,255770,0,-8642.66,-3385.72,172.3,162.56,9.7 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200008,255770,0,-8598.69,-3344.64,172.43,162.6,9.8 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200009,255770,0,-8547.29,-3377.38,172.09,163.47,8.6 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200012,255770,0,-8291.56,-3379.26,171.35,164.23,7.1 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200013,255770,0,-8360.74,-3301.93,171.49,168.04,3.5 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200014,255770,0,-8420.89,-3430.08,170.97,168.33,2.6 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200015,255770,0,-8615.83,-3411.8,172.17,159.35,12.8 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200054,255772,0,-8619.71,-3404.54,172.2,159.35,12.8 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200055,255772,0,-8524.34,-3394.25,171.84,169.42,2.4 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200058,255772,0,-8329.07,-3419.33,171.29,166.39,4.9 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200060,255772,0,-8358.48,-3323.78,171.44,166.86,4.6 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200061,255772,0,-8383.7,-3336.08,171.4,166.3,5.1 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200062,255898,0,-8456.57,-5338.54,16.39,5.98,10.4 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200063,255898,0,-8962.19,-5176.32,14.83,0.47,14.4 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200064,255898,0,-8863.91,-5118.4,6.13,0.48,5.7 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200065,255898,0,-8671.24,-5336.41,6.77,0.79,6.0 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200068,255898,0,-8689.35,-5516.31,9.65,6.66,3.0 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200070,255899,0,-8967.69,-5177.33,14.9,0.88,14.0 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200071,255899,0,-8826.73,-5181.83,6.45,1.36,5.1 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200072,255899,0,-8784.71,-5256.9,7.74,1.09,6.7 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200073,255899,0,-8727.17,-5293.01,9.29,-0.11,9.4 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200074,255899,0,-8750.78,-5458.36,8.07,1.54,6.5 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200075,255901,0,-8853.87,-4924.45,6.06,1.12,4.9 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200076,255901,0,-8924.03,-4852.95,15.77,3.02,12.8 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200078,255901,0,-8870.7,-5092.2,5.47,0.25,5.2 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200079,255901,0,-8840.95,-4996.78,4.21,0.27,3.9 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200081,255901,0,-8811.86,-5210.9,6.46,0.33,6.1 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200082,255901,0,-8795.7,-5251.14,7.75,0.56,7.2 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200083,256801,0,-8762.73,-5278.15,7.47,1.64,5.8 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200084,256801,0,-8668.98,-5332.99,7.16,0.71,6.5 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200088,256801,0,-8654.44,-5463.62,8.26,4.53,3.7 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200091,256952,0,-8299.06,-4384.21,28.94,24.73,4.2 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200092,256952,0,-8320.08,-4375.59,29.17,24.75,4.4 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200093,256952,0,-8306.18,-4355.1,29.02,23.53,5.5 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200094,256952,0,-8347.88,-4357.29,29.38,25.13,4.2 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200095,256952,0,-8376.01,-4349.68,29.51,27.25,2.3 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200096,256952,0,-8345.62,-4329.58,29.22,25.23,4.0 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200098,256952,0,-8143.88,-4278.33,24.33,12.14,12.2 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200019,258573,0,-9035.21,-4383.72,19.62,12.99,6.6 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200021,258573,0,-9001.91,-4343.19,21.34,13.1,8.2 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200022,258573,0,-8970.55,-4322.11,21.87,10.56,11.3 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200023,258573,0,-8933.04,-4345.7,22.27,11.64,10.6 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200025,258573,0,-8992.85,-4314.47,21.73,10.41,11.3 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200026,258573,0,-8967.95,-4248.72,25.61,10.71,14.9 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200027,258573,0,-8992.52,-4244.49,25.59,11.08,14.5 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200028,258573,0,-9004.81,-4284.41,21.97,10.54,11.4 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200030,258573,0,-9064.3,-4259.98,23.32,10.58,12.7 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200031,258573,0,-9043.29,-4294.84,22.03,11.15,10.9 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200032,258573,0,-8994.79,-4330.51,21.56,12.86,8.7 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200033,258573,0,-8890.37,-4276.93,22.82,10.51,12.3 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200034,258573,0,-8349.47,-4008.4,13.75,11.38,2.4 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200036,258573,0,-8371.46,-4007.07,15.69,12.43,3.3 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200037,258573,0,-8353.36,-4030.29,13.49,11.11,2.4 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200039,258573,0,-8325.55,-4004.37,13.53,10.59,2.9 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200040,258573,0,-8342.04,-3996.21,13.91,10.45,3.5 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200042,258573,0,-9010.63,-4273.75,22.09,10.55,11.5 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200043,258573,0,-8844.78,-4307.27,26.32,11.0,15.3 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200099,258574,0,-9046.85,-4380.39,19.36,13.61,5.8 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200100,258574,0,-8993.82,-4344.11,21.46,13.13,8.3 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200101,258574,0,-8976.69,-4325.55,21.79,10.57,11.2 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200103,258574,0,-8933.69,-4356.39,22.33,13.07,9.3 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200104,258574,0,-8926.57,-4249.44,25.62,11.59,14.0 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200105,258574,0,-8330.4,-3978.64,14.17,10.77,3.4 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200107,258588,0,-8608.11,-3920.04,14.99,10.69,4.3 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200109,258588,0,-8427.39,-4075.43,16.41,13.7,2.7 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200045,259158,0,-8120.92,-4179.55,20.44,-29.8,50.2 yd over model FILE0001BF7D.xxx spawn 66781436
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200116,259267,0,-9239.22,-4555.0,18.56,13.93,4.6 yd over terrain
+floating,2026_11_08_96_world_forever_riverglades_quests.sql,47200120,259267,0,-9271.23,-4563.46,33.35,11.29,22.1 yd over terrain
+floating,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221029,255906,0,-8472.19,-3367.48,174.87,169.5,5.4 yd over terrain
+floating,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221022,256795,0,-7657.92,-3459.83,177.79,175.78,2.0 yd over terrain
+floating,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221017,256797,0,-8043.57,-3365.23,169.36,167.12,2.2 yd over terrain
+floating,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221023,256797,0,-7992.57,-3337.23,164.94,162.65,2.3 yd over terrain
+floating,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221028,256799,0,-7993.89,-3383.53,167.22,163.96,3.3 yd over terrain
+floating,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221009,257901,0,-7399.45,-5703.3,64.16,57.79,6.4 yd over terrain
+floating,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221011,257901,0,-7370.76,-5719.44,64.16,55.96,8.2 yd over terrain
+floating,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221013,257901,0,-7358.87,-5729.53,64.16,56.61,7.5 yd over model FILE007332FA.xxx spawn 4294337538
+floating,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221015,257901,0,-7344.91,-5714.89,64.16,58.46,5.7 yd over terrain
+floating,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221010,257910,0,-7397.77,-5719.15,64.16,56.17,8.0 yd over terrain
+floating,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221012,257910,0,-7368.86,-5724.54,64.16,56.02,8.1 yd over model FILE007332FA.xxx spawn 4294337538
+floating,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221014,257910,0,-7342.86,-5738.83,64.16,56.75,7.4 yd over terrain
+floating,2026_11_10_73_world_forever_riverglades_cache1_quests.sql,47221000,263380,0,-8892.2,-4268.19,26.82,10.89,15.9 yd over terrain
+floating,2026_11_15_900_world_everlake_forge_00029_import.sql,910280025,15567,0,-7274.65,-801.765,296.871,294.53,2.3 yd over model FILE0001B252.xxx spawn 213871
+floating,2026_11_16_900_world_everlake_forge_00040_import.sql,910530000,17066,1,1940.93,-4322.39,27.7612,21.18,6.6 yd over model FILE00798645.xxx spawn 165042
+floating,Forge op 1,910010027,214954,0,-14393.4,408.56,9.21,6.91,2.3 yd over model FILE0079577E.xxx spawn 118213
+floating,2026_10_01_03_world_forever_sniff.sql,21100079,250873,2991,4093.2952,1709.481,962.1949,959.31,2.9 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100109,250926,2991,3979.5452,1936.8298,988.8998,986.89,2.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100385,251306,2991,3946.8455,1811.7257,1000.5438,964.98,35.6 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100386,251306,2991,3949.6665,1788.1201,992.3878,962.81,29.6 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100387,251306,2991,3919.3184,1646.3125,975.4317,949.45,26.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100464,251404,2991,3906.9099,1543.5774,955.6569,952.11,3.5 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100469,251428,2991,3334.2561,1792.2758,849.4729,829.05,20.4 yd over model FILE00758E5F.xxx spawn 65861752
+floating,2026_10_01_03_world_forever_sniff.sql,21100470,251428,2991,3154.4641,1720.4103,792.0306,780.36,11.7 yd over model FILE00758E5E.xxx spawn 65502303
+floating,2026_10_01_03_world_forever_sniff.sql,21100472,251428,2991,3213.176,1745.4845,839.8853,807.93,32.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100473,251428,2991,1925.2468,1590.86,657.5851,643.62,14.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100475,251428,2991,1950.173,1276.9822,648.3819,623.68,24.7 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100478,251428,2991,2189.2629,958.3478,700.1895,666.84,33.3 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100479,251428,2991,2157.0798,664.105,697.8954,678.51,19.4 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100481,251428,2991,2149.9126,727.2665,690.9666,666.0,25.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100482,251428,2991,2148.24,610.0111,720.6946,685.44,35.3 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100483,251428,2991,2226.551,912.8307,688.9399,672.63,16.3 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100484,251428,2991,1923.2703,1244.6283,650.9377,633.05,17.9 yd over model FILE00798044.xxx spawn 4294434486
+floating,2026_10_01_03_world_forever_sniff.sql,21100485,251428,2991,1911.6755,1608.7361,659.4265,647.32,12.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100487,251428,2991,2175.6094,961.7574,701.6479,665.84,35.8 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100488,251428,2991,2240.978,886.3085,686.6674,671.9,14.8 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100491,251437,2991,4071.5774,1844.6476,982.256,979.03,3.2 yd over model FILE0074D13D.xxx spawn 4294436004
+floating,2026_10_01_03_world_forever_sniff.sql,21100757,251662,2991,2884.3003,1541.1216,774.5123,765.4,9.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100758,251662,2991,2895.5312,1523.4635,774.8204,765.34,9.5 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21100763,251662,2991,2875.5088,1521.8698,775.1,765.73,9.4 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101252,253286,2991,2371.9219,1525.1198,772.9312,753.73,19.2 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101555,256108,2991,3597.6609,810.236,840.6,801.36,39.2 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101556,256108,2991,3606.9958,809.6768,883.1551,800.9,82.3 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101557,256108,2991,3486.6057,886.5093,862.4061,801.0,61.4 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101558,256108,2991,3439.2476,829.816,895.0064,875.18,19.8 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101559,256108,2991,3483.1914,759.0367,891.7723,801.65,90.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101560,256108,2991,3475.8269,767.6562,889.4423,807.74,81.7 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101561,256108,2991,3335.6936,950.945,895.0065,770.33,124.7 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101562,256108,2991,3498.8643,989.9834,853.2593,806.7,46.6 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101563,256108,2991,3500.9377,1016.4867,833.4484,806.98,26.5 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101564,256108,2991,3584.5657,925.9255,858.2374,797.37,60.9 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101565,256108,2991,3516.8965,1031.7631,849.5322,807.43,42.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101566,256108,2991,3503.6096,1028.3182,815.6305,807.18,8.5 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101567,256108,2991,3736.5767,873.2853,895.0063,849.8,45.2 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101587,256997,2991,2551.2795,1980.0104,831.8413,783.92,47.9 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101712,259385,2991,2949.8508,551.6094,829.6068,823.84,5.8 yd over model FILE00052098.xxx spawn 65420569
+floating,2026_10_01_03_world_forever_sniff.sql,21101742,267599,2991,3283.3743,2029.5695,851.9635,849.88,2.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101747,267599,2991,3498.1545,1885.441,894.3976,892.31,2.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101748,267599,2991,3400.7588,1299.9323,767.2509,765.17,2.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101751,267599,2991,3220.5278,1980.0122,838.6632,836.58,2.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101752,267599,2991,2552.4949,1831.8541,765.4276,763.35,2.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101753,267599,2991,1969.0868,1538.132,642.1763,640.1,2.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101756,267599,2991,2227.2239,840.4011,675.0547,672.97,2.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101761,267599,2991,2219.894,754.408,679.5353,677.45,2.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101766,267599,2991,2501.0815,862.5174,670.1918,668.11,2.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101768,267599,2991,2376.9185,1576.4305,755.2179,753.14,2.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101774,267599,2991,2836.3611,888.0469,774.2302,772.15,2.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101777,267599,2991,3297.4175,1177.6666,761.1696,759.08,2.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101779,267599,2991,3040.6875,797.3351,774.0622,771.98,2.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101782,267599,2991,3318.9966,917.3368,776.2333,774.15,2.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101848,273458,2991,4118.7778,1852.5852,986.5123,974.98,11.5 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101849,273458,2991,4078.6707,1826.8539,989.5209,977.89,11.6 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101850,273458,2991,4042.9897,1817.6699,987.9736,979.34,8.6 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101851,273458,2991,4048.624,1831.0382,1001.2823,978.4,22.9 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101852,273458,2991,4086.1191,1914.7083,982.5843,980.38,2.2 yd over model FILE00758E5D.xxx spawn 65890274
+floating,2026_10_01_03_world_forever_sniff.sql,21101854,273458,2991,4130.6191,1889.3959,1032.8691,975.08,57.8 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101855,273458,2991,4117.6538,1878.7515,982.2602,976.28,6.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101856,273458,2991,4002.9043,1827.4502,987.9736,974.63,13.3 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101857,273458,2991,4028.2251,1946.9506,1032.8691,988.59,44.3 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101858,273458,2991,3288.3293,1902.8075,849.0788,837.48,11.6 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101859,273458,2991,3260.5649,1861.3175,833.0679,827.91,5.2 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101860,273458,2991,3301.4592,1810.4966,833.4515,824.21,9.2 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101861,273458,2991,3291.1589,1800.8997,834.8719,823.14,11.7 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101862,273458,2991,3297.136,1834.9965,830.8708,824.86,6.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101863,273458,2991,3328.0776,1759.7573,840.4039,825.16,15.2 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101864,273458,2991,3288.0977,1787.7025,833.4515,823.98,9.5 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101865,273458,2991,3298.2861,1784.6775,833.4515,823.12,10.3 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101866,273458,2991,3306.5269,1923.7043,849.0788,843.6,5.5 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101867,273458,2991,2159.5334,1573.7651,688.9299,678.29,10.6 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101868,273458,2991,2086.5884,1592.7245,678.5385,663.3,15.2 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101869,273458,2991,2032.5975,1558.817,660.8146,647.13,13.7 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101870,273458,2991,2270.8286,1317.934,674.5488,663.22,11.3 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101871,273458,2991,2377.968,1292.8464,687.2331,674.08,13.2 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101872,273458,2991,1951.5952,1536.3822,642.619,639.69,2.9 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101873,273458,2991,1948.5864,1558.8174,646.3948,640.27,6.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101874,273458,2991,1931.462,1585.9711,646.3948,642.88,3.5 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101875,273458,2991,1912.9764,1555.4774,646.554,643.16,3.4 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101876,273458,2991,1885.2301,1525.6257,657.9384,644.18,13.8 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101877,273458,2991,1871.6876,1556.0947,658.6008,645.57,13.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101878,273458,2991,1829.9229,1532.2987,657.8328,645.65,12.2 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101879,273458,2991,1991.0692,1277.4796,632.6727,623.47,9.2 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101880,273458,2991,1891.9459,1350.6982,662.9294,649.43,13.5 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101881,273458,2991,1943.075,1282.8671,638.8286,625.2,13.6 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101883,273458,2991,2171.4399,1065.8422,676.2993,658.92,17.4 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101884,273458,2991,2356.8599,1123.5583,692.9073,672.55,20.4 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101885,273458,2991,2293.7302,1034.3993,686.5801,664.07,22.5 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101886,273458,2991,2205.7207,956.9054,674.0908,665.51,8.6 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101887,273458,2991,2215.4207,950.3223,674.0908,666.06,8.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101888,273458,2991,2032.8075,961.2266,665.6074,656.65,9.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101889,273458,2991,2349.2144,916.3941,686.9078,675.49,11.4 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101890,273458,2991,2098.6943,904.2418,700.5153,673.61,26.9 yd over model FILE007601F8.xxx spawn 65746473
+floating,2026_10_01_03_world_forever_sniff.sql,21101891,273458,2991,2308.2815,872.6653,689.1797,674.74,14.4 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101892,273458,2991,2377.3623,846.7908,679.1423,675.69,3.5 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101893,273458,2991,2463.2163,852.8749,696.671,692.76,3.9 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101894,273458,2991,2198.8848,827.4259,672.6351,667.27,5.4 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101895,273458,2991,1968.5944,775.9172,605.17,312.56,292.6 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101896,273458,2991,1955.6882,673.4768,654.8154,647.98,6.8 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101897,273458,2991,2097.2505,666.686,675.1356,668.49,6.6 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101898,273458,2991,2175.7947,632.8279,693.6805,688.53,5.2 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101899,273458,2991,2021.8237,607.235,658.1091,652.59,5.5 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101900,273458,2991,2172.3008,540.2147,703.8289,701.73,2.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101901,273458,2991,2548.3188,606.232,716.4042,682.22,34.2 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101902,273458,2991,2618.7095,599.9213,707.4953,648.75,58.7 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101903,273458,2991,2478.2856,390.8272,795.5711,733.03,62.5 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101904,273458,2991,2410.4392,282.5237,759.2181,652.07,107.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101905,273458,2991,2117.3721,907.058,700.5153,661.58,38.9 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101906,273458,2991,2370.0791,832.7173,679.1284,674.11,5.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101907,273458,2991,2177.5591,552.6179,703.9341,698.9,5.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101908,273458,2991,2165.4983,598.1604,693.6805,691.49,2.2 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101909,273458,2991,2355.2097,1197.0004,676.7449,665.7,11.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101910,273458,2991,2289.9526,1316.2559,674.5488,668.26,6.3 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101911,273458,2991,2195.0723,765.8881,678.7366,672.7,6.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101912,273458,2991,2206.1921,889.3094,679.4205,666.12,13.3 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101913,273458,2991,2339.5305,835.1603,689.1797,673.32,15.9 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101914,273458,2991,2323.7825,929.0971,686.9078,676.24,10.7 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101915,273458,2991,2106.4839,890.9814,700.5153,662.63,37.9 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101917,273458,2991,2447.5544,872.512,696.671,685.72,11.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101918,273458,2991,2406.2432,1117.0732,692.9073,678.15,14.8 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101919,273458,2991,2222.9812,1004.5971,695.0774,665.82,29.3 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101920,273458,2991,2017.1135,955.9138,665.6074,659.24,6.4 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101921,273458,2991,2002.1158,1258.723,632.6727,621.76,10.9 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101922,273458,2991,1902.5856,1390.6786,652.1595,646.23,5.9 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101923,273458,2991,2110.7905,1515.9985,669.5643,663.71,5.9 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101924,273458,2991,2158.3574,1554.4088,688.9299,676.28,12.6 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101925,273458,2991,1867.9861,1573.5848,658.6008,645.74,12.9 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101926,273458,2991,1908.3667,1612.9005,654.2349,647.5,6.7 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101927,273458,2991,4153.8931,1857.486,986.5123,975.02,11.5 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101928,273458,2991,4150.3062,1799.1952,986.5123,966.25,20.3 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101929,273458,2991,4130.9526,1927.0084,1032.8691,973.77,59.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101930,273458,2991,4029.0015,1791.7787,987.9736,979.4,8.6 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101931,273458,2991,4021.0408,1799.8071,996.7155,977.95,18.8 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101932,273458,2991,3302.7419,1885.1721,849.0788,833.33,15.7 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101933,273458,2991,2311.3687,1335.0111,674.5488,664.49,10.1 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101935,273458,2991,1927.1063,1421.241,652.1595,645.76,6.4 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101936,273458,2991,2304.45,1013.4,686.5801,665.3,21.3 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101937,273458,2991,2222.8447,927.5811,674.0908,669.94,4.2 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101938,273458,2991,2225.2617,819.7311,672.6351,669.63,3.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101939,273458,2991,1994.4713,752.0316,605.17,574.53,30.6 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101941,273458,2991,2611.4631,610.4669,707.4953,650.79,56.7 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101942,273458,2991,2108.3142,681.6368,675.1356,665.62,9.5 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101944,273458,2991,2550.5437,582.4455,716.4042,683.37,33.0 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101946,273458,2991,1988.2937,671.9261,654.8154,650.08,4.7 yd over terrain
+floating,2026_10_01_03_world_forever_sniff.sql,21101947,273458,2991,2428.6865,305.72,759.2181,710.94,48.3 yd over terrain
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200511,4068,1,-1084.1871,-62.4375,162.4271,152.69,9.7 yd over model FILE0001BC76.xxx spawn 179660
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200512,4068,1,-1083.1689,-82.3469,162.4271,150.28,12.1 yd over model FILE0001BC76.xxx spawn 179660
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200514,4068,1,-1125.4719,26.5834,162.4271,142.7,19.7 yd over terrain
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200515,4068,1,-1018.3691,234.828,111.3648,107.52,3.8 yd over model FILE0001BC98.xxx spawn 179682
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200516,4068,1,-1122.0562,55.6773,163.4401,141.99,21.5 yd over terrain
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200517,4068,1,-1048.3229,-175.1004,162.4272,71.27,91.2 yd over terrain
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200518,4068,1,-1175.8657,116.9612,145.0386,135.19,9.8 yd over terrain
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200519,4068,1,-1090.0375,114.2764,148.1779,141.26,6.9 yd over terrain
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200520,4068,1,-1065.2585,-139.1177,162.4272,153.45,9.0 yd over model FILE0001BC76.xxx spawn 179660
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200521,4068,1,-1188.2722,118.4265,145.367,135.22,10.1 yd over terrain
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200054,228945,0,2131.842,632.118,39.6436,34.52,5.1 yd over terrain
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200163,256309,0,339.5347,320.901,101.2658,93.01,8.3 yd over model FILE006C9652.xxx spawn 65105198
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200165,256309,0,285.908,408.5469,141.0595,139.03,2.0 yd over model FILE006C9652.xxx spawn 65105198
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200169,256340,0,325.3906,524.3646,114.7295,103.0,11.7 yd over model FILE006C9652.xxx spawn 65105198
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200170,256343,0,343.7882,505.8004,110.9526,103.0,8.0 yd over model FILE006C9652.xxx spawn 65105198
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200171,256352,0,347.451,509.5699,110.6809,103.0,7.7 yd over model FILE006C9652.xxx spawn 65105198
+floating,2026_10_03_00_world_forever_sniff_maps.sql,21200393,270313,0,368.7586,243.4586,90.9755,43.43,47.5 yd over terrain
+floating,2026_10_11_01_world_forever_sniff_ruins_of_lordaeron.sql,21300187,250631,2999,1601.3716,340.6892,64.4919,61.66,2.8 yd over terrain
+floating,2026_10_11_01_world_forever_sniff_ruins_of_lordaeron.sql,21300268,255159,2999,1601.3646,341.842,67.1933,61.66,5.5 yd over terrain
+floating,2026_11_11_74_world_forever_riverglades_shendralas_nosniff_quests.sql,47222003,253431,1,-2273.49,786.9,147.65,144.38,3.3 yd over terrain
+floating,2026_11_11_74_world_forever_riverglades_shendralas_nosniff_quests.sql,47222004,253431,1,-2258.36,797.63,147.65,135.77,11.9 yd over terrain
+floating,2026_11_11_74_world_forever_riverglades_shendralas_nosniff_quests.sql,47222006,255769,0,-8614.77,-2990.73,190.71,188.67,2.0 yd over terrain
+floating,2026_11_11_74_world_forever_riverglades_shendralas_nosniff_quests.sql,47222015,256434,0,-8361.69,-3950.82,16.19,14.02,2.2 yd over terrain
+floating,2026_11_11_74_world_forever_riverglades_shendralas_nosniff_quests.sql,47222002,256831,0,-7993.09,-4200.29,29.91,25.91,4.0 yd over terrain
+floating,2026_11_11_74_world_forever_riverglades_shendralas_nosniff_quests.sql,47222016,257926,0,-8508.56,-4013.58,18.78,14.61,4.2 yd over terrain
+floating,2026_11_11_74_world_forever_riverglades_shendralas_nosniff_quests.sql,47222017,257926,0,-8722.4,-4398.78,26.84,24.34,2.5 yd over terrain
+floating,2026_11_11_74_world_forever_riverglades_shendralas_nosniff_quests.sql,47222019,270667,0,-8738.45,-4380.91,25.11,22.54,2.6 yd over terrain
