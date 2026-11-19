@@ -90,6 +90,13 @@ dates) of every source it was made from.
   (https://github.com/EmuForever/DatabaseForever, the EmuForever project's world database, used by the project's
   decision of 2026-11-18; its repository states no licence, and it is credited here); its other values for them look
   generated and are not taken.
+- `2026_11_18_927_world_everlake_outdoor_drop_sources.sql` (new Forever creatures out in the world whose drops no one
+  could get) is written by the same script from EG Link (credited above): the creatures' templates as the live server
+  sent them to players' clients, their levels and the reactions players saw, and Tunk's position from a combat log;
+  Wowhead's WoW Forever database (credited with operation 27), read by the ForeverTracker's page crawler: each drop's
+  chance as Wowhead's count over its kills, which items start or serve which quests, and how each creature reacts to
+  either side where EG Link recorded no reaction (only ids, counts and reactions are taken); QuestieDB and forever-db
+  from Polestar (credited above): spawn points. Factions, speeds and heights as for file 926.
 - Forever's client tables, through wago.tools (https://wago.tools), were used as references only: slice 5 checks that a
   model is in the client and reads the client's faction tables to work out how an NPC reacts to players.
 - Wowhead's public tooltips and the item history of ericbtaylorjr/forever-db were used as references only in the
