@@ -85,6 +85,17 @@ dates) of every source it was made from.
   (https://github.com/EmuForever/DatabaseForever, the EmuForever project's world database, used by the project's
   decision of 2026-11-18; its repository states no licence, and it is credited here); its other values for them look
   generated and are not taken.
+- `2026_11_18_929_world_everlake_south_quest_npcs.sql` (Forever NPCs of Riverglades, Shen'dralas and Azshara that the
+  realm's missing quests need: quest givers and enders, kill targets, the creatures that drop the quests' items, and
+  credit NPCs) is written by a script from EG Link (CC BY 4.0, credited above): templates as the live server sent them
+  to players' clients, levels and the reactions players saw; DatabaseForever (credited with file 926): the name, title,
+  type, family, class and models of the creatures EG Link has no record of; QuestieDB (credited above): who gives and
+  takes the quests and for which side, which creature drops each quest item, ranks, levels and spawn points;
+  Wowhead's WoW Forever database (credited with operation 27), read from its NPC pages in the tracker's page cache:
+  map points, levels, reactions and measured drop counts (only ids and counts are taken); forever-db from Polestar
+  (credited above): spawn points. A creature's faction, speeds and attack times come from the realm's own NPCs
+  nearby, as slice 5 does. Heights are read from Everlake's own maps and vmaps. Display sizes the realm lacked
+  (creature_model_info) are inferred from the realm's own rows by the fork's method.
 - Forever's client tables, through wago.tools (https://wago.tools), were used as references only: slice 5 checks that a
   model is in the client and reads the client's faction tables to work out how an NPC reacts to players.
 - Wowhead's public tooltips and the item history of ericbtaylorjr/forever-db were used as references only in the
