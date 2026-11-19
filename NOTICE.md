@@ -209,5 +209,11 @@ gave it:
   counted only one drop (in at least ten kills) and nothing else gives the item, that single count is taken as the
   rate (the project's decision of 2026-11-18: one count beats no source), so some chances rest on one sighting (0.02 to
   10 %). Only ids and measured counts are taken. Applied on the test realm as the tracker's Forge operation 165.
+- operation 44: Wowhead's WoW Forever database (credited with operation 27), read by the tracker's page crawler as for
+  operation 27, for items players could not get on the realm: 232 vendor rows on three vendors (12777, 12792 and
+  30885) paid with the realm's own ItemExtendedCost rows (the one that asks exactly the items or currencies Wowhead
+  lists, and nothing else), 3 container rows (the item inside, chance as drops over openings), and one reward item
+  (284584) on 15 quests that gave none, set only where the quest's first reward slot was empty. Only ids and measured
+  counts are taken. Applied on the test realm as the tracker's Forge operation 169.
 
 Game content such as names and text belongs to Blizzard Entertainment.
