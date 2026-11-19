@@ -73,6 +73,14 @@ dates) of every source it was made from.
   recorded (only ids and counts are taken). The rooms come from the floors of the prison's building model in
   Everlake's own vmaps; which boss stands where from the public guides of Warcraft Tavern, WoW Handbook and Zockify.
   Levels, faction, health, damage, gold and every spawn spot are the project's guesses, marked INFERRED.
+- `2026_11_19_963_world_everlake_shapers_terrace_creatures.sql` (The Shaper's Terrace's 46 creatures, boss loot and
+  spawns) is written the same way from Wowhead's WoW Forever pages (credited with operation 27): names, ranks, types,
+  models and the bosses' drops with their counts (only ids and counts are taken). The areas come from the client's
+  AreaTable and the server's map files, heights from Everlake's own maps and vmaps, which boss stands where from the
+  public guide of Warcraft Tavern. Levels, faction, health, damage, gold and every spawn spot are guesses, marked
+  INFERRED.
+- `2026_11_19_964_world_everlake_alcaz_prison_scripts.sql` and `2026_11_19_965_world_everlake_shapers_terrace_scripts.sql`
+  only name the core fork's fight scripts on the two instances and their bosses; written by hand.
 - `2026_11_18_960_world_everlake_blackmaw_hold_instance.sql` (Blackmaw Hold's instance, entrance, exit and graveyard)
   is written by hand. The portal's place comes from the public dungeon guides of Warcraft Tavern, mmonster and ssegold,
   which agree within 14 yards (map percentages only, no text copied), checked against the Blackmaw camps Wowhead's
