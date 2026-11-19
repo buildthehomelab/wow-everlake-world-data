@@ -80,7 +80,11 @@ dates) of every source it was made from.
   and the quest items' measured chances; QuestieDB (credited above): which creature or object drops each quest item,
   and spawn points; forever-db from Polestar (credited above): spawn points. As slice 5 does, a creature's faction,
   speeds and attack times come from the realm's own NPCs nearby whose faction fits the reactions players saw, and the
-  client's faction tables say which fit. Heights are read from Everlake's own maps and vmaps.
+  client's faction tables say which fit. Heights are read from Everlake's own maps and vmaps. For 20 creatures EG Link
+  has no record of, the name, title, type, family, classification and models come from **DatabaseForever**
+  (https://github.com/EmuForever/DatabaseForever, the EmuForever project's world database, used by the project's
+  decision of 2026-11-18; its repository states no licence, and it is credited here); its other values for them look
+  generated and are not taken.
 - Forever's client tables, through wago.tools (https://wago.tools), were used as references only: slice 5 checks that a
   model is in the client and reads the client's faction tables to work out how an NPC reacts to players.
 - Wowhead's public tooltips and the item history of ericbtaylorjr/forever-db were used as references only in the
