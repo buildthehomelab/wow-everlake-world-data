@@ -1,0 +1,2185 @@
+{
+ "file": "2026_11_19_984_world_everlake_build.sql",
+ "generator": "ForeverTracker export code (ft/quests.py, ft/export.py) at ea2d145c, run for one quest slice by quest_slice.py",
+ "held_back": {
+  "it waits for its quest, which is held back": 10,
+  "its object is not of the quest giver kind": 1,
+  "no ender of it can be written yet": 5,
+  "no giver of it can be written yet": 6,
+  "the world's quest reads like a developer's leftover: for a person": 2
+ },
+ "left_to_defaults": [
+  "quest_template.RewardMoneyDifficulty, RewardMoneyMultiplier and RewardBonusMoney (the money is written exactly, in quest_classic_money)",
+  "quest_template.RewardFactionFlags, SuggestedGroupNum, ContentTuningID, QuestPackageID, the honor, title, skill and artifact rewards, RewardChoiceItemDisplayID",
+  "quest_template.POI and Portrait columns",
+  "the texts a record gives for a player condition (conditionalDescriptions, conditionalCompletionTexts): quest_description_conditional, quest_completion_log_conditional. A quest that has any names them under \"unread\"",
+  "the reward of a treasure picker tools/world/treasure_pickers.json does not name: the picker row is written, no reward item",
+  "quest_objectives.Flags is 32 for every objective: what four in five recorded Forever objectives hold, not this quest's own",
+  "quest_template_addon beyond the classes (QuestieDB's word, else the class of a class category) and the one quest before it that QuestieDB states",
+  "quest_offer_reward and quest_request_items where no recording of the live game has the text in one wording, and their emotes always; quest_details (what the NPC does when it offers the quest), quest_poi"
+ ],
+ "rows": [
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    86752
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Report to Rageroar",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    86798
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Timbermaw Reinforcements",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    86814
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Blackmaw Counter-Offensive",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 128,
+   "from_questiedb": {},
+   "key": [
+    90789
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Scalebeard",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92065
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Blackmaw Reclamation",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93404
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Rot and Regret",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93594
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Word of the Woods",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93601
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Passing the Blame",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93604
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Agamaggan's Blood",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93606
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Not on Squealing Terms",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94334
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Craftsman's Writ: Masterwork Target Dummy",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0,
+    "quest_treasure_pickers": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94354
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Craftsman's Writ: Runecloth Boots",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0,
+    "quest_treasure_pickers": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94556
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Jom-jom's Escape",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94727
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Digging for Answers",
+   "table": "quest_template",
+   "texts": {
+    "quest_offer_reward": "eglink@70959"
+   },
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94744
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "The Wayward Warrior",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94745
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Carving a Path",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 3,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94748
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Break Their Chains",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94768
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Bring Me His Head",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 16,
+   "from_questiedb": {},
+   "key": [
+    94778
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Divine Grace",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 1,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 16,
+   "from_questiedb": {},
+   "key": [
+    94823
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Confounding Flash",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 1,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94975
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "A Token of Vengeance",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95278
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "It Is Time, Brother...",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95284
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "The Elite of the Elite",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95285
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Right Place, Wrong Time",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95293
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Smuggler's Special",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95294
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Smuggler's Bargain",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95417
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "The Purple Ones",
+   "table": "quest_template",
+   "texts": {
+    "quest_offer_reward": "eglink@70959"
+   },
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95418
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Spread the Word",
+   "table": "quest_template",
+   "texts": {
+    "quest_offer_reward": "eglink@70959",
+    "quest_request_items": "eglink@70959"
+   },
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95427
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Twilight No More!",
+   "table": "quest_template",
+   "texts": {
+    "quest_offer_reward": "eglink@70959",
+    "quest_request_items": "eglink@70959"
+   },
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95431
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Rumblings of Discontent",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95601
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "The Purple Ones",
+   "table": "quest_template",
+   "texts": {
+    "quest_offer_reward": "eglink@70959"
+   },
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95983
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "A Feast for Buzzards",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96015
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "A Miner Problem",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96085
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Upstream Contamination",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96103
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "A Feast for Buzzards",
+   "table": "quest_template",
+   "texts": {
+    "quest_offer_reward": "eglink@70938",
+    "quest_request_items": "eglink@70938"
+   },
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96332
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "A Little Payback",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 3,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96334
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Blood Red Bandanas",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 8,
+   "from_questiedb": {},
+   "key": [
+    96785
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Ain't No Telling",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 8,
+   "from_questiedb": {},
+   "key": [
+    96786
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "The Syndicate Sting",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 2,
+   "from_questiedb": {},
+   "key": [
+    97180
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Ott's Finest Work",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97329
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Where's the Key?",
+   "table": "quest_template",
+   "texts": {
+    "quest_offer_reward": "eglink@70938",
+    "quest_request_items": "eglink@70938"
+   },
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97331
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Zimmix's Great Escape",
+   "table": "quest_template",
+   "texts": {
+    "quest_offer_reward": "eglink@70938"
+   },
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    98417
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Vengeful Trail",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    98418
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Shared Fury",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 4,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "key": [
+    3539,
+    97180
+   ],
+   "kind": "gives",
+   "rule": "trusted-source",
+   "says": "npc 3539 gives Ott's Finest Work",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    3600,
+    94823
+   ],
+   "kind": "gives",
+   "rule": "trusted-source",
+   "says": "npc 3600 gives Confounding Flash",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    4791,
+    95284
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 4791 gives The Elite of the Elite",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    8379,
+    90789
+   ],
+   "kind": "gives",
+   "rule": "trusted-source",
+   "says": "npc 8379 gives Scalebeard",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    11406,
+    94778
+   ],
+   "kind": "gives",
+   "rule": "trusted-source",
+   "says": "npc 11406 gives Divine Grace",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    11555,
+    86814
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 11555 gives Blackmaw Counter-Offensive",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    221269,
+    98417
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Maseara Autumnmoon gives Vengeful Trail",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    221269,
+    98418
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Maseara Autumnmoon gives Shared Fury",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    235903,
+    86752
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Ekkal gives Report to Rageroar",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    236573,
+    86798
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Gatekeeper Rageroar gives Timbermaw Reinforcements",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    236573,
+    92065
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Gatekeeper Rageroar gives Blackmaw Reclamation",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    253527,
+    93604
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Kog'thug the Brave gives Agamaggan's Blood",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    253527,
+    93606
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Kog'thug the Brave gives Not on Squealing Terms",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    254578,
+    93594
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Mithera gives Word of the Woods",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    254674,
+    93404
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Woodwyrd gives Rot and Regret",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    254674,
+    93601
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Woodwyrd gives Passing the Blame",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255897,
+    95293
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Friz Frazzlespark gives Smuggler's Special",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256418,
+    94744
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Krom'rosh gives The Wayward Warrior",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256710,
+    94727
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Tran'gul gives Digging for Answers",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258023,
+    96015
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Sergeant Riftan gives A Miner Problem",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258048,
+    94556
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Jom-jom gives Jom-jom's Escape",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258570,
+    94745
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Da'grosh gives Carving a Path",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258570,
+    94748
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Da'grosh gives Break Their Chains",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258570,
+    94768
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Da'grosh gives Bring Me His Head",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258570,
+    94975
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Da'grosh gives A Token of Vengeance",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258570,
+    95278
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Da'grosh gives It Is Time, Brother...",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258570,
+    95431
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Da'grosh gives Rumblings of Discontent",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260383,
+    95285
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Sergeant Ulka gives Right Place, Wrong Time",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260383,
+    96332
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Sergeant Ulka gives A Little Payback",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260383,
+    96334
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Sergeant Ulka gives Blood Red Bandanas",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260391,
+    95294
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Captain Haynes gives Smuggler's Bargain",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260931,
+    95417
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Clubtoe gives The Purple Ones",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260931,
+    95418
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Clubtoe gives Spread the Word",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260931,
+    95427
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Clubtoe gives Twilight No More!",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    261208,
+    95601
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Twilight Brute gives The Purple Ones",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    262031,
+    96085
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Sister Rowland gives Upstream Contamination",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    263316,
+    95983
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Picked Carcass gives A Feast for Buzzards",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    263316,
+    96103
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Picked Carcass gives A Feast for Buzzards",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    266847,
+    96785
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Anastasia Miller gives Ain't No Telling",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    266847,
+    96786
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Anastasia Miller gives The Syndicate Sting",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    268992,
+    97329
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Zimmix Sputterspark gives Where's the Key?",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    268992,
+    97331
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Zimmix Sputterspark gives Zimmix's Great Escape",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    376,
+    94778
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "npc 376 takes Divine Grace",
+   "table": "creature_questender",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    3144,
+    96334
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 3144 takes Blood Red Bandanas",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    4631,
+    97331
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 4631 takes Zimmix's Great Escape",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    8379,
+    90789
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "npc 8379 takes Scalebeard",
+   "table": "creature_questender",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    11555,
+    86798
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 11555 takes Timbermaw Reinforcements",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    11705,
+    94334
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "npc 11705 takes Craftsman's Writ: Masterwork Target Dummy",
+   "table": "creature_questender",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    13085,
+    96786
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 13085 takes The Syndicate Sting",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    14437,
+    94354
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "npc 14437 takes Craftsman's Writ: Runecloth Boots",
+   "table": "creature_questender",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    221269,
+    98417
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Maseara Autumnmoon takes Vengeful Trail",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    221269,
+    98418
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Maseara Autumnmoon takes Shared Fury",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    236573,
+    86752
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Gatekeeper Rageroar takes Report to Rageroar",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    236573,
+    86814
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Gatekeeper Rageroar takes Blackmaw Counter-Offensive",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    236573,
+    92065
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "Gatekeeper Rageroar takes Blackmaw Reclamation",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:generated"
+   ]
+  },
+  {
+   "key": [
+    246378,
+    97180
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "Danitha Morr takes Ott's Finest Work",
+   "table": "creature_questender",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    253527,
+    93601
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Kog'thug the Brave takes Passing the Blame",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    253527,
+    93604
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Kog'thug the Brave takes Agamaggan's Blood",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    254674,
+    93404
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Woodwyrd takes Rot and Regret",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    254674,
+    93594
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Woodwyrd takes Word of the Woods",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255678,
+    93606
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Quolga the Wise takes Not on Squealing Terms",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255829,
+    94556
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Clugfist takes Jom-jom's Escape",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255897,
+    95294
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Friz Frazzlespark takes Smuggler's Bargain",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256418,
+    95278
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Krom'rosh takes It Is Time, Brother...",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256710,
+    95418
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Tran'gul takes Spread the Word",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258023,
+    96015
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Sergeant Riftan takes A Miner Problem",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258031,
+    96103
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Neza Bloodsnout takes A Feast for Buzzards",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258570,
+    94744
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Da'grosh takes The Wayward Warrior",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258570,
+    94745
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Da'grosh takes Carving a Path",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258570,
+    94748
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Da'grosh takes Break Their Chains",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258570,
+    94768
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Da'grosh takes Bring Me His Head",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258570,
+    94975
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Da'grosh takes A Token of Vengeance",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258785,
+    94823
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "High Priestess Mims takes Confounding Flash",
+   "table": "creature_questender",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    259352,
+    95983
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Watcher Cornelius takes A Feast for Buzzards",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260383,
+    95284
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Sergeant Ulka takes The Elite of the Elite",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260383,
+    95285
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Sergeant Ulka takes Right Place, Wrong Time",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260383,
+    96332
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Sergeant Ulka takes A Little Payback",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260390,
+    95293
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Captain Bentcoin takes Smuggler's Special",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260931,
+    94727
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Clubtoe takes Digging for Answers",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260931,
+    95427
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Clubtoe takes Twilight No More!",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260931,
+    95601
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Clubtoe takes The Purple Ones",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260993,
+    95431
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Crag'rog takes Rumblings of Discontent",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    261208,
+    95417
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Twilight Brute takes The Purple Ones",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    262031,
+    96085
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Sister Rowland takes Upstream Contamination",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    266847,
+    96785
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Anastasia Miller takes Ain't No Telling",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    268992,
+    97329
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Zimmix Sputterspark takes Where's the Key?",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  }
+ ],
+ "set": "public",
+ "sha1": "b26361cc00dfb2070e02dd2493d00b0d1f85917d",
+ "sources": {
+  "eglink": "c389a874888debc41eec9b0219af65ccceebac6d",
+  "questie": "26e205c3569b98d74e80535da89c83dc9dc6a9a8"
+ },
+ "world": {
+  "files": 0,
+  "newest": "the PTR world (world_ptr) as the tracker read it on 2026-11-19"
+ }
+}
