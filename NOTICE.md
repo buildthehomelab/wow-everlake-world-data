@@ -67,6 +67,13 @@ dates) of every source it was made from.
   which agree within 14 yards (map percentages only, no text copied), checked against the Blackmaw camps Wowhead's
   WoW Forever pages pin in Azshara (credited with operation 27); X and Y through the client's UiMapAssignment, heights
   from Everlake's own maps and vmaps, the dungeon's areas from the client's AreaTable and the server's map files.
+- `2026_11_18_961_world_everlake_blackmaw_hold_creatures.sql` (Blackmaw Hold's 38 creatures, boss loot and the spawns of
+  its four outer areas) is written by a script from Wowhead's WoW Forever pages (credited with operation 27), read by
+  the tracker's page crawler: each creature's name, rank, type, levels and model, and the bosses' drops with the
+  counts players recorded (drops over kills; only ids and counts are taken). The areas come from the client's AreaTable
+  and the server's map files, heights from Everlake's own maps and vmaps; which boss stands in which area from the
+  public guides of Warcraft Tavern, WoW Handbook and Zockify. Faction, health, damage, gold and every spawn spot are
+  the project's guesses, marked INFERRED.
 - `2026_11_18_922_world_everlake_trainer_ranks.sql` (Holy Shield 4, Death Mark 2 to 4, Shank 2 at the class trainers) is
   written by hand from Wowhead's WoW Forever database (https://www.wowhead.com/forever, credited with operation 27):
   that the class trainers teach them, their level and their training cost, from spell=1239570, 1325756, 1325757,
