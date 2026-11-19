@@ -85,6 +85,16 @@ dates) of every source it was made from.
   (https://github.com/EmuForever/DatabaseForever, the EmuForever project's world database, used by the project's
   decision of 2026-11-18; its repository states no licence, and it is credited here); its other values for them look
   generated and are not taken.
+- `2026_11_18_928_world_everlake_hyjal_npcs.sql` (new Mount Hyjal creatures that missing quests name, and droppers of
+  items no one could get) is written by a script from **DatabaseForever** (credited above, used the same way): the
+  name, title, type, family, classification and models; one creature's template from EG Link (CC BY 4.0, credited
+  above); QuestieDB (credited above): levels, ranks, "friendly to both sides", spawn points from its corrections and
+  players' QuestieTrace recordings; forever-db from Polestar (credited above) and DatabaseForever's own creature rows:
+  spawn points; Wowhead's WoW Forever database (https://www.wowhead.com/forever), read through the tracker's page
+  cache: how the creatures react to players and the drop counts the loot chances are worked out from. Which side a
+  quest giver serves comes from EG Link's quest records. As slice 5 does, a creature's faction, speeds and attack
+  times come from the realm's own NPCs nearby whose faction fits that reaction, and the client's faction tables say
+  which fit. Heights are read from Everlake's own maps and vmaps.
 - Forever's client tables, through wago.tools (https://wago.tools), were used as references only: slice 5 checks that a
   model is in the client and reads the client's faction tables to work out how an NPC reacts to players.
 - Wowhead's public tooltips and the item history of ericbtaylorjr/forever-db were used as references only in the
