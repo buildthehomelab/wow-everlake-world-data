@@ -85,6 +85,16 @@ dates) of every source it was made from.
   (https://github.com/EmuForever/DatabaseForever, the EmuForever project's world database, used by the project's
   decision of 2026-11-18; its repository states no licence, and it is credited here); its other values for them look
   generated and are not taken.
+- `2026_11_18_930_world_everlake_rest_npcs.sql` (new Forever quest givers, enders, kill targets and droppers across many
+  zones, and invisible quest-credit NPCs) is written by a script in the same way as file 926: templates from EG Link
+  (credited above), else DatabaseForever (credited with file 926: name, title, type, family, classification and models;
+  for a few lone NPCs no realm NPC nearby could lend a faction to, its faction and speeds where they are not its
+  generated default and fit how players saw the NPC react); levels, spawn points and quest roles from QuestieDB and
+  forever-db (credited above) and DatabaseForever's spawns. How each NPC treats players comes from EG Link, else
+  Wowhead's WoW Forever database (credited with operation 27, read from the tracker's cache of its pages), else
+  QuestieDB; the faction is checked against the client's faction tables. Loot chances are Wowhead's drop counts over
+  loots, read the same way; only ids and measured counts are taken. Heights are read from Everlake's own maps and
+  vmaps.
 - Forever's client tables, through wago.tools (https://wago.tools), were used as references only: slice 5 checks that a
   model is in the client and reads the client's faction tables to work out how an NPC reacts to players.
 - Wowhead's public tooltips and the item history of ericbtaylorjr/forever-db were used as references only in the
