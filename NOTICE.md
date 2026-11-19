@@ -72,6 +72,8 @@ dates) of every source it was made from.
   hand from Wowhead's WoW Forever database (https://www.wowhead.com/forever, credited with operation 27): that
   object=629065 lies on the table next to Archmage Arugal, from the page's comments; no text of the page is copied.
   Its point is read from Everlake's own vmaps, extracted from the game client.
+- `2026_11_18_924_world_everlake_kobold_tracks.sql` (Kobold Tracks in Elwynn Forest, one credit per track) is written by
+  hand from player reports and the fork's own goober code; it uses no outside source.
 - Forever's client tables, through wago.tools (https://wago.tools), were used as references only: slice 5 checks that a
   model is in the client and reads the client's faction tables to work out how an NPC reacts to players.
 - Wowhead's public tooltips and the item history of ericbtaylorjr/forever-db were used as references only in the
