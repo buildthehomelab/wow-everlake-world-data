@@ -94,7 +94,9 @@ dates) of every source it was made from.
   cache: how the creatures react to players and the drop counts the loot chances are worked out from. Which side a
   quest giver serves comes from EG Link's quest records. As slice 5 does, a creature's faction, speeds and attack
   times come from the realm's own NPCs nearby whose faction fits that reaction, and the client's faction tables say
-  which fit. Heights are read from Everlake's own maps and vmaps.
+  which fit. Heights are read from Everlake's own maps and vmaps. Displays the realm had no creature_model_info row
+  for get one inferred, as the fork's own model-info file does, from the realm's rows for the same client model or
+  from the client's CreatureDisplayInfo and CreatureModelData tables.
 - Forever's client tables, through wago.tools (https://wago.tools), were used as references only: slice 5 checks that a
   model is in the client and reads the client's faction tables to work out how an NPC reacts to players.
 - Wowhead's public tooltips and the item history of ericbtaylorjr/forever-db were used as references only in the
