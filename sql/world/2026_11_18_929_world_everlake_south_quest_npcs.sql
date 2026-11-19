@@ -39,7 +39,7 @@
 --     (sql/custom/world/2026_10_27_17_world_forever_creature_model_info.sql): the commonest value of the realm's rows
 --     for other displays on the same client model (CreatureDisplayInfo.ModelID, client 70790), scaled by the display's
 --     CreatureModelScale; a model with no such row and no collision width gets the player defaults 0.389 / 1.5. Each
---     row's note says which. Only displays without a row are added.
+--     row's note says which. Only displays without a row are added (INSERT IGNORE): an existing row is never changed.
 --
 -- Sources: EG Link (Efficient Games, CC BY 4.0) 30c3bb9c; QuestieDB (GPL-3.0) 4f628e83; Wowhead's WoW Forever NPC
 -- pages (map points, levels, reactions, drop counts; read 2026-11-16 to 11-18); forever-db from Polestar (GPL-3.0)
@@ -68,85 +68,85 @@ START TRANSACTION;
 -- Model sizes the realm lacks (INFERRED, as the fork's 2026_10_27_17).
 SET @EVERLAKE_NOTE := 'INFERRED: client model 7300, scale 1: 356 of the realm''s 364 rows on that model';
 SET @EVERLAKE_M127408 := (SELECT COUNT(*) = 0 FROM `creature_model_info` WHERE `DisplayID` = 127408);
-INSERT INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
+INSERT IGNORE INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
 SELECT 127408, 0.306, 1.5, 0, 0 FROM DUAL WHERE @EVERLAKE_M127408 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_model_info', 127408, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_M127408 = 1;
 SET @EVERLAKE_NOTE := 'INFERRED: client model 8103, scale 1: 8 of the realm''s 15 rows on that model';
 SET @EVERLAKE_M130233 := (SELECT COUNT(*) = 0 FROM `creature_model_info` WHERE `DisplayID` = 130233);
-INSERT INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
+INSERT IGNORE INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
 SELECT 130233, 0.383, 1.5, 0, 0 FROM DUAL WHERE @EVERLAKE_M130233 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_model_info', 130233, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_M130233 = 1;
 SET @EVERLAKE_NOTE := 'INFERRED: client model 6838, scale 1: 593 of the realm''s 640 rows on that model';
 SET @EVERLAKE_M138242 := (SELECT COUNT(*) = 0 FROM `creature_model_info` WHERE `DisplayID` = 138242);
-INSERT INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
+INSERT IGNORE INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
 SELECT 138242, 0.372, 1.5, 0, 0 FROM DUAL WHERE @EVERLAKE_M138242 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_model_info', 138242, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_M138242 = 1;
 SET @EVERLAKE_NOTE := 'INFERRED: client model 7369, scale 1: 297 of the realm''s 313 rows on that model';
 SET @EVERLAKE_M138358 := (SELECT COUNT(*) = 0 FROM `creature_model_info` WHERE `DisplayID` = 138358);
-INSERT INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
+INSERT IGNORE INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
 SELECT 138358, 0.389, 1.5, 0, 0 FROM DUAL WHERE @EVERLAKE_M138358 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_model_info', 138358, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_M138358 = 1;
 SET @EVERLAKE_NOTE := 'INFERRED: client model 7200, scale 1: 274 of the realm''s 286 rows on that model';
 SET @EVERLAKE_M139814 := (SELECT COUNT(*) = 0 FROM `creature_model_info` WHERE `DisplayID` = 139814);
-INSERT INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
+INSERT IGNORE INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
 SELECT 139814, 0.236, 1.5, 0, 0 FROM DUAL WHERE @EVERLAKE_M139814 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_model_info', 139814, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_M139814 = 1;
 SET @EVERLAKE_NOTE := 'INFERRED: client model 7661, scale 1: 1138 of the realm''s 1246 rows on that model';
 SET @EVERLAKE_M139994 := (SELECT COUNT(*) = 0 FROM `creature_model_info` WHERE `DisplayID` = 139994);
-INSERT INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
+INSERT IGNORE INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
 SELECT 139994, 0.306, 1.5, 0, 0 FROM DUAL WHERE @EVERLAKE_M139994 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_model_info', 139994, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_M139994 = 1;
 SET @EVERLAKE_NOTE := 'INFERRED: client model 7233, scale 1: 333 of the realm''s 381 rows on that model';
 SET @EVERLAKE_M140328 := (SELECT COUNT(*) = 0 FROM `creature_model_info` WHERE `DisplayID` = 140328);
-INSERT INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
+INSERT IGNORE INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
 SELECT 140328, 0.383, 1.5, 0, 0 FROM DUAL WHERE @EVERLAKE_M140328 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_model_info', 140328, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_M140328 = 1;
 SET @EVERLAKE_NOTE := 'INFERRED: client model 7661, scale 1: 1138 of the realm''s 1246 rows on that model';
 SET @EVERLAKE_M140461 := (SELECT COUNT(*) = 0 FROM `creature_model_info` WHERE `DisplayID` = 140461);
-INSERT INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
+INSERT IGNORE INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
 SELECT 140461, 0.306, 1.5, 0, 0 FROM DUAL WHERE @EVERLAKE_M140461 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_model_info', 140461, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_M140461 = 1;
 SET @EVERLAKE_NOTE := 'INFERRED: client model 7599, scale 1: 654 of the realm''s 706 rows on that model';
 SET @EVERLAKE_M140462 := (SELECT COUNT(*) = 0 FROM `creature_model_info` WHERE `DisplayID` = 140462);
-INSERT INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
+INSERT IGNORE INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
 SELECT 140462, 0.208, 1.5, 0, 0 FROM DUAL WHERE @EVERLAKE_M140462 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_model_info', 140462, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_M140462 = 1;
 SET @EVERLAKE_NOTE := 'INFERRED: client model 7661, scale 1: 1138 of the realm''s 1246 rows on that model';
 SET @EVERLAKE_M141307 := (SELECT COUNT(*) = 0 FROM `creature_model_info` WHERE `DisplayID` = 141307);
-INSERT INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
+INSERT IGNORE INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
 SELECT 141307, 0.306, 1.5, 0, 0 FROM DUAL WHERE @EVERLAKE_M141307 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_model_info', 141307, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_M141307 = 1;
 SET @EVERLAKE_NOTE := 'INFERRED: client model 33, scale 1.6: 26 of the realm''s 29 rows on that model';
 SET @EVERLAKE_M142909 := (SELECT COUNT(*) = 0 FROM `creature_model_info` WHERE `DisplayID` = 142909);
-INSERT INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
+INSERT IGNORE INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
 SELECT 142909, 1.6, 2.4, 0, 0 FROM DUAL WHERE @EVERLAKE_M142909 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_model_info', 142909, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_M142909 = 1;
 SET @EVERLAKE_NOTE := 'INFERRED: client model 32, scale 2.05: 51 of the realm''s 53 rows on that model';
 SET @EVERLAKE_M142910 := (SELECT COUNT(*) = 0 FROM `creature_model_info` WHERE `DisplayID` = 142910);
-INSERT INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
+INSERT IGNORE INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
 SELECT 142910, 1.8306, 3.075, 0, 0 FROM DUAL WHERE @EVERLAKE_M142910 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_model_info', 142910, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_M142910 = 1;
 SET @EVERLAKE_NOTE := 'INFERRED: client model 7200, scale 1: 274 of the realm''s 286 rows on that model';
 SET @EVERLAKE_M143078 := (SELECT COUNT(*) = 0 FROM `creature_model_info` WHERE `DisplayID` = 143078);
-INSERT INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
+INSERT IGNORE INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
 SELECT 143078, 0.236, 1.5, 0, 0 FROM DUAL WHERE @EVERLAKE_M143078 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_model_info', 143078, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_M143078 = 1;
 SET @EVERLAKE_NOTE := 'INFERRED: client model 8102, scale 1: 9 of the realm''s 19 rows on that model';
 SET @EVERLAKE_M144435 := (SELECT COUNT(*) = 0 FROM `creature_model_info` WHERE `DisplayID` = 144435);
-INSERT INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
+INSERT IGNORE INTO `creature_model_info` (`DisplayID`, `BoundingRadius`, `CombatReach`, `DisplayID_Other_Gender`, `VerifiedBuild`)
 SELECT 144435, 0.383, 1.5, 0, 0 FROM DUAL WHERE @EVERLAKE_M144435 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_model_info', 144435, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_M144435 = 1;
