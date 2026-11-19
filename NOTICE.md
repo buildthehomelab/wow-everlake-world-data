@@ -310,5 +310,8 @@ gave it:
 - `2026_11_19_943_world_everlake_warbear_helm_pattern.sql` (Eldreth Seether drops Pattern: Warbear Helm) is written by
   hand from Wowhead's WoW Forever database (credited with operation 27): item=252894's dropped-by tab, 3 drops in 29
   kills, taken as the chance. Only the ids and the count are taken.
+- `2026_11_19_944_world_everlake_rare_drops.sql` (Forever's new loot on 41 creatures the realm already spawns, mostly
+  classic rares) is written by a script from Wowhead's WoW Forever database (credited with operation 27): each item
+  page's dropped-by tab, drops over kills taken as the chance. Only the ids and the counts are taken.
 
 Game content such as names and text belongs to Blizzard Entertainment.
