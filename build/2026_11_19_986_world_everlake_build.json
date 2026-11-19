@@ -1,0 +1,1058 @@
+{
+ "file": "2026_11_19_986_world_everlake_build.sql",
+ "generator": "ForeverTracker export code (ft/quests.py, ft/export.py) at ea2d145c, run for one quest slice by quest_slice.py",
+ "held_back": {},
+ "left_to_defaults": [
+  "quest_template.RewardMoneyDifficulty, RewardMoneyMultiplier and RewardBonusMoney (the money is written exactly, in quest_classic_money)",
+  "quest_template.RewardFactionFlags, SuggestedGroupNum, ContentTuningID, QuestPackageID, the honor, title, skill and artifact rewards, RewardChoiceItemDisplayID",
+  "quest_template.POI and Portrait columns",
+  "the texts a record gives for a player condition (conditionalDescriptions, conditionalCompletionTexts): quest_description_conditional, quest_completion_log_conditional. A quest that has any names them under \"unread\"",
+  "the reward of a treasure picker tools/world/treasure_pickers.json does not name: the picker row is written, no reward item",
+  "quest_objectives.Flags is 32 for every objective: what four in five recorded Forever objectives hold, not this quest's own",
+  "quest_template_addon beyond the classes (QuestieDB's word, else the class of a class category) and the one quest before it that QuestieDB states",
+  "quest_offer_reward and quest_request_items where no recording of the live game has the text in one wording, and their emotes always; quest_details (what the NPC does when it offers the quest), quest_poi"
+ ],
+ "rows": [
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    91697
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Meet the Elders",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92009
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Crate Expectations",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92102
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Praise",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92754
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "A New Need for Shadow Protection",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93066
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Bristleback Retreat",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 4,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93125
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Going Home",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93551
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Praise",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94504
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Barkskin Beginnings",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94887
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Saving Marshal Ryan",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 64,
+   "from_questiedb": {},
+   "key": [
+    95753
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Challenge of the Desert Wolf",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96666
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Burrow Bonding",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96912
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Field of Honor: Week 1",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96913
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Field of Honor: Week 2",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97171
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Your First Horse",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [
+    "conditionalDescriptions"
+   ],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 4,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 2,
+   "from_questiedb": {},
+   "key": [
+    97179
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Collection of Goods",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 5,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97411
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "An Earnest Proposition",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 3,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97446
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Your First Riding Kodo",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 4,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    99202
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Swift as the Wind",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    99204
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Swift as the Wind",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    99205
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Swift as the Wind",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    99208
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Swift as the Wind",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "key": [
+    1460,
+    97171
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 1460 gives Your First Horse",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    3539,
+    97179
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 3539 gives Collection of Goods",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    3690,
+    99202
+   ],
+   "kind": "gives",
+   "rule": "trusted-source",
+   "says": "npc 3690 gives Swift as the Wind",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    4752,
+    99204
+   ],
+   "kind": "gives",
+   "rule": "trusted-source",
+   "says": "npc 4752 gives Swift as the Wind",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:generated"
+   ]
+  },
+  {
+   "key": [
+    4753,
+    99205
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 4753 gives Swift as the Wind",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    4773,
+    99208
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 4773 gives Swift as the Wind",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    222856,
+    95753
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Odd Totem gives Challenge of the Desert Wolf",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    228216,
+    92009
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Nami gives Crate Expectations",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    230317,
+    97411
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Mokvar gives An Earnest Proposition",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    253097,
+    92754
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Mirda gives A New Need for Shadow Protection",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    253136,
+    93066
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Orgrul gives Bristleback Retreat",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    254040,
+    93125
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Rokren gives Going Home",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255191,
+    92102
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Veteran of the Third War gives Praise",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255305,
+    93551
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Veteran of the Third War gives Praise",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256627,
+    94504
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Elder Mistpaw gives Barkskin Beginnings",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256646,
+    91697
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Osi Mistpaw gives Meet the Elders",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256650,
+    96666
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Elder Pinespeaker gives Burrow Bonding",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    257558,
+    94887
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Demar Brant gives Saving Marshal Ryan",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    267525,
+    96912
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Wizzik Dustfizz gives Field of Honor: Week 1",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    267525,
+    96913
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Wizzik Dustfizz gives Field of Honor: Week 2",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    269152,
+    97446
+   ],
+   "kind": "gives",
+   "rule": "trusted-source",
+   "says": "Tylana Clawhoof gives Your First Riding Kodo",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    1460,
+    97171
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 1460 takes Your First Horse",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    3362,
+    99204
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "npc 3362 takes Swift as the Wind",
+   "table": "creature_questender",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    3539,
+    97179
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "npc 3539 takes Collection of Goods",
+   "table": "creature_questender",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    3685,
+    99202
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "npc 3685 takes Swift as the Wind",
+   "table": "creature_questender",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    4730,
+    99205
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 4730 takes Swift as the Wind",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    4731,
+    99208
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 4731 takes Swift as the Wind",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    222857,
+    95753
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Odd Totem takes Challenge of the Desert Wolf",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    230317,
+    97411
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "Mokvar takes An Earnest Proposition",
+   "table": "creature_questender",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    249235,
+    92009
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Kaylaena Springwhisper takes Crate Expectations",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    253097,
+    92754
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "Mirda takes A New Need for Shadow Protection",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:generated"
+   ]
+  },
+  {
+   "key": [
+    253177,
+    93125
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Nerlokh takes Going Home",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    253851,
+    93066
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Hagiak takes Bristleback Retreat",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256627,
+    91697
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Elder Mistpaw takes Meet the Elders",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256627,
+    94504
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Elder Mistpaw takes Barkskin Beginnings",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256650,
+    96666
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Elder Pinespeaker takes Burrow Bonding",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    257250,
+    94887
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Marshal Ryan takes Saving Marshal Ryan",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    265375,
+    92102
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Veteran of the Third War takes Praise",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    265375,
+    93551
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Veteran of the Third War takes Praise",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    267525,
+    96912
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Wizzik Dustfizz takes Field of Honor: Week 1",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    267525,
+    96913
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "Wizzik Dustfizz takes Field of Honor: Week 2",
+   "table": "creature_questender",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    269152,
+    97446
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "Tylana Clawhoof takes Your First Riding Kodo",
+   "table": "creature_questender",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  }
+ ],
+ "set": "public",
+ "sha1": "c169f9e966cee8f90ba48d8c2e41d4e7890232ad",
+ "sources": {
+  "eglink": "c389a874888debc41eec9b0219af65ccceebac6d",
+  "questie": "26e205c3569b98d74e80535da89c83dc9dc6a9a8"
+ },
+ "world": {
+  "files": 0,
+  "newest": "the PTR world (world_ptr) as the tracker read it on 2026-11-19"
+ }
+}
