@@ -62,6 +62,11 @@ dates) of every source it was made from.
   (Corrupted Cat Figurine), and how the two are used, from the pages' comments; no text of the pages is copied. Its
   X and Y come from those points through the client's UiMapAssignment (wago.tools), its heights from Everlake's own
   maps, and Ta'shkal's stats and faction from the fork's Frostsaber Stalker (7432).
+- `2026_11_18_960_world_everlake_blackmaw_hold_instance.sql` (Blackmaw Hold's instance, entrance, exit and graveyard)
+  is written by hand. The portal's place comes from the public dungeon guides of Warcraft Tavern, mmonster and ssegold,
+  which agree within 14 yards (map percentages only, no text copied), checked against the Blackmaw camps Wowhead's
+  WoW Forever pages pin in Azshara (credited with operation 27); X and Y through the client's UiMapAssignment, heights
+  from Everlake's own maps and vmaps, the dungeon's areas from the client's AreaTable and the server's map files.
 - `2026_11_18_922_world_everlake_trainer_ranks.sql` (Holy Shield 4, Death Mark 2 to 4, Shank 2 at the class trainers) is
   written by hand from Wowhead's WoW Forever database (https://www.wowhead.com/forever, credited with operation 27):
   that the class trainers teach them, their level and their training cost, from spell=1239570, 1325756, 1325757,
@@ -85,6 +90,13 @@ dates) of every source it was made from.
   (https://github.com/EmuForever/DatabaseForever, the EmuForever project's world database, used by the project's
   decision of 2026-11-18; its repository states no licence, and it is credited here); its other values for them look
   generated and are not taken.
+- `2026_11_18_927_world_everlake_outdoor_drop_sources.sql` (new Forever creatures out in the world whose drops no one
+  could get) is written by the same script from EG Link (credited above): the creatures' templates as the live server
+  sent them to players' clients, their levels and the reactions players saw, and Tunk's position from a combat log;
+  Wowhead's WoW Forever database (credited with operation 27), read by the ForeverTracker's page crawler: each drop's
+  chance as Wowhead's count over its kills, which items start or serve which quests, and how each creature reacts to
+  either side where EG Link recorded no reaction (only ids, counts and reactions are taken); QuestieDB and forever-db
+  from Polestar (credited above): spawn points. Factions, speeds and heights as for file 926.
 - `2026_11_18_928_world_everlake_hyjal_npcs.sql` (new Mount Hyjal creatures that missing quests name, and droppers of
   items no one could get) is written by a script from **DatabaseForever** (credited above, used the same way): the
   name, title, type, family, classification and models; one creature's template from EG Link (CC BY 4.0, credited
