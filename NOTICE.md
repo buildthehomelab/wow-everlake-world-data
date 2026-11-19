@@ -130,6 +130,11 @@ dates) of every source it was made from.
   QuestieDB; the faction is checked against the client's faction tables. Loot chances are Wowhead's drop counts over
   loots, read the same way; only ids and measured counts are taken. Heights are read from Everlake's own maps and
   vmaps.
+- `2026_11_18_931_world_everlake_lone_quest_npcs.sql` (four quest NPCs file 930 held back for want of a faction) is
+  written by the same script from the same sources as file 930: EG Link and DatabaseForever (credited above) for the
+  templates, QuestieDB (credited above) for levels, quest roles, spawn points and how they treat players. Their
+  faction, 35, is the project's decision of 2026-11-18, not taken from a source. Model sizes the realm lacked are
+  inferred from the realm's own rows for the same client model, as the fork's model-info file does.
 - Forever's client tables, through wago.tools (https://wago.tools), were used as references only: slice 5 checks that a
   model is in the client and reads the client's faction tables to work out how an NPC reacts to players.
 - Wowhead's public tooltips and the item history of ericbtaylorjr/forever-db were used as references only in the
