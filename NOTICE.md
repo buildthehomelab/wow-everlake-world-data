@@ -62,6 +62,11 @@ dates) of every source it was made from.
   (Corrupted Cat Figurine), and how the two are used, from the pages' comments; no text of the pages is copied. Its
   X and Y come from those points through the client's UiMapAssignment (wago.tools), its heights from Everlake's own
   maps, and Ta'shkal's stats and faction from the fork's Frostsaber Stalker (7432).
+- `2026_11_18_960_world_everlake_blackmaw_hold_instance.sql` (Blackmaw Hold's instance, entrance, exit and graveyard)
+  is written by hand. The portal's place comes from the public dungeon guides of Warcraft Tavern, mmonster and ssegold,
+  which agree within 14 yards (map percentages only, no text copied), checked against the Blackmaw camps Wowhead's
+  WoW Forever pages pin in Azshara (credited with operation 27); X and Y through the client's UiMapAssignment, heights
+  from Everlake's own maps and vmaps, the dungeon's areas from the client's AreaTable and the server's map files.
 - `2026_11_18_922_world_everlake_trainer_ranks.sql` (Holy Shield 4, Death Mark 2 to 4, Shank 2 at the class trainers) is
   written by hand from Wowhead's WoW Forever database (https://www.wowhead.com/forever, credited with operation 27):
   that the class trainers teach them, their level and their training cost, from spell=1239570, 1325756, 1325757,
