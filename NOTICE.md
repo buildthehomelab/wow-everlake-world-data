@@ -74,6 +74,11 @@ dates) of every source it was made from.
   and the server's map files, heights from Everlake's own maps and vmaps; which boss stands in which area from the
   public guides of Warcraft Tavern, WoW Handbook and Zockify. Faction, health, damage, gold and every spawn spot are
   the project's guesses, marked INFERRED.
+- `2026_11_18_962_world_everlake_blackmaw_hold_inside.sql` (Blackmaw Hold's inside: the four inner bosses, two rares,
+  the main cave's packs and two stand-in teleports) is written by a script. The rooms come from Everlake's own vmaps
+  (the floors of the hold's cave model), the route through them from the public guides of Warcraft Tavern, WoW
+  Handbook and Zockify (directions only, no text copied). Which room is which, every spawn spot and the two teleports
+  are the project's guesses, marked INFERRED.
 - `2026_11_18_922_world_everlake_trainer_ranks.sql` (Holy Shield 4, Death Mark 2 to 4, Shank 2 at the class trainers) is
   written by hand from Wowhead's WoW Forever database (https://www.wowhead.com/forever, credited with operation 27):
   that the class trainers teach them, their level and their training cost, from spell=1239570, 1325756, 1325757,
