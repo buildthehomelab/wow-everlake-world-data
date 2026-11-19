@@ -109,6 +109,17 @@ dates) of every source it was made from.
   which fit. Heights are read from Everlake's own maps and vmaps. Displays the realm had no creature_model_info row
   for get one inferred, as the fork's own model-info file does, from the realm's rows for the same client model or
   from the client's CreatureDisplayInfo and CreatureModelData tables.
+- `2026_11_18_929_world_everlake_south_quest_npcs.sql` (Forever NPCs of Riverglades, Shen'dralas and Azshara that the
+  realm's missing quests need: quest givers and enders, kill targets, the creatures that drop the quests' items, and
+  credit NPCs) is written by a script from EG Link (CC BY 4.0, credited above): templates as the live server sent them
+  to players' clients, levels and the reactions players saw; DatabaseForever (credited with file 926): the name, title,
+  type, family, class and models of the creatures EG Link has no record of; QuestieDB (credited above): who gives and
+  takes the quests and for which side, which creature drops each quest item, ranks, levels and spawn points;
+  Wowhead's WoW Forever database (credited with operation 27), read from its NPC pages in the tracker's page cache:
+  map points, levels, reactions and measured drop counts (only ids and counts are taken); forever-db from Polestar
+  (credited above): spawn points. A creature's faction, speeds and attack times come from the realm's own NPCs
+  nearby, as slice 5 does. Heights are read from Everlake's own maps and vmaps. Display sizes the realm lacked
+  (creature_model_info) are inferred from the realm's own rows by the fork's method.
 - `2026_11_18_930_world_everlake_rest_npcs.sql` (new Forever quest givers, enders, kill targets and droppers across many
   zones, and invisible quest-credit NPCs) is written by a script in the same way as file 926: templates from EG Link
   (credited above), else DatabaseForever (credited with file 926: name, title, type, family, classification and models;
