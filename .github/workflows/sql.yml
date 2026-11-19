@@ -1,0 +1,55 @@
+name: SQL
+
+# Applies every update file to a fresh copy of the PTR's world, as the worldserver does at start, and runs the files a
+# change adds or edits a second time. A file that fails here would stop the PTR's worldserver (ci/check_sql.py).
+on:
+  pull_request:
+    paths: ['sql/**', 'ci/**', '.github/workflows/sql.yml']
+  push:
+    branches: [main]
+    paths: ['sql/**', 'ci/**', '.github/workflows/sql.yml']
+  schedule:
+    - cron: '17 6 * * *'   # the PTR's core pin moves in wow-project-everlake: check this repository against it daily
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sql-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Files this change adds or edits
+        id: changed
+        run: |
+          if [ "${{ github.event_name }}" = pull_request ]; then
+            base="origin/${{ github.base_ref }}"
+          elif [ "${{ github.event_name }}" = push ] && [ "${{ github.event.before }}" != 0000000000000000000000000000000000000000 ]; then
+            base="${{ github.event.before }}"
+          else
+            base=""
+          fi
+          if [ -n "$base" ]; then
+            files="$(git diff --name-only --diff-filter=AM "$base"...HEAD -- 'sql/world/*.sql' | tr '\n' ' ')"
+          else
+            files=""
+          fi
+          if [ -n "$base" ]; then
+            for f in $(git diff --name-only --diff-filter=M "$base"...HEAD -- 'sql/world/*.sql'); do
+              echo "::warning file=$f::$f is changed: a file that ran anywhere must not change (README); a later fix is a new file. Only a file that never applied may be fixed in place."
+            done
+          fi
+          echo "files=$files" >> "$GITHUB_OUTPUT"
+          echo "second run: ${files:-none}"
+
+      - name: Apply to a fresh PTR world
+        run: python3 ci/check_sql.py --changed ${{ steps.changed.outputs.files }}
