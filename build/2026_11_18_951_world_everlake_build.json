@@ -1,0 +1,1255 @@
+{
+ "file": "2026_11_18_951_world_everlake_build.sql",
+ "generator": "ForeverTracker export code (ft/quests.py, ft/export.py) at 4c40f245, run for one quest slice by quest_slice.py",
+ "held_back": {
+  "it waits for its quest, which is held back": 2,
+  "no giver of it can be written yet": 3,
+  "the world's quest reads like a developer's leftover: for a person": 2
+ },
+ "left_to_defaults": [
+  "quest_template.RewardMoneyDifficulty, RewardMoneyMultiplier and RewardBonusMoney (the money is written exactly, in quest_classic_money)",
+  "quest_template.RewardFactionFlags, SuggestedGroupNum, ContentTuningID, QuestPackageID, the honor, title, skill and artifact rewards, RewardChoiceItemDisplayID",
+  "quest_template.POI and Portrait columns",
+  "the texts and rewards a record gives for a player condition (conditionalDescriptions, conditionalCompletionTexts, treasurePickerIds): quest_description_conditional, quest_completion_log_conditional, quest_treasure_pickers. A quest that has any names them under \"unread\"",
+  "quest_objectives.Flags is 32 for every objective: what four in five recorded Forever objectives hold, not this quest's own",
+  "quest_template_addon beyond the classes (QuestieDB's word, else the class of a class category) and the one quest before it that QuestieDB states",
+  "quest_offer_reward and quest_request_items where no recording of the live game has the text in one wording, and their emotes always; quest_details (what the NPC does when it offers the quest), quest_poi"
+ ],
+ "rows": [
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    87346
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Chieftain Bloodmaw",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    89015
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Deadliest Catch",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    90854
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Leather for Inclement Weather",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    91611
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Deadliest Catch",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    91877
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Demon Hunter's Hunter",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    91882
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "The Grand Alliance",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92189
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Back to the Grind",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93030
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "The Knight of Mourning",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95769
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Threading a Solution",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96077
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Belle's Ring",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96529
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "A Shaw Deal",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96676
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Unsealing Blackthorne Pact",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97006
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Notarized Claim",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97007
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Wood Remains",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97119
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Now We're Cooking",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 64,
+   "from_questiedb": {},
+   "key": [
+    97168
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Material Assistance",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 64,
+   "from_questiedb": {},
+   "key": [
+    97169
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "The Darkreaver Menace",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 2,
+   "from_questiedb": {},
+   "key": [
+    97174
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "A Worthy Endeavor",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 2,
+   "from_questiedb": {},
+   "key": [
+    97175
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Due Sacrifice",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 2,
+   "from_questiedb": {},
+   "key": [
+    97177
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Acts of Mercy",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 2,
+   "from_questiedb": {},
+   "key": [
+    97178
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Ott of Tarren Mill",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97447
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "An Earnest Proposition",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 3,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97883
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "End of the Dark Horde",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97987
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Stormwind's High Order",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97988
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Orgrimmar's Windshapers",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "key": [
+    332,
+    96676
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 332 gives Unsealing Blackthorne Pact",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    332,
+    97883
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 332 gives End of the Dark Horde",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    3621,
+    91611
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 3621 gives Deadliest Catch",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    4604,
+    97006
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 4604 gives Notarized Claim",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    5994,
+    97177
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 5994 gives Acts of Mercy",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    7783,
+    91877
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 7783 gives Demon Hunter's Hunter",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    7826,
+    91882
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 7826 gives The Grand Alliance",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    10781,
+    97007
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 10781 gives Wood Remains",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    11555,
+    87346
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 11555 gives Chieftain Bloodmaw",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    11706,
+    97987
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 11706 gives Stormwind's High Order",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    11706,
+    97988
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 11706 gives Orgrimmar's Windshapers",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    230319,
+    97447
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Deliana gives An Earnest Proposition",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    240482,
+    89015
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Berdun Cliffbrew gives Deadliest Catch",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    244511,
+    90854
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Zet'gan gives Leather for Inclement Weather",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    244512,
+    97119
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Ortak Lomgok gives Now We're Cooking",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    246378,
+    97175
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Danitha Morr gives Due Sacrifice",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    246378,
+    97178
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Danitha Morr gives Ott of Tarren Mill",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    249234,
+    96529
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Johun \"Punchy\" Dillas gives A Shaw Deal",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258098,
+    97168
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Eldrun Stormbreaker gives Material Assistance",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258098,
+    97169
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Eldrun Stormbreaker gives The Darkreaver Menace",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260093,
+    97174
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Garen Largo gives A Worthy Endeavor",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    264521,
+    96077
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Daythor Brellan gives Belle's Ring",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    265788,
+    95769
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Kal'tinzan gives Threading a Solution",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    265866,
+    92189
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Trigg Ironhand gives Back to the Grind",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    276110,
+    93030
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Knight of Mourning gives The Knight of Mourning",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    332,
+    96529
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 332 takes A Shaw Deal",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    2329,
+    96077
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 2329 takes Belle's Ring",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    3539,
+    97178
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 3539 takes Ott of Tarren Mill",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    3621,
+    91611
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 3621 takes Deadliest Catch",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    4604,
+    97007
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 4604 takes Wood Remains",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    5994,
+    97175
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 5994 takes Due Sacrifice",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    10781,
+    97006
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 10781 takes Notarized Claim",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    11555,
+    87346
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 11555 takes Chieftain Bloodmaw",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    14394,
+    97883
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 14394 takes End of the Dark Horde",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    230319,
+    97447
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Deliana takes An Earnest Proposition",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    240482,
+    89015
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Berdun Cliffbrew takes Deadliest Catch",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    244511,
+    90854
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Zet'gan takes Leather for Inclement Weather",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    244512,
+    97119
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Ortak Lomgok takes Now We're Cooking",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    244517,
+    91882
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Sefira Everbright takes The Grand Alliance",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    246378,
+    97174
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Danitha Morr takes A Worthy Endeavor",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    246378,
+    97177
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Danitha Morr takes Acts of Mercy",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    249234,
+    96676
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Johun \"Punchy\" Dillas takes Unsealing Blackthorne Pact",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255679,
+    97988
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Corswyn Aseril takes Orgrimmar's Windshapers",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258098,
+    97168
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Eldrun Stormbreaker takes Material Assistance",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258098,
+    97169
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Eldrun Stormbreaker takes The Darkreaver Menace",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    265788,
+    95769
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Kal'tinzan takes Threading a Solution",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    265866,
+    92189
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Trigg Ironhand takes Back to the Grind",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    267097,
+    91877
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Maerion Thaelemaches takes Demon Hunter's Hunter",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    270112,
+    97987
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Saera Wirraway takes Stormwind's High Order",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    276110,
+    93030
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Knight of Mourning takes The Knight of Mourning",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  }
+ ],
+ "set": "public",
+ "sha1": "b4090b4675f57f327e509e6f4b43873ec4632a36",
+ "sources": {
+  "eglink": "30c3bb9c8e792208feab362357471603dc51e12e",
+  "questie": "8b8df2dc12a34e2eb82bc7105b40405dce1c01f7"
+ },
+ "world": {
+  "files": 0,
+  "newest": "the PTR world (world_ptr) as the tracker read it on 2026-11-18"
+ }
+}
