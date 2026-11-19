@@ -1,7 +1,8 @@
--- Everlake Forge #196: Import, 1 resource(s), 334 row(s)
+-- Everlake Forge #196: Import, the turn-in and progress words only (333 rows)
 -- 2026_11_19_900_world_everlake_forge_00196_import.sql: exported by the Forever Tracker Forge (https://github.com/buildthehomelab/wow-forever-tracker) from a realm where it was applied and tested first.
 -- Made from the official WoW Forever client data (build 70959) and the Forge rules (docs/FORGE.md); rows as they were on that realm when exported.
 -- Sources: Icy Veins 2026-11-19 (NOTICE.md, Forge exports).
+-- The operation also refreshed one drop chance (creature 274300, item 2672); that line is left out of this file.
 -- Never edit this file once it is deployed: a later fix is a new file. Running it again changes nothing: a row is added only
 -- where none exists, spawns only where the same creature or object is not already within 5 yards, and each added row is recorded in everlake_import_rows.
 
@@ -367,9 +368,6 @@ DELETE s FROM `everlake_forge_stage` s JOIN `quest_request_items` x ON x.`ID` <=
 INSERT INTO `quest_request_items` (`ID`, `EmoteOnComplete`, `EmoteOnIncomplete`, `EmoteOnCompleteDelay`, `EmoteOnIncompleteDelay`, `CompletionText`, `VerifiedBuild`) SELECT `ID`, `EmoteOnComplete`, `EmoteOnIncomplete`, `EmoteOnCompleteDelay`, `EmoteOnIncompleteDelay`, `CompletionText`, `VerifiedBuild` FROM `everlake_forge_stage`;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`) SELECT 'quest_request_items', s.`ID`, 0, 0, 0, '2026_11_19_900_world_everlake_forge_00196_import.sql', 'Forge #196: Icy Veins 2026-11-19' FROM `everlake_forge_stage` s;
 
--- values a source measured again: each statement names the value it replaces, so it changes nothing where the
--- row moved on, and nothing more when it runs again
-UPDATE `creature_loot_template` SET `Chance` = 74.24 WHERE `Entry` = 274300 AND `ItemType` = 0 AND `Item` = 2672 AND ABS(`Chance` - 100) < 0.005 /* refresh */;
 
 DROP TEMPORARY TABLE IF EXISTS `everlake_forge_stage`;
 -- Icy Veins writes the player's class and race as <Class> and <Race>; the core's tokens are $C and $R. This file's own
