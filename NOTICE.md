@@ -62,6 +62,11 @@ dates) of every source it was made from.
   (Corrupted Cat Figurine), and how the two are used, from the pages' comments; no text of the pages is copied. Its
   X and Y come from those points through the client's UiMapAssignment (wago.tools), its heights from Everlake's own
   maps, and Ta'shkal's stats and faction from the fork's Frostsaber Stalker (7432).
+- `2026_11_19_960_world_everlake_alcaz_prison_instance.sql` and `2026_11_19_961_world_everlake_shapers_terrace_instance.sql`
+  (the instances, entrances, exits and graveyards of Alcaz Prison and The Shaper's Terrace) are written by hand. The
+  entrances' places come from the public dungeon guide of Warcraft Tavern (map percentages only, no text copied),
+  through the client's UiMapAssignment; the buildings and floors from Everlake's own maps and vmaps; the areas from the
+  client's AreaTable and the server's map files. Landing and exit spots and graveyards are guesses, marked INFERRED.
 - `2026_11_18_960_world_everlake_blackmaw_hold_instance.sql` (Blackmaw Hold's instance, entrance, exit and graveyard)
   is written by hand. The portal's place comes from the public dungeon guides of Warcraft Tavern, mmonster and ssegold,
   which agree within 14 yards (map percentages only, no text copied), checked against the Blackmaw camps Wowhead's
