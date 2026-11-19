@@ -173,7 +173,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 220984, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C220984 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 220984, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C220984 = 1;
-SET @EVERLAKE_CS220984 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 220984 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS220984 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 220984 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 220984 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 220984);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -211,7 +211,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 221651, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C221651 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 221651, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C221651 = 1;
-SET @EVERLAKE_CS221651 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 221651 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS221651 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 221651 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 221651 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 221651);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -249,7 +249,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 235892, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C235892 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 235892, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C235892 = 1;
-SET @EVERLAKE_CS235892 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 235892 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS235892 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 235892 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 235892 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 235892);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -287,7 +287,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 235903, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C235903 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 235903, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C235903 = 1;
-SET @EVERLAKE_CS235903 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 235903 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS235903 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 235903 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 235903 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 235903);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -325,7 +325,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 236867, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C236867 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 236867, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C236867 = 1;
-SET @EVERLAKE_CS236867 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 236867 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS236867 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 236867 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 236867 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 236867);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -379,7 +379,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 236874, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C236874 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 236874, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C236874 = 1;
-SET @EVERLAKE_CS236874 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 236874 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS236874 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 236874 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 236874 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 236874);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -435,7 +435,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 236876, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C236876 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 236876, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C236876 = 1;
-SET @EVERLAKE_CS236876 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 236876 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS236876 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 236876 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 236876 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 236876);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -481,7 +481,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 239822, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C239822 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 239822, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C239822 = 1;
-SET @EVERLAKE_CS239822 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 239822 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS239822 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 239822 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 239822 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 239822);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -523,7 +523,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_classic_level', 239939, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C239939 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_loot_template', 239939, 0, 280610, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C239939 = 1;
-SET @EVERLAKE_CS239939 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 239939 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS239939 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 239939 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 239939 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 239939);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -565,7 +565,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_classic_level', 239971, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C239971 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_loot_template', 239971, 0, 238385, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C239971 = 1;
-SET @EVERLAKE_CS239971 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 239971 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS239971 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 239971 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 239971 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 239971);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -607,7 +607,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_classic_level', 247006, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C247006 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_loot_template', 247006, 0, 246725, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C247006 = 1;
-SET @EVERLAKE_CS247006 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 247006 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS247006 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 247006 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 247006 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 247006);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -649,7 +649,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_classic_level', 247013, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C247013 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_loot_template', 247013, 0, 246722, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C247013 = 1;
-SET @EVERLAKE_CS247013 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 247013 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS247013 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 247013 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 247013 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 247013);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -687,7 +687,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 253524, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C253524 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 253524, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C253524 = 1;
-SET @EVERLAKE_CS253524 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 253524 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS253524 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 253524 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 253524 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 253524);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -782,7 +782,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 253526, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C253526 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 253526, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C253526 = 1;
-SET @EVERLAKE_CS253526 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 253526 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS253526 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 253526 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 253526 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 253526);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -906,7 +906,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 254040, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C254040 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 254040, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C254040 = 1;
-SET @EVERLAKE_CS254040 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 254040 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS254040 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 254040 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 254040 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 254040);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -948,7 +948,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_classic_level', 254283, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C254283 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_loot_template', 254283, 0, 254432, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C254283 = 1;
-SET @EVERLAKE_CS254283 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 254283 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS254283 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 254283 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 254283 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 254283);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -1067,7 +1067,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 254717, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C254717 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 254717, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C254717 = 1;
-SET @EVERLAKE_CS254717 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 254717 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS254717 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 254717 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 254717 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 254717);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -1105,7 +1105,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 257250, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C257250 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 257250, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C257250 = 1;
-SET @EVERLAKE_CS257250 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 257250 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS257250 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 257250 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 257250 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 257250);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -1146,7 +1146,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 257916, 1, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C257916 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 257916, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C257916 = 1;
-SET @EVERLAKE_CS257916 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 257916 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS257916 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 257916 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 257916 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 257916);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -1269,7 +1269,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 259057, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C259057 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 259057, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C259057 = 1;
-SET @EVERLAKE_CS259057 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 259057 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS259057 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 259057 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 259057 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 259057);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -1307,7 +1307,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 260968, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C260968 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 260968, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C260968 = 1;
-SET @EVERLAKE_CS260968 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 260968 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS260968 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 260968 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 260968 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 260968);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -1414,7 +1414,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 260993, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C260993 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 260993, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C260993 = 1;
-SET @EVERLAKE_CS260993 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 260993 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS260993 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 260993 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 260993 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 260993);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -1455,7 +1455,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 260996, 1, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C260996 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 260996, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C260996 = 1;
-SET @EVERLAKE_CS260996 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 260996 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS260996 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 260996 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 260996 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 260996);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -1503,7 +1503,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 261497, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C261497 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 261497, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C261497 = 1;
-SET @EVERLAKE_CS261497 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 261497 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS261497 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 261497 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 261497 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 261497);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -1564,7 +1564,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 261711, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C261711 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 261711, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C261711 = 1;
-SET @EVERLAKE_CS261711 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 261711 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS261711 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 261711 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 261711 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 261711);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -1614,7 +1614,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 262169, 3, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C262169 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 262169, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C262169 = 1;
-SET @EVERLAKE_CS262169 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 262169 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS262169 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 262169 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 262169 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 262169);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -1659,7 +1659,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 276401, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C276401 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 276401, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C276401 = 1;
-SET @EVERLAKE_CS276401 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 276401 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS276401 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 276401 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 276401 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 276401);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
@@ -1744,7 +1744,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_template_model', 278088, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C278088 = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_classic_level', 278088, 0, 0, 0, @EVERLAKE_FILE, @EVERLAKE_NOTE FROM DUAL WHERE @EVERLAKE_C278088 = 1;
-SET @EVERLAKE_CS278088 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 278088 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS278088 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 278088 AND `file` = '2026_11_18_929_world_everlake_south_quest_npcs.sql')
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 278088 AND `VerifiedBuild` = 0)
   AND (SELECT COUNT(*) = 0 FROM `creature` WHERE `id` = 278088);
 INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnDifficulties`, `phaseUseFlags`, `PhaseId`, `PhaseGroup`,
