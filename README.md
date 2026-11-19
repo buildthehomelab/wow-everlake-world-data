@@ -32,6 +32,18 @@ realm running a TrinityCore fork; this repository holds only data. The generator
   as the correction was written against.
 - Every row names the sources that gave it.
 
+## CI
+
+`.github/workflows/sql.yml` runs `ci/check_sql.py` on every pull request and push that touches `sql/`, and daily. It
+builds the PTR's world from scratch the way the image does: the Forever TDB dump, then the core's world update files at
+the PTR's core commit and every file here, in file-name order, each through the mysql client over a utf8mb4 connection
+on MySQL 8.0 (as the worldserver's updater applies them). A file that fails there would stop the PTR's worldserver, so
+it fails the check. Each file a change adds or edits then runs a second time, and any table it writes to must come out
+the same (its CHECKSUM). The core commit and the TDB come from wow-project-everlake's `docker-compose.ptr.yml` and
+`Dockerfile` on main, so the check follows the PTR's pins by itself. Locally (needs Docker, git, curl and 7z):
+
+    python3 ci/check_sql.py --changed sql/world/<new file>.sql
+
 ## Licence
 
 GPL-3.0 (see LICENSE), because several sources are GPL-3.0. NOTICE.md credits every source; EG Link's data is CC BY 4.0
