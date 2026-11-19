@@ -1,0 +1,2927 @@
+{
+ "file": "2026_11_19_980_world_everlake_build.sql",
+ "generator": "ForeverTracker export code (ft/quests.py, ft/export.py) at dcf074fc, run for one quest slice by quest_slice.py",
+ "held_back": {},
+ "left_to_defaults": [
+  "quest_template.RewardMoneyDifficulty, RewardMoneyMultiplier and RewardBonusMoney (the money is written exactly, in quest_classic_money)",
+  "quest_template.RewardFactionFlags, SuggestedGroupNum, ContentTuningID, QuestPackageID, the honor, title, skill and artifact rewards, RewardChoiceItemDisplayID",
+  "quest_template.POI and Portrait columns",
+  "the texts and rewards a record gives for a player condition (conditionalDescriptions, conditionalCompletionTexts, treasurePickerIds): quest_description_conditional, quest_completion_log_conditional, quest_treasure_pickers. A quest that has any names them under \"unread\"",
+  "quest_objectives.Flags is 32 for every objective: what four in five recorded Forever objectives hold, not this quest's own",
+  "quest_template_addon beyond the classes (QuestieDB's word, else the class of a class category) and the one quest before it that QuestieDB states",
+  "quest_offer_reward and quest_request_items where no recording of the live game has the text in one wording, and their emotes always; quest_details (what the NPC does when it offers the quest), quest_poi"
+ ],
+ "rows": [
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    86746
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "The Legashi Threat",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 3,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    88807
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Slay the Spitelash",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    88809
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Preserving Eldarath",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    91548
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Vek'zol",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92008
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Premiere Parts",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92015
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Area Denial Skunks",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92064
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Tree Free",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92111
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Of Friend and Fur",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92328
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Siegecraft",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92329
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Drum Up Trouble",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92345
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Beneath Nordrassil",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92594
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Kindling, Kinda",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92872
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Dutiful Steps",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92959
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "The Dying Ancients",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93016
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "A Brief History Lesson",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93072
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Long-Term Solutions",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 3,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93362
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "What They've Done to My Peonies",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 3,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93422
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Blackthorne Blackout",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93430
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Taking the Bait Back",
+   "table": "quest_template",
+   "texts": {
+    "quest_offer_reward": "eglink@70938",
+    "quest_request_items": "eglink@70938"
+   },
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93584
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Cult Closure",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93826
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Deal Dread to Deadwood",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93832
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Shatter the Stonewatchers",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93833
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Wicked Wisdom",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94888
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "No Soldier Left Behind",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94892
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Dying Wish",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94893
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Delivering Closure",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94907
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "A Small Favor",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94927
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Dunston Checks Out",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95107
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Deeproar Down",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95108
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Mystic Mix",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 3,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95122
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Unchecked Expansion",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95312
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Coming to Collect",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95321
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Tazzik's Dues",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95424
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Might Makes Right",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95433
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Death to the Executioner",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95643
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Indiscriminate Purge",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95924
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Panic at the Digsite",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 3,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96060
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Tempered Expectations",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96075
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "In Demand - Blackrock Legal Records",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 3,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96126
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "An Ogre's Captive",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96302
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Arch Absolution",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96322
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "A Revenge Now Bitter",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [
+    "conditionalDescriptions"
+   ],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96559
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Supply Drop",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96622
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "A Rest Without Pain",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96674
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Ewe Wandered Off",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96979
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Sacred Refreshment",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97048
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Returning to Port",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97173
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Blackmaw Magic",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 2,
+   "from_questiedb": {},
+   "key": [
+    97176
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Exorcising Terrordale",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97327
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Blackmaw Pouches",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97404
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Too Bad to Bear",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97536
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Gnomish Garbage",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [
+    "conditionalCompletionTexts"
+   ],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97663
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Supplies and Studies",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 3,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    98094
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Scout Support",
+   "table": "quest_template",
+   "texts": {
+    "quest_offer_reward": "eglink@70862",
+    "quest_request_items": "eglink@70862"
+   },
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    98096
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Sisters In Duty",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    98205
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Whelps are the Worst!",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    98215
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Dragon Scales, Post Burnt Tails",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    99258
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Mana Mania",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    99435
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "The Great Masquerade",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "key": [
+    2215,
+    98094
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 2215 gives Scout Support",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    2782,
+    92872
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 2782 gives Dutiful Steps",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    3326,
+    91548
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 3326 gives Vek'zol",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    8256,
+    95924
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 8256 gives Panic at the Digsite",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    8396,
+    98096
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 8396 gives Sisters In Duty",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    11718,
+    97404
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 11718 gives Too Bad to Bear",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    14743,
+    97536
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 14743 gives Gnomish Garbage",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    17804,
+    99435
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 17804 gives The Great Masquerade",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    31439,
+    97173
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Archmage Timear gives Blackmaw Magic",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    218230,
+    97048
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Wendel Mathers gives Returning to Port",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    220984,
+    95321
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Fizbuz Mithril gives Tazzik's Dues",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    227853,
+    96075
+   ],
+   "kind": "gives",
+   "rule": "trusted-source",
+   "says": "Pix Xizzix gives In Demand - Blackrock Legal Records",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:generated"
+   ]
+  },
+  {
+   "key": [
+    235903,
+    86746
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Ekkal gives The Legashi Threat",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    235903,
+    97327
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Ekkal gives Blackmaw Pouches",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    239822,
+    88807
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Commander Truesong gives Slay the Spitelash",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    239822,
+    88809
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Commander Truesong gives Preserving Eldarath",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    239822,
+    92345
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Commander Truesong gives Beneath Nordrassil",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    244512,
+    96622
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Ortak Lomgok gives A Rest Without Pain",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    246378,
+    97176
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Danitha Morr gives Exorcising Terrordale",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    248366,
+    92959
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Fraxinus gives The Dying Ancients",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    248419,
+    96674
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Mirt gives Ewe Wandered Off",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    249234,
+    92015
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Johun \"Punchy\" Dillas gives Area Denial Skunks",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    249235,
+    92008
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Kaylaena Springwhisper gives Premiere Parts",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    249235,
+    92328
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Kaylaena Springwhisper gives Siegecraft",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    249235,
+    92329
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Kaylaena Springwhisper gives Drum Up Trouble",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    249235,
+    92594
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Kaylaena Springwhisper gives Kindling, Kinda",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    249549,
+    92064
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Fenwick Togglespring gives Tree Free",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    249549,
+    96559
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Fenwick Togglespring gives Supply Drop",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    253471,
+    93016
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Mordent Evenshade gives A Brief History Lesson",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    253851,
+    93072
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Hagiak gives Long-Term Solutions",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    254578,
+    93362
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Mithera gives What They've Done to My Peonies",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    254717,
+    96060
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Vindael gives Tempered Expectations",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    254770,
+    93430
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Pelluk gives Taking the Bait Back",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    254915,
+    93584
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Thisalee Crow gives Cult Closure",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255151,
+    93422
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Rhylin Stonethorn gives Blackthorne Blackout",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255486,
+    99258
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Historian Biraxas gives Mana Mania",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255829,
+    95424
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Clugfist gives Might Makes Right",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256627,
+    93826
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Elder Mistpaw gives Deal Dread to Deadwood",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256627,
+    93832
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Elder Mistpaw gives Shatter the Stonewatchers",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256627,
+    95107
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Elder Mistpaw gives Deeproar Down",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256650,
+    93833
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Elder Pinespeaker gives Wicked Wisdom",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256650,
+    95108
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Elder Pinespeaker gives Mystic Mix",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256831,
+    95643
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Apprentice Claire gives Indiscriminate Purge",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256978,
+    92111
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Brerufa gives Of Friend and Fur",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    257250,
+    94892
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Marshal Ryan gives Dying Wish",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    257558,
+    94893
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Demar Brant gives Delivering Closure",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    257591,
+    94907
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Ashe Amberhall gives A Small Favor",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258023,
+    94888
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Sergeant Riftan gives No Soldier Left Behind",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    259057,
+    94927
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Dunston Willis gives Dunston Checks Out",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    259057,
+    96126
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Dunston Willis gives An Ogre's Captive",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    259961,
+    95122
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Wharfmaster Whizzbuzz gives Unchecked Expansion",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260857,
+    95312
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Tazzik gives Coming to Collect",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260993,
+    95433
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Crag'rog gives Death to the Executioner",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    263757,
+    96322
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Felflick gives A Revenge Now Bitter",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    264795,
+    96302
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Marn Euhorn gives Arch Absolution",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    267109,
+    96979
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Galvinquam Leafsyre gives Sacred Refreshment",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    269647,
+    97663
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Mus'hale gives Supplies and Studies",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    270723,
+    98205
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Drazzit Dripvalve gives Whelps are the Worst!",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    270723,
+    98215
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Drazzit Dripvalve gives Dragon Scales, Post Burnt Tails",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    1748,
+    99435
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 1748 takes The Great Masquerade",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    2782,
+    92872
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 2782 takes Dutiful Steps",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    3326,
+    91548
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 3326 takes Vek'zol",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    4217,
+    92345
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 4217 takes Beneath Nordrassil",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    8256,
+    95924
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 8256 takes Panic at the Digsite",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    11718,
+    97404
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 11718 takes Too Bad to Bear",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    14743,
+    97536
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 14743 takes Gnomish Garbage",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    31439,
+    97173
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Archmage Timear takes Blackmaw Magic",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    218229,
+    97048
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Captain Aransas takes Returning to Port",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    220984,
+    95312
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Fizbuz Mithril takes Coming to Collect",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    227853,
+    96075
+   ],
+   "kind": "takes",
+   "rule": "trusted-source",
+   "says": "Pix Xizzix takes In Demand - Blackrock Legal Records",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:generated"
+   ]
+  },
+  {
+   "key": [
+    228216,
+    92008
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Nami takes Premiere Parts",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    235903,
+    86746
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Ekkal takes The Legashi Threat",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    235903,
+    97327
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Ekkal takes Blackmaw Pouches",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    239822,
+    88807
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Commander Truesong takes Slay the Spitelash",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    239822,
+    88809
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Commander Truesong takes Preserving Eldarath",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    239822,
+    98096
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Commander Truesong takes Sisters In Duty",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    244512,
+    96622
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Ortak Lomgok takes A Rest Without Pain",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    246378,
+    97176
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Danitha Morr takes Exorcising Terrordale",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    248366,
+    92959
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Fraxinus takes The Dying Ancients",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    248419,
+    96674
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Mirt takes Ewe Wandered Off",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    249234,
+    92015
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Johun \"Punchy\" Dillas takes Area Denial Skunks",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    249235,
+    92328
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Kaylaena Springwhisper takes Siegecraft",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    249235,
+    92329
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Kaylaena Springwhisper takes Drum Up Trouble",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    249235,
+    92594
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Kaylaena Springwhisper takes Kindling, Kinda",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    249549,
+    92064
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Fenwick Togglespring takes Tree Free",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    253471,
+    93016
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Mordent Evenshade takes A Brief History Lesson",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    253851,
+    93072
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Hagiak takes Long-Term Solutions",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    254578,
+    93362
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Mithera takes What They've Done to My Peonies",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    254644,
+    96559
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Personal Survival Pack takes Supply Drop",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    254717,
+    96060
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Vindael takes Tempered Expectations",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    254770,
+    93430
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Pelluk takes Taking the Bait Back",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    254915,
+    93584
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Thisalee Crow takes Cult Closure",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255151,
+    93422
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Rhylin Stonethorn takes Blackthorne Blackout",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255486,
+    99258
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Historian Biraxas takes Mana Mania",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255829,
+    95424
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Clugfist takes Might Makes Right",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255829,
+    95433
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Clugfist takes Death to the Executioner",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256627,
+    93832
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Elder Mistpaw takes Shatter the Stonewatchers",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256627,
+    95108
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Elder Mistpaw takes Mystic Mix",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256646,
+    92111
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Osi Mistpaw takes Of Friend and Fur",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256650,
+    93826
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Elder Pinespeaker takes Deal Dread to Deadwood",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256650,
+    93833
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Elder Pinespeaker takes Wicked Wisdom",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256650,
+    95107
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Elder Pinespeaker takes Deeproar Down",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256831,
+    95643
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Apprentice Claire takes Indiscriminate Purge",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    257558,
+    94892
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Demar Brant takes Dying Wish",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    257591,
+    94907
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Ashe Amberhall takes A Small Favor",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    257753,
+    96322
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Curious Crow takes A Revenge Now Bitter",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258023,
+    94888
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Sergeant Riftan takes No Soldier Left Behind",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    259057,
+    96126
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Dunston Willis takes An Ogre's Captive",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    259352,
+    94927
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Watcher Cornelius takes Dunston Checks Out",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    259961,
+    95122
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Wharfmaster Whizzbuzz takes Unchecked Expansion",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260857,
+    95321
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Tazzik takes Tazzik's Dues",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    264795,
+    96302
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Marn Euhorn takes Arch Absolution",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    267109,
+    96979
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Galvinquam Leafsyre takes Sacred Refreshment",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    269647,
+    97663
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Mus'hale takes Supplies and Studies",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    270438,
+    98094
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Deathstalker Masoj takes Scout Support",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    270723,
+    98205
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Drazzit Dripvalve takes Whelps are the Worst!",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    270723,
+    98215
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Drazzit Dripvalve takes Dragon Scales, Post Burnt Tails",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    278088,
+    94893
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Abigail Lawson takes Delivering Closure",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  }
+ ],
+ "set": "public",
+ "sha1": "82af52349420ce46f8fdfc9fdec5bd7db512be79",
+ "sources": {
+  "eglink": "c389a874888debc41eec9b0219af65ccceebac6d",
+  "questie": "26e205c3569b98d74e80535da89c83dc9dc6a9a8"
+ },
+ "world": {
+  "files": 0,
+  "newest": "the PTR world (world_ptr) as the tracker read it on 2026-11-19"
+ }
+}
