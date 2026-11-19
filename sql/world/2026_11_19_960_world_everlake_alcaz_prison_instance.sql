@@ -12,9 +12,9 @@
 --
 -- Ids: world_safe_locs 1104144-1104145; custom area trigger templates, properties and spawns 2994-2995.
 
-DELETE FROM `instance_template` WHERE `map` = 2994;
-INSERT INTO `instance_template` (`map`,`parent`,`script`) VALUES
-(2994,1,'');
+-- added only where missing, so the fight script a later file names on it is kept
+INSERT INTO `instance_template` (`map`,`parent`,`script`)
+SELECT 2994,1,'' FROM DUAL WHERE NOT EXISTS (SELECT 1 FROM `instance_template` WHERE `map` = 2994);
 
 DELETE FROM `world_safe_locs` WHERE `ID` IN (1104144,1104145);
 INSERT INTO `world_safe_locs` (`ID`,`MapID`,`LocX`,`LocY`,`LocZ`,`Facing`,`Comment`) VALUES
