@@ -97,6 +97,18 @@ dates) of every source it was made from.
   chance as Wowhead's count over its kills, which items start or serve which quests, and how each creature reacts to
   either side where EG Link recorded no reaction (only ids, counts and reactions are taken); QuestieDB and forever-db
   from Polestar (credited above): spawn points. Factions, speeds and heights as for file 926.
+- `2026_11_18_928_world_everlake_hyjal_npcs.sql` (new Mount Hyjal creatures that missing quests name, and droppers of
+  items no one could get) is written by a script from **DatabaseForever** (credited above, used the same way): the
+  name, title, type, family, classification and models; one creature's template from EG Link (CC BY 4.0, credited
+  above); QuestieDB (credited above): levels, ranks, "friendly to both sides", spawn points from its corrections and
+  players' QuestieTrace recordings; forever-db from Polestar (credited above) and DatabaseForever's own creature rows:
+  spawn points; Wowhead's WoW Forever database (https://www.wowhead.com/forever), read through the tracker's page
+  cache: how the creatures react to players and the drop counts the loot chances are worked out from. Which side a
+  quest giver serves comes from EG Link's quest records. As slice 5 does, a creature's faction, speeds and attack
+  times come from the realm's own NPCs nearby whose faction fits that reaction, and the client's faction tables say
+  which fit. Heights are read from Everlake's own maps and vmaps. Displays the realm had no creature_model_info row
+  for get one inferred, as the fork's own model-info file does, from the realm's rows for the same client model or
+  from the client's CreatureDisplayInfo and CreatureModelData tables.
 - `2026_11_18_930_world_everlake_rest_npcs.sql` (new Forever quest givers, enders, kill targets and droppers across many
   zones, and invisible quest-credit NPCs) is written by a script in the same way as file 926: templates from EG Link
   (credited above), else DatabaseForever (credited with file 926: name, title, type, family, classification and models;
