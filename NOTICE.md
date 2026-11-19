@@ -305,7 +305,10 @@ gave it:
   npc=246931, and for Kresh a page comment naming his special attacks. Only spell ids are taken; timers are guesses.
 - `2026_11_19_942_world_everlake_crown_of_the_earth_phial.sql` (Crown of the Earth hands over the Amethyst Phial) is
   written by hand from Wowhead's WoW Forever database (https://www.wowhead.com/forever, credited with operation 27):
-  that quest 934 is the only source of item 5623, from its item list pages; and from VMaNGOS's world database (release db-70e38cd):
-  the quest's SrcItemId and SrcItemCount. Only ids and the count are taken.
+  that quest 934 is the only source of item 5623, from its item list pages; and from VMaNGOS's world database
+  (release db-70e38cd): the quest's SrcItemId and SrcItemCount. Only ids and the count are taken.
+- `2026_11_19_943_world_everlake_warbear_helm_pattern.sql` (Eldreth Seether drops Pattern: Warbear Helm) is written by
+  hand from Wowhead's WoW Forever database (credited with operation 27): item=252894's dropped-by tab, 3 drops in 29
+  kills, taken as the chance. Only the ids and the count are taken.
 
 Game content such as names and text belongs to Blizzard Entertainment.
