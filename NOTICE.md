@@ -81,6 +81,10 @@ dates) of every source it was made from.
   INFERRED.
 - `2026_11_19_964_world_everlake_alcaz_prison_scripts.sql` and `2026_11_19_965_world_everlake_shapers_terrace_scripts.sql`
   only name the core fork's fight scripts on the two instances and their bosses; written by hand.
+- `2026_11_19_966_world_everlake_shapers_terrace_panels.sql` (The Shaper's Terrace's four Archival Panels, its Titan
+  Panel and two Stone Guardians) is written by hand. Object and creature names, ids and models from Wowhead's WoW Forever
+  pages; what the panels do and where the guardians stand from the public guides of Warcraft Tavern and lfcarry (facts
+  only, no text copied); which colour each of Nanaya's crystals is from the client's spell icons.
 - `2026_11_18_960_world_everlake_blackmaw_hold_instance.sql` (Blackmaw Hold's instance, entrance, exit and graveyard)
   is written by hand. The portal's place comes from the public dungeon guides of Warcraft Tavern, mmonster and ssegold,
   which agree within 14 yards (map percentages only, no text copied), checked against the Blackmaw camps Wowhead's
