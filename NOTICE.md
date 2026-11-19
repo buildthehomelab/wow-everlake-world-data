@@ -188,5 +188,11 @@ gave it:
   Festival (42: 6 Booty Bay Revelers, the Booty Bay party's tables, kegs and mugs, toasting goblets and speakers, and 25
   door hangings, on event 1). A spawn the realm already had within 30 yards (an object within 10) and there while the
   holiday runs was left out. Applied on the test realm as the tracker's Forge operations 57 and 62.
+- operation 43: Wowhead's WoW Forever database (credited with operation 27), read by the tracker's page crawler as for
+  operation 27, for items players could not get on the realm: 66 creature drops on 61 creatures (recipes, Tiny Azure
+  Whelpling and other new items) and the loot link of creature 267182. The chance is drops over kills. Where Wowhead
+  counted only one drop (in at least ten kills) and nothing else gives the item, that single count is taken as the
+  rate (the project's decision of 2026-11-18: one count beats no source), so some chances rest on one sighting (0.02 to
+  10 %). Only ids and measured counts are taken. Applied on the test realm as the tracker's Forge operation 165.
 
 Game content such as names and text belongs to Blizzard Entertainment.
