@@ -319,5 +319,7 @@ gave it:
 - `2026_11_19_983_world_everlake_quest_npcs_eglink.sql` (19 quest creatures held by the earlier NPC batches) is written by
   a script from EG Link (Efficient Games, CC BY 4.0: creature records of the client's own query answers) and QuestieDB
   (GPL-3.0: levels, friendliness, spawn points). Factions, cave floors and model sizes are this realm's own rules.
+- `2026_11_19_984_world_everlake_build.sql` takes, besides EG Link and QuestieDB, a few quest givers and enders from
+  Wowhead's WoW Forever quest pages (https://www.wowhead.com/forever, their "Start" and "End" lines): ids only.
 
 Game content such as names and text belongs to Blizzard Entertainment.
