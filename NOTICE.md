@@ -330,5 +330,8 @@ gave it:
   Icy Veins' WoW Forever database (credited above), ids only, where no other source names them.
 - `2026_11_19_993_world_everlake_quest_item_drops.sql` takes which creatures and objects drop quest items, and how
   often, from Icy Veins' WoW Forever database (credited above), ids and counts only.
+- `2026_11_19_995_world_everlake_quest_objects.sql` (46 quest objects) takes each object's type, model, size, data fields
+  and icon, and the map points players' addons saw it at, from Icy Veins' WoW Forever database (credited above); EG
+  Link's object_details (CC BY 4.0) agree on type and model for the 19 they hold. Heights and facing are this realm's own.
 
 Game content such as names and text belongs to Blizzard Entertainment.
