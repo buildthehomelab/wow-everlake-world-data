@@ -326,5 +326,7 @@ gave it:
 - `2026_11_19_988_world_everlake_quest_npcs_wowhead.sql` (23 quest creatures) is written by a script from their Wowhead
   WoW Forever pages (https://www.wowhead.com/forever): name, level, reaction, faction, type, model and map points, ids
   and numbers only. Factions, heights and model sizes are this realm's own rules.
+- `2026_11_19_991_world_everlake_build.sql` takes quest givers, enders and starting items players' addons saw from
+  Icy Veins' WoW Forever database (credited above), ids only, where no other source names them.
 
 Game content such as names and text belongs to Blizzard Entertainment.
