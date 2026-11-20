@@ -326,5 +326,7 @@ gave it:
 - `2026_11_19_988_world_everlake_quest_npcs_wowhead.sql` (23 quest creatures) is written by a script from their Wowhead
   WoW Forever pages (https://www.wowhead.com/forever): name, level, reaction, faction, type, model and map points, ids
   and numbers only. Factions, heights and model sizes are this realm's own rules.
+- `2026_11_19_993_world_everlake_quest_item_drops.sql` takes which creatures and objects drop quest items, and how
+  often, from Icy Veins' WoW Forever database (credited above), ids and counts only.
 
 Game content such as names and text belongs to Blizzard Entertainment.
