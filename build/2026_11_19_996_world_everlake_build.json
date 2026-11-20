@@ -1,0 +1,1259 @@
+{
+ "file": "2026_11_19_996_world_everlake_build.sql",
+ "generator": "ForeverTracker export code (ft/quests.py, ft/export.py) at 47f5c16d, run for one quest slice by quest_slice.py",
+ "held_back": {},
+ "left_to_defaults": [
+  "quest_template.RewardMoneyDifficulty, RewardMoneyMultiplier and RewardBonusMoney (the money is written exactly, in quest_classic_money)",
+  "quest_template.RewardFactionFlags, SuggestedGroupNum, ContentTuningID, QuestPackageID, the honor, title, skill and artifact rewards, RewardChoiceItemDisplayID",
+  "quest_template.POI and Portrait columns",
+  "the texts a record gives for a player condition (conditionalDescriptions, conditionalCompletionTexts): quest_description_conditional, quest_completion_log_conditional. A quest that has any names them under \"unread\"",
+  "the reward of a treasure picker tools/world/treasure_pickers.json does not name: the picker row is written, no reward item",
+  "quest_objectives.Flags is 32 for every objective: what four in five recorded Forever objectives hold, not this quest's own",
+  "quest_template_addon beyond the classes (QuestieDB's word, else the class of a class category) and the one quest before it that QuestieDB states",
+  "quest_offer_reward and quest_request_items where no recording of the live game has the text in one wording, and their emotes always; quest_details (what the NPC does when it offers the quest), quest_poi"
+ ],
+ "rows": [
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    86804
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "An Unlikely Source",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    86925
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Toil and Trouble",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    89053
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Your Final Reward",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    90702
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Disturbed Grave",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92100
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Anywhere But Here",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    92858
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "WANTED: Ohk'zi",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93443
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Lost Shipping Crate",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93521
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Challenger of the Gods",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94479
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "One Person's Trash",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94895
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Lost Shipping Crate",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94963
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Biting the Hand",
+   "table": "quest_template",
+   "texts": {
+    "quest_offer_reward": "eglink@70959"
+   },
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95260
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Terrors From the Deep",
+   "table": "quest_template",
+   "texts": {
+    "quest_offer_reward": "eglink@70938"
+   },
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95325
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "We've Been Robbed!",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95326
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "The Big Payback",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95882
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "WANTED: Scoutmaster Vargas",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95992
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "WANTED: Ghostmaw",
+   "table": "quest_template",
+   "texts": {
+    "quest_offer_reward": "eglink@70938",
+    "quest_request_items": "eglink@70938"
+   },
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96255
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Amalgamated Marrow",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96435
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "A Fitting End",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 2,
+   "from_questiedb": {},
+   "key": [
+    96438
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Battle at the Mannoroc Coven",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96550
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Battle Recall",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96558
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Soldier's Solace",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 8,
+   "from_questiedb": {},
+   "key": [
+    96784
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Master of Disguise",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    96998
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Tribal Colors",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97000
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Grain of Memory",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    97001
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Sawyer's Legacy",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "key": [
+    3945,
+    95325
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 3945 gives We've Been Robbed!",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    4604,
+    97000
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 4604 gives Grain of Memory",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    5492,
+    96438
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 5492 gives Battle at the Mannoroc Coven",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    235906,
+    86804
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Elder Bramblesnap gives An Unlikely Source",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    239831,
+    89053
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Saria Fairmoon gives Your Final Reward",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255009,
+    92100
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Veteran of the Third War gives Anywhere But Here",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    259158,
+    94963
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Fuzzle gives Biting the Hand",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    263757,
+    96435
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Felflick gives A Fitting End",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    265375,
+    96558
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "Veteran of the Third War gives Soldier's Solace",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    3945,
+    95326
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 3945 takes The Big Payback",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    4604,
+    97001
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 4604 takes Sawyer's Legacy",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    7877,
+    92858
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 7877 takes WANTED: Ohk'zi",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    40833,
+    93521
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Tiala Whitemane takes Challenger of the Gods",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    244511,
+    96998
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Zet'gan takes Tribal Colors",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    244517,
+    90702
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Sefira Everbright takes Disturbed Grave",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255038,
+    96550
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Veteran of the Third War takes Battle Recall",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255897,
+    93443
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Friz Frazzlespark takes Lost Shipping Crate",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255897,
+    94895
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Friz Frazzlespark takes Lost Shipping Crate",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256222,
+    94479
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Ketharas takes One Person's Trash",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    258031,
+    95882
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Neza Bloodsnout takes WANTED: Scoutmaster Vargas",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260231,
+    95260
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Argo Brinewhistle takes Terrors From the Deep",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    263190,
+    95992
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Tan'jani takes WANTED: Ghostmaw",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    263757,
+    96255
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Felflick takes Amalgamated Marrow",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    266847,
+    96784
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Anastasia Miller takes Master of Disguise",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    506307,
+    86925
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "object 506307 gives Toil and Trouble",
+   "table": "gameobject_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    581918,
+    92858
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "object 581918 gives WANTED: Ohk'zi",
+   "table": "gameobject_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    629761,
+    95260
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "object 629761 gives Terrors From the Deep",
+   "table": "gameobject_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    630887,
+    95326
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "object 630887 gives The Big Payback",
+   "table": "gameobject_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    645164,
+    95992
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "object 645164 gives WANTED: Ghostmaw",
+   "table": "gameobject_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    650234,
+    94479
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "object 650234 gives One Person's Trash",
+   "table": "gameobject_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    651262,
+    90702
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "object 651262 gives Disturbed Grave",
+   "table": "gameobject_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    652449,
+    96255
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "object 652449 gives Amalgamated Marrow",
+   "table": "gameobject_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    654121,
+    96550
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "object 654121 gives Battle Recall",
+   "table": "gameobject_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    656157,
+    96784
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "object 656157 gives Master of Disguise",
+   "table": "gameobject_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    656786,
+    96998
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "object 656786 gives Tribal Colors",
+   "table": "gameobject_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    656815,
+    97001
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "object 656815 gives Sawyer's Legacy",
+   "table": "gameobject_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    658115,
+    94895
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "object 658115 gives Lost Shipping Crate",
+   "table": "gameobject_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    658116,
+    93443
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "object 658116 gives Lost Shipping Crate",
+   "table": "gameobject_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    707249,
+    95882
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "object 707249 gives WANTED: Scoutmaster Vargas",
+   "table": "gameobject_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    710894,
+    93521
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "object 710894 gives Challenger of the Gods",
+   "table": "gameobject_queststarter",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    423703,
+    96438
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "object 423703 takes Battle at the Mannoroc Coven",
+   "table": "gameobject_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    506307,
+    86804
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "object 506307 takes An Unlikely Source",
+   "table": "gameobject_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    506307,
+    86925
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "object 506307 takes Toil and Trouble",
+   "table": "gameobject_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    527828,
+    89053
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "object 527828 takes Your Final Reward",
+   "table": "gameobject_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    613848,
+    96558
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "object 613848 takes Soldier's Solace",
+   "table": "gameobject_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    625582,
+    94963
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "object 625582 takes Biting the Hand",
+   "table": "gameobject_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    630887,
+    95325
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "object 630887 takes We've Been Robbed!",
+   "table": "gameobject_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    652449,
+    96435
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "object 652449 takes A Fitting End",
+   "table": "gameobject_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    654121,
+    92100
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "object 654121 takes Anywhere But Here",
+   "table": "gameobject_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    656815,
+    97000
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "object 656815 takes Grain of Memory",
+   "table": "gameobject_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  }
+ ],
+ "set": "public",
+ "sha1": "a7fe19360258f4238348df91a55a1a671a4b248c",
+ "sources": {
+  "eglink": "c389a874888debc41eec9b0219af65ccceebac6d",
+  "questie": "26e205c3569b98d74e80535da89c83dc9dc6a9a8"
+ },
+ "world": {
+  "files": 0,
+  "newest": "the PTR world (world_ptr) as the tracker read it on 2026-11-19"
+ }
+}
