@@ -328,5 +328,7 @@ gave it:
   and numbers only. Factions, heights and model sizes are this realm's own rules.
 - `2026_11_19_991_world_everlake_build.sql` takes quest givers, enders and starting items players' addons saw from
   Icy Veins' WoW Forever database (credited above), ids only, where no other source names them.
+- `2026_11_19_993_world_everlake_quest_item_drops.sql` takes which creatures and objects drop quest items, and how
+  often, from Icy Veins' WoW Forever database (credited above), ids and counts only.
 
 Game content such as names and text belongs to Blizzard Entertainment.
