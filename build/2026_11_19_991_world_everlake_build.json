@@ -1,0 +1,724 @@
+{
+ "file": "2026_11_19_991_world_everlake_build.sql",
+ "generator": "ForeverTracker export code (ft/quests.py, ft/export.py) at 47f5c16d, run for one quest slice by quest_slice.py",
+ "held_back": {},
+ "left_to_defaults": [
+  "quest_template.RewardMoneyDifficulty, RewardMoneyMultiplier and RewardBonusMoney (the money is written exactly, in quest_classic_money)",
+  "quest_template.RewardFactionFlags, SuggestedGroupNum, ContentTuningID, QuestPackageID, the honor, title, skill and artifact rewards, RewardChoiceItemDisplayID",
+  "quest_template.POI and Portrait columns",
+  "the texts a record gives for a player condition (conditionalDescriptions, conditionalCompletionTexts): quest_description_conditional, quest_completion_log_conditional. A quest that has any names them under \"unread\"",
+  "the reward of a treasure picker tools/world/treasure_pickers.json does not name: the picker row is written, no reward item",
+  "quest_objectives.Flags is 32 for every objective: what four in five recorded Forever objectives hold, not this quest's own",
+  "quest_template_addon beyond the classes (QuestieDB's word, else the class of a class category) and the one quest before it that QuestieDB states",
+  "quest_offer_reward and quest_request_items where no recording of the live game has the text in one wording, and their emotes always; quest_details (what the NPC does when it offers the quest), quest_poi"
+ ],
+ "rows": [
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    87494
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Microcrystal Contamination",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93568
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Partially Digested Collar",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93574
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Corpsefeeder's Carapace",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    93971
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Farholde Scouting Report",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94291
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Craftsman's Writ: Dark Iron Bomb",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0,
+    "quest_treasure_pickers": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94326
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Craftsman's Writ: Radiant Belt",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0,
+    "quest_treasure_pickers": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94327
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Craftsman's Writ: Orcish War Leggings",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0,
+    "quest_treasure_pickers": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94329
+   ],
+   "kind": "quest",
+   "record": "eglink@70938",
+   "rule": "record-seen-live",
+   "says": "Craftsman's Writ: Imperial Plate Chest",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0,
+    "quest_treasure_pickers": 1
+   },
+   "witnesses": [
+    "eglink@70938"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94333
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Craftsman's Writ: Ebon Shiv",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0,
+    "quest_treasure_pickers": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94348
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Craftsman's Writ: Chimeric Vest",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0,
+    "quest_treasure_pickers": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94356
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Craftsman's Writ: Felcloth Boots",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0,
+    "quest_treasure_pickers": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    94360
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Craftsman's Writ: Soul Pouch",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 2,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0,
+    "quest_treasure_pickers": 1
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95384
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Partial Mystical Notes",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95385
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Torn Mystical Scroll",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 0,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95935
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Hail the Dragonslayer",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    95936
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Hail the Dragonslayer",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 1,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    98166
+   ],
+   "kind": "quest",
+   "record": "eglink@70959",
+   "rule": "record-seen-live",
+   "says": "Your First Horse",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [
+    "conditionalDescriptions"
+   ],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 3,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70959"
+   ]
+  },
+  {
+   "classes": 0,
+   "from_questiedb": {},
+   "key": [
+    99201
+   ],
+   "kind": "quest",
+   "record": "eglink@70888",
+   "rule": "record-seen-live",
+   "says": "Swift as the Wind",
+   "table": "quest_template",
+   "texts": {},
+   "unread": [],
+   "with": {
+    "quest_classic_money": 0,
+    "quest_objectives": 1,
+    "quest_reward_display_spell": 0,
+    "quest_template_addon": 0
+   },
+   "witnesses": [
+    "eglink@70888"
+   ]
+  },
+  {
+   "key": [
+    4885,
+    98166
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 4885 gives Your First Horse",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "icyveins:addon"
+   ]
+  },
+  {
+   "key": [
+    7953,
+    99201
+   ],
+   "kind": "gives",
+   "rule": "trusted-source",
+   "says": "npc 7953 gives Swift as the Wind",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "wowhead:quest page"
+   ]
+  },
+  {
+   "key": [
+    9619,
+    87494
+   ],
+   "kind": "gives",
+   "rule": "seen-live",
+   "says": "npc 9619 gives Microcrystal Contamination",
+   "table": "creature_queststarter",
+   "witnesses": [
+    "icyveins:addon"
+   ]
+  },
+  {
+   "key": [
+    3000,
+    94291
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 3000 takes Craftsman's Writ: Dark Iron Bomb",
+   "table": "creature_questender",
+   "witnesses": [
+    "icyveins:addon"
+   ]
+  },
+  {
+   "key": [
+    4885,
+    98166
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 4885 takes Your First Horse",
+   "table": "creature_questender",
+   "witnesses": [
+    "icyveins:addon"
+   ]
+  },
+  {
+   "key": [
+    7363,
+    94326
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 7363 takes Craftsman's Writ: Radiant Belt",
+   "table": "creature_questender",
+   "witnesses": [
+    "icyveins:addon"
+   ]
+  },
+  {
+   "key": [
+    7952,
+    99201
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 7952 takes Swift as the Wind",
+   "table": "creature_questender",
+   "witnesses": [
+    "icyveins:addon"
+   ]
+  },
+  {
+   "key": [
+    9619,
+    87494
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 9619 takes Microcrystal Contamination",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    11140,
+    94356
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 11140 takes Craftsman's Writ: Felcloth Boots",
+   "table": "creature_questender",
+   "witnesses": [
+    "icyveins:addon"
+   ]
+  },
+  {
+   "key": [
+    11185,
+    94333
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 11185 takes Craftsman's Writ: Ebon Shiv",
+   "table": "creature_questender",
+   "witnesses": [
+    "icyveins:addon"
+   ]
+  },
+  {
+   "key": [
+    14348,
+    94348
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "npc 14348 takes Craftsman's Writ: Chimeric Vest",
+   "table": "creature_questender",
+   "witnesses": [
+    "icyveins:addon"
+   ]
+  },
+  {
+   "key": [
+    253527,
+    93574
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Kog'thug the Brave takes Corpsefeeder's Carapace",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    255385,
+    93568
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Liranne takes Partially Digested Collar",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256418,
+    93971
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Krom'rosh takes Farholde Scouting Report",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    256418,
+    95936
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Krom'rosh takes Hail the Dragonslayer",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    257673,
+    94327
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Ugkragg takes Craftsman's Writ: Orcish War Leggings",
+   "table": "creature_questender",
+   "witnesses": [
+    "icyveins:addon"
+   ]
+  },
+  {
+   "key": [
+    259353,
+    95935
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Cedric Dalton takes Hail the Dragonslayer",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260873,
+    95384
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Dudd Fizzlescroll takes Partial Mystical Notes",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    260873,
+    95385
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Dudd Fizzlescroll takes Torn Mystical Scroll",
+   "table": "creature_questender",
+   "witnesses": [
+    "questie:trace"
+   ]
+  },
+  {
+   "key": [
+    261992,
+    94329
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Injured Soldier takes Craftsman's Writ: Imperial Plate Chest",
+   "table": "creature_questender",
+   "witnesses": [
+    "icyveins:addon"
+   ]
+  },
+  {
+   "key": [
+    262044,
+    94360
+   ],
+   "kind": "takes",
+   "rule": "seen-live",
+   "says": "Zelizax takes Craftsman's Writ: Soul Pouch",
+   "table": "creature_questender",
+   "witnesses": [
+    "icyveins:addon"
+   ]
+  }
+ ],
+ "set": "public",
+ "sha1": "f648df71c1e01d3902b9dcfaa5c3e03d54340274",
+ "sources": {
+  "eglink": "c389a874888debc41eec9b0219af65ccceebac6d",
+  "questie": "26e205c3569b98d74e80535da89c83dc9dc6a9a8"
+ },
+ "world": {
+  "files": 0,
+  "newest": "the PTR world (world_ptr) as the tracker read it on 2026-11-19"
+ }
+}
