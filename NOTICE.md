@@ -352,5 +352,7 @@ gave it:
   Mill) takes its points from Wowhead's Forever database through the ForeverTracker's page cache (points only), with
   Icy Veins and QuestieDB (GPL-3.0) as witnesses that the creature stands there. Heights are from the realm's maps;
   the model size is inferred from the realm's own row for the same client model.
+- `2026_11_23_05_world_everlake_tarantula_egg_template.sql` (the Tarantula Egg's template as live has it) is written
+  from EG Link's object details (Efficient Games, CC BY 4.0), with Icy Veins as second witness.
 
 Game content such as names and text belongs to Blizzard Entertainment.
