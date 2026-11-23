@@ -333,5 +333,10 @@ gave it:
 - `2026_11_19_995_world_everlake_quest_objects.sql` (46 quest objects) takes each object's type, model, size, data fields
   and icon, and the map points players' addons saw it at, from Icy Veins' WoW Forever database (credited above); EG
   Link's object_details (CC BY 4.0) agree on type and model for the 19 they hold. Heights and facing are this realm's own.
+- `2026_11_22_08_world_everlake_zephras_skyhopper_pools.sql` (one Skyhopper per doubled spot in Valanaar) is written
+  by hand. That live shows both Skyhopper entries on the same points comes from Icy Veins' WoW Forever database
+  (credited above), counts only; the spawns are the fork's own.
+- `2026_11_22_09_world_everlake_genn_fairweather_stable.sql` (Genn Fairweather's stable option on Zephras Isle) is
+  written by hand from his title; the option's wording is the one the fork's other stable masters use.
 
 Game content such as names and text belongs to Blizzard Entertainment.
