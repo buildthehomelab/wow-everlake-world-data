@@ -375,5 +375,11 @@ gave it:
   records are inferred from the sibling riding quests.
 - `2026_11_23_15_world_everlake_epic_mount_gossip.sql` (gossip flag on six Epic Ride mount NPCs) follows the
   sibling mount NPCs already on the realm.
+- `2026_11_23_16_world_everlake_tier05_set_boxes.sql` (contents of the 51 Tier 0.5 set boxes) takes the pieces from
+  Wowhead's Forever item tooltips and checks them against Wowhead's Season of Discovery contents lists, both read
+  through the ForeverTracker's page cache.
+- `2026_11_23_17_world_everlake_tier05_97xxx_quests.sql` (five Tier 0.5 quests for Alliance shamans and Horde
+  paladins) takes its quest records from the Icy Veins WoW Forever catalogue; givers, enders, class and chain are
+  inferred from the quest text and the 841xx quests.
 
 Game content such as names and text belongs to Blizzard Entertainment.
