@@ -300,6 +300,12 @@ gave it:
   lists, and nothing else), 3 container rows (the item inside, chance as drops over openings), and one reward item
   (284584) on 15 quests that gave none, set only where the quest's first reward slot was empty. Only ids and measured
   counts are taken. Applied on the test realm as the tracker's Forge operation 169.
+- operation 276: EG Link's quest records (CC BY 4.0, credited above), read again as for operation 22 (recording
+  423d6c96, client builds up to 71037), for quests the world already had, each where the record is from a later build
+  than the row: 11 quests whose rewards Forever hands out another way than the world held them (10 that give all
+  their items and no longer also offer them as a choice, and Operation: Death to Angerforge, a choice again), 25 XP
+  multipliers, two reward texts, a reward spell, a minimum level, and 26 creature and chest drop chances measured again.
+  Each statement names the value it replaces. Applied on the test realm as the tracker's Forge operation 276.
 - `2026_11_19_971_world_everlake_unscripted_bosses.sql` (Kresh, Old Serra'kis, Mana Wraith) is written by hand from
   Wowhead's WoW Forever database (https://www.wowhead.com/forever): the ability spell ids of npc=3653, npc=4830 and
   npc=246931, and for Kresh a page comment naming his special attacks. Only spell ids are taken; timers are guesses.
