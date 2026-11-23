@@ -349,5 +349,7 @@ gave it:
   added) is written from Icy Veins' WoW Forever database, alone by the project's decision of 2026-11-23, with
   Wowhead's Forever database through the ForeverTracker's page cache as second witness where it has the creature.
   Lockbox chances are Icy Veins'; junkbox chances are the realm's own averages.
+- `2026_11_23_09_world_everlake_personal_letterbox_lock.sql` (the Personal Letterbox's lock) takes the lock id from
+  Icy Veins' WoW Forever database.
 
 Game content such as names and text belongs to Blizzard Entertainment.
