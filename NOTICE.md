@@ -360,5 +360,15 @@ gave it:
 - `2026_11_23_07_world_everlake_scarlet_scryer_pickpocket.sql` (what a rogue picks from a Scarlet Scryer's pockets)
   takes the items and their counts from Wowhead's Forever database through the ForeverTracker's page cache, with
   Icy Veins as second witness.
+- `2026_11_23_08_world_everlake_lockbox_junkbox_drops.sql` (lockbox drops and junkboxes of the creatures Forever
+  added) is written from Icy Veins' WoW Forever database, alone by the project's decision of 2026-11-23, with
+  Wowhead's Forever database through the ForeverTracker's page cache as second witness where it has the creature.
+  Lockbox chances are Icy Veins'; junkbox chances are the realm's own averages.
+- `2026_11_23_10_world_everlake_skeleton_key_training.sql` (the skill and price ten trainers ask for the skeleton
+  keys) is written from EG Link's trainer windows (Efficient Games, CC BY 4.0) and Icy Veins' WoW Forever database.
+- `2026_11_23_11_world_everlake_twin_key.sql` (the Shadowfang Keep twins' script and pockets) sets the values the
+  core fork's own file meant to set, with Icy Veins and QuestieDB (GPL-3.0) as witnesses for the half-keys.
+- `2026_11_23_12_world_everlake_venture_work_order.sql` (the Venture Co. Work Order in three creatures' pockets)
+  takes its chances from Wowhead's Forever database through the ForeverTracker's page cache.
 
 Game content such as names and text belongs to Blizzard Entertainment.
