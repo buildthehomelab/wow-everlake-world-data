@@ -387,5 +387,9 @@ gave it:
 - `2026_11_23_17_world_everlake_tier05_97xxx_quests.sql` (five Tier 0.5 quests for Alliance shamans and Horde
   paladins) takes its quest records from the Icy Veins WoW Forever catalogue; givers, enders, class and chain are
   inferred from the quest text and the 841xx quests.
+- `2026_11_23_18_world_everlake_kill_credit_quests.sql` (93044 A Cleansing Cry, 93429 Blood of My Blood) takes its
+  quest records from the Icy Veins WoW Forever catalogue and its givers and enders from QuestieDB.
+- `2026_11_23_19_world_everlake_kill_credit_triggers.sql` (kill credit for those two quests) is written by hand from the
+  quest objectives.
 
 Game content such as names and text belongs to Blizzard Entertainment.
