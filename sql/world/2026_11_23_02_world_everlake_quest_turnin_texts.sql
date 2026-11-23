@@ -4,8 +4,8 @@
 --
 -- The realm's tracker lists these quests as "no turn-in text". Icy Veins' Forever database holds the words players'
 -- addons recorded on live for each of them (read through the ForeverTracker's mirror of it); no other source has them.
--- The tracker's own import never offered them: these quests got their quest_template rows after its last Icy Veins
--- card was made.
+-- The tracker's own Icy Veins cards of 2026-11-20 and 2026-11-21 did not offer them; why is not known (the quests and
+-- the recordings were both there). River Ends has a row without words, which that import leaves as it is by design.
 -- Only where the quest exists and has no words in that table yet: a missing row is added, an empty one filled. Each
 -- added row is recorded in everlake_import_rows.
 -- Source: Icy Veins (db.icy-veins.com/wow-forever, no licence stated). Game text belongs to Blizzard Entertainment.
