@@ -300,6 +300,13 @@ gave it:
   lists, and nothing else), 3 container rows (the item inside, chance as drops over openings), and one reward item
   (284584) on 15 quests that gave none, set only where the quest's first reward slot was empty. Only ids and measured
   counts are taken. Applied on the test realm as the tracker's Forge operation 169.
+- operation 273: Wowhead's Classic database (https://www.wowhead.com/classic), two chest drop chances measured again
+  as drops over openings: item 20379 in object 17349 (100 -> 84.39 %) and item 22736 in object 18015 (100 -> 46.15 %).
+  Only ids and measured counts are taken. Each statement names the value it replaces. Applied on the test realm as
+  the tracker's Forge operation 273.
+- operation 275: Wowhead's WoW Forever database (credited with operation 27), one creature drop chance measured again:
+  item 12471 from creature 10081 (53.66 -> 38.41 %). Only ids and measured counts are taken. The statement names the
+  value it replaces. Applied on the test realm as the tracker's Forge operation 275.
 - operation 276: EG Link's quest records (CC BY 4.0, credited above), read again as for operation 22 (recording
   423d6c96, client builds up to 71037), for quests the world already had, each where the record is from a later build
   than the row: 11 quests whose rewards Forever hands out another way than the world held them (10 that give all
