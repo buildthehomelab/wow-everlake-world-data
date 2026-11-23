@@ -1,9 +1,7 @@
--- Everlake Forge #274: Import, 1 resource(s), 38 row(s) (53 applied; 15 left out, see below)
+-- Everlake Forge #274: Import, 1 resource(s), 53 row(s)
 -- 2026_11_23_900_world_everlake_forge_00274_import.sql: exported by the Forever Tracker Forge (https://github.com/buildthehomelab/wow-forever-tracker) from a realm where it was applied and tested first.
 -- Made from the official WoW Forever client data (build 71037) and the Forge rules (docs/FORGE.md); rows as they were on that realm when exported.
 -- Sources: Icy Veins 2026-11-23 (gaps) (NOTICE.md, Forge exports).
--- Left out of the tracker's export by hand: 15 trainer_spell rows of trainer 1011869 (Ansekhwa, Thunder Bluff Weapon Master), hunter pet
--- abilities Icy Veins lists at him; 2026_11_23_901_world_everlake_ansekhwa_no_pet_abilities.sql takes them off the test realm.
 -- Never edit this file once it is deployed: a later fix is a new file. Running it again changes nothing: a row is added only
 -- where none exists, spawns only where the same creature or object is not already within 5 yards, and each added row is recorded in everlake_import_rows.
 
@@ -73,10 +71,25 @@ DELETE s FROM `everlake_forge_stage` s JOIN `quest_request_items` x ON x.`ID` <=
 INSERT INTO `quest_request_items` (`ID`, `EmoteOnComplete`, `EmoteOnIncomplete`, `EmoteOnCompleteDelay`, `EmoteOnIncompleteDelay`, `CompletionText`, `VerifiedBuild`) SELECT `ID`, `EmoteOnComplete`, `EmoteOnIncomplete`, `EmoteOnCompleteDelay`, `EmoteOnIncompleteDelay`, `CompletionText`, `VerifiedBuild` FROM `everlake_forge_stage`;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`) SELECT 'quest_request_items', s.`ID`, 0, 0, 0, '2026_11_23_900_world_everlake_forge_00274_import.sql', 'Forge #274: Icy Veins 2026-11-23 (gaps)' FROM `everlake_forge_stage` s;
 
--- trainer_spell: 1 row(s)
+-- trainer_spell: 16 row(s)
 DROP TEMPORARY TABLE IF EXISTS `everlake_forge_stage`;
 CREATE TEMPORARY TABLE `everlake_forge_stage` SELECT `TrainerId`, `SpellId`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqAbility1`, `ReqAbility2`, `ReqAbility3`, `ReqLevel`, `VerifiedBuild` FROM `trainer_spell` LIMIT 0;
 INSERT INTO `everlake_forge_stage` (`TrainerId`, `SpellId`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqAbility1`, `ReqAbility2`, `ReqAbility3`, `ReqLevel`, `VerifiedBuild`) VALUES
+(1011869, 1742, 0, 0, 0, 0, 0, 0, 5, 71037),
+(1011869, 2649, 0, 0, 0, 0, 0, 0, 1, 71037),
+(1011869, 4187, 0, 0, 0, 0, 0, 0, 1, 71037),
+(1011869, 7371, 0, 0, 0, 0, 0, 0, 1, 71037),
+(1011869, 16827, 0, 0, 0, 0, 0, 0, 1, 71037),
+(1011869, 17253, 0, 0, 0, 0, 0, 0, 1, 71037),
+(1011869, 23992, 0, 0, 0, 0, 0, 0, 20, 71037),
+(1011869, 24423, 0, 0, 0, 0, 0, 0, 8, 71037),
+(1011869, 24446, 0, 0, 0, 0, 0, 0, 20, 71037),
+(1011869, 24488, 0, 0, 0, 0, 0, 0, 20, 71037),
+(1011869, 24492, 0, 0, 0, 0, 0, 0, 20, 71037),
+(1011869, 24493, 0, 0, 0, 0, 0, 0, 20, 71037),
+(1011869, 24545, 0, 0, 0, 0, 0, 0, 1, 71037),
+(1011869, 1264494, 0, 0, 0, 0, 0, 0, 12, 71037),
+(1011869, 1265065, 0, 0, 0, 0, 0, 0, 12, 71037),
 (1251972, 3909, 500, 197, 50, 0, 0, 0, 10, 71037);
 DELETE s FROM `everlake_forge_stage` s JOIN `trainer_spell` x ON x.`TrainerId` <=> s.`TrainerId` AND x.`SpellId` <=> s.`SpellId`;
 DELETE FROM `everlake_forge_stage` WHERE NOT EXISTS (SELECT 1 FROM `trainer` p WHERE p.`Id` = `everlake_forge_stage`.`TrainerId`);

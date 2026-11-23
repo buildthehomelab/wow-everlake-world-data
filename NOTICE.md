@@ -305,10 +305,9 @@ gave it:
   Only ids and measured counts are taken. Each statement names the value it replaces. Applied on the test realm as
   the tracker's Forge operation 273.
 - operation 274: Icy Veins' WoW Forever database (credited above), what the realm lacked: 23 turn-in texts and 14
-  progress texts of quests, and Charles Worth (Expert Tailor) teaching Tailoring. The same card gave Ansekhwa, the
-  Thunder Bluff Weapon Master, 15 hunter pet abilities: the export leaves them out, and
-  `2026_11_23_901_world_everlake_ansekhwa_no_pet_abilities.sql` takes them off the test realm (as for operations 19 and 21, Icy Veins' pet ability lists are not taken). Applied on the
-  test realm as the tracker's Forge operation 274.
+  progress texts of quests, Charles Worth (Expert Tailor) teaching Tailoring, and Ansekhwa (Thunder Bluff Weapon
+  Master) listing the hunter pet abilities every other weapon master's recorded trainer window lists on live Forever.
+  Applied on the test realm as the tracker's Forge operation 274.
 - operation 275: Wowhead's WoW Forever database (credited with operation 27), one creature drop chance measured again:
   item 12471 from creature 10081 (53.66 -> 38.41 %). Only ids and measured counts are taken. The statement names the
   value it replaces. Applied on the test realm as the tracker's Forge operation 275.
