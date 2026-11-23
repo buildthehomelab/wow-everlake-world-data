@@ -351,5 +351,7 @@ gave it:
   Lockbox chances are Icy Veins'; junkbox chances are the realm's own averages.
 - `2026_11_23_09_world_everlake_personal_letterbox_lock.sql` (the Personal Letterbox's lock) takes the lock id from
   Icy Veins' WoW Forever database.
+- `2026_11_23_10_world_everlake_skeleton_key_training.sql` (the skill and price ten trainers ask for the skeleton
+  keys) is written from EG Link's trainer windows (Efficient Games, CC BY 4.0) and Icy Veins' WoW Forever database.
 
 Game content such as names and text belongs to Blizzard Entertainment.
