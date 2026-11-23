@@ -14,9 +14,9 @@
 -- STAND-IN (the realm's owner, 2026-11-23): an egg hatches the new Greater Tarantula (271898). On live the client's
 -- spell "Summon Greater Tarantula" (1309513) calls 271898 for five minutes, and the second egg (673085, tied to the
 -- quest) has a linked trap (673083) that most likely casts it; no source holds that trap's record and the realm
--- spawns only 673101. Until someone records it, the egg's own script does the hatching: on use, one time in two, it
--- calls one 271898 at the egg for five minutes (gone sooner once its corpse goes) and sets it on the player. One in
--- two is a choice: live has eggs of both kinds and nothing says how many of each.
+-- spawns only 673101. Until someone records it, the egg's own script does the hatching: on use it calls one 271898
+-- at the egg for five minutes (gone sooner once its corpse goes) and sets it on the player. Every egg hatches: the
+-- owner's choice. Live has eggs of both kinds and nothing says how many of each.
 --
 -- Source: EG Link (Efficient Games, CC BY 4.0), object details; Icy Veins as second witness; client SpellEffect,
 -- SpellDuration and Lock. Not checked in game: finish Alther's Mill (98386) once on the test realm.
@@ -41,11 +41,11 @@ INSERT INTO `smart_scripts` (`entryorguid`, `source_type`, `id`, `link`, `event_
   `event_flags`, `event_param1`, `event_param2`, `event_param3`, `event_param4`, `event_param5`, `action_type`,
   `action_param1`, `action_param2`, `action_param3`, `action_param4`, `action_param5`, `action_param6`, `target_type`,
   `target_param1`, `target_param2`, `target_param3`, `target_param4`, `target_x`, `target_y`, `target_z`, `target_o`, `comment`)
-SELECT 673101, 1, 0, 0, 64, 0, 50, 0, 1, 0, 0, 0, 0, 12, 271898, 2, 300000, 0, 4, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0,
-  'Tarantula Egg - On Use - Summon Greater Tarantula on the player (stand-in for trap 673083, 1 in 2)'
+SELECT 673101, 1, 0, 0, 64, 0, 100, 0, 1, 0, 0, 0, 0, 12, 271898, 2, 300000, 0, 4, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0,
+  'Tarantula Egg - On Use - Summon Greater Tarantula on the player (stand-in for trap 673083)'
 FROM DUAL WHERE @EVERLAKE_EGG_SCRIPT = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
-SELECT 'smart_scripts', 673101, 1, 0, 0, @EVERLAKE_FILE, 'STAND-IN for trap 673083: client spell 1309513 summons 271898 for 300 s; 1 in 2 is a choice'
+SELECT 'smart_scripts', 673101, 1, 0, 0, @EVERLAKE_FILE, 'STAND-IN for trap 673083: client spell 1309513 summons 271898 for 300 s; every egg hatches (owner)'
 FROM DUAL WHERE @EVERLAKE_EGG_SCRIPT = 1;
 
 UPDATE `gameobject_template` SET `Data0` = 99, `Data1` = 0, `Data10` = 1309544, `Data23` = 1
