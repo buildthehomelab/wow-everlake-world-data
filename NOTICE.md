@@ -338,5 +338,7 @@ gave it:
   (credited above), counts only; the spawns are the fork's own.
 - `2026_11_22_09_world_everlake_genn_fairweather_stable.sql` (Genn Fairweather's stable option on Zephras Isle) is
   written by hand from his title; the option's wording is the one the fork's other stable masters use.
+- `2026_11_22_10_world_everlake_grizzled_den_young_wendigos.sql` (6 of the 12 Young Wendigo spots at the Grizzled
+  Den's mouth stand at a time) is written by hand and is this realm's own choice; the spawns are the fork's own.
 
 Game content such as names and text belongs to Blizzard Entertainment.
