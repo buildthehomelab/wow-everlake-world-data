@@ -345,5 +345,9 @@ gave it:
   stand at once than any other world has) is written by hand. The limits are the counts in the worlds of VMaNGOS
   (GPL-2.0), AzerothCore (AGPL-3.0) and TrinityCore 3.3.5 (GPL-2.0), as the ForeverTracker's Spawn audit read them;
   the counts only. The spawns are the fork's own.
+- `2026_11_23_08_world_everlake_lockbox_junkbox_drops.sql` (lockbox drops and junkboxes of the creatures Forever
+  added) is written from Icy Veins' WoW Forever database, alone by the project's decision of 2026-11-23, with
+  Wowhead's Forever database through the ForeverTracker's page cache as second witness where it has the creature.
+  Lockbox chances are Icy Veins'; junkbox chances are the realm's own averages.
 
 Game content such as names and text belongs to Blizzard Entertainment.
