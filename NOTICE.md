@@ -402,5 +402,9 @@ gave it:
   quest records from the Icy Veins WoW Forever catalogue and its givers and enders from QuestieDB.
 - `2026_11_23_19_world_everlake_kill_credit_triggers.sql` (kill credit for those two quests) is written by hand from the
   quest objectives.
+- `2026_11_23_20_world_everlake_kill_credit_quests_2.sql` (95611 Rites of Respect, 95163 Drive Them Back) takes its quest
+  records, givers and enders from the Icy Veins WoW Forever catalogue.
+- `2026_11_23_21_world_everlake_paletusk_swat.sql` (Swineherd's Staff credit) is written by hand from the quest objective
+  and the client's spell data.
 
 Game content such as names and text belongs to Blizzard Entertainment.
