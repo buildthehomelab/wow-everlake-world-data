@@ -357,5 +357,8 @@ gave it:
   hatches a Greater Tarantula is a stand-in written by hand from the client's summon spell.
 - `2026_11_23_06_world_everlake_greater_tarantula_level.sql` (Greater Tarantula 271898 at level 18-19) takes the
   level from Wowhead's Forever database through the ForeverTracker's page cache, with QuestieDB (GPL-3.0) agreeing.
+- `2026_11_23_07_world_everlake_scarlet_scryer_pickpocket.sql` (what a rogue picks from a Scarlet Scryer's pockets)
+  takes the items and their counts from Wowhead's Forever database through the ForeverTracker's page cache, with
+  Icy Veins as second witness.
 
 Game content such as names and text belongs to Blizzard Entertainment.
