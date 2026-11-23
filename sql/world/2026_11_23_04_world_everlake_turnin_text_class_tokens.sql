@@ -1,4 +1,4 @@
--- Eight turn-in texts that call the player by one fixed class or race, in quests open to any: the class or race token
+-- Nine turn-in texts that call the player by one fixed class or race, in quests open to any: the class or race token
 -- ($c, $r) in its place.
 -- 2026_11_23_04_world_everlake_turnin_text_class_tokens.sql: checked by hand.
 --
@@ -8,7 +8,8 @@
 -- for a class or race set off as an address, in a quest not kept to that class (its sort, AllowableClasses) or that
 -- race (AllowableRaces). INFERRED: no recording shows the token itself; the wording around it is untouched.
 --   quest_offer_reward:  94279 Craftsman's Writ: Heavy Mithril Axe (shaman), 94877 Saving Sunnyglade (gnome),
---                        95603 Bats in the Belfry (warrior), 95792 Clear 'em Out (warrior), 99204 Swift as the Wind (hunter)
+--                        95603 Bats in the Belfry (warrior), 95792 Clear 'em Out (warrior), 99204 Swift as the Wind (hunter),
+--                        94350 Craftsman's Writ: Runic Leather Bracers ("a human paladin like yourself": both)
 --   quest_request_items: 91607 Pay Dirt! (paladin), 94336 Craftsman's Writ: Lifelike Mechanical Toad (orc),
 --                        94340 Craftsman's Writ: Truesilver Transformer (paladin)
 -- Swift as the Wind 99201 (rogue) is corrected in 2026_11_23_03. A Newly Discovered Purpose... (81944, "human") is left
@@ -27,6 +28,8 @@ UPDATE `quest_offer_reward` SET `RewardText` = REPLACE(`RewardText`, 'Terrific w
 WHERE `ID` = 95792 AND INSTR(`RewardText`, 'Terrific work, warrior.') > 0;
 UPDATE `quest_offer_reward` SET `RewardText` = REPLACE(`RewardText`, 'Throm''ka, hunter.', 'Throm''ka, $c.')
 WHERE `ID` = 99204 AND INSTR(`RewardText`, 'Throm''ka, hunter.') > 0;
+UPDATE `quest_offer_reward` SET `RewardText` = REPLACE(`RewardText`, 'a human paladin like yourself', 'a $r $c like yourself')
+WHERE `ID` = 94350 AND INSTR(`RewardText`, 'a human paladin like yourself') > 0;
 
 UPDATE `quest_request_items` SET `CompletionText` = REPLACE(`CompletionText`, 'What''s new, paladin?', 'What''s new, $c?')
 WHERE `ID` = 91607 AND INSTR(`CompletionText`, 'What''s new, paladin?') > 0;
