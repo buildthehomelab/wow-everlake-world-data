@@ -348,10 +348,10 @@ gave it:
 - `2026_11_23_03_world_everlake_skillup_ranges.sql` (the skill-up ranges of 45 chests, herbs and ore nodes) is
   written from EG Link's object details (Efficient Games, CC BY 4.0): the two values of each template, as the client
   was told them on live Forever.
-- `2026_11_23_04_world_everlake_althers_mill_tarantulas.sql` (20 spawns of the new Greater Tarantula at Alther's
-  Mill) takes its points from Wowhead's Forever database through the ForeverTracker's page cache (points only), with
-  Icy Veins and QuestieDB (GPL-3.0) as witnesses that the creature stands there. Heights are from the realm's maps;
-  the model size is inferred from the realm's own row for the same client model.
+- `2026_11_23_04_world_everlake_althers_mill_small_tarantula.sql` (one spawn of the small Greater Tarantula in
+  Alther's Mill, its level and kill credit) takes the point and the level from Icy Veins' players' records and the
+  kill credit from EG Link's creature details (Efficient Games, CC BY 4.0). The height is from the realm's maps; the
+  model size is inferred from the realm's own row for the same client model.
 - `2026_11_23_05_world_everlake_tarantula_egg_template.sql` (the Tarantula Egg's template as live has it) is written
   from EG Link's object details (Efficient Games, CC BY 4.0), with Icy Veins as second witness.
 - `2026_11_23_06_world_everlake_greater_tarantula_level.sql` (Greater Tarantula 271898 at level 18-19) takes the
