@@ -13,9 +13,8 @@
 --   * model size: the core does not load a creature whose display has no creature_model_info row. Display 146855 has
 --     none. INFERRED from display 520 (the old Greater Tarantula): the same client model (63) at scale 0.7 has
 --     bounding radius 1.84634 and combat reach 0.9375; 146855 draws it at scale 0.45.
--- Not added: the other new Greater Tarantula (271898). The client's spell "Summon Greater Tarantula" (1309513) calls
--- it for five minutes, so it hatches from the eggs; what casts the spell (trap 673083 of egg 673085) is recorded
--- nowhere.
+-- No standing spawn for the other new Greater Tarantula (271898): the client's spell "Summon Greater Tarantula"
+-- (1309513) calls it for five minutes, so it hatches from the eggs (file 2026_11_23_05).
 --
 -- Sources: Icy Veins (the point and the level); EG Link (Efficient Games, CC BY 4.0); client CreatureDisplayInfo.
 -- Not checked in game.

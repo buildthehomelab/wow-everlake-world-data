@@ -353,7 +353,8 @@ gave it:
   kill credit from EG Link's creature details (Efficient Games, CC BY 4.0). The height is from the realm's maps; the
   model size is inferred from the realm's own row for the same client model.
 - `2026_11_23_05_world_everlake_tarantula_egg_template.sql` (the Tarantula Egg's template as live has it) is written
-  from EG Link's object details (Efficient Games, CC BY 4.0), with Icy Veins as second witness.
+  from EG Link's object details (Efficient Games, CC BY 4.0), with Icy Veins as second witness. Its script that
+  hatches a Greater Tarantula is a stand-in written by hand from the client's summon spell.
 - `2026_11_23_06_world_everlake_greater_tarantula_level.sql` (Greater Tarantula 271898 at level 18-19) takes the
   level from Wowhead's Forever database through the ForeverTracker's page cache, with QuestieDB (GPL-3.0) agreeing.
 
