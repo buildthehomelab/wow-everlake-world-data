@@ -354,5 +354,7 @@ gave it:
   the model size is inferred from the realm's own row for the same client model.
 - `2026_11_23_05_world_everlake_tarantula_egg_template.sql` (the Tarantula Egg's template as live has it) is written
   from EG Link's object details (Efficient Games, CC BY 4.0), with Icy Veins as second witness.
+- `2026_11_23_06_world_everlake_greater_tarantula_level.sql` (Greater Tarantula 271898 at level 18-19) takes the
+  level from Wowhead's Forever database through the ForeverTracker's page cache, with QuestieDB (GPL-3.0) agreeing.
 
 Game content such as names and text belongs to Blizzard Entertainment.
