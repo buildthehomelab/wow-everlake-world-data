@@ -345,5 +345,12 @@ gave it:
   stand at once than any other world has) is written by hand. The limits are the counts in the worlds of VMaNGOS
   (GPL-2.0), AzerothCore (AGPL-3.0) and TrinityCore 3.3.5 (GPL-2.0), as the ForeverTracker's Spawn audit read them;
   the counts only. The spawns are the fork's own.
+- `2026_11_23_03_world_everlake_skillup_ranges.sql` (the skill-up ranges of 45 chests, herbs and ore nodes) is
+  written from EG Link's object details (Efficient Games, CC BY 4.0): the two values of each template, as the client
+  was told them on live Forever.
+- `2026_11_23_04_world_everlake_althers_mill_tarantulas.sql` (20 spawns of the new Greater Tarantula at Alther's
+  Mill) takes its points from Wowhead's Forever database through the ForeverTracker's page cache (points only), with
+  Icy Veins and QuestieDB (GPL-3.0) as witnesses that the creature stands there. Heights are from the realm's maps;
+  the model size is inferred from the realm's own row for the same client model.
 
 Game content such as names and text belongs to Blizzard Entertainment.
