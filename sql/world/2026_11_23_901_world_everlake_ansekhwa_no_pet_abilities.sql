@@ -1,9 +1,8 @@
 -- Ansekhwa, the Thunder Bluff Weapon Master (creature 11869, trainer 1011869), teaches weapons, not pet abilities.
--- Forge operation #274 (Icy Veins 2026-11-23 gaps, file 2026_11_23_900_world_everlake_forge_00274_import.sql) gave his
--- trainer 15 hunter pet abilities for free: Cower, Growl, Great Stamina, Charge, Claw, Bite, five resistances,
+-- Forge operation #274 (Icy Veins 2026-11-23 gaps) gave his trainer on the test realm 15 hunter pet abilities for free: Cower, Growl, Great Stamina, Charge, Claw, Bite, five resistances,
 -- Demoralizing Screech, Natural Armor, Swipe and Savage Rend. The realm's Hunter Trainers teach them; Icy Veins lists
--- pet abilities at trainers that do not teach them (NOTICE.md, operations 19 and 21). This file takes them off again,
--- with their ledger rows. His weapon skills (One- and Two-Handed Maces, Staves, Guns) stay. Running it again changes nothing.
+-- pet abilities at trainers that do not teach them (NOTICE.md, operations 19 and 21). Its export (file 900, forge_00274) leaves them out;
+-- this file takes them off the test realm, with any ledger rows. His weapon skills (One- and Two-Handed Maces, Staves, Guns) stay. Running it again changes nothing.
 
 DELETE FROM `trainer_spell`
 WHERE `TrainerId` = 1011869
