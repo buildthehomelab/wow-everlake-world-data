@@ -341,5 +341,9 @@ gave it:
 - `2026_11_22_10_world_everlake_grizzled_den_young_wendigos.sql` (4 of the 12 Young Wendigo spots at the Grizzled
   Den's mouth stand at a time) is written by hand. That 4 stand there is the count in the worlds of VMaNGOS (GPL-2.0),
   AzerothCore (AGPL-3.0) and TrinityCore 3.3.5 (GPL-2.0), which agree; the count only. The spawns are the fork's own.
+- `2026_11_22_11_world_everlake_pool_overspawned_creatures.sql` (thirteen open-world creatures pooled so that no more
+  stand at once than any other world has) is written by hand. The limits are the counts in the worlds of VMaNGOS
+  (GPL-2.0), AzerothCore (AGPL-3.0) and TrinityCore 3.3.5 (GPL-2.0), as the ForeverTracker's Spawn audit read them;
+  the counts only. The spawns are the fork's own.
 
 Game content such as names and text belongs to Blizzard Entertainment.
