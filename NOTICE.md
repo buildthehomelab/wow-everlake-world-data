@@ -406,5 +406,9 @@ gave it:
   records, givers and enders from the Icy Veins WoW Forever catalogue.
 - `2026_11_23_21_world_everlake_paletusk_swat.sql` (Swineherd's Staff credit) is written by hand from the quest objective
   and the client's spell data.
+- `2026_11_23_22_world_everlake_stolen_power_quest.sql` (95006 Stolen Power) takes its quest record, giver and ender from
+  the Icy Veins WoW Forever catalogue.
+- `2026_11_23_23_world_everlake_orokai_gossip_credit.sql` (Orokai's talk credit) is written by hand from the quest
+  objective and the client's spell data.
 
 Game content such as names and text belongs to Blizzard Entertainment.
