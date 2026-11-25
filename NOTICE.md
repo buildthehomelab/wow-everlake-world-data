@@ -419,5 +419,10 @@ gave it:
   the Icy Veins WoW Forever catalogue.
 - `2026_11_23_23_world_everlake_orokai_gossip_credit.sql` (Orokai's talk credit) is written by hand from the quest
   objective and the client's spell data.
+- `2026_11_25_12_world_everlake_live_loot_gaps.sql` (cloth, beast parts and skinning on 44 creatures) takes its
+  chances from Wowhead's Forever database through the ForeverTracker's page cache where it lists the drop, else from
+  EG Link's recordings, else from the Icy Veins WoW Forever catalogue.
+- `2026_11_25_13_world_everlake_silvias_sword_alliance.sql` (79363 Silvia's Sword offered to Alliance races) takes
+  its race mask from the Icy Veins WoW Forever catalogue.
 
 Game content such as names and text belongs to Blizzard Entertainment.
