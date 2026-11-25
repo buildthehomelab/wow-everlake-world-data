@@ -317,6 +317,15 @@ gave it:
   their items and no longer also offer them as a choice, and Operation: Death to Angerforge, a choice again), 25 XP
   multipliers, two reward texts, a reward spell, a minimum level, and 26 creature and chest drop chances measured again.
   Each statement names the value it replaces. Applied on the test realm as the tracker's Forge operation 276.
+- operations 311 to 317: Wowhead's WoW Forever database (credited with operation 27), read by the tracker's page
+  crawler from 24 to 25 November 2026. Operation 311: four turn-in texts and two progress texts the realm lacked, one
+  chest's item (220345) and one creature drop chance measured again. Operations 312 and 313: 110 creature drop chances
+  measured again. Operation 314: Elementium Bar as a quest drop of four creatures, taken from page comments naming the
+  creatures. Operation 315: seven fishing catches of Mount Hyjal and one drop chance measured again. Operation 316: 34
+  turn-in texts and 12 progress texts the realm lacked, taken from the quest pages' text (the game's own words), and
+  one fishing catch, and one empty turn-in text filled. Operation 317: 65 creature drops the realm lacked, and the loot table of creature 212252 linked.
+  Only ids, measured counts and the quests' texts are taken. Each refresh statement names the value it replaces.
+  Applied on the test realm as the tracker's Forge operations 311 to 317.
 - `2026_11_19_971_world_everlake_unscripted_bosses.sql` (Kresh, Old Serra'kis, Mana Wraith) is written by hand from
   Wowhead's WoW Forever database (https://www.wowhead.com/forever): the ability spell ids of npc=3653, npc=4830 and
   npc=246931, and for Kresh a page comment naming his special attacks. Only spell ids are taken; timers are guesses.
