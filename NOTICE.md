@@ -424,5 +424,12 @@ gave it:
   EG Link's recordings, else from the Icy Veins WoW Forever catalogue.
 - `2026_11_25_13_world_everlake_silvias_sword_alliance.sql` (79363 Silvia's Sword offered to Alliance races) takes
   its race mask from the Icy Veins WoW Forever catalogue.
+- `2026_11_25_14_world_everlake_live_vendor_spawns.sql` (Maralus, the Redridge camp's supply crates, the Barrens camp
+  crates' stock, Blind Screecher spawns) takes positions and vendor lists from the Icy Veins WoW Forever catalogue,
+  with Wowhead's map pins, ForeverDB.net (GPL-3.0) and Forever Changes as witnesses; heights from the realm's maps.
+- `2026_11_25_15_world_everlake_strange_orb.sql` (the Strange Orb object) takes its template from the Icy Veins WoW
+  Forever catalogue and its place from Wowhead's and QuestieDB's (GPL-3.0) map points.
+- `2026_11_25_16_world_everlake_missing_quests_orb_skonk.sql` (78088 A Strange Artifact, 79624 Anyone Can Cook, 79677
+  A Quick Grocery Run) takes its quest records from the Icy Veins WoW Forever catalogue.
 
 Game content such as names and text belongs to Blizzard Entertainment.
