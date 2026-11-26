@@ -431,5 +431,11 @@ gave it:
   Forever catalogue and its place from Wowhead's and QuestieDB's (GPL-3.0) map points.
 - `2026_11_25_16_world_everlake_missing_quests_orb_skonk.sql` (78088 A Strange Artifact, 79624 Anyone Can Cook, 79677
   A Quick Grocery Run) takes its quest records from the Icy Veins WoW Forever catalogue.
+- `2026_11_25_17_world_everlake_live_names_open_the_maw.sql` (six renamed creatures, Open the Maw's prerequisite)
+  takes the live names from EG Link, the Icy Veins WoW Forever catalogue and Wowhead, and the prerequisite from Icy Veins.
+- `2026_11_25_18_world_everlake_quest_levels_money.sql` (nine quest levels, ten quest money rewards) takes levels where
+  EG Link's quest records and the Icy Veins WoW Forever catalogue agree, and money from Icy Veins.
+- `2026_11_25_19_world_everlake_tameable_beasts.sql` (four tameable Forever beasts) takes pet families and the tameable
+  flag from EG Link, the Icy Veins WoW Forever catalogue and Wowhead.
 
 Game content such as names and text belongs to Blizzard Entertainment.
