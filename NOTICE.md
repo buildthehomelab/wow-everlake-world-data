@@ -437,5 +437,8 @@ gave it:
   EG Link's quest records and the Icy Veins WoW Forever catalogue agree, and money from Icy Veins.
 - `2026_11_25_19_world_everlake_tameable_beasts.sql` (four tameable Forever beasts) takes pet families and the tameable
   flag from EG Link, the Icy Veins WoW Forever catalogue and Wowhead.
+- `2026_11_25_20_world_everlake_live_loot_gaps_2.sql` (465 drops of 3% or more on spawned creatures) takes its chances
+  from Wowhead's Forever database through the ForeverTracker's page cache, EG Link's recordings and the Icy Veins WoW
+  Forever catalogue.
 
 Game content such as names and text belongs to Blizzard Entertainment.
