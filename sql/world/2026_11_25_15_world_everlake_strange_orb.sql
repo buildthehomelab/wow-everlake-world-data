@@ -29,7 +29,7 @@ START TRANSACTION;
 
 SET @EVERLAKE_G := (SELECT COUNT(*) = 0 FROM `gameobject_template` WHERE `entry` = 409289);
 INSERT INTO `gameobject_template` (`entry`, `type`, `displayId`, `name`, `IconName`, `castBarCaption`, `unk1`, `size`, `Data0`, `Data1`, `Data2`, `Data3`, `Data4`, `Data5`, `Data6`, `Data7`, `Data8`, `Data9`, `Data10`, `Data11`, `Data12`, `Data13`, `Data14`, `Data15`, `Data16`, `Data17`, `Data18`, `Data19`, `Data20`, `Data21`, `Data22`, `Data23`, `Data24`, `Data25`, `Data26`, `Data27`, `Data28`, `Data29`, `Data30`, `Data31`, `Data32`, `Data33`, `Data34`, `ContentTuningId`, `RequiredLevel`, `AIName`, `ScriptName`, `StringId`, `VerifiedBuild`)
-SELECT 409289, 2, 404, 'Strange Orb', '', '', '', 2.0, 0, 29897, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, '', '', NULL, 0 FROM DUAL WHERE @EVERLAKE_G = 1;
+SELECT 409289, 2, 404, 'Strange Orb', '', '', '', 2.0, 0, 29897, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, '', '', NULL, 0 FROM DUAL WHERE @EVERLAKE_G = 1;
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`) SELECT 'gameobject_template', 409289, 0, 0, 0, @EVERLAKE_FILE, 'Icy Veins gameobject=409289' FROM DUAL WHERE @EVERLAKE_G = 1;
 
 SET @EVERLAKE_GS := (SELECT COUNT(*) = 1 FROM `gameobject_template` WHERE `entry` = 409289) AND (SELECT COUNT(*) = 0 FROM `gameobject` WHERE `id` = 409289 AND `guid` <> 920019100);
