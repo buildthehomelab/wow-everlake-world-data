@@ -440,5 +440,8 @@ gave it:
 - `2026_11_25_20_world_everlake_live_loot_gaps_2.sql` (465 drops of 3% or more on spawned creatures) takes its chances
   from Wowhead's Forever database through the ForeverTracker's page cache, EG Link's recordings and the Icy Veins WoW
   Forever catalogue.
+- `2026_11_25_21_world_everlake_twilight_brute_battleboar.sql` (Twilight Brute spawns and loot, Bristleback Battleboar
+  skinning) takes positions from EG Link, the loot match from the Icy Veins WoW Forever catalogue, and the skinning item
+  from Wowhead and Icy Veins.
 
 Game content such as names and text belongs to Blizzard Entertainment.
