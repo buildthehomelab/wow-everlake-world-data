@@ -443,5 +443,7 @@ gave it:
 - `2026_11_25_21_world_everlake_twilight_brute_battleboar.sql` (Twilight Brute spawns and loot, Bristleback Battleboar
   skinning) takes positions from EG Link, the loot match from the Icy Veins WoW Forever catalogue, and the skinning item
   from Wowhead and Icy Veins.
+- `2026_11_25_22_world_everlake_restore_object_doubles.sql` (1,007 restore objects standing inside the live game's
+  own copy) is written by hand from the realm's world; it removes rows and adds none.
 
 Game content such as names and text belongs to Blizzard Entertainment.
