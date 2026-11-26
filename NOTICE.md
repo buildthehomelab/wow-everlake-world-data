@@ -445,5 +445,7 @@ gave it:
   from Wowhead and Icy Veins.
 - `2026_11_25_22_world_everlake_restore_object_doubles.sql` (1,007 restore objects standing inside the live game's
   own copy) is written by hand from the realm's world; it removes rows and adds none.
+- `2026_11_25_23_world_everlake_galestrider_loot.sql` (Galestrider and Ornery Galestrider loot rates and skinning)
+  takes rates from the Icy Veins WoW Forever catalogue and skinning from Wowhead's Forever database.
 
 Game content such as names and text belongs to Blizzard Entertainment.
