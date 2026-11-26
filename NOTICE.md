@@ -435,5 +435,7 @@ gave it:
   takes the live names from EG Link, the Icy Veins WoW Forever catalogue and Wowhead, and the prerequisite from Icy Veins.
 - `2026_11_25_18_world_everlake_quest_levels_money.sql` (nine quest levels, ten quest money rewards) takes levels where
   EG Link's quest records and the Icy Veins WoW Forever catalogue agree, and money from Icy Veins.
+- `2026_11_25_19_world_everlake_tameable_beasts.sql` (four tameable Forever beasts) takes pet families and the tameable
+  flag from EG Link, the Icy Veins WoW Forever catalogue and Wowhead.
 
 Game content such as names and text belongs to Blizzard Entertainment.
