@@ -449,5 +449,7 @@ gave it:
   takes rates from the Icy Veins WoW Forever catalogue and skinning from Wowhead's Forever database.
 - `2026_11_25_24_world_everlake_live_loot_rates.sql` (3,662 loot rates on 665 loot tables brought down to the live
   game's) takes its rates from the Icy Veins WoW Forever catalogue.
+- `2026_11_25_25_world_everlake_live_loot_rates_2.sql` (5,546 more loot rates on 943 loot tables brought down to the
+  live game's) takes its rates from the Icy Veins WoW Forever catalogue.
 
 Game content such as names and text belongs to Blizzard Entertainment.
