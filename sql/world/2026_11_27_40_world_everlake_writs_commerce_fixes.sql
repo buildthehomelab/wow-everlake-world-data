@@ -17,10 +17,12 @@
 --    empty. Money from player reports (INFERRED range around them): Journeyman 30s 1c, about 35s on average;
 --    Expert 50s 29c, 51s 82c, 54s 70c, 81s 38c, 84s 94c, 85s 45c, about 88s, about 75s on average; Artisan 1g 44s 80c,
 --    about 1g 88s, about 1g 52s on average. Ranges: 25s-45s, 50s-90s, 1g 40s-1g 90s.
--- 4. Writ drops. 2026_11_19_982 made the three tier drop lists (9500001-9500003) from the 94 writ quests of that day;
---    writs added before and after it never joined them, so 43 writs could not drop. Every writ quest that has a
---    turn-in NPC or object joins its tier's list (75 / 125 / 200 reputation). The 9 writs that nobody records a
---    turn-in for (live included) stay out: a writ that cannot be handed in should not drop.
+-- 4. Writ drops. A writ comes two ways: inside a Sealed Journeyman's / Expert's / Artisan's Writ (creature loot,
+--    opened by spells 1269671 / 1269673 / 1269675, every writ of the tier), and as a direct world drop (the guide: "A
+--    Craftsman's Writ is a world drop"). 2026_11_19_982 made the three direct drop lists (9500001-9500003) from the 94
+--    writ quests of that day; writs added before and after it never joined them, so 43 writs came only from the
+--    sealed writs. Every writ quest that has a turn-in NPC or object joins its tier's list (75 / 125 / 200
+--    reputation). The 9 writs that nobody records a turn-in for (live included) stay out of the direct lists.
 -- 5. Archmage Xylem (8379) offered the Potion of Demonslaying writ quest 94316 himself; writ quests start only from
 --    their writ (live quest pages give no starter). His starter row goes.
 -- 6. Camp vendor prices (ItemExtendedCost from the client, every one is "this much Merchant's Favor", currency 3402):
