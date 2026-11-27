@@ -1,11 +1,11 @@
 -- 2026_11_27_07_world_everlake_undermine_real_blackmaw_shapers.sql: the bosses of Blackmaw Hold (map 2974) and The Shaper's Terrace (map 3001) drop the Tarnished
 -- Undermine Real (currency 3469), as forg.gg's Undermine Real guide lists both dungeons. Same rules as the other dungeons
 -- (2026_11_27_03, 2026_11_27_04): every kill, once a day per character through a hidden daily tracking quest (ids
--- 9346977-9346994), and 3 from each dungeon's last boss (and King Op).
+-- 9346977-9346994), and 3 from each dungeon's last boss (and King Op and Direhorn Matriarch).
 --   Blackmaw Hold: Withermaw, Impaan the Imprisoner, Elder Shaman Bloodmane, Bonesnout the Unbroken, Varrox Bleakhoof,
 --     Blackmaw Behemoth, Unbound Spirit (last: highest DungeonEncounter OrderIndex, 6000).
 --   The Shaper's Terrace: Titanosaur, Ravasaur Hunters (on Tor'Rel 261811, who carries the encounter's loot), Thunderhoof,
---     Venomridge, Direhorn Matriarch, Cinder, King Op, Snowtalon, Bolt, Nanaya, Vitrix (last). King Op gives 3 as well.
+--     Venomridge, Direhorn Matriarch, Cinder, King Op, Snowtalon, Bolt, Nanaya, Vitrix (last). King Op and Direhorn Matriarch give 3 as well.
 -- Bosses from the tracker's encounter list (DungeonEncounter.db2, enUS client).
 -- Running it again changes nothing: a row is added only where none exists, and each added row is recorded in
 -- everlake_import_rows. Never edit this file once it is deployed: a later fix is a new file.
@@ -76,7 +76,7 @@ INSERT INTO `everlake_forge_stage` (`Entry`, `ItemType`, `Item`, `Chance`, `Ques
 (261812, 3, 9346986, 100, 0, 1, 0, 1, 1, 'Undermine Real once a day'),
 (261813, 2, 3469, 100, 0, 1, 0, 1, 1, 'Undermine Real (forg.gg)'),
 (261813, 3, 9346987, 100, 0, 1, 0, 1, 1, 'Undermine Real once a day'),
-(262127, 2, 3469, 100, 0, 1, 0, 1, 1, 'Undermine Real (forg.gg)'),
+(262127, 2, 3469, 100, 0, 1, 0, 3, 3, 'Undermine Real (forg.gg)'),
 (262127, 3, 9346988, 100, 0, 1, 0, 1, 1, 'Undermine Real once a day'),
 (261974, 2, 3469, 100, 0, 1, 0, 1, 1, 'Undermine Real (forg.gg)'),
 (261974, 3, 9346989, 100, 0, 1, 0, 1, 1, 'Undermine Real once a day'),
