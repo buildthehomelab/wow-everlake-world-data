@@ -77,7 +77,7 @@ INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`
 SELECT 'creature_classic_level', 248709, 0, 0, 0, @EVERLAKE_FILE, 'level 56: Icy Veins addon_levels, EG Link creatures 71037, Wowhead' FROM DUAL WHERE @EVERLAKE_C248709 = 1;
 
 -- the rest only while the template is this file's
-SET @EVERLAKE_CS248709 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 248709 AND `file` = @EVERLAKE_FILE)
+SET @EVERLAKE_CS248709 := (SELECT COUNT(*) = 1 FROM `everlake_import_rows` WHERE `tbl` = 'creature_template' AND `k1` = 248709 AND `file` = CONVERT(@EVERLAKE_FILE USING utf8mb4) COLLATE utf8mb4_unicode_ci)
   AND (SELECT COUNT(*) = 1 FROM `creature_template` WHERE `entry` = 248709 AND `VerifiedBuild` = 0 AND `ScriptName` = '');
 
 -- one spawn at EG Link's point (wander INFERRED)
