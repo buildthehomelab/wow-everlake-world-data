@@ -5,8 +5,7 @@
 --   Blackmaw Hold: Withermaw, Impaan the Imprisoner, Elder Shaman Bloodmane, Bonesnout the Unbroken, Varrox Bleakhoof,
 --     Blackmaw Behemoth, Unbound Spirit (last: highest DungeonEncounter OrderIndex, 6000).
 --   The Shaper's Terrace: Titanosaur, Ravasaur Hunters (on Tor'Rel 261811, who carries the encounter's loot), Thunderhoof,
---     Venomridge, Direhorn Matriarch, Cinder, King Op, Snowtalon, Bolt, Vitrix, Nanaya (last: highest DungeonEncounter
---     OrderIndex, 8000).
+--     Venomridge, Direhorn Matriarch, Cinder, King Op, Snowtalon, Bolt, Nanaya, Vitrix (last).
 -- Bosses from the tracker's encounter list (DungeonEncounter.db2, enUS client).
 -- Running it again changes nothing: a row is added only where none exists, and each added row is recorded in
 -- everlake_import_rows. Never edit this file once it is deployed: a later fix is a new file.
@@ -87,9 +86,9 @@ INSERT INTO `everlake_forge_stage` (`Entry`, `ItemType`, `Item`, `Chance`, `Ques
 (262297, 3, 9346991, 100, 0, 1, 0, 1, 1, 'Undermine Real once a day'),
 (262081, 2, 3469, 100, 0, 1, 0, 1, 1, 'Undermine Real (forg.gg)'),
 (262081, 3, 9346992, 100, 0, 1, 0, 1, 1, 'Undermine Real once a day'),
-(272561, 2, 3469, 100, 0, 1, 0, 1, 1, 'Undermine Real (forg.gg)'),
+(272561, 2, 3469, 100, 0, 1, 0, 3, 3, 'Undermine Real (forg.gg)'),
 (272561, 3, 9346993, 100, 0, 1, 0, 1, 1, 'Undermine Real once a day'),
-(261809, 2, 3469, 100, 0, 1, 0, 3, 3, 'Undermine Real (forg.gg)'),
+(261809, 2, 3469, 100, 0, 1, 0, 1, 1, 'Undermine Real (forg.gg)'),
 (261809, 3, 9346994, 100, 0, 1, 0, 1, 1, 'Undermine Real once a day');
 DELETE s FROM `everlake_forge_stage` s JOIN `creature_loot_template` x ON x.`Entry` = s.`Entry` AND x.`ItemType` = s.`ItemType` AND x.`Item` = s.`Item`;
 INSERT INTO `creature_loot_template` (`Entry`, `ItemType`, `Item`, `Chance`, `QuestRequired`, `LootMode`, `GroupId`, `MinCount`, `MaxCount`, `Comment`) SELECT `Entry`, `ItemType`, `Item`, `Chance`, `QuestRequired`, `LootMode`, `GroupId`, `MinCount`, `MaxCount`, `Comment` FROM `everlake_forge_stage`;
