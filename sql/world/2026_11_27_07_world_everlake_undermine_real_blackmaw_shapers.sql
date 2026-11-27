@@ -2,8 +2,8 @@
 -- Undermine Real (currency 3469), as forg.gg's Undermine Real guide lists both dungeons. Same rules as the other dungeons
 -- (2026_11_27_03, 2026_11_27_04): every kill, once a day per character through a hidden daily tracking quest (ids
 -- 9346977-9346994), and 3 from each dungeon's last boss.
---   Blackmaw Hold: Withermaw, Impaan the Imprisoner, Elder Shaman Bloodmane, Bonesnout the Unbroken, Varrox Bleakhoof (last:
---     the Timbermaw want his head, quest 92065), Blackmaw Behemoth, Unbound Spirit.
+--   Blackmaw Hold: Withermaw, Impaan the Imprisoner, Elder Shaman Bloodmane, Bonesnout the Unbroken, Varrox Bleakhoof,
+--     Blackmaw Behemoth, Unbound Spirit (last: highest DungeonEncounter OrderIndex, 6000).
 --   The Shaper's Terrace: Titanosaur, Ravasaur Hunters (on Tor'Rel 261811, who carries the encounter's loot), Thunderhoof,
 --     Venomridge, Direhorn Matriarch, Cinder, King Op, Snowtalon, Bolt, Vitrix, Nanaya (last: highest DungeonEncounter
 --     OrderIndex, 8000).
@@ -63,11 +63,11 @@ INSERT INTO `everlake_forge_stage` (`Entry`, `ItemType`, `Item`, `Chance`, `Ques
 (247209, 3, 9346979, 100, 0, 1, 0, 1, 1, 'Undermine Real once a day'),
 (247198, 2, 3469, 100, 0, 1, 0, 1, 1, 'Undermine Real (forg.gg)'),
 (247198, 3, 9346980, 100, 0, 1, 0, 1, 1, 'Undermine Real once a day'),
-(247234, 2, 3469, 100, 0, 1, 0, 3, 3, 'Undermine Real (forg.gg)'),
+(247234, 2, 3469, 100, 0, 1, 0, 1, 1, 'Undermine Real (forg.gg)'),
 (247234, 3, 9346981, 100, 0, 1, 0, 1, 1, 'Undermine Real once a day'),
 (247207, 2, 3469, 100, 0, 1, 0, 1, 1, 'Undermine Real (forg.gg)'),
 (247207, 3, 9346982, 100, 0, 1, 0, 1, 1, 'Undermine Real once a day'),
-(247231, 2, 3469, 100, 0, 1, 0, 1, 1, 'Undermine Real (forg.gg)'),
+(247231, 2, 3469, 100, 0, 1, 0, 3, 3, 'Undermine Real (forg.gg)'),
 (247231, 3, 9346983, 100, 0, 1, 0, 1, 1, 'Undermine Real once a day'),
 (253201, 2, 3469, 100, 0, 1, 0, 1, 1, 'Undermine Real (forg.gg)'),
 (253201, 3, 9346984, 100, 0, 1, 0, 1, 1, 'Undermine Real once a day'),
