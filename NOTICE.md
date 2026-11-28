@@ -487,5 +487,7 @@ gave it:
 - `2026_11_28_20_world_everlake_import_spawns_off_live.sql` (Eastsea pirates, Snargl and two Harvest Golems V000-A moved
   onto their live spots, seven Hyjal spawns far from every live point removed, Orthas's Hammer moved, a year-round Apple Bob removed) takes the spots from Wowhead's Forever
   database, QuestieDB's Forever data and EG Link's live recordings.
+- `2026_11_28_80_world_everlake_missing_skinning_loot.sql` (69 creatures skinned on live get skinning tables) takes
+  the items and shares from Wowhead's Forever database (recorded skins).
 
 Game content such as names and text belongs to Blizzard Entertainment.
