@@ -476,5 +476,7 @@ gave it:
   Everlake's own navmesh, maps and vmaps.
 - `2026_11_28_30_world_everlake_spawn_rows_keep_template_auras.sql` (476 spawns whose own row hid their creature's
   auras, such as guards' stealth detection, get them back) uses the realm's own templates; no outside source.
+- `2026_11_28_50_world_everlake_patrol_rows_keep_template_addon.sql` (21 patrolling spawns get back their creature's
+  mount, sheath, PvP flags or view distance) uses the realm's own templates; no outside source.
 
 Game content such as names and text belongs to Blizzard Entertainment.
