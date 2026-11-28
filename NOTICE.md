@@ -526,5 +526,7 @@ gave it:
 - `2026_11_28_102_world_everlake_missing_mob_spells.sql` (229 creatures with no AI get the spells they cast on live:
   Shoot, Strike, Poison, Enrage, Shadow Bolt and others) takes the spells from Wowhead's Forever database and each
   spell's timing from the realm's other casters.
+- `2026_11_28_103_world_everlake_spawns_keep_equipment.sql` (imported spawns of 12 creatures hold their weapons again,
+  like the rest of their kind) uses the realm's own equipment rows; no outside source.
 
 Game content such as names and text belongs to Blizzard Entertainment.
