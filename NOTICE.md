@@ -467,7 +467,7 @@ gave it:
   the drops from QuestieDB's WoW Forever data and the Icy Veins WoW Forever catalogue.
 - `2026_11_28_10_world_everlake_forge_spawns_off_pins.sql` (Ombassa and two Children of Tortolla moved from the tracker Forge's spots onto
   their live ones, Ombassa one at a time) takes the spots from Wowhead's Forever database and EG Link's live recordings.
-- `2026_11_28_30_world_everlake_guard_detection_spawn_rows.sql` (51 guard spawns whose own row hid their stealth
-  detection get their creature's auras back) uses the realm's own templates; no outside source.
+- `2026_11_28_30_world_everlake_spawn_rows_keep_template_auras.sql` (476 spawns whose own row hid their creature's
+  auras, such as guards' stealth detection, get them back) uses the realm's own templates; no outside source.
 
 Game content such as names and text belongs to Blizzard Entertainment.
