@@ -111,14 +111,14 @@ SELECT 'gameobject', 47500105, 0, 0, 0, @EVERLAKE_FILE, 'Orthas''s Hammer onto Q
 FROM `gameobject` g WHERE g.`guid` = 47500105 AND g.`id` = 461639 AND g.`position_x` = 2012.0;
 --   Apple Bob 180523 (900000000, import slice 4): a Hallow's End tub standing all year in Razor Hill, on top of the
 --     realm's own Hallow's End Apple Bob 30332855 (event 12, same spot). Removed; the event one stays.
-INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
-SELECT 'gameobject', g.`guid`, 0, 0, 0, @EVERLAKE_FILE, 'removed: year-round Apple Bob over the Hallow''s End one (30332855)'
-FROM `gameobject` g WHERE g.`guid` = 900000000 AND g.`id` = 180523
+SET @EVERLAKE_APPLE := (SELECT COUNT(*) FROM `gameobject` g WHERE g.`guid` = 900000000 AND g.`id` = 180523
   AND NOT EXISTS (SELECT 1 FROM `game_event_gameobject` e WHERE e.`guid` = 900000000)
   AND EXISTS (SELECT 1 FROM `game_event_gameobject` e JOIN `gameobject` o ON o.`guid` = e.`guid` WHERE o.`id` = 180523 AND o.`map` = 1
-    AND ABS(o.`position_x` - g.`position_x`) < 5 AND ABS(o.`position_y` - g.`position_y`) < 5);
-DELETE g FROM `gameobject` g JOIN `everlake_import_rows` r ON r.`tbl` = 'gameobject' AND r.`k1` = g.`guid` AND r.`file` = @EVERLAKE_FILE
-WHERE g.`guid` = 900000000 AND g.`id` = 180523;
+    AND ABS(o.`position_x` - g.`position_x`) < 5 AND ABS(o.`position_y` - g.`position_y`) < 5));
+INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
+SELECT 'gameobject', 900000000, 0, 0, 0, @EVERLAKE_FILE, 'removed: year-round Apple Bob over the Hallow''s End one (30332855)'
+FROM DUAL WHERE @EVERLAKE_APPLE = 1;
+DELETE FROM `gameobject` WHERE @EVERLAKE_APPLE = 1 AND `guid` = 900000000 AND `id` = 180523;
 DELETE FROM `gameobject_addon` WHERE `guid` = 900000000 AND NOT EXISTS (SELECT 1 FROM `gameobject` WHERE `guid` = 900000000);
 DELETE FROM `spawn_group` WHERE `spawnType` = 1 AND `spawnId` = 900000000 AND NOT EXISTS (SELECT 1 FROM `gameobject` WHERE `guid` = 900000000);
 
