@@ -493,5 +493,8 @@ gave it:
   linked; six creatures with none get one) takes drop rates from Wowhead's Forever database (kill and drop counts).
 - `2026_11_28_70_world_everlake_missing_creature_gold.sql` (211 creatures that drop money on live get GoldMin and
   GoldMax) takes the amounts from Wowhead's Forever database ("Worth") and the Icy Veins WoW Forever catalogue.
+- `2026_11_28_95_world_everlake_missing_pickpocket_loot.sql` (204 creatures picked on live get pickpocket tables:
+  Alterac Valley, Stratholme, Scholomance, Zul'Gurub, Blackrock and Forever's new mobs among them) takes the items and
+  their rates from Wowhead's Forever database.
 
 Game content such as names and text belongs to Blizzard Entertainment.
