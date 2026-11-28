@@ -483,6 +483,8 @@ gave it:
 - `2026_11_29_20_world_everlake_black_tome_leyline_focus.sql` (the Black Tome in Shadowfang Keep and the Ambermill
   Leyline Focus spawned for the Lyn the Ignored chain) takes the places from ForeverDB.net's secrets guide and the
   objects from EG Link's live recordings; the exact spots are inferred.
+- `2026_11_29_30_world_everlake_unfinished_masterwork_sword.sql` (the Unfinished Masterwork Sword chest opens on
+  its sword) takes the loot from Wowhead Forever's object and item pages and Icy Veins' addon records.
 - `2026_11_28_30_world_everlake_spawn_rows_keep_template_auras.sql` (476 spawns whose own row hid their creature's
   auras, such as guards' stealth detection, get them back) uses the realm's own templates; no outside source.
 - `2026_11_28_40_world_everlake_paths_not_walked.sql` (three spawns that had a waypoint path but stood still now walk
