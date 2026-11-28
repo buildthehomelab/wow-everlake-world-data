@@ -493,6 +493,8 @@ gave it:
   linked; six creatures with none get one) takes drop rates from Wowhead's Forever database (kill and drop counts).
 - `2026_11_28_70_world_everlake_missing_creature_gold.sql` (211 creatures that drop money on live get GoldMin and
   GoldMax) takes the amounts from Wowhead's Forever database ("Worth") and the Icy Veins WoW Forever catalogue.
+- `2026_11_28_80_world_everlake_missing_skinning_loot.sql` (69 creatures skinned on live get skinning tables) takes
+  the items and shares from Wowhead's Forever database (recorded skins).
 - `2026_11_28_90_world_everlake_missing_quest_drops.sql` (13 creatures get the quest drops they have on live: Gorilla
   Fangs, Stranglethorn pages, Un'Goro Soil, OOX beacons and others) takes the drops and their rates from Wowhead's Forever
   database, checked against QuestieDB's Forever data.
