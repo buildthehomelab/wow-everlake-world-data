@@ -489,5 +489,7 @@ gave it:
   database, QuestieDB's Forever data and EG Link's live recordings.
 - `2026_11_27_80_world_everlake_shadowy_assassin_stealth.sql` (Shadowy Assassins in Southshore and 18 other stealthy
   mobs get their stealth back) takes the abilities from Wowhead's Forever database.
+- `2026_11_28_60_world_everlake_missing_creature_loot.sql` (Nethergarde's three guard creatures get their loot tables
+  linked; six creatures with none get one) takes drop rates from Wowhead's Forever database (kill and drop counts).
 
 Game content such as names and text belongs to Blizzard Entertainment.
