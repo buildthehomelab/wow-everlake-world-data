@@ -458,5 +458,8 @@ gave it:
   Best for Last" quests 84197-84199, 84201, 84205, 84206, 84209, and a giver and class for 84207) takes quest records
   from the Icy Veins WoW Forever catalogue and givers from Wowhead's Forever database; class and chain are inferred from
   the old quests for the same pieces.
+- `2026_11_28_01_world_everlake_mor_grayhoof_formula.sql` (Mor Grayhoof drops Formula: Frozen Heart of the Mountain)
+  takes the drop and its rate from Wowhead's Forever database; QuestieDB and the Icy Veins WoW Forever catalogue name
+  the same drop.
 
 Game content such as names and text belongs to Blizzard Entertainment.
