@@ -469,6 +469,8 @@ gave it:
   their rates from the Icy Veins WoW Forever catalogue; QuestieDB names the same creatures.
 - `2026_11_28_04_world_everlake_danithas_satchel.sql` (what Danitha's Satchel holds) takes its contents from Wowhead's Forever
   database; the rate is inferred.
+- `2026_11_28_05_world_everlake_jerris_bindings.sql` (Foreman Jerris drops Scarlet Forgemaster's Bindings) takes the drop
+  from Wowhead's Forever database.
 - `2026_11_28_10_world_everlake_forge_spawns_off_pins.sql` (Ombassa and two Children of Tortolla moved from the tracker Forge's spots onto
   their live ones, Ombassa one at a time) takes the spots from Wowhead's Forever database and EG Link's live recordings.
 - `2026_11_28_30_world_everlake_dungeon_spawns_off_eglink.sql` (128 creature spawns of Blackmaw Hold, Alcaz Prison and
@@ -485,6 +487,8 @@ gave it:
 - `2026_11_28_20_world_everlake_import_spawns_off_live.sql` (Eastsea pirates, Snargl and two Harvest Golems V000-A moved
   onto their live spots, seven Hyjal spawns far from every live point removed, Orthas's Hammer moved, a year-round Apple Bob removed) takes the spots from Wowhead's Forever
   database, QuestieDB's Forever data and EG Link's live recordings.
+- `2026_11_27_80_world_everlake_shadowy_assassin_stealth.sql` (Shadowy Assassins in Southshore and 18 other stealthy
+  mobs get their stealth back) takes the abilities from Wowhead's Forever database.
 - `2026_11_28_70_world_everlake_missing_creature_gold.sql` (211 creatures that drop money on live get GoldMin and
   GoldMax) takes the amounts from Wowhead's Forever database ("Worth") and the Icy Veins WoW Forever catalogue.
 
