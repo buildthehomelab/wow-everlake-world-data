@@ -513,5 +513,8 @@ gave it:
 - `2026_11_28_99_world_everlake_service_npc_gossip.sql` (49 trainers, vendors, flight masters and a banker with the
   gossip flag get the menu option their window needs) uses the realm's own menus and texts, checked against Icy Veins'
   recorded live gossip.
+- `2026_11_28_100_world_everlake_missing_quest_givers.sql` (32 quest givers and 7 quest takers live has: Anthion
+  Harmon's Parting Words, class trainers' quests and others) takes them from Wowhead's Forever database and Icy Veins'
+  recorded quest lists.
 
 Game content such as names and text belongs to Blizzard Entertainment.
