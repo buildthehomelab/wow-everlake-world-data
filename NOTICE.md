@@ -458,6 +458,8 @@ gave it:
   Best for Last" quests 84197-84199, 84201, 84205, 84206, 84209, and a giver and class for 84207) takes quest records
   from the Icy Veins WoW Forever catalogue and givers from Wowhead's Forever database; class and chain are inferred from
   the old quests for the same pieces.
+- `2026_11_28_00_world_everlake_drop_redundant_event_givers.sql` removes six giver rows the autocomplete file added
+  for quests a game event already offers (the realm's own game_event_creature_quest rows); it adds nothing.
 - `2026_11_28_10_world_everlake_forge_spawns_off_pins.sql` (Ombassa and two Children of Tortolla moved from the tracker Forge's spots onto
   their live ones, Ombassa one at a time) takes the spots from Wowhead's Forever database and EG Link's live recordings.
 
