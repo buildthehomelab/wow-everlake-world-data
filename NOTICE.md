@@ -460,5 +460,8 @@ gave it:
   the old quests for the same pieces.
 - `2026_11_28_00_world_everlake_drop_redundant_event_givers.sql` removes six giver rows the autocomplete file added
   for quests a game event already offers (the realm's own game_event_creature_quest rows); it adds nothing.
+- `2026_11_28_20_world_everlake_import_spawns_off_live.sql` (Eastsea pirates, Snargl and two Harvest Golems V000-A moved
+  onto their live spots, seven Hyjal spawns far from every live point removed) takes the spots from Wowhead's Forever
+  database, QuestieDB's Forever data and EG Link's live recordings.
 
 Game content such as names and text belongs to Blizzard Entertainment.
