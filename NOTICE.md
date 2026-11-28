@@ -501,5 +501,8 @@ gave it:
 - `2026_11_28_95_world_everlake_missing_pickpocket_loot.sql` (204 creatures picked on live get pickpocket tables:
   Alterac Valley, Stratholme, Scholomance, Zul'Gurub, Blackrock and Forever's new mobs among them) takes the items and
   their rates from Wowhead's Forever database.
+- `2026_11_28_96_world_everlake_missing_vendor_items.sql` (54 vendors get 201 items they sell on live: raw fish at
+  innkeepers, Crystal Vials, trade goods, PvP pieces, plans) takes the wares from Wowhead's Forever database and each
+  item's stock and cost from the realm's other vendors.
 
 Game content such as names and text belongs to Blizzard Entertainment.

@@ -1,0 +1,262 @@
+-- Vendors that sell an item on live but not on the realm.
+-- 2026_11_28_96_world_everlake_missing_vendor_items.sql: written by hand, not tried in game (2026-11-28).
+--
+-- Checked: every spawned NPC with a Wowhead Forever "sells" tab (1,138) against its npc_vendor rows on the PTR. 391
+-- items at 83 NPCs are missing. Left out:
+--   NPCs without the vendor flag (Moonrage Tailor and Leatherworker, quest givers such as Linken, Keeper Marandis, the
+--   Commendation Officers): Wowhead lists their quest rewards as wares.
+--   Season of Discovery runes and goods at the SoD vendors (Elaine Compton, Jornah, Rix and Pix Xizzix, Mai'zin and
+--   others), as Pix's were removed in 2026_11_27 (wd #340), and the Love is in the Air tokens, which are event wares.
+--   Items costing honor, marks or tokens that no realm vendor sells yet, so no ExtendedCost to copy (Lokhtos's
+--   essences, Jang), and Premier PvP pieces whose only realm rows sell them for gold (Captain Dirgehammer, Blazik
+--   Fireclaw): adding more of those would hand out more free PvP gear.
+-- Left: 201 items at 54 vendors, among them the limited raw fish (Spotted Yellowtail, Longjaw Mud Snapper and four
+-- more, 5 each) at 15 innkeepers and cooking vendors, Crystal Vials at 10 trade vendors, Dala Fairmaw's 15 trade goods,
+-- Nixi Fireclaw's 22 and Blazik Fireclaw's 16 PvP pieces, Tink Sprocketwhistle's and Super-Seller 680's limited plans and
+-- parts, Plans: Dawnbringer Shoulders at three Argent quartermasters, and single items at 20 more.
+-- Each row copies the stock, restock time, ExtendedCost and PlayerConditionID of the realm's most common row for that
+-- item at another vendor; the stock follows live where Wowhead shows a different one. Items no other vendor sells cost
+-- gold only (Wowhead shows no other cost) and limited ones restock every 2 hours. Slots go after the vendor's last.
+-- Rows only go in while the vendor does not sell the item. Every added row is recorded in everlake_import_rows. Never edit
+-- this file once it is deployed: a later fix is a new file. Running it again changes nothing.
+
+CREATE TABLE IF NOT EXISTS `everlake_import_rows` (
+  `tbl` varchar(64) NOT NULL COMMENT 'world table of the row',
+  `k1` bigint NOT NULL COMMENT 'the row''s key, in the table''s primary key order',
+  `k2` bigint NOT NULL DEFAULT '0',
+  `k3` bigint NOT NULL DEFAULT '0',
+  `k4` bigint NOT NULL DEFAULT '0',
+  `file` varchar(200) NOT NULL COMMENT 'the update file that added the row',
+  `note` varchar(255) NOT NULL DEFAULT '' COMMENT 'the sources that gave it',
+  PRIMARY KEY (`tbl`, `k1`, `k2`, `k3`, `k4`),
+  KEY `file` (`file`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT='Rows the Everlake world import added';
+SET @EVERLAKE_FILE := '2026_11_28_96_world_everlake_missing_vendor_items.sql';
+
+START TRANSACTION;
+
+DROP TEMPORARY TABLE IF EXISTS `everlake_vend`;
+CREATE TEMPORARY TABLE `everlake_vend` (`entry` INT UNSIGNED NOT NULL, `slot` SMALLINT NOT NULL, `item` INT NOT NULL,
+  `maxcount` INT UNSIGNED NOT NULL, `incrtime` INT UNSIGNED NOT NULL, `ext` INT UNSIGNED NOT NULL, `cond` INT NOT NULL,
+  `ignf` TINYINT NOT NULL, PRIMARY KEY (`entry`, `item`));
+INSERT INTO `everlake_vend` VALUES
+(960,21,8925,0,0,0,0,0),
+(1456,21,8925,0,0,0,0,0),
+(1678,316,4603,5,3600,0,0,0),
+(1678,317,6289,5,3600,0,0,0),
+(1678,318,6303,5,3600,0,0,0),
+(1678,319,6308,5,3600,0,0,0),
+(1678,320,6362,5,3600,0,0,0),
+(1678,321,8959,5,3600,0,0,0),
+(1684,194,4603,5,3600,0,0,0),
+(1684,195,6289,5,3600,0,0,0),
+(1684,196,6303,5,3600,0,0,0),
+(1684,197,6308,5,3600,0,0,0),
+(1684,198,6362,5,3600,0,0,0),
+(1684,199,8959,5,3600,0,0,0),
+(2381,855,8925,0,0,0,0,0),
+(2393,452,8925,0,0,0,0,0),
+(2805,24,5431,1,7200,0,0,0),
+(2805,25,13362,1,7200,0,0,0),
+(2805,26,16747,1,7200,0,0,0),
+(2842,7,4603,5,3600,0,0,0),
+(2842,8,6289,5,3600,0,0,0),
+(2842,9,6303,5,3600,0,0,0),
+(2842,10,6308,5,3600,0,0,0),
+(2842,11,6362,5,3600,0,0,0),
+(2842,12,8959,5,3600,0,0,0),
+(3086,19,4603,5,3600,0,0,0),
+(3086,20,6289,5,3600,0,0,0),
+(3086,21,6303,5,3600,0,0,0),
+(3086,22,6308,5,3600,0,0,0),
+(3086,23,6362,5,3600,0,0,0),
+(3086,24,8959,5,3600,0,0,0),
+(3168,18,277716,0,0,0,0,0),
+(3178,182,4603,5,3600,0,0,0),
+(3178,183,6289,5,3600,0,0,0),
+(3178,184,6303,5,3600,0,0,0),
+(3178,185,6308,5,3600,0,0,0),
+(3178,186,6362,5,3600,0,0,0),
+(3178,187,8959,5,3600,0,0,0),
+(3362,7,1041,0,0,0,0,0),
+(3410,129,11306,1,43200,0,0,0),
+(3410,130,11307,1,10800,0,0,0),
+(3540,7,4603,5,3600,0,0,0),
+(3540,8,6289,5,3600,0,0,0),
+(3540,9,6303,5,3600,0,0,0),
+(3540,10,6308,5,3600,0,0,0),
+(3540,11,6362,5,3600,0,0,0),
+(3540,12,8959,5,3600,0,0,0),
+(4305,11,4603,5,3600,0,0,0),
+(4305,12,6289,5,3600,0,0,0),
+(4305,13,6303,5,3600,0,0,0),
+(4305,14,6308,5,3600,0,0,0),
+(4305,15,6362,5,3600,0,0,0),
+(4305,16,8959,5,3600,0,0,0),
+(4307,11,4603,5,3600,0,0,0),
+(4307,12,6289,5,3600,0,0,0),
+(4307,13,6303,5,3600,0,0,0),
+(4307,14,6308,5,3600,0,0,0),
+(4307,15,6362,5,3600,0,0,0),
+(4307,16,8959,5,3600,0,0,0),
+(4775,114,8925,0,0,0,0,0),
+(4877,21,8925,0,0,0,0,0),
+(4899,15,1710,3,7200,0,0,0),
+(5100,21,8925,0,0,0,0,0),
+(5122,49,287063,1,7200,0,0,0),
+(5163,21,8925,0,0,0,0,0),
+(5814,101,4603,5,3600,0,0,0),
+(5814,102,6289,5,3600,0,0,0),
+(5814,103,6303,5,3600,0,0,0),
+(5814,104,6308,5,3600,0,0,0),
+(5814,105,6362,5,3600,0,0,0),
+(5814,106,8959,5,3600,0,0,0),
+(6727,225,6289,5,3600,0,0,0),
+(6738,16,787,0,0,0,0,0),
+(6738,17,4592,0,0,0,0,0),
+(6738,18,4593,0,0,0,0,0),
+(6738,19,4594,0,0,0,0,0),
+(6738,20,4603,5,3600,0,0,0),
+(6738,21,6289,5,3600,0,0,0),
+(6738,22,6303,5,3600,0,0,0),
+(6738,23,6308,5,3600,0,0,0),
+(6738,24,6362,5,3600,0,0,0),
+(6738,25,8957,0,0,0,0,0),
+(6738,26,8959,5,3600,0,0,0),
+(6738,27,21552,0,0,0,0,0),
+(6791,225,6303,5,3600,0,0,0),
+(6807,105,8959,5,3600,0,0,0),
+(7943,13,4603,5,3600,0,0,0),
+(7943,14,6289,5,3600,0,0,0),
+(7943,15,6303,5,3600,0,0,0),
+(7943,16,6308,5,3600,0,0,0),
+(7943,17,6362,5,3600,0,0,0),
+(7943,18,8959,5,3600,0,0,0),
+(8137,17,4603,5,3600,0,0,0),
+(8137,18,6289,5,3600,0,0,0),
+(8137,19,6303,5,3600,0,0,0),
+(8137,20,6308,5,3600,0,0,0),
+(8137,21,6362,5,3600,0,0,0),
+(8137,22,8959,5,3600,0,0,0),
+(8160,17,252783,0,0,0,0,0),
+(8160,18,252784,0,0,0,0,0),
+(8160,19,252811,0,0,0,0,0),
+(8160,20,252812,0,0,0,0,0),
+(8160,21,252942,0,0,0,0,0),
+(9676,11,4361,2,10800,0,0,0),
+(9676,12,4363,2,10800,0,0,0),
+(9676,13,4371,2,10800,0,0,0),
+(9676,14,4389,1,9000,0,0,0),
+(9676,15,4404,3,10800,0,0,0),
+(10364,8,2930,0,0,0,0,0),
+(10364,9,5140,0,0,0,0,0),
+(10364,10,5173,0,0,0,0,0),
+(10364,11,8923,0,0,0,0,0),
+(10364,12,8924,0,0,0,0,0),
+(10667,1,5374,0,0,0,0,0),
+(10856,2018,12698,0,0,0,0,0),
+(10857,2018,12698,0,0,0,0,0),
+(11187,20,4603,5,3600,0,0,0),
+(11187,21,6289,5,3600,0,0,0),
+(11187,22,6303,5,3600,0,0,0),
+(11187,23,6308,5,3600,0,0,0),
+(11187,24,6362,5,3600,0,0,0),
+(11187,25,8959,5,3600,0,0,0),
+(11536,2020,12698,0,0,0,0,0),
+(11555,1,11291,0,0,0,0,0),
+(11557,101,253665,0,0,0,0,0),
+(11557,102,253668,0,0,0,0,0),
+(12245,43,14635,1,3600,0,0,0),
+(12246,36,6401,1,7200,0,0,0),
+(12246,37,7087,1,10800,0,0,0),
+(12246,38,7561,1,3600,0,0,0),
+(12246,39,13310,1,7200,0,0,0),
+(12246,40,14630,1,10800,0,0,0),
+(12784,101,17030,0,0,0,0,0),
+(12944,7,20754,0,0,0,0,0),
+(12944,8,20755,0,0,0,0,0),
+(12944,9,22308,0,0,0,0,0),
+(15127,70,17348,0,0,0,0,0),
+(15127,71,17351,0,0,0,0,0),
+(15174,32,11291,0,0,0,0,0),
+(29049,17,159,0,0,0,0,0),
+(29537,1,3385,3,7200,0,0,0),
+(29537,2,3827,3,7200,0,0,0),
+(30885,1,272704,0,0,11583,0,0),
+(30885,2,272706,0,0,11579,0,0),
+(30885,3,272708,0,0,11580,0,0),
+(30885,4,272710,0,0,11581,0,0),
+(30885,5,272726,0,0,11578,0,0),
+(30885,6,272727,0,0,11575,0,0),
+(30885,7,272728,0,0,11582,0,0),
+(30885,8,272729,0,0,11576,0,0),
+(30885,9,275229,0,0,11585,156250,0),
+(30885,10,275238,0,0,11587,156251,0),
+(30885,11,275239,0,0,11589,156248,0),
+(30885,12,275240,0,0,11588,156246,0),
+(30885,13,275241,0,0,11584,156251,0),
+(30885,14,275242,0,0,11591,156250,0),
+(30885,15,275243,0,0,11592,156247,0),
+(30885,16,275244,0,0,11590,156246,0),
+(32334,0,272693,0,0,11593,156252,0),
+(32334,1,272838,0,0,11706,156252,0),
+(32334,2,272839,0,0,11593,156252,0),
+(32334,3,272840,0,0,11594,156252,0),
+(32334,4,272841,0,0,11593,156252,0),
+(32334,5,272842,0,0,11593,156252,0),
+(32334,6,272843,0,0,11593,156252,0),
+(32334,7,272844,0,0,11593,156252,0),
+(32334,8,272845,0,0,11593,156252,0),
+(32334,9,272846,0,0,11593,156252,0),
+(32334,10,272847,0,0,11593,156252,0),
+(32334,11,272848,0,0,11594,156252,0),
+(32334,12,272849,0,0,11594,156252,0),
+(32334,13,272850,0,0,11594,156252,0),
+(32334,14,272851,0,0,11594,156252,0),
+(32334,15,272856,0,0,11593,156252,0),
+(32334,16,272857,0,0,11593,156252,0),
+(32334,17,272858,0,0,11594,156252,0),
+(32334,18,272859,0,0,11593,156252,0),
+(32334,19,278157,0,0,11706,156252,0),
+(32334,20,278158,0,0,11706,156252,0),
+(32334,21,278468,0,0,11706,156252,0),
+(43411,40,159,0,0,0,0,0),
+(255705,1,260631,0,0,0,0,0),
+(256629,1,2130,0,0,0,0,0),
+(256629,2,2320,0,0,0,0,0),
+(256629,3,2321,0,0,0,0,0),
+(256629,4,2678,0,0,0,0,0),
+(256629,5,2901,0,0,0,0,0),
+(256629,6,3371,0,0,0,0,0),
+(256629,7,3372,0,0,0,0,0),
+(256629,8,3713,0,0,0,0,0),
+(256629,9,4289,0,0,0,0,0),
+(256629,10,4291,0,0,0,0,0),
+(256629,11,4399,0,0,0,0,0),
+(256629,12,4400,0,0,0,0,0),
+(256629,13,6530,0,0,0,0,0),
+(256629,14,6532,0,0,0,0,0),
+(256629,15,256036,0,0,0,0,0),
+(257008,6,6365,1,7200,0,0,0),
+(269152,1,15277,0,0,0,0,0),
+(269152,2,15290,0,0,0,0,0),
+(269152,3,275993,0,0,0,0,0);
+
+-- only while the vendor does not sell the item at any cost
+DROP TEMPORARY TABLE IF EXISTS `everlake_vend_ok`;
+CREATE TEMPORARY TABLE `everlake_vend_ok` (`entry` INT UNSIGNED NOT NULL, `item` INT NOT NULL, PRIMARY KEY (`entry`, `item`));
+INSERT INTO `everlake_vend_ok` (`entry`, `item`)
+SELECT v.`entry`, v.`item` FROM `everlake_vend` v
+WHERE NOT EXISTS (SELECT 1 FROM `npc_vendor` n WHERE n.`entry` = v.`entry` AND n.`item` = v.`item` AND n.`type` = 1);
+
+INSERT INTO `npc_vendor` (`entry`, `slot`, `item`, `maxcount`, `incrtime`, `ExtendedCost`, `type`, `BonusListIDs`, `PlayerConditionID`, `IgnoreFiltering`, `VerifiedBuild`)
+SELECT v.`entry`, v.`slot`, v.`item`, v.`maxcount`, v.`incrtime`, v.`ext`, 1, '', v.`cond`, v.`ignf`, 0
+FROM `everlake_vend` v JOIN `everlake_vend_ok` o ON o.`entry` = v.`entry` AND o.`item` = v.`item`;
+INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
+SELECT 'npc_vendor', v.`entry`, v.`item`, v.`ext`, 1, @EVERLAKE_FILE, 'Wowhead Forever: sold on live'
+FROM `everlake_vend` v JOIN `everlake_vend_ok` o ON o.`entry` = v.`entry` AND o.`item` = v.`item`;
+
+DROP TEMPORARY TABLE `everlake_vend_ok`;
+DROP TEMPORARY TABLE `everlake_vend`;
+
+COMMIT;
