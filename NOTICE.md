@@ -474,6 +474,8 @@ gave it:
 - `2026_11_28_30_world_everlake_dungeon_spawns_off_eglink.sql` (128 creature spawns of Blackmaw Hold, Alcaz Prison and
   Krol'dok Stronghold moved onto their live spots) takes the spots from EG Link's live recordings; heights are read from
   Everlake's own navmesh, maps and vmaps.
+- `2026_11_28_31_world_everlake_shapers_terrace_wowhead_pins.sql` (five creature spawns of The Shaper's Terrace moved
+  onto their pins) takes the spots from Wowhead's Forever database; heights are read from Everlake's own maps and vmaps.
 - `2026_11_28_30_world_everlake_spawn_rows_keep_template_auras.sql` (476 spawns whose own row hid their creature's
   auras, such as guards' stealth detection, get them back) uses the realm's own templates; no outside source.
 - `2026_11_28_40_world_everlake_paths_not_walked.sql` (three spawns that had a waypoint path but stood still now walk
