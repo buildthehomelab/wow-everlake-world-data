@@ -7,7 +7,7 @@
 -- Checked: every spawned creature with the gossip flag and a service flag (959): 61 lack an option for a service.
 -- Fixed here, 49 creatures:
 --   40 get a menu of their own (2998001-2998040): Gorg, Gur'dok, Krix, Pa'zula, Melanie Sable, High Priestess Mims,
---   Garen Largo, Farseer Maret Firetend and 15 more trainers, 13 vendors (Deliana, Nina Surefire, Stondry Darkhammer,
+--   Garen Largo, Farseer Maret Firetend and 14 more trainers (Paige also sells), 13 vendors (Deliana, Nina Surefire, Stondry Darkhammer,
 --   Alynsia, Mivin Shadowweave, Lieutenant General Andorov, the Argent Quartermaster and others), the flight masters
 --   Sulhasa, Grakna, Gretchen Mayberry and Bluebell, and the banker Teller Gee. The text is the realm's npc_text for the
 --   NPC's live line where Icy Veins' recording matches exactly one (Abra Cadabra, Gur'dok, Mivin Shadowweave, Garen
