@@ -510,5 +510,8 @@ gave it:
 - `2026_11_28_98_world_everlake_missing_trainer_spells.sql` (115 spells on 28 trainer lists: apprentice professions at
   28 trainers, pet trainer ranks, recipes) takes what each trainer teaches from Wowhead's Forever database and each
   spell's cost and requirements from the realm's other trainers.
+- `2026_11_28_99_world_everlake_service_npc_gossip.sql` (49 trainers, vendors, flight masters and a banker with the
+  gossip flag get the menu option their window needs) uses the realm's own menus and texts, checked against Icy Veins'
+  recorded live gossip.
 
 Game content such as names and text belongs to Blizzard Entertainment.
