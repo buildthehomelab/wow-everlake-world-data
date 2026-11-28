@@ -474,6 +474,8 @@ gave it:
 - `2026_11_28_30_world_everlake_dungeon_spawns_off_eglink.sql` (128 creature spawns of Blackmaw Hold, Alcaz Prison and
   Krol'dok Stronghold moved onto their live spots) takes the spots from EG Link's live recordings; heights are read from
   Everlake's own navmesh, maps and vmaps.
+- `2026_11_28_30_world_everlake_spawn_rows_keep_template_auras.sql` (476 spawns whose own row hid their creature's
+  auras, such as guards' stealth detection, get them back) uses the realm's own templates; no outside source.
 - `2026_11_27_80_world_everlake_shadowy_assassin_stealth.sql` (Shadowy Assassins in Southshore and 18 other stealthy
   mobs get their stealth back) takes the abilities from Wowhead's Forever database.
 
