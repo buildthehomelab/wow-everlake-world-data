@@ -471,5 +471,8 @@ gave it:
   database; the rate is inferred.
 - `2026_11_28_10_world_everlake_forge_spawns_off_pins.sql` (Ombassa and two Children of Tortolla moved from the tracker Forge's spots onto
   their live ones, Ombassa one at a time) takes the spots from Wowhead's Forever database and EG Link's live recordings.
+- `2026_11_28_30_world_everlake_dungeon_spawns_off_eglink.sql` (128 creature spawns of Blackmaw Hold, Alcaz Prison and
+  Krol'dok Stronghold moved onto their live spots) takes the spots from EG Link's live recordings; heights are read from
+  Everlake's own navmesh, maps and vmaps.
 
 Game content such as names and text belongs to Blizzard Entertainment.
