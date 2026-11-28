@@ -454,5 +454,7 @@ gave it:
 - `2026_11_27_70_world_everlake_autocomplete_quest_givers.sql` (givers for 15 turn-in quests that had only an ender:
   the Darkmoon Faire ticket prizes, Apprentice Angler, the Stranglethorn rare fish and fishing fliers) takes the givers
   from Wowhead's Forever database, the Icy Veins WoW Forever catalogue and EG Link's live recordings.
+- `2026_11_27_80_world_everlake_shadowy_assassin_stealth.sql` (Shadowy Assassins in Southshore get their Stealth back)
+  takes the ability from Wowhead's Forever database.
 
 Game content such as names and text belongs to Blizzard Entertainment.
