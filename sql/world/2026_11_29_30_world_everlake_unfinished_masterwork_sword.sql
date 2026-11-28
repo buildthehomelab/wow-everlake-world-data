@@ -39,6 +39,6 @@ SELECT 'gameobject_loot_template', 613223, 0, 258734, 0, @EVERLAKE_FILE, 'Wowhea
 UPDATE `gameobject_template` t
 SET t.`Data1` = t.`entry`
 WHERE t.`entry` = 613223 AND t.`type` = 3 AND t.`Data1` = 0
-  AND EXISTS (SELECT 1 FROM `everlake_import_rows` r WHERE r.`tbl` = 'gameobject_loot_template' AND r.`k1` = 613223 AND r.`k3` = 258734 AND r.`file` = @EVERLAKE_FILE);
+  AND EXISTS (SELECT 1 FROM `everlake_import_rows` r WHERE r.`tbl` = 'gameobject_loot_template' AND r.`k1` = 613223 AND r.`k2` = 0 AND r.`k3` = 258734);
 
 COMMIT;
