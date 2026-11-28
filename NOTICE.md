@@ -480,5 +480,7 @@ gave it:
   auras, such as guards' stealth detection, get them back) uses the realm's own templates; no outside source.
 - `2026_11_28_40_world_everlake_paths_not_walked.sql` (three spawns that had a waypoint path but stood still now walk
   it) uses the realm's own paths; no outside source.
+- `2026_11_28_50_world_everlake_patrol_rows_keep_template_addon.sql` (21 patrolling spawns get back their creature's
+  mount, sheath, PvP flags or view distance) uses the realm's own templates; no outside source.
 
 Game content such as names and text belongs to Blizzard Entertainment.
