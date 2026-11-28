@@ -1,4 +1,4 @@
--- Imported spawns that stand far from every live record of where their creature is.
+-- Imported spawns that stand far from every live record of where their creature or object is.
 -- 2026_11_28_20_world_everlake_import_spawns_off_live.sql: written by hand, not tried in game (2026-11-27).
 --
 -- Checked: every creature spawn of the realm (PTR) whose creature no Classic world places (the tracker's spawn audit
@@ -96,5 +96,30 @@ DELETE a FROM `creature_addon` a JOIN `everlake_drops` d ON d.`guid` = a.`guid`;
 DELETE g FROM `spawn_group` g JOIN `everlake_drops` d ON d.`guid` = g.`spawnId` WHERE g.`spawnType` = 0;
 DELETE c FROM `creature` c JOIN `everlake_drops` d ON d.`guid` = c.`guid`;
 DROP TEMPORARY TABLE `everlake_drops`;
+
+-- Gameobjects (the same check over the 2,091 imported object spawns that are neither sniffed nor tied to an event,
+-- against Wowhead Forever pins, QuestieDB object points and traces and Icy Veins' recorded points: 1,490 have a point on
+-- their map, 13 stand more than 40 yards off; two are plain):
+--   Orthas's Hammer 461639 (47500105, core Karrz 0139 2026_11_22_50): 448 yards from QuestieDB's and Icy Veins' point
+--     (2012 -4560, Eastern Plaguelands). Moves there. INFERRED height: the point is inside a building with floors at
+--     75, 79.5 and 85-86; the ground floor (74.99) is used, no source gives a height.
+UPDATE `gameobject` g
+SET g.`position_x` = 2012.0, g.`position_y` = -4560.0, g.`position_z` = 74.99
+WHERE g.`guid` = 47500105 AND g.`id` = 461639 AND ABS(g.`position_x` - 1708.12) < 1 AND ABS(g.`position_y` + 4893.26) < 1;
+INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
+SELECT 'gameobject', 47500105, 0, 0, 0, @EVERLAKE_FILE, 'Orthas''s Hammer onto QuestieDB / Icy Veins point; ground floor INFERRED'
+FROM `gameobject` g WHERE g.`guid` = 47500105 AND g.`id` = 461639 AND g.`position_x` = 2012.0;
+--   Apple Bob 180523 (900000000, import slice 4): a Hallow's End tub standing all year in Razor Hill, on top of the
+--     realm's own Hallow's End Apple Bob 30332855 (event 12, same spot). Removed; the event one stays.
+INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
+SELECT 'gameobject', g.`guid`, 0, 0, 0, @EVERLAKE_FILE, 'removed: year-round Apple Bob over the Hallow''s End one (30332855)'
+FROM `gameobject` g WHERE g.`guid` = 900000000 AND g.`id` = 180523
+  AND NOT EXISTS (SELECT 1 FROM `game_event_gameobject` e WHERE e.`guid` = 900000000)
+  AND EXISTS (SELECT 1 FROM `game_event_gameobject` e JOIN `gameobject` o ON o.`guid` = e.`guid` WHERE o.`id` = 180523 AND o.`map` = 1
+    AND ABS(o.`position_x` - g.`position_x`) < 5 AND ABS(o.`position_y` - g.`position_y`) < 5);
+DELETE g FROM `gameobject` g JOIN `everlake_import_rows` r ON r.`tbl` = 'gameobject' AND r.`k1` = g.`guid` AND r.`file` = @EVERLAKE_FILE
+WHERE g.`guid` = 900000000 AND g.`id` = 180523;
+DELETE FROM `gameobject_addon` WHERE `guid` = 900000000 AND NOT EXISTS (SELECT 1 FROM `gameobject` WHERE `guid` = 900000000);
+DELETE FROM `spawn_group` WHERE `spawnType` = 1 AND `spawnId` = 900000000 AND NOT EXISTS (SELECT 1 FROM `gameobject` WHERE `guid` = 900000000);
 
 COMMIT;
