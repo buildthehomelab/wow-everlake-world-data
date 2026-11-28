@@ -465,8 +465,15 @@ gave it:
   the same drop.
 - `2026_11_28_02_world_everlake_rare_new_drops_2.sql` (fifteen more new Forever items on Classic rares, at 35%) takes
   the drops from QuestieDB's WoW Forever data and the Icy Veins WoW Forever catalogue.
+- `2026_11_28_03_world_everlake_released_recipe_drops.sql` (six recipes released from "not out yet") takes the drops and
+  their rates from the Icy Veins WoW Forever catalogue; QuestieDB names the same creatures.
+- `2026_11_28_04_world_everlake_danithas_satchel.sql` (what Danitha's Satchel holds) takes its contents from Wowhead's Forever
+  database; the rate is inferred.
 - `2026_11_28_10_world_everlake_forge_spawns_off_pins.sql` (Ombassa and two Children of Tortolla moved from the tracker Forge's spots onto
   their live ones, Ombassa one at a time) takes the spots from Wowhead's Forever database and EG Link's live recordings.
+- `2026_11_28_30_world_everlake_dungeon_spawns_off_eglink.sql` (128 creature spawns of Blackmaw Hold, Alcaz Prison and
+  Krol'dok Stronghold moved onto their live spots) takes the spots from EG Link's live recordings; heights are read from
+  Everlake's own navmesh, maps and vmaps.
 - `2026_11_28_30_world_everlake_spawn_rows_keep_template_auras.sql` (476 spawns whose own row hid their creature's
   auras, such as guards' stealth detection, get them back) uses the realm's own templates; no outside source.
 
