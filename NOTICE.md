@@ -465,5 +465,7 @@ gave it:
   the same drop.
 - `2026_11_28_02_world_everlake_rare_new_drops_2.sql` (fifteen more new Forever items on Classic rares, at 35%) takes
   the drops from QuestieDB's WoW Forever data and the Icy Veins WoW Forever catalogue.
+- `2026_11_28_03_world_everlake_released_recipe_drops.sql` (six recipes released from "not out yet") takes the drops and
+  their rates from the Icy Veins WoW Forever catalogue; QuestieDB names the same creatures.
 
 Game content such as names and text belongs to Blizzard Entertainment.
