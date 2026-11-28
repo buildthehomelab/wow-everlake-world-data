@@ -491,6 +491,8 @@ gave it:
   mobs get their stealth back) takes the abilities from Wowhead's Forever database.
 - `2026_11_28_60_world_everlake_missing_creature_loot.sql` (Nethergarde's three guard creatures get their loot tables
   linked; six creatures with none get one) takes drop rates from Wowhead's Forever database (kill and drop counts).
+- `2026_11_28_70_world_everlake_missing_creature_gold.sql` (211 creatures that drop money on live get GoldMin and
+  GoldMax) takes the amounts from Wowhead's Forever database ("Worth") and the Icy Veins WoW Forever catalogue.
 - `2026_11_28_80_world_everlake_missing_skinning_loot.sql` (69 creatures skinned on live get skinning tables) takes
   the items and shares from Wowhead's Forever database (recorded skins).
 
