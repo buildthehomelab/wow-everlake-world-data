@@ -504,5 +504,8 @@ gave it:
 - `2026_11_28_96_world_everlake_missing_vendor_items.sql` (54 vendors get 201 items they sell on live: raw fish at
   innkeepers, Crystal Vials, trade goods, PvP pieces, plans) takes the wares from Wowhead's Forever database and each
   item's stock and cost from the realm's other vendors.
+- `2026_11_28_97_world_everlake_vendor_costs_on_live.sql` (139 vendor wares that cost honor, marks or tokens on live
+  stop selling for gold only; 46 Premier PvP pieces added at their live price) takes the prices from Wowhead's Forever
+  database and the cost ids from the client's ItemExtendedCost table.
 
 Game content such as names and text belongs to Blizzard Entertainment.
