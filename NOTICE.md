@@ -507,5 +507,8 @@ gave it:
 - `2026_11_28_97_world_everlake_vendor_costs_on_live.sql` (139 vendor wares that cost honor, marks or tokens on live
   stop selling for gold only; 46 Premier PvP pieces added at their live price) takes the prices from Wowhead's Forever
   database and the cost ids from the client's ItemExtendedCost table.
+- `2026_11_28_98_world_everlake_missing_trainer_spells.sql` (115 spells on 28 trainer lists: apprentice professions at
+  28 trainers, pet trainer ranks, recipes) takes what each trainer teaches from Wowhead's Forever database and each
+  spell's cost and requirements from the realm's other trainers.
 
 Game content such as names and text belongs to Blizzard Entertainment.
