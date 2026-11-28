@@ -454,6 +454,10 @@ gave it:
 - `2026_11_27_70_world_everlake_autocomplete_quest_givers.sql` (givers for 15 turn-in quests that had only an ender:
   the Darkmoon Faire ticket prizes, Apprentice Angler, the Stranglethorn rare fish and fishing fliers) takes the givers
   from Wowhead's Forever database, the Icy Veins WoW Forever catalogue and EG Link's live recordings.
+- `2026_11_27_71_world_everlake_saving_the_best_class_quests.sql` (the mage, paladin, priest and warlock "Saving the
+  Best for Last" quests 84197-84199, 84201, 84205, 84206, 84209, and a giver and class for 84207) takes quest records
+  from the Icy Veins WoW Forever catalogue and givers from Wowhead's Forever database; class and chain are inferred from
+  the old quests for the same pieces.
 - `2026_11_27_80_world_everlake_shadowy_assassin_stealth.sql` (Shadowy Assassins in Southshore and 11 other stealthy
   mobs get their stealth back) takes the abilities from Wowhead's Forever database.
 
