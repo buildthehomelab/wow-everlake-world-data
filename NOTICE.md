@@ -460,6 +460,11 @@ gave it:
   the old quests for the same pieces.
 - `2026_11_28_00_world_everlake_drop_redundant_event_givers.sql` removes six giver rows the autocomplete file added
   for quests a game event already offers (the realm's own game_event_creature_quest rows); it adds nothing.
+- `2026_11_28_01_world_everlake_mor_grayhoof_formula.sql` (Mor Grayhoof drops Formula: Frozen Heart of the Mountain)
+  takes the drop and its rate from Wowhead's Forever database; QuestieDB and the Icy Veins WoW Forever catalogue name
+  the same drop.
+- `2026_11_28_02_world_everlake_rare_new_drops_2.sql` (fifteen more new Forever items on Classic rares, at 35%) takes
+  the drops from QuestieDB's WoW Forever data and the Icy Veins WoW Forever catalogue.
 - `2026_11_28_20_world_everlake_import_spawns_off_live.sql` (Eastsea pirates, Snargl and two Harvest Golems V000-A moved
   onto their live spots, seven Hyjal spawns far from every live point removed, Orthas's Hammer moved, a year-round Apple Bob removed) takes the spots from Wowhead's Forever
   database, QuestieDB's Forever data and EG Link's live recordings.
