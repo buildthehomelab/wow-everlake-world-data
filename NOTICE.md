@@ -460,6 +460,11 @@ gave it:
   the old quests for the same pieces.
 - `2026_11_28_00_world_everlake_drop_redundant_event_givers.sql` removes six giver rows the autocomplete file added
   for quests a game event already offers (the realm's own game_event_creature_quest rows); it adds nothing.
+- `2026_11_28_01_world_everlake_mor_grayhoof_formula.sql` (Mor Grayhoof drops Formula: Frozen Heart of the Mountain)
+  takes the drop and its rate from Wowhead's Forever database; QuestieDB and the Icy Veins WoW Forever catalogue name
+  the same drop.
+- `2026_11_28_02_world_everlake_rare_new_drops_2.sql` (fifteen more new Forever items on Classic rares, at 35%) takes
+  the drops from QuestieDB's WoW Forever data and the Icy Veins WoW Forever catalogue.
 - `2026_11_27_80_world_everlake_shadowy_assassin_stealth.sql` (Shadowy Assassins in Southshore and 15 other stealthy
   mobs get their stealth back) takes the abilities from Wowhead's Forever database.
 
