@@ -14,8 +14,8 @@
 --   a) 25 spawns whose own creature_addon row has empty auras. The core takes a spawn's addon row INSTEAD of the
 --      template's (Creature::GetCreatureAddon), so their template stealth never goes on, and their SmartAI casts none:
 --      Razormane Stalker 3457 (4), Deviate Stalker 3634 (2), Fallenroot Shadowstalker 4798 (13), Razorfen Stalker 6035
---      (1), Jadefire Shadowstalker 7110 (2), Putridus Shadowstalker 11792 (3). Their rows keep their paths; the auras
---      get the template's.
+--      (1), Jadefire Shadowstalker 7110 (2), Putridus Shadowstalker 11792 (3), Hungry Bandit 252802 (1: 43000289; its
+--      SmartAI re-casts Sneak only in combat). Their rows keep their paths; the auras get the template's.
 --   b) Creatures with no stealth anywhere (no template addon row, no spawn addon rows, no AI): Wowhead lists Sneak 22766 for
 --      Zulian Stalker 15067, Legashi Blackguard 236876, Nightsaber Guardian 249493, Dragonmaw Infiltrator 271346, and
 --      Stealth 1784 for Wormwing Ambusher 249222. They get a template addon row with that aura.
@@ -23,6 +23,11 @@
 --      22766; its SmartAI only casts Web), Zarrat Wormwing 260826 (the named Wormwing Ambusher, Stealth 1784), and the
 --      kittens Solstice 255685 and Whisperfur 255771 of Kits and Cats 93615 ("Find Shalla'kal's kittens", Sneak 22766;
 --      Wowhead lists none for the third kitten, Brie 255773, so the hiding is per kitten) get the same template row.
+--   d) A second pass over every idle stealth Wowhead lists (Stealth, Prowl, Sneak, Faded, Hide, Shadowmeld, Greater
+--      Invisibility and Forever's own stealth spells, not Vanish or timed ones): Thicket Lurker 260800 (6, dungeon 2998;
+--      Stealth 1286462, its SmartAI casts it only in combat) and Burrow Beetle 256714 (Stealth 1270035) get a template row.
+--      Tamable cats that list only the hunter-pet Prowl ranks (Wowhead files those under the hunter class: what they
+--      teach) are left out, and so are the quest NPCs Anastasia Miller 266847 and Deathstalker Masoj 270438.
 --   Left out: Colonel Kurzen 813, whose VMaNGOS fight script already goes into stealth mid-fight (Smoke Bomb, Garrote
 --   from stealth), and Perith Stormhoof 272203, giver of the escort The Longwalkers 98430: stealthed at rest he would
 --   be hidden from the players who must find him; his Sneak is most likely used on the way out.
@@ -59,11 +64,11 @@ FROM `creature_template_addon` a WHERE a.`entry` = 2434 AND a.`auras` = '3616 17
 INSERT IGNORE INTO `everlake_import_rows` (`tbl`, `k1`, `k2`, `k3`, `k4`, `file`, `note`)
 SELECT 'creature_addon', ca.`guid`, 0, 0, 0, @EVERLAKE_FILE, CONCAT('auras empty -> template ', t.`auras`, ' (stealth; Wowhead Forever npc ', c.`id`, ')')
 FROM `creature_addon` ca JOIN `creature` c ON c.`guid` = ca.`guid` JOIN `creature_template_addon` t ON t.`entry` = c.`id`
-WHERE c.`id` IN (3457, 3634, 4798, 6035, 7110, 11792) AND IFNULL(ca.`auras`, '') = ''
+WHERE c.`id` IN (3457, 3634, 4798, 6035, 7110, 11792, 252802) AND IFNULL(ca.`auras`, '') = ''
   AND t.`auras` REGEXP '(^| )(22766|6408|5916)( |$)';
 UPDATE `creature_addon` ca JOIN `creature` c ON c.`guid` = ca.`guid` JOIN `creature_template_addon` t ON t.`entry` = c.`id`
 SET ca.`auras` = t.`auras`
-WHERE c.`id` IN (3457, 3634, 4798, 6035, 7110, 11792) AND IFNULL(ca.`auras`, '') = ''
+WHERE c.`id` IN (3457, 3634, 4798, 6035, 7110, 11792, 252802) AND IFNULL(ca.`auras`, '') = ''
   AND t.`auras` REGEXP '(^| )(22766|6408|5916)( |$)';
 
 -- b) + c) creatures with no stealth at all get a template addon row with Wowhead's stealth spell
@@ -77,7 +82,9 @@ INSERT INTO `everlake_build_stage` (`entry`, `auras`, `note`) VALUES
 (250034, '22766', 'Wowhead Forever npc 250034 ability 22766 Sneak (Tunnelweb Matriarch, rare elite)'),
 (260826, '1784', 'Wowhead Forever npc 260826 ability 1784 Stealth (Zarrat Wormwing)'),
 (255685, '22766', 'Wowhead Forever npc 255685 ability 22766 Sneak (Solstice, Kits and Cats 93615)'),
-(255771, '22766', 'Wowhead Forever npc 255771 ability 22766 Sneak (Whisperfur, Kits and Cats 93615)');
+(255771, '22766', 'Wowhead Forever npc 255771 ability 22766 Sneak (Whisperfur, Kits and Cats 93615)'),
+(260800, '1286462', 'Wowhead Forever npc 260800 ability 1286462 Stealth (Thicket Lurker; its SmartAI casts it only in combat)'),
+(256714, '1270035', 'Wowhead Forever npc 256714 ability 1270035 Stealth (Burrow Beetle)');
 DELETE s FROM `everlake_build_stage` s
 WHERE NOT EXISTS (SELECT 1 FROM `creature_template` t WHERE t.`entry` = s.`entry`)
    OR EXISTS (SELECT 1 FROM `creature_template_addon` a WHERE a.`entry` = s.`entry`);
