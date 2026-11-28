@@ -465,5 +465,7 @@ gave it:
   the same drop.
 - `2026_11_28_02_world_everlake_rare_new_drops_2.sql` (fifteen more new Forever items on Classic rares, at 35%) takes
   the drops from QuestieDB's WoW Forever data and the Icy Veins WoW Forever catalogue.
+- `2026_11_28_10_world_everlake_forge_spawns_off_pins.sql` (Ombassa and two Children of Tortolla moved from the tracker Forge's spots onto
+  their live ones, Ombassa one at a time) takes the spots from Wowhead's Forever database and EG Link's live recordings.
 
 Game content such as names and text belongs to Blizzard Entertainment.
