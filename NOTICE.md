@@ -528,5 +528,8 @@ gave it:
   spell's timing from the realm's other casters.
 - `2026_11_28_103_world_everlake_spawns_keep_equipment.sql` (imported spawns of 12 creatures hold their weapons again,
   like the rest of their kind) uses the realm's own equipment rows; no outside source.
+- `2026_11_28_104_world_everlake_mob_aggro_lines.sql` (125 creatures call out as a fight starts, as on live: "Guards!
+  Help me!", "Sentinels, come to my defense!", "Intruders! Attack the intruders!") takes the lines from Wowhead's Forever
+  database and their text rows and timing from the realm's other creatures that say them.
 
 Game content such as names and text belongs to Blizzard Entertainment.
