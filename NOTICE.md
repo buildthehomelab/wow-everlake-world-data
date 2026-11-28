@@ -451,5 +451,8 @@ gave it:
   game's) takes its rates from the Icy Veins WoW Forever catalogue.
 - `2026_11_25_25_world_everlake_live_loot_rates_2.sql` (5,546 more loot rates on 943 loot tables brought down to the
   live game's) takes its rates from the Icy Veins WoW Forever catalogue.
+- `2026_11_27_70_world_everlake_autocomplete_quest_givers.sql` (givers for 15 turn-in quests that had only an ender:
+  the Darkmoon Faire ticket prizes, Apprentice Angler, the Stranglethorn rare fish and fishing fliers) takes the givers
+  from Wowhead's Forever database, the Icy Veins WoW Forever catalogue and EG Link's live recordings.
 
 Game content such as names and text belongs to Blizzard Entertainment.
