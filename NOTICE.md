@@ -520,5 +520,8 @@ gave it:
   recorded quest lists.
 - `2026_11_28_101_world_everlake_missing_quest_objectives.sql` (61 objectives the realm's quests lacked: gold costs,
   reputation needs, talk-to steps and items) takes the objectives from the client's quest data as Icy Veins records it.
+- `2026_11_28_102_world_everlake_missing_mob_spells.sql` (229 creatures with no AI get the spells they cast on live:
+  Shoot, Strike, Poison, Enrage, Shadow Bolt and others) takes the spells from Wowhead's Forever database and each
+  spell's timing from the realm's other casters.
 
 Game content such as names and text belongs to Blizzard Entertainment.
