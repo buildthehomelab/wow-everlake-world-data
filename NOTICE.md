@@ -474,5 +474,7 @@ gave it:
 - `2026_11_28_30_world_everlake_dungeon_spawns_off_eglink.sql` (128 creature spawns of Blackmaw Hold, Alcaz Prison and
   Krol'dok Stronghold moved onto their live spots) takes the spots from EG Link's live recordings; heights are read from
   Everlake's own navmesh, maps and vmaps.
+- `2026_11_28_40_world_everlake_paths_not_walked.sql` (three spawns that had a waypoint path but stood still now walk
+  it) uses the realm's own paths; no outside source.
 
 Game content such as names and text belongs to Blizzard Entertainment.
