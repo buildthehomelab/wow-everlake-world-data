@@ -461,5 +461,7 @@ gave it:
 - `2026_11_28_01_world_everlake_mor_grayhoof_formula.sql` (Mor Grayhoof drops Formula: Frozen Heart of the Mountain)
   takes the drop and its rate from Wowhead's Forever database; QuestieDB and the Icy Veins WoW Forever catalogue name
   the same drop.
+- `2026_11_28_02_world_everlake_rare_new_drops_2.sql` (fifteen more new Forever items on Classic rares, at 35%) takes
+  the drops from QuestieDB's WoW Forever data and the Icy Veins WoW Forever catalogue.
 
 Game content such as names and text belongs to Blizzard Entertainment.
