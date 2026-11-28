@@ -518,5 +518,7 @@ gave it:
 - `2026_11_28_100_world_everlake_missing_quest_givers.sql` (32 quest givers and 7 quest takers live has: Anthion
   Harmon's Parting Words, class trainers' quests and others) takes them from Wowhead's Forever database and Icy Veins'
   recorded quest lists.
+- `2026_11_28_101_world_everlake_missing_quest_objectives.sql` (61 objectives the realm's quests lacked: gold costs,
+  reputation needs, talk-to steps and items) takes the objectives from the client's quest data as Icy Veins records it.
 
 Game content such as names and text belongs to Blizzard Entertainment.
