@@ -458,5 +458,7 @@ gave it:
   Best for Last" quests 84197-84199, 84201, 84205, 84206, 84209, and a giver and class for 84207) takes quest records
   from the Icy Veins WoW Forever catalogue and givers from Wowhead's Forever database; class and chain are inferred from
   the old quests for the same pieces.
+- `2026_11_28_00_world_everlake_drop_redundant_event_givers.sql` removes six giver rows the autocomplete file added
+  for quests a game event already offers (the realm's own game_event_creature_quest rows); it adds nothing.
 
 Game content such as names and text belongs to Blizzard Entertainment.
